@@ -1,0 +1,1471 @@
+---
+level: 1
+basename: Honduras_5aa588
+child_basenames:
+- Honduras_5aa588_creature_legends_a9f4bf
+- Honduras_5aa588_ghost_traditions_ecede3
+- Honduras_5aa588_index
+- Honduras_5aa588_yoro_fish_rain_997917
+sibling_basenames:
+- Afghanistan_c69153
+- Albania_79b9d2
+- Algeria_bd6acc
+- Andorra_9d3bd1
+- Angola_a42522
+- Antigua_and_Barbuda_0f8518
+- Argentina_354bf9
+- Armenia_5f4599
+- Australia_ceafb5
+- Austria_593905
+- Azerbaijan_213598
+- Bahrain_3ae11c
+- Bangladesh_fa6c37
+- Barbados_93409a
+- Belarus_027a12
+- Belgium_5cb4c9
+- Belize_42ab0c
+- Benin_373616
+- Bhutan_bb2254
+- Bolivia_a001af
+- Bosnia_and_Herzegovi_552c9f
+- Botswana_180c89
+- Brazil_37497a
+- Brunei_130e4a
+- Bulgaria_5c7772
+- Burkina_Faso_f61e5f
+- Burundi_461758
+- Cambodia_314ccd
+- Cameroon_73a7dd
+- Canada_cd6a7b
+- Cape_Verde_556906
+- Central_African_Repu_358788
+- Chad_6c6b1b
+- Chile_349507
+- China_d2eaf2
+- Colombia_2f7373
+- Comoros_e5bb59
+- Congo_77f256
+- Costa_Rica_fe586b
+- Croatia_d7e045
+- Cuba_c484b1
+- Cyprus_852add
+- Czech_Republic_0c207e
+- DR_Congo_b690cb
+- Denmark_89da12
+- Djibouti_60a8b0
+- Dominica_bc1cd4
+- Dominican_Republic_dba665
+- Ecuador_09f199
+- Egypt_1c39ab
+- El_Salvador_9b83b7
+- Equatorial_Guinea_ae2c01
+- Eritrea_18740a
+- Estonia_f0a96d
+- Eswatini_16cc7f
+- Ethiopia_3d91f7
+- Fiji_bbb7ef
+- Finland_c909b1
+- France_e3772a
+- Gabon_a06dcd
+- Gambia_7c3997
+- Georgia_9113c6
+- Germany_17d53e
+- Ghana_317dba
+- Greece_4902a4
+- Grenada_dbf2a2
+- Guatemala_11760e
+- Guinea-Bissau_b07cb9
+- Guinea_b47b54
+- Guyana_bc88a2
+- Haiti_a4842f
+- Hungary_f14e46
+- Iceland_b3c92e
+- India_967ce3
+- Indonesia_35536a
+- Iran_889224
+- Iraq_1aed9e
+- Ireland_eb2131
+- Israel_4c197d
+- Italy_ad79ef
+- Ivory_Coast_0c79b1
+- Jamaica_5eedd6
+- Japan_fcf29f
+- Jordan_674027
+- Kazakhstan_2f36b6
+- Kenya_a84f56
+- Kiribati_3f57ad
+- Kuwait_93295b
+- Kyrgyzstan_c78791
+- Laos_7998be
+- Latvia_c5f5bb
+- Lebanon_5caa7f
+- Lesotho_93b12b
+- Liberia_1ed5dd
+- Libya_55949d
+- Liechtenstein_b0ddce
+- Lithuania_74a788
+- Luxembourg_507672
+- Madagascar_f92bcb
+- Malawi_0ce65b
+- Malaysia_ff3ea3
+- Maldives_213cb2
+- Mali_daa6a4
+- Malta_1a591a
+- Marshall_Islands_ccbdc0
+- Mauritania_85fa35
+- Mauritius_26160d
+- Mexico_41937b
+- Micronesia_Federated_30e9e8
+- Moldova_9791bc
+- Monaco_35ab1c
+- Mongolia_f54da3
+- Montenegro_479fb3
+- Morocco_32e087
+- Mozambique_a40a9b
+- Myanmar_928b7c
+- Namibia_bfe79d
+- Nauru_f648c7
+- Nepal_0e1d58
+- Netherlands_fb61c8
+- New_Zealand_3d3336
+- Nicaragua_481264
+- Niger_6687e1
+- Nigeria_9742d0
+- North_Korea_ccbbbb
+- North_Macedonia_cece1d
+- Norway_988455
+- Oman_c14c36
+- Pakistan_82d220
+- Palau_e5e0b6
+- Panama_1e36b3
+- Papua_New_Guinea_90e80c
+- Paraguay_71a452
+- Peru_36c572
+- Philippines_806736
+- Poland_5ff03b
+- Portugal_a49519
+- Qatar_83ef3e
+- Romania_d6b897
+- Russia_6754fe
+- Rwanda_7266a1
+- Saint_Kitts_and_Nevi_a66de5
+- Saint_Lucia_85ac35
+- Saint_Vincent_and_th_3bce2a
+- Samoa_f56806
+- San_Marino_8ff2c5
+- Sao_Tome_and_Princip_3437b2
+- Saudi_Arabia_8bf7f8
+- Senegal_d8973b
+- Serbia_6d31bf
+- Seychelles_3d2d7b
+- Sierra_Leone_817b0d
+- Singapore_20c0b7
+- Slovakia_b6c149
+- Slovenia_d1aa05
+- Solomon_Islands_6f943d
+- Somalia_4dfdf1
+- South_Africa_3b27c8
+- South_Korea_7536d5
+- South_Sudan_80ac9c
+- Spain_20a8df
+- Sri_Lanka_db33ad
+- Sudan_1193ba
+- Suriname_b17fc6
+- Sweden_72ddd2
+- Switzerland_77dcd8
+- Syria_3ed104
+- Tajikistan_279c77
+- Tanzania_7e380b
+- Thailand_a2b7c1
+- The_Bahamas_f765dc
+- Timor-Leste_2d79f6
+- Togo_30949d
+- Tonga_e8a123
+- Trinidad_and_Tobago_a73120
+- Tunisia_edf404
+- Turkey_d7153e
+- Turkmenistan_1f8dc1
+- Tuvalu_9a2248
+- Uganda_e92904
+- Ukraine_c951ec
+- United_Arab_Emirates_c92b89
+- United_Kingdom_d25561
+- United_States_f5f19f
+- Uruguay_66b989
+- Uzbekistan_db800e
+- Vanuatu_d16ad2
+- Venezuela_9d4ac4
+- Vietnam_681101
+- Yemen_ac33d6
+- Zambia_dcf25e
+- Zimbabwe_5922f5
+tags:
+- honduras
+keywords:
+- honduras
+affiliate_category: honduras
+show_ads: true
+description: Honduras has one of the richest collections of strange reports and unusual traditions in Central America, from the famous “rain of fish” in Yoro to forest...
+hero_summary: Honduras has one of the richest collections of strange reports and unusual traditions in Central America, from the famous “rain of fish” in Yoro to forest creatures, phantom animals, and ghostly figures carried through generations of oral storytelling.
+layout: default
+permalink: /honduras-strangest-stories-between/
+nav_short_title: Honduras' Strangest Stories Between Fact And Folklore
+title: Honduras' Strangest Stories Between Fact And Folklore
+title_full: Honduras' Strangest Stories Between Fact And Folklore
+display_title_short: Honduras' Strangest Stories Between Fact And Folklore
+display_title: Honduras' Strangest Stories Between Fact And Folklore
+heading_title: Honduras' Strangest Stories Between Fact And Folklore
+page_heading_title: Honduras' Strangest Stories Between Fact And Folklore
+source_count: 69
+infographic_count: 3
+page_website_name: Honduras Mysteries
+page_banner_line: Explore strange reports, folklore, and unexplained events from Honduras
+site_website_name: Honduras Mysteries
+site_banner_line: Explore strange reports, folklore, and unexplained events from Honduras
+site_image_description: A Honduran mountain landscape with a storm cloud over rural fields, a river, forest, and a small village road.
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+sibling_links:
+- basename: Afghanistan_c69153
+  title: Afghan Forteana
+  permalink: /afghanistan/
+  short_title: Afghan Forteana
+- basename: Antigua_and_Barbuda_0f8518
+  title: Antigua Uncanny
+  permalink: /antigua-and-barbuda/
+  short_title: Antigua Uncanny
+- basename: Bosnia_and_Herzegovi_552c9f
+  title: Bosnian Mysteries
+  permalink: /bosnia-and-herzegovina/
+  short_title: Bosnian Mysteries
+- basename: Botswana_180c89
+  title: Botswana Weird
+  permalink: /botswanas-weird-history-without-the-hype/
+  short_title: Botswana Weird
+- basename: Brazil_37497a
+  title: Brazil Strange
+  permalink: /brazils-strangest-stories-claims-and/
+  short_title: Brazil Strange
+- basename: Cameroon_73a7dd
+  title: Cameroon Mysteries
+  permalink: /cameroon-mysteries-where-science-meets/
+  short_title: Cameroon Mysteries
+- basename: Canada_cd6a7b
+  title: Canada Mysteries
+  permalink: /canadas-strange-history-of-unsolved/
+  short_title: Canada Mysteries
+- basename: Chad_6c6b1b
+  title: Chad Mysteries
+  permalink: /chads-strangest-stories-between-legend/
+  short_title: Chad Mysteries
+- basename: Chile_349507
+  title: Chile Mysteries
+  permalink: /chiles-strangest-stories-between/
+  short_title: Chile Mysteries
+- basename: China_d2eaf2
+  title: China Mysteries
+  permalink: /chinas-strangest-mysteries-legends/
+  short_title: China Mysteries
+- basename: Colombia_2f7373
+  title: Colombia Mysteries
+  permalink: /colombias-strangest-stories-myth-mystery/
+  short_title: Colombia Mysteries
+- basename: Comoros_e5bb59
+  title: Comoros Mysteries
+  permalink: /comoros-mysteries-where-nature-meets/
+  short_title: Comoros Mysteries
+- basename: Congo_77f256
+  title: Congo Mysteries
+  permalink: /congos-strangest-mysteries-beyond-the/
+  short_title: Congo Mysteries
+- basename: Costa_Rica_fe586b
+  title: Costa Rica Mysteries
+  permalink: /costa-ricas-strangest-stories-and/
+  short_title: Costa Rica Mysteries
+- basename: Croatia_d7e045
+  title: Croatia Mysteries
+  permalink: /croatias-strangest-stories-between/
+  short_title: Croatia Mysteries
+- basename: Cuba_c484b1
+  title: Cuba Mysteries
+  permalink: /cubas-strangest-stories-between-myth-and/
+  short_title: Cuba Mysteries
+- basename: Cyprus_852add
+  title: Cyprus Mysteries
+  permalink: /cyprus-mysteries-monsters-ghosts-and/
+  short_title: Cyprus Mysteries
+- basename: Czech_Republic_0c207e
+  title: Czechia Strange
+  permalink: /czech-republic/
+  short_title: Czechia Strange
+- basename: Dominica_bc1cd4
+  title: Dominica Weird
+  permalink: /dominicas-weirdness-between-fire-and/
+  short_title: Dominica Weird
+- basename: Dominican_Republic_dba665
+  title: Dominican Strange
+  permalink: /dominican-republic/
+  short_title: Dominican Strange
+- basename: DR_Congo_b690cb
+  title: DR Congo Strange
+  permalink: /dr-congo/
+  short_title: DR Congo Strange
+- basename: El_Salvador_9b83b7
+  title: El Salvador Weird
+  permalink: /el-salvador/
+  short_title: El Salvador Weird
+- basename: Germany_17d53e
+  title: Weird Germany
+  permalink: /germanys-weirdest-stories-without-the/
+  short_title: Weird Germany
+- basename: Grenada_dbf2a2
+  title: Grenada Weird
+  permalink: /grenadas-weird-history-without-the-hype/
+  short_title: Grenada Weird
+- basename: Guinea-Bissau_b07cb9
+  title: Guinea Bissau Strange
+  permalink: /guinea-bissau/
+  short_title: Guinea Bissau Strange
+- basename: Guyana_bc88a2
+  title: Guyana Mysteries
+  permalink: /guyanas-strangest-stories-myths-monsters/
+  short_title: Guyana Mysteries
+- basename: Haiti_a4842f
+  title: Haiti Mysteries
+  permalink: /haitis-mysteries-beyond-the-zombie-myth/
+  short_title: Haiti Mysteries
+- basename: Hungary_f14e46
+  title: Hungary Forteana
+  permalink: /hungarys-strangest-stories-legends-and/
+  short_title: Hungary Forteana
+- basename: Iran_889224
+  title: Iran Uncanny
+  permalink: /irans-strangest-stories-tested-against/
+  short_title: Iran Uncanny
+- basename: Italy_ad79ef
+  title: Strange Italy
+  permalink: /italys-strangest-stories-tested-by/
+  short_title: Strange Italy
+- basename: Ivory_Coast_0c79b1
+  title: Ivory Coast Mysteries
+  permalink: /ivory-coast/
+  short_title: Ivory Coast Mysteries
+- basename: Japan_fcf29f
+  title: Weird Japan
+  permalink: /japans-strangest-stories-explained/
+  short_title: Weird Japan
+- basename: Kuwait_93295b
+  title: Kuwait Mysteries
+  permalink: /kuwaits-strangest-stories-between-fact/
+  short_title: Kuwait Mysteries
+- basename: Kyrgyzstan_c78791
+  title: Kyrgyz Mysteries
+  permalink: /kyrgyzstans-strangest-stories-and/
+  short_title: Kyrgyz Mysteries
+- basename: Latvia_c5f5bb
+  title: Latvia Mysteries
+  permalink: /latvias-strangest-stories-between-myth/
+  short_title: Latvia Mysteries
+- basename: Lebanon_5caa7f
+  title: Lebanon Mysteries
+  permalink: /lebanons-strange-stories-myths-mysteries/
+  short_title: Lebanon Mysteries
+- basename: Marshall_Islands_ccbdc0
+  title: Marshall Weird
+  permalink: /marshall-islands/
+  short_title: Marshall Weird
+- basename: Micronesia_Federated_30e9e8
+  title: Micronesia Mysteries
+  permalink: /micronesia-federated-states-of/
+  short_title: Micronesia Mysteries
+- basename: Netherlands_fb61c8
+  title: Netherlands Weird
+  permalink: /netherlands/
+  short_title: Netherlands Weird
+- basename: Nigeria_9742d0
+  title: Nigeria Mysteries
+  permalink: /nigerias-strangest-stories-between/
+  short_title: Nigeria Mysteries
+- basename: North_Macedonia_cece1d
+  title: North Macedonia Mysteries
+  permalink: /north-macedonias-strangest-legends-and/
+  short_title: North Macedonia Mysteries
+- basename: Norway_988455
+  title: Norway Mysteries
+  permalink: /norways-strangest-mysteries-between/
+  short_title: Norway Mysteries
+- basename: Oman_c14c36
+  title: Oman Mysteries
+  permalink: /omans-strangest-stories-between-legend/
+  short_title: Oman Mysteries
+- basename: Pakistan_82d220
+  title: Pakistan Mysteries
+  permalink: /pakistans-strangest-stories-between-fact/
+  short_title: Pakistan Mysteries
+- basename: Panama_1e36b3
+  title: Panama Mysteries
+  permalink: /panamas-weirdest-stories-monsters/
+  short_title: Panama Mysteries
+- basename: Papua_New_Guinea_90e80c
+  title: PNG Mysteries
+  permalink: /papua-new-guineas-strangest-stories/
+  short_title: PNG Mysteries
+- basename: Peru_36c572
+  title: Peru Mysteries
+  permalink: /perus-strangest-mysteries-myths-evidence/
+  short_title: Peru Mysteries
+- basename: Poland_5ff03b
+  title: Poland Mysteries
+  permalink: /polands-strangest-stories-from-legends/
+  short_title: Poland Mysteries
+- basename: Portugal_a49519
+  title: Portugal Mysteries
+  permalink: /portugals-strangest-mysteries-faith/
+  short_title: Portugal Mysteries
+- basename: Romania_d6b897
+  title: Romanian Mysteries
+  permalink: /romanias-strangest-stories-between/
+  short_title: Romanian Mysteries
+- basename: Russia_6754fe
+  title: Russian Mysteries
+  permalink: /russias-strangest-mysteries-explained/
+  short_title: Russian Mysteries
+- basename: Saint_Kitts_and_Nevi_a66de5
+  title: Kitts Nevis Mysteries
+  permalink: /saint-kitts-and-nevis/
+  short_title: Kitts Nevis Mysteries
+- basename: Saint_Vincent_and_th_3bce2a
+  title: Vincentian Mysteries
+  permalink: /saint-vincent-and-the-grenadines/
+  short_title: Vincentian Mysteries
+- basename: Sao_Tome_and_Princip_3437b2
+  title: Island Mysteries
+  permalink: /sao-tome-and-principe/
+  short_title: Island Mysteries
+- basename: Saudi_Arabia_8bf7f8
+  title: Saudi Mysteries
+  permalink: /saudi-arabias-strangest-stories/
+  short_title: Saudi Mysteries
+- basename: Senegal_d8973b
+  title: Senegal Mysteries
+  permalink: /senegals-strange-stories-beyond-the/
+  short_title: Senegal Mysteries
+- basename: Solomon_Islands_6f943d
+  title: Solomon Strangeness
+  permalink: /solomon-islands/
+  short_title: Solomon Strangeness
+- basename: Somalia_4dfdf1
+  title: Somalia Strange
+  permalink: /somalias-weird-history-without-the-hype/
+  short_title: Somalia Strange
+- basename: Thailand_a2b7c1
+  title: Thailand Strange
+  permalink: /thailands-weird-history-belief-and-doubt/
+  short_title: Thailand Strange
+- basename: Central_African_Repu_358788
+  title: CAR Mysteries
+  permalink: /the-central-african-republics-strangest/
+  short_title: CAR Mysteries
+- basename: Philippines_806736
+  title: Philippine Mysteries
+  permalink: /the-philippines-strangest-stories/
+  short_title: Philippine Mysteries
+- basename: Rwanda_7266a1
+  title: Rwanda Mysteries
+  permalink: /the-strange-stories-hidden-in-rwandas/
+  short_title: Rwanda Mysteries
+- basename: Timor-Leste_2d79f6
+  title: Timor Leste Strange
+  permalink: /timor-leste/
+  short_title: Timor Leste Strange
+- basename: Trinidad_and_Tobago_a73120
+  title: Trinidad Strange
+  permalink: /trinidad-and-tobago/
+  short_title: Trinidad Strange
+- basename: Turkey_d7153e
+  title: Turkey Forteana
+  permalink: /turkeys-monsters-ufos-and-living-legends/
+  short_title: Turkey Forteana
+- basename: Uganda_e92904
+  title: Uganda Weird
+  permalink: /ugandas-strangest-stories-checked/
+  short_title: Uganda Weird
+- basename: Ukraine_c951ec
+  title: Weird Ukraine
+  permalink: /ukraines-weird-history-between/
+  short_title: Weird Ukraine
+- basename: United_Arab_Emirates_c92b89
+  title: UAE Strange
+  permalink: /united-arab-emirates/
+  short_title: UAE Strange
+- basename: United_Kingdom_d25561
+  title: UK Strange
+  permalink: /united-kingdom/
+  short_title: UK Strange
+- basename: United_States_f5f19f
+  title: American Forteana
+  permalink: /united-states/
+  short_title: American Forteana
+- basename: Vietnam_681101
+  title: Vietnam Forteana
+  permalink: /vietnams-strangest-stories-evidence/
+  short_title: Vietnam Forteana
+- basename: Barbados_93409a
+  title: Barbados Weird
+  permalink: /what-makes-barbados-so-strangely-haunted/
+  short_title: Barbados Weird
+- basename: Belize_42ab0c
+  title: Belize Weird
+  permalink: /what-makes-belizes-weird-stories-endure/
+  short_title: Belize Weird
+- basename: Burkina_Faso_f61e5f
+  title: Burkina Faso Forteana
+  permalink: /what-makes-burkina-fasos-weird-history/
+  short_title: Burkina Faso Forteana
+- basename: Burundi_461758
+  title: Burundi
+  permalink: /what-makes-burundis-strange-history-so/
+  short_title: Burundi
+- basename: Cape_Verde_556906
+  title: Cape Verde Weird
+  permalink: /what-makes-cape-verdes-weird-history-so/
+  short_title: Cape Verde Weird
+- basename: Eritrea_18740a
+  title: Eritrea Weird
+  permalink: /what-makes-eritreas-strange-history-so/
+  short_title: Eritrea Weird
+- basename: Fiji_bbb7ef
+  title: Fiji Forteana
+  permalink: /what-makes-fijis-strange-history-so/
+  short_title: Fiji Forteana
+- basename: France_e3772a
+  title: France Forteana
+  permalink: /what-makes-france-such-strange-country/
+  short_title: France Forteana
+- basename: Jamaica_5eedd6
+  title: Jamaica Weird
+  permalink: /what-makes-jamaicas-strange-history-so/
+  short_title: Jamaica Weird
+- basename: Kiribati_3f57ad
+  title: Kiribati
+  permalink: /what-makes-kiribatis-weird-history-so/
+  short_title: Kiribati
+- basename: Liberia_1ed5dd
+  title: Liberia Weird
+  permalink: /what-makes-liberias-weird-stories-so/
+  short_title: Liberia Weird
+- basename: Maldives_213cb2
+  title: Maldives Weird
+  permalink: /what-makes-maldives-forteana-so-ocean/
+  short_title: Maldives Weird
+- basename: Mali_daa6a4
+  title: Mali Mysteries
+  permalink: /what-makes-malis-weird-history-so/
+  short_title: Mali Mysteries
+- basename: Mexico_41937b
+  title: Mexico Mysteries
+  permalink: /what-makes-mexicos-strange-history-so/
+  short_title: Mexico Mysteries
+- basename: Mongolia_f54da3
+  title: Mongolia Weird
+  permalink: /what-makes-mongolias-strange-stories/
+  short_title: Mongolia Weird
+- basename: Morocco_32e087
+  title: Morocco Weird
+  permalink: /what-makes-moroccos-weird-history-so/
+  short_title: Morocco Weird
+- basename: Nauru_f648c7
+  title: Nauru
+  permalink: /what-makes-naurus-weird-history-so/
+  short_title: Nauru
+- basename: Nepal_0e1d58
+  title: Nepal Uncanny
+  permalink: /what-makes-nepals-strange-history-so/
+  short_title: Nepal Uncanny
+- basename: New_Zealand_3d3336
+  title: New Zealand Weird
+  permalink: /what-makes-new-zealands-weird-history-so/
+  short_title: New Zealand Weird
+- basename: Niger_6687e1
+  title: Niger Weird
+  permalink: /what-makes-nigers-weird-history-so/
+  short_title: Niger Weird
+- basename: North_Korea_ccbbbb
+  title: North Korea Strange
+  permalink: /what-makes-north-koreas-strange/
+  short_title: North Korea Strange
+- basename: San_Marino_8ff2c5
+  title: San Marino Mysteries
+  permalink: /what-makes-san-marino-so-mysterious/
+  short_title: San Marino Mysteries
+- basename: Sierra_Leone_817b0d
+  title: Sierra Leone Weird
+  permalink: /what-makes-sierra-leones-weird-history/
+  short_title: Sierra Leone Weird
+- basename: Singapore_20c0b7
+  title: Strange Singapore
+  permalink: /what-makes-singapores-strange-history-so/
+  short_title: Strange Singapore
+- basename: South_Africa_3b27c8
+  title: South Africa Strange
+  permalink: /what-makes-south-africas-weird-history/
+  short_title: South Africa Strange
+- basename: South_Sudan_80ac9c
+  title: South Sudan Strange
+  permalink: /what-makes-south-sudans-weird-history-so/
+  short_title: South Sudan Strange
+- basename: Sri_Lanka_db33ad
+  title: Sri Lanka Strange
+  permalink: /what-makes-sri-lankas-strange-stories/
+  short_title: Sri Lanka Strange
+- basename: Sudan_1193ba
+  title: Sudan Strange
+  permalink: /what-makes-sudans-strange-history-so/
+  short_title: Sudan Strange
+- basename: Syria_3ed104
+  title: Strange Syria
+  permalink: /what-makes-syrias-weird-history-so/
+  short_title: Strange Syria
+- basename: Tajikistan_279c77
+  title: Tajikistan Weird
+  permalink: /what-makes-tajikistans-weird-history-so/
+  short_title: Tajikistan Weird
+- basename: Gambia_7c3997
+  title: Strange Gambia
+  permalink: /what-makes-the-gambia-so-strangely/
+  short_title: Strange Gambia
+- basename: Turkmenistan_1f8dc1
+  title: Turkmenistan
+  permalink: /what-makes-turkmenistans-weird-history/
+  short_title: Turkmenistan
+- basename: Zambia_dcf25e
+  title: Zambia Forteana
+  permalink: /what-makes-zambias-strange-history-so/
+  short_title: Zambia Forteana
+- basename: Laos_7998be
+  title: Laos Mysteries
+  permalink: /what-mysteries-linger-along-laoss-rivers/
+  short_title: Laos Mysteries
+- basename: Samoa_f56806
+  title: Samoa Mysteries
+  permalink: /what-strange-stories-does-samoa-remember/
+  short_title: Samoa Mysteries
+- basename: Paraguay_71a452
+  title: Paraguay Mysteries
+  permalink: /what-strange-stories-haunt-paraguay/
+  short_title: Paraguay Mysteries
+- basename: Qatar_83ef3e
+  title: Qatar Mysteries
+  permalink: /what-strange-stories-haunt-qatars/
+  short_title: Qatar Mysteries
+- basename: South_Korea_7536d5
+  title: Korea Strange
+  permalink: /what-strange-stories-haunt-south-korea/
+  short_title: Korea Strange
+- basename: Palau_e5e0b6
+  title: Palau Mysteries
+  permalink: /what-strange-stories-linger-across/
+  short_title: Palau Mysteries
+- basename: Moldova_9791bc
+  title: Moldova Mysteries
+  permalink: /what-strange-stories-shape-moldovas/
+  short_title: Moldova Mysteries
+- basename: Saint_Lucia_85ac35
+  title: Saint Lucia Mysteries
+  permalink: /what-strange-stories-shape-saint-lucia/
+  short_title: Saint Lucia Mysteries
+- basename: Serbia_6d31bf
+  title: Serbia Mysteries
+  permalink: /what-strange-stories-shape-serbias/
+  short_title: Serbia Mysteries
+- basename: Lesotho_93b12b
+  title: Lesotho Forteana
+  permalink: /when-lesothos-ordinary-world-turns/
+  short_title: Lesotho Forteana
+- basename: Malawi_0ce65b
+  title: Malawi Forteana
+  permalink: /when-malawis-rumours-became-public/
+  short_title: Malawi Forteana
+- basename: Albania_79b9d2
+  title: Albania Weird
+  permalink: /where-albania-turns-weather-into/
+  short_title: Albania Weird
+- basename: Angola_a42522
+  title: Angola Forteana
+  permalink: /where-angolas-strange-stories-meet/
+  short_title: Angola Forteana
+- basename: Armenia_5f4599
+  title: Armenia Weird
+  permalink: /where-armenias-weird-history-meets-the/
+  short_title: Armenia Weird
+- basename: Benin_373616
+  title: Benin
+  permalink: /where-benins-spirits-enter-public-life/
+  short_title: Benin
+- basename: Brunei_130e4a
+  title: Brunei Weird
+  permalink: /where-bruneis-strange-stories-live/
+  short_title: Brunei Weird
+- basename: Cambodia_314ccd
+  title: Cambodia Strange
+  permalink: /where-cambodias-strange-stories-touch/
+  short_title: Cambodia Strange
+- basename: Djibouti_60a8b0
+  title: Djibouti Weird
+  permalink: /where-djiboutis-landscape-turns-strange/
+  short_title: Djibouti Weird
+- basename: Ecuador_09f199
+  title: Ecuador Strange
+  permalink: /where-ecuadors-weird-stories-touch-real/
+  short_title: Ecuador Strange
+- basename: Equatorial_Guinea_ae2c01
+  title: Equatorial Guinea
+  permalink: /where-equatorial-guinea-keeps-its/
+  short_title: Equatorial Guinea
+- basename: Eswatini_16cc7f
+  title: Eswatini Strange
+  permalink: /where-eswatinis-weird-history-gets-real/
+  short_title: Eswatini Strange
+- basename: Ethiopia_3d91f7
+  title: Ethiopia Uncanny
+  permalink: /where-ethiopias-sacred-history-turns/
+  short_title: Ethiopia Uncanny
+- basename: Bangladesh_fa6c37
+  title: Bangladesh Weird
+  permalink: /where-folklore-meets-danger-in/
+  short_title: Bangladesh Weird
+- basename: Gabon_a06dcd
+  title: Strange Gabon
+  permalink: /where-gabons-weird-history-gets-real/
+  short_title: Strange Gabon
+- basename: Georgia_9113c6
+  title: Strange Georgia
+  permalink: /where-georgias-legends-meet-real/
+  short_title: Strange Georgia
+- basename: Ghana_317dba
+  title: Ghana Strange
+  permalink: /where-ghanas-strange-stories-meet-real/
+  short_title: Ghana Strange
+- basename: Guinea_b47b54
+  title: Guinea Weird
+  permalink: /where-guineas-weird-history-gets-real/
+  short_title: Guinea Weird
+- basename: Kenya_a84f56
+  title: Kenya Strange
+  permalink: /where-kenyas-weird-stories-meet-real/
+  short_title: Kenya Strange
+- basename: Liechtenstein_b0ddce
+  title: Liechtenstein Forteana
+  permalink: /where-liechtenstein-keeps-its-ghosts/
+  short_title: Liechtenstein Forteana
+- basename: Lithuania_74a788
+  title: Lithuania Weird
+  permalink: /where-lithuanias-weird-stories-take-root/
+  short_title: Lithuania Weird
+- basename: Madagascar_f92bcb
+  title: Madagascar Weird
+  permalink: /where-madagascars-monsters-meet-real/
+  short_title: Madagascar Weird
+- basename: Mauritania_85fa35
+  title: Mauritania Mysteries
+  permalink: /where-mauritanias-desert-makes-weird/
+  short_title: Mauritania Mysteries
+- basename: Monaco_35ab1c
+  title: Monaco Uncanny
+  permalink: /where-monaco-turns-strange-by-the-sea/
+  short_title: Monaco Uncanny
+- basename: Mozambique_a40a9b
+  title: Mozambique Weird
+  permalink: /where-mozambiques-weird-stories-meet/
+  short_title: Mozambique Weird
+- basename: Nicaragua_481264
+  title: Nicaragua Weird
+  permalink: /where-nicaraguas-weird-stories-meet-real/
+  short_title: Nicaragua Weird
+- basename: Slovenia_d1aa05
+  title: Slovenia Strange
+  permalink: /where-slovenias-strangeness-begins-with/
+  short_title: Slovenia Strange
+- basename: Tanzania_7e380b
+  title: Tanzania Strange
+  permalink: /where-tanzanias-strange-stories-meet/
+  short_title: Tanzania Strange
+- basename: Togo_30949d
+  title: Togo Strange
+  permalink: /where-togos-uncanny-stories-become/
+  short_title: Togo Strange
+- basename: Tonga_e8a123
+  title: Tonga
+  permalink: /where-tongas-weird-history-meets-real/
+  short_title: Tonga
+- basename: Tunisia_edf404
+  title: Tunisia Uncanny
+  permalink: /where-tunisias-weird-history-feels-real/
+  short_title: Tunisia Uncanny
+- basename: Uzbekistan_db800e
+  title: Uzbekistan Strange
+  permalink: /where-uzbekistans-legends-meet-real/
+  short_title: Uzbekistan Strange
+- basename: Vanuatu_d16ad2
+  title: Vanuatu Strange
+  permalink: /where-vanuatus-strange-stories-meet/
+  short_title: Vanuatu Strange
+- basename: Yemen_ac33d6
+  title: Yemen Strange
+  permalink: /where-yemens-landscape-turns-strange/
+  short_title: Yemen Strange
+- basename: Algeria_bd6acc
+  title: Algeria Strange
+  permalink: /why-algerias-weird-stories-endure/
+  short_title: Algeria Strange
+- basename: Argentina_354bf9
+  title: Argentina Forteana
+  permalink: /why-argentinas-weird-stories-still/
+  short_title: Argentina Forteana
+- basename: Australia_ceafb5
+  title: Strange Australia
+  permalink: /why-australia-makes-strange-stories-feel/
+  short_title: Strange Australia
+- basename: Austria_593905
+  title: Austria Strange
+  permalink: /why-austrias-weird-stories-still-haunt/
+  short_title: Austria Strange
+- basename: Azerbaijan_213598
+  title: Azerbaijan
+  permalink: /why-azerbaijans-weirdness-starts-in-the/
+  short_title: Azerbaijan
+- basename: Bahrain_3ae11c
+  title: Bahrain Mysteries
+  permalink: /why-bahrains-weird-history-runs-deep/
+  short_title: Bahrain Mysteries
+- basename: Belarus_027a12
+  title: Belarus Weird
+  permalink: /why-belarus-keeps-its-weird-stories/
+  short_title: Belarus Weird
+- basename: Bhutan_bb2254
+  title: Bhutan Weird
+  permalink: /why-bhutans-strange-stories-still-have/
+  short_title: Bhutan Weird
+- basename: Bolivia_a001af
+  title: Bolivia Weird
+  permalink: /why-bolivia-makes-strange-stories-feel/
+  short_title: Bolivia Weird
+- basename: Andorra_9d3bd1
+  title: Andorra Weird
+  permalink: /why-does-andorra-feel-so-uncanny/
+  short_title: Andorra Weird
+- basename: Bulgaria_5c7772
+  title: Weird Bulgaria
+  permalink: /why-does-bulgarias-weird-history-feel-so/
+  short_title: Weird Bulgaria
+- basename: Guatemala_11760e
+  title: Weird Guatemala
+  permalink: /why-does-guatemala-feel-so-uncanny/
+  short_title: Weird Guatemala
+- basename: India_967ce3
+  title: Strange India
+  permalink: /why-does-india-have-so-many-strange/
+  short_title: Strange India
+- basename: Kazakhstan_2f36b6
+  title: Kazakhstan Weird
+  permalink: /why-does-kazakhstan-feel-so-uncanny/
+  short_title: Kazakhstan Weird
+- basename: Luxembourg_507672
+  title: Luxembourg Weird
+  permalink: /why-does-luxembourg-feel-so-quietly/
+  short_title: Luxembourg Weird
+- basename: Namibia_bfe79d
+  title: Namibia
+  permalink: /why-does-namibia-feel-so-uncanny/
+  short_title: Namibia
+- basename: Slovakia_b6c149
+  title: Weird Slovakia
+  permalink: /why-does-slovakia-feel-so-uncanny/
+  short_title: Weird Slovakia
+- basename: The_Bahamas_f765dc
+  title: Bahamas Strange
+  permalink: /why-does-the-bahamas-feel-so-uncanny/
+  short_title: Bahamas Strange
+- basename: Tuvalu_9a2248
+  title: Tuvalu Strange
+  permalink: /why-does-tuvalus-landscape-feel-so/
+  short_title: Tuvalu Strange
+- basename: Egypt_1c39ab
+  title: Egyptian Strange
+  permalink: /why-egypts-mysteries-refuse-to-stay/
+  short_title: Egyptian Strange
+- basename: Estonia_f0a96d
+  title: Estonia Strange
+  permalink: /why-estonia-turns-landscape-into-legend/
+  short_title: Estonia Strange
+- basename: Finland_c909b1
+  title: Weird Finland
+  permalink: /why-finlands-strange-stories-stay-so/
+  short_title: Weird Finland
+- basename: Greece_4902a4
+  title: Greek Forteana
+  permalink: /why-greece-is-so-rich-in-strange-stories/
+  short_title: Greek Forteana
+- basename: Iceland_b3c92e
+  title: Iceland Forteana
+  permalink: /why-iceland-keeps-feeling-supernatural/
+  short_title: Iceland Forteana
+- basename: Indonesia_35536a
+  title: Indonesia Weird
+  permalink: /why-indonesias-weird-tales-still-matter/
+  short_title: Indonesia Weird
+- basename: Iraq_1aed9e
+  title: Strange Iraq
+  permalink: /why-iraqs-weird-history-still-haunts/
+  short_title: Strange Iraq
+- basename: Ireland_eb2131
+  title: Weird Ireland
+  permalink: /why-ireland-keeps-its-strangest-stories/
+  short_title: Weird Ireland
+- basename: Belgium_5cb4c9
+  title: Weird Belgium
+  permalink: /why-is-belgium-so-good-at-strange/
+  short_title: Weird Belgium
+- basename: Denmark_89da12
+  title: Weird Denmark
+  permalink: /why-is-denmarks-weird-history-so-well/
+  short_title: Weird Denmark
+- basename: Malaysia_ff3ea3
+  title: Malaysia Weird
+  permalink: /why-is-malaysia-so-rich-in-strange/
+  short_title: Malaysia Weird
+- basename: Israel_4c197d
+  title: Israel Forteana
+  permalink: /why-israel-keeps-producing-strange/
+  short_title: Israel Forteana
+- basename: Jordan_674027
+  title: Jordan Forteana
+  permalink: /why-jordan-makes-the-uncanny-feel/
+  short_title: Jordan Forteana
+- basename: Libya_55949d
+  title: Libya Weird
+  permalink: /why-libyas-desert-keeps-making-mysteries/
+  short_title: Libya Weird
+- basename: Malta_1a591a
+  title: Malta Mysteries
+  permalink: /why-malta-feels-so-uncannily-alive/
+  short_title: Malta Mysteries
+- basename: Mauritius_26160d
+  title: Mauritius Weird
+  permalink: /why-mauritius-makes-its-own-weird/
+  short_title: Mauritius Weird
+- basename: Montenegro_479fb3
+  title: Montenegro Forteana
+  permalink: /why-montenegro-turns-landscape-into/
+  short_title: Montenegro Forteana
+- basename: Myanmar_928b7c
+  title: Myanmar Uncanny
+  permalink: /why-myanmars-weird-history-still-feels/
+  short_title: Myanmar Uncanny
+- basename: Seychelles_3d2d7b
+  title: Seychelles Weird
+  permalink: /why-seychelles-weird-stories-still-stick/
+  short_title: Seychelles Weird
+- basename: Spain_20a8df
+  title: Strange Spain
+  permalink: /why-spain-became-so-strangely-well/
+  short_title: Strange Spain
+- basename: Suriname_b17fc6
+  title: Suriname Strange
+  permalink: /why-surinames-weird-stories-feel/
+  short_title: Suriname Strange
+- basename: Sweden_72ddd2
+  title: Sweden Strange
+  permalink: /why-swedens-weird-stories-keep-returning/
+  short_title: Sweden Strange
+- basename: Switzerland_77dcd8
+  title: Swiss Forteana
+  permalink: /why-switzerland-makes-mystery-feel/
+  short_title: Swiss Forteana
+- basename: Uruguay_66b989
+  title: Uruguay Weird
+  permalink: /why-uruguay-takes-strange-reports/
+  short_title: Uruguay Weird
+- basename: Venezuela_9d4ac4
+  title: Venezuela Weird
+  permalink: /why-venezuela-feels-made-for-forteana/
+  short_title: Venezuela Weird
+- basename: Zimbabwe_5922f5
+  title: Zimbabwe Strange
+  permalink: /zimbabwes-strangest-stories-sceptically/
+  short_title: Zimbabwe Strange
+child_links:
+- basename: Honduras_5aa588_creature_legends_a9f4bf
+  title: Creature Legends | Honduras' Strangest Stories Between Fact And...
+  permalink: /creature-legends-e736e1/
+  short_title: Creature Legends
+  heading_title: The Strange Creatures Hidden In Honduran Folklore
+- basename: Honduras_5aa588_ghost_traditions_ecede3
+  title: Ghost Stories | Honduras' Strangest Stories Between Fact And...
+  permalink: /ghost-stories-f713cb/
+  short_title: Ghost Stories
+  heading_title: Why Honduras Still Tells Ghost Stories
+- basename: Honduras_5aa588_yoro_fish_rain_997917
+  title: Yoro Fish Rain | Honduras' Strangest Stories Between Fact And...
+  permalink: /yoro-fish-rain/
+  short_title: Yoro Fish Rain
+  heading_title: Did Fish Really Fall From The Sky?
+prev_link:
+  basename: Haiti_a4842f
+  title: Haiti Mysteries
+  permalink: /haitis-mysteries-beyond-the-zombie-myth/
+  short_title: Haiti Mysteries
+next_link:
+  basename: Hungary_f14e46
+  title: Hungary Forteana
+  permalink: /hungarys-strangest-stories-legends-and/
+  short_title: Hungary Forteana
+date: '2026-07-10 00:00:58 '
+header:
+  og_image: /assets/images/Honduras_5aa588-overview-social.jpg
+  preview_image: /assets/images/Honduras_5aa588-overview.webp
+image: /assets/images/Honduras_5aa588-overview-social.jpg
+---
+
+## Introduction
+
+Honduran Forteana is therefore less about proving the existence of monsters or miracles and more about understanding why certain stories survive: they connect landscapes, weather, religion, fear, humour, memory, and local identity. The country’s mountains, forests, rivers, and rural communities provide a natural setting for tales of hidden creatures and unexplained events, while newspapers, tourism, and modern media have helped preserve them.
+
+
+
+<img src="{{ "/assets/images/Honduras_5aa588-overview.webp" | relative_url }}" alt="Overview image for Honduras&#x27; Strangest Stories Between Fact And..." loading="eager" decoding="sync" fetchpriority="high">
+
+## The Yoro fish rain: Honduras’s most famous anomaly
+
+### What is the “rain of fish”?
+
+The best-known strange event associated with Honduras is the “rain of fish” reported around the town of Yoro in central Honduras. According to local accounts, powerful storms arrive during the rainy season and, after the weather clears, residents discover hundreds of small fish scattered across the ground. The event is traditionally known as a recurring phenomenon and has become part of Yoro’s cultural identity, celebrated through local festivities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.atlasobscura.com/places/lluvia-de-peces-the-rain-of-fish" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atlasobscura.com">[Atlas Obscura]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atlasobscura.com</span><span class="citation-popover-title">Atlas Obscura Lluvia de Peces (Rain of Fish) in Yoro</span><span class="citation-popover-snippet">Atlas ObscuraLluvia de Peces (Rain of Fish) in YoroJune 28, 2010...</span><span class="citation-popover-meta">Published: June 28, 2010</span></span></span>
+
+The story is often linked to a religious legend involving the 19th-century Catholic missionary Father José Manuel Subirana. According to the tradition, Subirana prayed for relief during a period of hunger, after which fish began appearing as a divine gift. This interpretation remains important locally, but it belongs to the realm of belief and storytelling rather than scientific proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.honduras.com/aprende/cultura/cultura-general/lluvia-de-peces-fenomeno-natural-en-yoro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: honduras.com">[Honduras.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">honduras.com</span><span class="citation-popover-title">Lluvia de peces, fenómeno natural en Yoro</span><span class="citation-popover-snippet">Lluvia de peces, fenómeno natural en Yoro</span></span></span>
+
+The strange detail that keeps the story alive is that the event is not simply a rumour about fish appearing somewhere in Honduras. Generations of residents have reported collecting fish after storms, and outside observers, including a National Geographic team in the 1970s, investigated the phenomenon. However, no observer has produced definitive evidence showing fish falling directly from the sky.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.honduras.com/aprende/cultura/cultura-general/lluvia-de-peces-fenomeno-natural-en-yoro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: honduras.com">[Honduras.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">honduras.com</span><span class="citation-popover-title">Lluvia de peces, fenómeno natural en Yoro</span><span class="citation-popover-snippet">Lluvia de peces, fenómeno natural en Yoro</span></span></span>
+
+
+
+<img src="{{ "/assets/images/Honduras_5aa588-Illustration-1-dark.svg" | relative_url }}" alt="Honduras&#x27; Strangest Stories Between Fact And... illustration 1" data-theme-src-dark="{{ "/assets/images/Honduras_5aa588-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Honduras_5aa588-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+### Miracle, weather event, or hidden water system?
+
+Several explanations have been proposed. One possibility is that powerful weather systems, such as waterspouts, could lift animals from water and deposit them elsewhere. This explanation is used for some “animal rain” reports around the world, although Yoro presents difficulties because the local circumstances do not neatly match a simple waterspout scenario.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.worldatlas.com/articles/honduras-fish-rain-does-it-really-rain-fish.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: worldatlas.com">[WorldAtlas]</a><span class="citation-popover" role="note"><span class="citation-popover-source">worldatlas.com</span><span class="citation-popover-title">World Atlas Honduras Fish Rain – Does It Really Rain Fish?</span><span class="citation-popover-snippet">World Atlas Honduras Fish Rain – Does It Really Rain Fish?</span></span></span>
+
+Another possibility is that heavy rainfall floods underground channels, streams, or hidden aquatic environments, forcing fish to the surface. This explanation fits the observation that people usually find the fish after storms rather than watching them descend from clouds. The mystery remains culturally powerful because the event appears to be real at the level of fish being found, while the exact mechanism remains debated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.honduras.com/aprende/cultura/cultura-general/lluvia-de-peces-fenomeno-natural-en-yoro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: honduras.com">[Honduras.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">honduras.com</span><span class="citation-popover-title">Lluvia de peces, fenómeno natural en Yoro</span><span class="citation-popover-snippet">Lluvia de peces, fenómeno natural en Yoro</span></span></span>
+
+The importance of Yoro’s fish rain is not only whether it is paranormal or natural. It is a classic Fortean case because it demonstrates how a strange observation can develop several layers at once: eyewitness experience, religious meaning, scientific investigation, tourism, and local pride.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/AVY13G40p7Y" title="Raining Fish in Yoro Honduras: Nature&#x27;s Magic Unveiled!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=AVY13G40p7Y" target="_blank" rel="noopener noreferrer">Raining Fish in Yoro Honduras: Nature&#x27;s Magic Unveiled!</a></p><p class="youtube-embed-meta">Channel: PlanTrip</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=AVY13G40p7Y" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=AVY13G40p7Y">Open on YouTube</a></p></div></div></div>
+
+## Creatures and spirits from Honduran folklore
+
+Honduras’s supernatural traditions are filled with figures that inhabit the boundary between warning tale and imagined creature. Many are shared across Central America, but they have developed distinctive forms within Honduran storytelling traditions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tunota.com/honduras-hoy/leyendas-de-honduras-mitos-cortos-historias-terror-conocidas-pais" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tunota.com">[TuNota]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tunota.com</span><span class="citation-popover-snippet">Leyendas de Honduras, mitos cortos y las historias de terror más conocidas del paísSeptember 25, 2022...</span><span class="citation-popover-meta">Published: September 25, 2022</span></span></span>
+
+### El Cadejo: the mysterious night animal
+
+One of the most recognisable figures is El Cadejo, a supernatural dog-like creature said to appear at night on lonely roads. In many versions of the story there are two forms: a protective white Cadejo and a threatening black Cadejo. The legend has been interpreted as a moral tale about danger, temptation, and travelling alone after dark.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://stnhn.com/el-cadejo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stnhn.com">[STN HONDURAS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stnhn.com</span><span class="citation-popover-title">el cadejo</span><span class="citation-popover-snippet">STN HONDURAS«El Cadejo» – STN HONDURASNovember 8, 2020...</span><span class="citation-popover-meta">Published: November 8, 2020</span></span></span>
+
+From a Fortean perspective, El Cadejo is interesting because it resembles many worldwide reports of phantom animals: a strange shape glimpsed briefly in poor conditions, transformed by fear and storytelling into a more dramatic being. A dark animal, unusual lighting, exhaustion, or expectation can all influence how people interpret uncertain sightings.
+
+
+
+<img src="{{ "/assets/images/Honduras_5aa588-Illustration-2-dark.svg" | relative_url }}" alt="Honduras&#x27; Strangest Stories Between Fact And... illustration 2" data-theme-src-dark="{{ "/assets/images/Honduras_5aa588-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Honduras_5aa588-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+### El Sisimite: Honduras’s forest giant
+
+Another famous Honduran creature is El Sisimite, usually described as a large, hairy, human-like being living in remote forests and mountains. Stories portray it as a powerful wilderness creature that hides away from settlements and sometimes carries people away.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.honduras.com/aprende/cultura/leyendas/leyenda-de-honduras-el-sisimite/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: honduras.com">[Honduras.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">honduras.com</span><span class="citation-popover-title">Leyenda de Honduras, &quot;El Sisimite</span><span class="citation-popover-snippet">Leyenda de Honduras, &quot;El Sisimite</span></span></span>
+
+The Sisimite belongs to a wider family of “wild man” legends found around the world, including European tales of forest beings and modern discussions of unknown primates. There is no reliable evidence that such a creature exists in Honduras, but the story reflects a familiar human fascination with unexplored landscapes and the idea that wilderness may still contain hidden inhabitants.
+
+### The Comelenguas and mystery animal reports
+
+Honduran folklore also includes the Comelenguas, a creature blamed in some stories for livestock deaths, especially reports of cattle found injured with their tongues removed. The legend resembles wider Latin American “mystery predator” traditions and later stories of strange animal attacks.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.honduras.com/aprende/cultura/leyendas/leyenda-del-comelenguas/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: honduras.com">[Honduras.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">honduras.com</span><span class="citation-popover-title">Leyenda del comelenguas</span><span class="citation-popover-snippet">Leyenda del comelenguas</span></span></span>
+
+These reports are a useful example of how folklore can grow from real events. Livestock deaths may have ordinary explanations, including predators, disease, human activity, or scavenging after death, but unusual injuries can become attached to a memorable creature narrative.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/yenMbmILJtw" title="Does It Really Rain Fish in Honduras? (Lluvia de Peces)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=yenMbmILJtw" target="_blank" rel="noopener noreferrer">Does It Really Rain Fish in Honduras? (Lluvia de Peces)</a></p><p class="youtube-embed-meta">Channel: Smartest Year Ever</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=yenMbmILJtw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=yenMbmILJtw">Open on YouTube</a></p></div></div></div>
+
+## Ghost stories, haunted places, and inherited fears
+
+[Ghost traditions]({{ 'ghost-stories-f713cb/' | relative_url }}) remain an important part of Honduran storytelling. Figures such as La Llorona, La Sucia, and other wandering spirits appear in accounts told in villages, families, and popular media. These stories often involve rivers, roads, abandoned places, or nighttime encounters and usually carry moral themes as well as fear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.tunota.com/honduras-hoy/leyendas-de-honduras-mitos-cortos-historias-terror-conocidas-pais" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tunota.com">[TuNota]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tunota.com</span><span class="citation-popover-snippet">Leyendas de Honduras, mitos cortos y las historias de terror más conocidas del paísSeptember 25, 2022...</span><span class="citation-popover-meta">Published: September 25, 2022</span></span></span>
+
+The appeal of these tales is not simply that they describe ghosts. They preserve ideas about danger, respect, relationships, and the unknown. A story about a mysterious woman appearing near water may also be a warning about travelling alone at night or entering unsafe places.
+
+Like many ghost traditions worldwide, Honduran examples often change with each retelling. Details shift between communities, and the same figure may appear in different forms depending on the storyteller. This flexibility is one reason folklore survives: it adapts to new generations while keeping familiar emotional themes.
+
+
+
+<img src="{{ "/assets/images/Honduras_5aa588-Illustration-3-dark.svg" | relative_url }}" alt="Honduras&#x27; Strangest Stories Between Fact And... illustration 3" data-theme-src-dark="{{ "/assets/images/Honduras_5aa588-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Honduras_5aa588-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+## Strange reports and the problem of evidence
+
+Honduras has also attracted occasional modern reports involving unusual lights, unidentified objects, and mysterious sightings, as happens in many countries. However, compared with better-documented folklore traditions such as Yoro’s fish rain, many modern anomalous reports are poorly recorded and lack enough information for firm conclusions. A light in the sky may represent anything from aircraft and satellites to atmospheric effects, camera artefacts, or genuinely unidentified observations.
+
+The most valuable lesson from Fortean cases is that “unexplained” does not automatically mean “supernatural”. An unexplained event is simply one where the available evidence does not yet provide a complete answer. Good investigation requires separating what was observed from what was later assumed.
+
+## Why Honduras’s strange stories still matter
+
+Honduras’s unusual stories endure because they are connected to real places and real communities. The fish of Yoro, the creatures of the forest, and the spirits of rural roads are not just isolated curiosities; they form part of how people describe their relationship with nature, uncertainty, and the unseen.
+
+The country’s Fortean landscape is strongest where fact and folklore overlap. A storm really can leave fish behind. People really do preserve stories about mysterious creatures. Communities really do pass down accounts of strange encounters. The enduring mystery lies in understanding how unusual experiences become legends — and why some legends continue to feel alive long after the original event has disappeared into memory.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D_nSfuvUeac" title="Yoro, Honduras: The City That Rains Fish" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D_nSfuvUeac" target="_blank" rel="noopener noreferrer">Yoro, Honduras: The City That Rains Fish</a></p><p class="youtube-embed-meta">Channel: Conversations with Strangers</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D_nSfuvUeac" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D_nSfuvUeac">Open on YouTube</a></p></div></div></div>
+
+## Endnotes
+
+1.<a id="endnote-1"></a>
+   Source: honduras.com  
+   Title: Lluvia de peces, fenómeno natural en Yoro  
+   Link:<a href="https://www.honduras.com/aprende/cultura/cultura-general/lluvia-de-peces-fenomeno-natural-en-yoro/" target="_blank" rel="noopener noreferrer nofollow">https://www.honduras.com/aprende/cultura/cultura-general/lluvia-de-peces-fenomeno-natural-en-yoro/</a>  
+
+2.<a id="endnote-2"></a>
+   Source: worldatlas.com  
+   Title: World Atlas Honduras Fish Rain – Does It Really Rain Fish?  
+   Link:<a href="https://www.worldatlas.com/articles/honduras-fish-rain-does-it-really-rain-fish.html" target="_blank" rel="noopener noreferrer nofollow">https://www.worldatlas.com/articles/honduras-fish-rain-does-it-really-rain-fish.html</a>  
+
+3.<a id="endnote-3"></a>
+   Source: weather.com  
+   Title: lluvia de peces honduras mystery explained  
+   Link:<a href="https://weather.com/science/weather-explainers/video/lluvia-de-peces-honduras-mystery-explained" target="_blank" rel="noopener noreferrer nofollow">https://weather.com/science/weather-explainers/video/lluvia-de-peces-honduras-mystery-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Fish Rain From Sky Every Year In Honduras Town Since 1860s | Weather.comApril 27, 2026 — FISH RAIN FROM SKY EVERY YEAR IN HONDURAS TOWN S...</p></details>
+   Published: April 27, 2026  
+
+4.<a id="endnote-4"></a>
+   Source: tunota.com  
+   Link:<a href="https://www.tunota.com/honduras-hoy/leyendas-de-honduras-mitos-cortos-historias-terror-conocidas-pais" target="_blank" rel="noopener noreferrer nofollow">https://www.tunota.com/honduras-hoy/leyendas-de-honduras-mitos-cortos-historias-terror-conocidas-pais</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Leyendas de Honduras, mitos cortos y las historias de terror más conocidas del paísSeptember 25, 2022...</p></details>
+   Published: September 25, 2022  
+
+5.<a id="endnote-5"></a>
+   Source: honduras.com  
+   Title: Leyenda de Honduras, "El Sisimite"  
+   Link:<a href="https://www.honduras.com/aprende/cultura/leyendas/leyenda-de-honduras-el-sisimite/" target="_blank" rel="noopener noreferrer nofollow">https://www.honduras.com/aprende/cultura/leyendas/leyenda-de-honduras-el-sisimite/</a>  
+
+6.<a id="endnote-6"></a>
+   Source: honduras.com  
+   Title: Leyenda del comelenguas  
+   Link:<a href="https://www.honduras.com/aprende/cultura/leyendas/leyenda-del-comelenguas/" target="_blank" rel="noopener noreferrer nofollow">https://www.honduras.com/aprende/cultura/leyendas/leyenda-del-comelenguas/</a>  
+
+7.<a id="endnote-7"></a>
+   Source: tunota.com  
+   Title: 10 apariciones paranormales en Honduras que te pondrán los pelos de punta  
+   Link:<a href="https://www.tunota.com/entretenimiento/videos-apariciones-paranormales-en-honduras" target="_blank" rel="noopener noreferrer nofollow">https://www.tunota.com/entretenimiento/videos-apariciones-paranormales-en-honduras</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 6, 2026 — 10 APARICIONES PARANORMALES EN HONDURAS QUE TE PONDRÁN LOS PELOS DE PUNTA Las grabaciones muestran supuestos fantasmas, f...</p></details>
+   Published: March 6, 2026  
+
+8.<a id="endnote-8"></a>
+   Source: tunota.com  
+   Title: Vídeos de terror reales captados en Honduras ¿Cuál da más escalofríos?  
+   Link:<a href="https://www.tunota.com/entretenimiento/videos-de-terror-reales-captados-honduras" target="_blank" rel="noopener noreferrer nofollow">https://www.tunota.com/entretenimiento/videos-de-terror-reales-captados-honduras</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>¿Ya ha visto estos vídeos de terror, aparentemente reales en Honduras? Vea aquí una recopilación de estos clips. ¿Son reales? J...</p></details>
+
+9.<a id="endnote-9"></a>
+   Source: tunota.com  
+   Title: '¿Qué es eso?': Misteriosos objetos iluminados sorprenden en Tegucigalpa  
+   Link:<a href="https://www.tunota.com/honduras-hoy/que-es-eso-misteriosos-objetos-iluminados-sorprenden-en-el-cielo-de-tegucigalpa" target="_blank" rel="noopener noreferrer nofollow">https://www.tunota.com/honduras-hoy/que-es-eso-misteriosos-objetos-iluminados-sorprenden-en-el-cielo-de-tegucigalpa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 3, 2025 — &#x27;¿QUÉ ES ESO?&#x27;: MISTERIOSOS OBJETOS ILUMINADOS SORPRENDEN EN TEGUCIGALPA Los videos muestran uno o dos objetos que se...</p></details>
+   Published: December 3, 2025  
+
+10.<a id="endnote-10"></a>
+   Source: tunota.com  
+   Title: estos son los lugares mas inquietantes y embrujados de honduras 2025 10 14  
+   Link:<a href="https://www.tunota.com/entretenimiento/estos-son-los-lugares-mas-inquietantes-y-embrujados-de-honduras" target="_blank" rel="noopener noreferrer nofollow">https://www.tunota.com/entretenimiento/estos-son-los-lugares-mas-inquietantes-y-embrujados-de-honduras</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Estos son los lugares más inquietantes y embrujados de HondurasOctober 14, 2025 — ESTOS SON LOS LUGARES MÁS INQUIETANTES Y EMBRUJADOS DE...</p></details>
+   Published: October 14, 2025  
+
+11.<a id="endnote-11"></a>
+   Source: tunota.com  
+   Title: ¿Bases extraterrestres en Honduras?  
+   Link:<a href="https://www.tunota.com/entretenimiento/bases-extraterrestres-en-honduras-actividad-ovni-testimonios" target="_blank" rel="noopener noreferrer nofollow">https://www.tunota.com/entretenimiento/bases-extraterrestres-en-honduras-actividad-ovni-testimonios</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apuntan estas zonas del país como puntos de actividad OVNIDecember 17, 2024 — ¿BASES EXTRATERRESTRES EN HONDURAS? APUNTAN ESTAS ZONAS DEL...</p></details>
+   Published: December 17, 2024  
+
+12.<a id="endnote-12"></a>
+   Source: tunota.com  
+   Title: Image: Foto de Valeria Solis Valer  
+   Link:<a href="https://www.tunota.com/honduras-hoy/5-leyendas-de-honduras-historias-de-terror-tradicionales-de-nuestro-pais" target="_blank" rel="noopener noreferrer nofollow">https://www.tunota.com/honduras-hoy/5-leyendas-de-honduras-historias-de-terror-tradicionales-de-nuestro-pais</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 leyendas de Honduras, historias de terror tradicionales de nuestro paísSeptember 1, 2022 — 5 LEYENDAS DE HONDURAS, HISTORIAS DE TERROR...</p></details>
+   Published: September 1, 2022  
+
+13.<a id="endnote-13"></a>
+   Source: honduras.com  
+   Title: Cuentos y leyendas de Honduras más conocidos  
+   Link:<a href="https://www.honduras.com/notas/sociedad/cuentos-y-leyendas-de-honduras-mas-conocidos/" target="_blank" rel="noopener noreferrer nofollow">https://www.honduras.com/notas/sociedad/cuentos-y-leyendas-de-honduras-mas-conocidos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 25, 2021 — CUENTOS Y LEYENDAS DE HONDURAS MÁS CONOCIDOS Image: ClaroImage: Claro Patrocinado por: Claro Por: Honduras.com · 25 de...</p></details>
+   Published: October 25, 2021  
+
+14.<a id="endnote-14"></a>
+   Source: honduras.com  
+   Title: Según su leyend  
+   Link:<a href="https://www.honduras.com/aprende/leyendas/" target="_blank" rel="noopener noreferrer nofollow">https://www.honduras.com/aprende/leyendas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aprende – Honduras.comAprende · 29 de marzo de 202213 de abril de 2022 LEYENDA DE LA «VENTANA» EN OPATORO, LA PAZ La famosa «Ventana» es...</p></details>
+
+15.<a id="endnote-15"></a>
+   Source: youtube.com  
+   Title: Raining Fish in Yoro Honduras: Nature's Magic Unveiled!  
+   Link:<a href="https://www.youtube.com/watch?v=AVY13G40p7Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=AVY13G40p7Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rain of Fish | Geographical Mysteries #mindwars...</p></details>
+
+16.<a id="endnote-16"></a>
+   Source: youtube.com  
+   Title: Rain of Fish | Geographical Mysteries #mindwars  
+   Link:<a href="https://www.youtube.com/watch?v=h4Ej1G_HHZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=h4Ej1G_HHZY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Honduras rain of fish Yoro Why It Rains Fish in Honduras Every Year Beyond Borders...</p></details>
+
+17.<a id="endnote-17"></a>
+   Source: atlasobscura.com  
+   Title: Atlas Obscura Lluvia de Peces (Rain of Fish) in Yoro  
+   Link:<a href="https://www.atlasobscura.com/places/lluvia-de-peces-the-rain-of-fish" target="_blank" rel="noopener noreferrer nofollow">https://www.atlasobscura.com/places/lluvia-de-peces-the-rain-of-fish</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Atlas ObscuraLluvia de Peces (Rain of Fish) in YoroJune 28, 2010...</p></details>
+   Published: June 28, 2010  
+
+18.<a id="endnote-18"></a>
+   Source: stnhn.com  
+   Title: el cadejo  
+   Link:<a href="https://stnhn.com/el-cadejo/" target="_blank" rel="noopener noreferrer nofollow">https://stnhn.com/el-cadejo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>STN HONDURAS«El Cadejo» – STN HONDURASNovember 8, 2020...</p></details>
+   Published: November 8, 2020  
+
+19.<a id="endnote-19"></a>
+   Source: thephenomenon.app  
+   Title: The Phenomenon | Honduras  
+   Link:<a href="https://thephenomenon.app/honduras/" target="_blank" rel="noopener noreferrer nofollow">https://thephenomenon.app/honduras/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Quebrada de Agua, Departamento de Colón, Honduras Cube [Button: View Details] NUFORC_186652 N...</p></details>
+
+20.<a id="endnote-20"></a>
+   Source: clubensayos.com  
+   Link:<a href="https://www.clubensayos.com/Historia/Leyendas/880100.html" target="_blank" rel="noopener noreferrer nofollow">https://www.clubensayos.com/Historia/Leyendas/880100.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Informe - HistoriaJune 26, 2013 — LEYENDAS solis1981Informe 26 de Junio de 2013 2.358 Palabras (10 Páginas)514 Visitas Página 1 de 10 LEY...</p></details>
+   Published: June 26, 2013  
+
+21.<a id="endnote-21"></a>
+   Source: nacerenhonduras.com  
+   Title: El Sisimite  
+   Link:<a href="https://nacerenhonduras.com/2010/10/el-sisimite.html" target="_blank" rel="noopener noreferrer nofollow">https://nacerenhonduras.com/2010/10/el-sisimite.html</a>  
+
+### Additional References
+
+22.<a id="endnote-22"></a>
+   Source: pararational.com  
+   Link:<a href="https://www.pararational.com/honduras-fish-rain-the-one-detail-scientists-cant-fully-explain/" target="_blank" rel="noopener noreferrer nofollow">https://www.pararational.com/honduras-fish-rain-the-one-detail-scientists-cant-fully-explain/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Honduras Fish Rain: The One Detail That Breaks the TheoryImage: honduras fish rain HONDURAS FISH RAIN: THE ONE DETAIL SCIENTISTS CAN’T FU...</p></details>
+
+23.<a id="endnote-23"></a>
+   Source: tvi.show  
+   Link:<a href="https://www.tvi.show/natures-anomalies/the-rain-of-fish-in-yoro-honduras" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/natures-anomalies/the-rain-of-fish-in-yoro-honduras</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rain of Fish in Yoro, Honduras: The Incredible Lluvia de Peces Phenomenon ExplainedTHE RAIN OF FISH IN YORO, HONDURAS 11 May Written By G...</p></details>
+
+24.<a id="endnote-24"></a>
+   Source: timesofindia.indiatimes.com  
+   Link:<a href="https://timesofindia.indiatimes.com/life-style/travel/destinations/this-town-witnesses-unique-fish-rain-every-year-science-or-legend/articleshow/123849282.cms" target="_blank" rel="noopener noreferrer nofollow">https://timesofindia.indiatimes.com/life-style/travel/destinations/this-town-witnesses-unique-fish-rain-every-year-science-or-legend/articleshow/123849282.cms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Small fish are reportedly found scattered on the ground after heavy storms, leading locals to believe it is a miraculous occurrence. Whil...</p></details>
+
+25.<a id="endnote-25"></a>
+   Source: factly.in  
+   Link:<a href="https://factly.in/this-old-photo-of-a-catfish-spill-from-a-truck-in-china-is-falsely-shared-as-rain-of-fish-in-honduras/" target="_blank" rel="noopener noreferrer nofollow">https://factly.in/this-old-photo-of-a-catfish-spill-from-a-truck-in-china-is-falsely-shared-as-rain-of-fish-in-honduras/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 4, 2021 — THIS OLD PHOTO OF A CATFISH SPILL FROM A TRUCK IN CHINA IS FALSELY SHARED AS ‘RAIN OF FISH’ IN HONDURAS By Abhishe...</p></details>
+   Published: August 4, 2021  
+
+26.<a id="endnote-26"></a>
+   Source: tvi.show  
+   Link:<a href="https://www.tvi.show/odd-archives/the-rain-of-fish-meteorology-or-miracle" target="_blank" rel="noopener noreferrer nofollow">https://www.tvi.show/odd-archives/the-rain-of-fish-meteorology-or-miracle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11 May Written By Guest User UNRAVELING THE SCIENCE BEHIND THIS RARE PHENOMENON Image Every year, residents of Yoro, Honduras, witness a...</p></details>
+
+27.<a id="endnote-27"></a>
+   Source: oddskies.com  
+   Link:<a href="https://oddskies.com/" target="_blank" rel="noopener noreferrer nofollow">https://oddskies.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OddSkies organizes strange, unverified public reports — from UFOs and strange lights to haunted places and local legends — by time...</p></details>
+
+28.<a id="endnote-28"></a>
+   Source: elheraldo.hn  
+   Title: Entre el mito y la realidad: ¿Has oído hablar de la 'lluvia de peces' en Yoro?  
+   Link:<a href="https://www.elheraldo.hn/honduras/honduras-la-lluvia-de-peces-un-regalo-del-cielo-para-el-pueblo-GCEH968538" target="_blank" rel="noopener noreferrer nofollow">https://www.elheraldo.hn/honduras/honduras-la-lluvia-de-peces-un-regalo-del-cielo-para-el-pueblo-GCEH968538</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>June 9, 2016 — domingo, 5 julio 2026 Honduras HONDURAS: LA LLUVIA DE PECES, UN REGALO DEL CIELO PARA EL PUEBLO DE YORO El fenómeno que a...</p></details>
+   Published: June 9, 2016  
+
+29.<a id="endnote-29"></a>
+   Source: espaciohonduras.net  
+   Title: Cuentos y leyendas populares de Honduras: un viaje por el folclore hondureño  
+   Link:<a href="https://www.espaciohonduras.net/notas/todo-sobre-honduras/cuentos-y-leyendas-populares-de-honduras-un-viaje-por-el-folclore-hondureno" target="_blank" rel="noopener noreferrer nofollow">https://www.espaciohonduras.net/notas/todo-sobre-honduras/cuentos-y-leyendas-populares-de-honduras-un-viaje-por-el-folclore-hondureno</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CUENTOS Y LEYENDAS POPULARES DE HONDURAS: UN VIAJE POR EL FOLCLORE HONDUREÑO CUENTOS Y LEYENDAS POPULARES DE HONDURAS: UN...</p></details>
+
+30.<a id="endnote-30"></a>
+   Source: livescience.com  
+   Title: Lluvia de Peces: When Fish Rain from the Sky | Fish Rain | Live Science  
+   Link:<a href="https://www.livescience.com/37820-lluvia-de-peces-fish-rain.html" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/37820-lluvia-de-peces-fish-rain.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 1, 2013 — LLUVIA DE PECES: WHEN FISH RAIN FROM THE SKY By Elizabeth Peterson Published 1 July 2013 Image: fish-rain What makes blind...</p></details>
+   Published: July 1, 2013  
+
+31.<a id="endnote-31"></a>
+   Source: thevalemagazine.com  
+   Title: Yoro, Honduras: Where the Skies ‘Rain Fish’ – The Vale Magazine  
+   Link:<a href="https://thevalemagazine.com/2020/05/15/yoro-honduras-rain-of-fish/" target="_blank" rel="noopener noreferrer nofollow">https://thevalemagazine.com/2020/05/15/yoro-honduras-rain-of-fish/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 15, 2020 — by Katerina PapathanasiouMay 15, 202010:52 amMay 18, 2020 YORO, HONDURAS: WHERE THE SKIES ‘RAIN FISH’ Image: painting depi...</p></details>
+   Published: May 15, 2020  

@@ -1,0 +1,795 @@
+---
+level: 2
+basename: Belarus_027a12_castle_ghosts_00f21f
+parent_basename: Belarus_027a12
+child_basenames: []
+sibling_basenames:
+- Belarus_027a12_lepel_tsmok_87dd32
+- Belarus_027a12_ufos_monster_panics_ed1378
+tags:
+- belarus
+- castle-ghosts
+keywords:
+- belarus
+- castle-ghosts
+affiliate_category: belarus
+show_ads: true
+description: Belarus's best-known castle ghosts turn aristocratic grief, restoration and tourism into memorable public folklore.
+hero_summary: Belarus's best-known castle ghosts turn aristocratic grief, restoration and tourism into memorable public folklore.
+layout: default
+permalink: /castle-ghosts/
+sidebar_expanded_urls:
+- /why-belarus-keeps-its-weird-stories/
+nav_short_title: Castle Ghosts
+title: Why Do Belarus's Castles Have Ghosts?
+title_full: Why Do Belarus's Castles Have Ghosts?
+display_title_short: Castle Ghosts
+display_title: Castle Ghosts
+heading_title: Why Do Belarus's Castles Have Ghosts?
+page_heading_title: Why Do Belarus's Castles Have Ghosts?
+source_count: 14
+infographic_count: 3
+planned_sections:
+- The Black Lady of Nesvizh
+- The White Maiden of Mir
+- History, tourism and useful hauntings
+focal_unit_type: entity
+topic_lens: historical_comparative
+topic_granularity: pillar
+output_language: English
+lang: en
+locale: en
+text_direction: ltr
+ui_strings:
+  home: Home
+  overview: Overview
+  overview_prefix: 'Overview:'
+  contents: Contents
+  close: Close
+  open_contents: Open contents
+  close_contents: Close contents
+  show_appearance_settings: Show appearance settings
+  appearance_menu_moved_here: The appearance menu has moved here.
+  appearance: Appearance
+  text: Text
+  small: Small
+  standard: Standard
+  large: Large
+  width: Width
+  wide: Wide
+  theme: Theme
+  automatic: Automatic
+  light: Light
+  dark: Dark
+  quick_navigation: Quick navigation
+  parent: Parent
+  search: Search
+  outline: Outline
+  breadcrumb: Breadcrumb
+  within: Within
+  page_highlights: Page highlights
+  key_sections: Key sections
+  inside_this_report: On this page
+  open_report_preview_image: Open preview image
+  page_outline: Page outline
+  jump_by_section: Jump by section
+  on_this_page: On this page
+  expand_all: Expand all
+  collapse_all: Collapse all
+  jump_to_endnotes: Jump to endnotes
+  back_to_top: Back to top
+  topic_tree: Topic Tree
+  follow_this_branch: Follow this branch
+  parent_topic: Parent topic
+  peer_reports: Related pages
+  child_reports: More on this topic
+  more_in_sidebar: more in sidebar
+  close_page_outline_panel: Close page outline panel
+  topic_tree_navigation: Topic tree navigation
+  search_this_branch: Search
+  search_reports_in_this_branch: Search title, summary, or page text...
+  clear: Clear
+  expand_section: Expand section
+  collapse_section: Collapse section
+  open_report: Read more
+  open_topic: Open topic
+  open_subtopic: Open subtopic
+  open_child_report: Open page
+  children_label: pages
+  branches_label: branches
+  child_reports_under_prefix: Pages under
+  subtopics_under_prefix: Subtopics under
+  primary_navigation: Primary
+  footer_navigation: Footer navigation
+  site_summary: Site summary
+  topic_guide: Topic guide
+  navigate: Navigate
+  browse_reports: Search pages
+  main_topic: Main topic
+  quick_links: Quick links
+  footer_main_topic_intro: Start with the main overview, then explore the related pages.
+  footer_quick_links_intro: Jump straight into the overview pages that anchor this collection.
+  how_to_use_this_site: How to use this site
+  use_this_site: Use this site
+  footer_use_this_site_copy: Start on the homepage. Use Search pages to search the collection, and open Topics or Outline when you want extra navigation.
+  built_for_long_form_topic_maps_and_report_collections: Built for long-form topic maps and article collections.
+  affiliate_and_ai_disclosure: Affiliate & AI Disclosure
+  footer_ai_and_affiliate_disclosure: Pages are researched and written with AI assistance and may contain errors. Some outbound links may earn Branchoria a commission.
+  learn_more: Learn more.
+  restore_page_outline: Restore page outline
+  restore_contents: Restore contents
+  page_outline_moved_here: The page outline has moved here.
+  contents_panel_moved_here: The contents panel has moved here.
+  switch_theme: Switch theme
+  follow_the_branches_from_overview_topics_to_focused_reports: Start with the overview, then follow the sections that match your goal
+  browse_the_overview_branch_reports_and_focused_explainers: Browse the overview, major sections, and focused guides.
+  research_map: Research Map
+  research_map_single_topic_description: A practical guide to {topic}, from the main overview to focused routes through the topic.
+  research_map_multi_topic_description: Browse the main routes through the research across major topics and focused guides.
+  research_map_default_description: Browse the main routes through the research from overview pages to focused guides.
+  visual_hierarchy: Visual hierarchy
+  cluster_focus_path: Cluster focus path
+  active_branch: Active branch
+  preview_branch: Preview branch
+  hover_preview: Hover preview
+  selected_branch: Selected branch
+  pinned_branch: Pinned branch
+  previewing_focus_selected_template: Previewing {focus} while {selected} stays selected.
+  vertical_selected_branch_hint: Tap another branch to switch the selection, or open a page from this branch.
+  horizontal_pinned_branch_hint: Click another branch to pin it, or hover to preview without leaving this branch.
+  vertical_branch_card_hint: Tap a branch card to open its subtopics here.
+  horizontal_branch_card_hint: Hover to preview a branch, then click to pin it in place.
+  pin_branch: Pin Branch
+  back_to_pinned: Back to Pinned
+  back_to_overview: Back to Overview
+  related_reports: Related pages
+  closest_reports: Closest pages
+  further_reading: Further Reading
+  open_on_youtube: Open on YouTube
+  topic_tree_site_title_suffix: Topic Tree
+  research_topic_tree: Research Topic Tree
+  site_description_single_topic: Practical guides on {topic}, organized for fast browsing and comparison.
+  site_description_default: Practical guides organized for fast browsing and comparison.
+  test_views: Test views
+  compare_test_views_hint: Compare Auto, Cluster, and Catalog only when you want to inspect alternate homepage layouts.
+  current: Current
+  homepage_view_options: Homepage view options
+  auto_mode: Auto
+  cluster_mode: Tree view
+  catalog_mode: Catalog
+  cycle_homepage_test_view: Cycle homepage test view
+  home_mode_switcher_note: Use QA mode to compare alternate homepage layouts before publishing.
+  scope: Scope
+  search_reports: Search pages
+  search_topic_branch_or_keyword: Search topic, branch, or keyword...
+  no_report_pages_generated: No pages were generated in this run.
+  further_reading_kicker: Amazon book picks
+  further_reading_intro_with_topic: Books and field guides related to {topic}.
+  further_reading_intro_default: Books and field guides related to this page.
+  further_reading_intro_suffix: Use these as the next step if you want deeper reading beyond the article.
+  further_reading_author_prefix: By
+  further_reading_open_book: Open {title} on Amazon
+  further_reading_cover_placeholder: Book
+  further_reading_book_cta: See on Amazon
+  further_reading_browse_more: Browse more on Amazon
+  further_reading_disclosure: As an Amazon Associate I earn from qualifying purchases.
+  further_reading_fallback_intro: No matched book cards were available for {topic}, so this fallback keeps a direct Amazon reading path visible.
+  further_reading_search_primary: Topical books
+  further_reading_search_secondary: Related search
+  further_reading_search_desc: Browse books, explainers and reference titles related to this topic.
+  further_reading_search_cta: Search Amazon
+  website_contents: All pages
+  topics: Topics
+  vertical_mode: Vertical
+  search_panel_title: Search
+  open_search: Open search
+  close_search: Close search
+  search_all_pages: Search all pages
+  search_this_page: Search this page
+  search_site_placeholder: Search title, summary, or page text...
+  search_empty_hint: Type to search every page on this site.
+  search_this_page_empty_hint: Type to search this page.
+  no_search_results: No pages match this search.
+  no_search_this_page_results: No sections on this page match this search.
+  search_results_count_template: '{count} results'
+  search_kind_page_title: Page title
+  search_kind_page_summary: Summary of page
+  search_kind_page_location: Page location
+  search_kind_section_title: Section title
+  search_kind_relevant_snippet: Relevant snippet
+date: '2026-07-07 05:48:35'
+parent_title: Belarus Weird
+parent_permalink: /why-belarus-keeps-its-weird-stories/
+parent_nav_short_title: Belarus Weird
+parent_heading_title: Why Belarus Keeps Its Weird Stories Close
+ancestor_links:
+- basename: Belarus_027a12
+  title: Belarus Weird
+  permalink: /why-belarus-keeps-its-weird-stories/
+  short_title: Belarus Weird
+breadcrumb_links:
+- basename: Belarus_027a12
+  title: Belarus Weird
+  permalink: /why-belarus-keeps-its-weird-stories/
+  short_title: Belarus Weird
+sibling_links:
+- basename: Belarus_027a12_lepel_tsmok_87dd32
+  title: Lepel Tsmok | Why Belarus Keeps Its Weird Stories Close
+  permalink: /lepel-tsmok/
+  short_title: Lepel Tsmok
+  heading_title: Is The Lepel Tsmok A Monster Or Mascot?
+- basename: Belarus_027a12_ufos_monster_panics_ed1378
+  title: UFOs & Panics | Why Belarus Keeps Its Weird Stories Close
+  permalink: /ufos-panics/
+  short_title: UFOs & Panics
+  heading_title: When Belarus Looked Up And Got Afraid
+up_link:
+  basename: Belarus_027a12
+  title: Belarus Weird
+  permalink: /why-belarus-keeps-its-weird-stories/
+  short_title: Belarus Weird
+next_link:
+  basename: Belarus_027a12_lepel_tsmok_87dd32
+  title: Lepel Tsmok | Why Belarus Keeps Its Weird Stories Close
+  permalink: /lepel-tsmok/
+  short_title: Lepel Tsmok
+  heading_title: Is The Lepel Tsmok A Monster Or Mascot?
+header:
+  og_image: /assets/images/Belarus_027a12_castle_ghosts_00f21f-Illustration-1-social.jpg
+  preview_image: /assets/images/Belarus_027a12_castle_ghosts_00f21f-Illustration-1.webp
+image: /assets/images/Belarus_027a12_castle_ghosts_00f21f-Illustration-1-social.jpg
+---
+
+## Introduction
+
+[Belarus]({{ 'why-belarus-keeps-its-weird-stories/' | relative_url }})'s two most famous haunted castles, Nesvizh and Mir, are also among its most important historic monuments. That combination explains why their ghost stories have lasted. Rather than existing as isolated paranormal tales, the legends are woven into the public identity of two UNESCO World Heritage sites, where visitors encounter history and folklore together. The ghosts are not presented as proven supernatural beings but as memorable ways of telling stories about dynastic ambition, family tragedy, political upheaval and the passage of time. Whether treated as genuine hauntings, traditional folklore or imaginative tourism, the Black Lady of Nesvizh and the White Maiden of Mir have become part of Belarus's living cultural heritage rather than forgotten fireside tales.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Nesvizh_Castle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Nesvizh Castle</span><span class="citation-popover-snippet">Nesvizh Castle</span></span></span>
+
+
+
+<img src="{{ "/assets/images/Belarus_027a12_castle_ghosts_00f21f-Illustration-1-dark.svg" | relative_url }}" alt="Castle Ghosts illustration 1" data-theme-src-dark="{{ "/assets/images/Belarus_027a12_castle_ghosts_00f21f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belarus_027a12_castle_ghosts_00f21f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
+
+## Why Do Belarus's Castles Have Ghosts?
+
+Unlike many modern ghost stories that circulate mainly online, the legends of Nesvizh and Mir are rooted in real aristocratic families, identifiable buildings and well-documented historical settings. Both castles belonged to powerful noble dynasties whose fortunes rose and fell over centuries of war, political change and personal drama. That historical depth gives the legends unusual staying power.
+
+Ghost traditions also suit castles particularly well. Vast corridors, dim staircases, family crypts, lakes and formal gardens encourage visitors to imagine the people who once occupied them. Restoration projects in the late twentieth and early twenty-first centuries transformed both castles into major heritage attractions, and the old legends naturally became part of guided tours, exhibitions and cultural events rather than disappearing into obscurity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Nesvizh_Castle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Nesvizh Castle</span><span class="citation-popover-snippet">Nesvizh Castle</span></span></span>
+
+### The Black Lady of Nesvizh
+
+The Black Lady is almost universally identified with Barbara Radziwiłł, the sixteenth-century noblewoman whose secret marriage to King Sigismund II Augustus became one of the great romances of the Polish-Lithuanian Commonwealth. Barbara died only months after becoming queen. Rumours that she had been poisoned by the king's mother, Bona Sforza, appeared soon afterwards and became inseparable from later retellings, although historians continue to debate the true cause of her illness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pda.ekskursii.by/en/?Legendy=45_Chernaya_dama_Nesvizha" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pda.ekskursii.by">[pda.ekskursii.by]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pda.ekskursii.by</span><span class="citation-popover-title">Black Lady of Nesvizh</span><span class="citation-popover-snippet">It is based on a romantic and, at the same time, tragic history.Read more...</span></span></span>
+
+According to the legend, the grief-stricken king attempted to summon Barbara's spirit through occult means. Different versions tell the story differently, but most agree that he broke the rules of the ritual by trying to embrace the apparition. Because of this, Barbara's soul supposedly never found peace and eventually came to wander the Radziwiłł residence at Nesvizh as the Black Lady. Later folklore added another feature: her appearance is said to warn of approaching misfortune rather than simply frighten witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pda.ekskursii.by/en/?Legendy=45_Chernaya_dama_Nesvizha" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pda.ekskursii.by">[pda.ekskursii.by]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pda.ekskursii.by</span><span class="citation-popover-title">Black Lady of Nesvizh</span><span class="citation-popover-snippet">It is based on a romantic and, at the same time, tragic history.Read more...</span></span></span>
+
+From a historical perspective, the legend works because it links documented political events with universal themes of love, bereavement and regret. Visitors do not need to believe in ghosts to appreciate why Barbara's story continues to resonate. The haunting turns a complicated episode of Renaissance politics into something emotionally immediate.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zg7EOmyfvZg" title="Nesvizh Castle in Belarus 🇧🇾 | UNESCO World Heritage | 8K VR180 Walking Tour" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zg7EOmyfvZg" target="_blank" rel="noopener noreferrer">Nesvizh Castle in Belarus 🇧🇾 | UNESCO World Heritage | 8K VR180 Walking Tour</a></p><p class="youtube-embed-meta">Channel: 8K VR Europe</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zg7EOmyfvZg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zg7EOmyfvZg">Open on YouTube</a></p></div></div></div>
+
+### The White Maiden of Mir
+
+Mir Castle's ghost tradition is quieter and more intimate. Instead of a queen, the central figure is usually a young girl known as Sonia or Sofia Svyatopolk-Mirskaya. Modern versions of the legend say that an apple orchard once occupied the ground where one of the castle ponds now lies. After the orchard was removed and the pond created, tragedy supposedly struck the family, including the death of the young girl, whose spirit became the White Maiden.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://turistas.me/en/posts/id1813-mir-castle-in-belarus-the-legend-of-the-white-maiden" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: turistas.me">[ТУРИСТАС]</a><span class="citation-popover" role="note"><span class="citation-popover-source">turistas.me</span><span class="citation-popover-snippet">ТУРИСТАСMir Castle in Belarus: the legend of the White MaidenDecember 14, 2025 — 15 Dec 2025 — People say the White Maiden is the spirit...</span><span class="citation-popover-meta">Published: December 14, 2025</span></span></span>
+
+Accounts of her appearance are generally less threatening than those associated with the Black Lady. Witnesses describe a girl dressed in white, sometimes seen near the gate tower, by the water or around the family crypt, especially during spring or early summer evenings. Rather than acting as an omen of disaster, she is usually portrayed as a peaceful presence whose story evokes sympathy rather than fear.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://turistas.me/en/posts/id1813-mir-castle-in-belarus-the-legend-of-the-white-maiden" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: turistas.me">[ТУРИСТАС]</a><span class="citation-popover" role="note"><span class="citation-popover-source">turistas.me</span><span class="citation-popover-snippet">ТУРИСТАСMir Castle in Belarus: the legend of the White MaidenDecember 14, 2025 — 15 Dec 2025 — People say the White Maiden is the spirit...</span><span class="citation-popover-meta">Published: December 14, 2025</span></span></span>
+
+As with many local legends, details vary from guide to guide and from generation to generation. The important point is not the precise biography of the White Maiden but the way the story explains the landscape itself. The pond, the vanished orchard and the castle become connected through narrative, giving visitors a reason to see ordinary features as reminders of remembered loss.
+
+
+
+<img src="{{ "/assets/images/Belarus_027a12_castle_ghosts_00f21f-Illustration-2-dark.svg" | relative_url }}" alt="Castle Ghosts illustration 2" data-theme-src-dark="{{ "/assets/images/Belarus_027a12_castle_ghosts_00f21f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belarus_027a12_castle_ghosts_00f21f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+## History, Tourism and Useful Hauntings
+
+The ghost stories survive because they serve several purposes at once.
+
+**They personalise history.** Dynastic politics and architectural history can seem distant, but a tragic queen or a wandering child gives visitors an emotional way into the past.
+
+**They enrich the visitor experience.** Guides frequently include the legends during tours, and the stories appear in tourism material, theatrical events and seasonal activities. The ghosts have become recognised elements of the castles' public identities rather than fringe beliefs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.belarus.by/en/travel/top-guide-belarus/what-to-see-in-nesvizh-a-unesco-world-heritage-site-and-many-other-attractions_i_0000119730.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: belarus.by">[Belarus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">belarus.by</span><span class="citation-popover-title">What to see in Nesvizh: A UNESCO World</span><span class="citation-popover-snippet">The legendary Nesvizh is worth seeing just for its magnificent 16th-century palace: a UNESCO World Heritage site, a former residence of t...</span></span></span>
+
+**They reinforce a sense of place.** Unlike generic haunted-house tales, these legends are difficult to separate from the specific buildings, gardens and lakes where they are told. The architecture itself becomes part of the storytelling.
+
+This makes the hauntings examples of what heritage specialists sometimes call living heritage: traditions that continue to evolve because people keep retelling them, not because new paranormal evidence has appeared.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WLz2W3BVVcQ" title="Mir Castle Belarus 🇧🇾 in 8K VR180 | Step Inside a UNESCO World Heritage Castle" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WLz2W3BVVcQ" target="_blank" rel="noopener noreferrer">Mir Castle Belarus 🇧🇾 in 8K VR180 | Step Inside a UNESCO World Heritage Castle</a></p><p class="youtube-embed-meta">Channel: 8K VR Europe</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WLz2W3BVVcQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WLz2W3BVVcQ">Open on YouTube</a></p></div></div></div>
+
+## How Believers and Sceptics Read the Stories
+
+Believers often interpret the apparitions literally. The Black Lady is sometimes regarded as a protective spirit warning of danger, while the White Maiden is seen as a harmless ghost unable to leave the place connected with her death. Personal experiences reported by guides, visitors or local residents help keep these interpretations alive, even though such accounts remain anecdotal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://pda.ekskursii.by/en/?Legendy=45_Chernaya_dama_Nesvizha" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pda.ekskursii.by">[pda.ekskursii.by]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pda.ekskursii.by</span><span class="citation-popover-title">Black Lady of Nesvizh</span><span class="citation-popover-snippet">It is based on a romantic and, at the same time, tragic history.Read more...</span></span></span>
+
+Sceptics point to more familiar explanations. Atmospheric lighting, expectation, suggestibility and the emotional impact of historic surroundings can all encourage people to interpret ambiguous sights or sounds as supernatural. They also note that both legends fit widespread European patterns: aristocratic castles frequently acquire "Black Lady" or "White Lady" ghosts attached to historical women whose lives ended unhappily.
+
+Neither perspective entirely diminishes the stories. Even if every reported apparition could be explained naturally, the legends would still matter because they have become part of how these castles are experienced and remembered.
+
+
+
+<img src="{{ "/assets/images/Belarus_027a12_castle_ghosts_00f21f-Illustration-3-dark.svg" | relative_url }}" alt="Castle Ghosts illustration 3" data-theme-src-dark="{{ "/assets/images/Belarus_027a12_castle_ghosts_00f21f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Belarus_027a12_castle_ghosts_00f21f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
+
+## Why These Ghosts Matter in Belarusian Forteana
+
+The Black Lady of Nesvizh and the White Maiden of Mir illustrate an important feature of Belarusian Fortean tradition: the country's strongest strange stories are often inseparable from genuine historical places. They are less about collecting evidence for ghosts than about preserving memory through folklore.
+
+That makes these castles unusual within Belarus's wider catalogue of strange traditions. Their legends have survived political upheaval, changing borders, Soviet rule and modern restoration because each generation has found new reasons to retell them. Today they function simultaneously as folklore, local identity, visitor attraction and historical storytelling, showing how ghost legends can become part of a nation's cultural landscape without requiring anyone to settle the question of whether the ghosts themselves are real.
+
+
+
+<div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lajAZYYMfOM" title="The TWO MOST FAMOUS castles in Belarus 🇧🇾" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lajAZYYMfOM" target="_blank" rel="noopener noreferrer">The TWO MOST FAMOUS castles in Belarus 🇧🇾</a></p><p class="youtube-embed-meta">Channel: Nelvando</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lajAZYYMfOM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lajAZYYMfOM">Open on YouTube</a></p></div></div></div>
+
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Do Belarus&#x27;s Castles Have Ghosts?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+2+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rough Guide to Unexplained Phenomena 2 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2025748-M.jpg" alt="Cover for The Rough Guide to Unexplained Phenomena 2" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+2+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Unexplained Phenomena 2">The Rough Guide to Unexplained Phenomena 2</a>
+</h4>
+<p class="fr-book-author">By Rough Guides</p>
+        
+<p class="fr-book-desc">First published 2007.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+2+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghostland+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghostland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13074544-M.jpg" alt="Cover for Ghostland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghostland+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland">Ghostland</a>
+</h4>
+<p class="fr-book-author">By Colin Dickey</p>
+        
+<p class="fr-book-desc">First published 2016. Subjects: Haunted places, nyt:travel=2016-11-13, New York Times bestseller, New York Times reviewed, United states,...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghostland+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Haunted+Castles+of+Europe+Marc+Alexander&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Haunted Castles of Europe on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Haunted+Castles+of+Europe+Marc+Alexander&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Castles of Europe">Haunted Castles of Europe</a>
+</h4>
+<p class="fr-book-author">By Marc Alexander</p>
+        
+<p class="fr-book-desc">Directly aligns with haunted castles such as Nesvizh and Mir.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Haunted+Castles+of+Europe+Marc+Alexander&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+World%27s+Most+Mysterious+Places+Lionel+and+Patricia+Fanthorpe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World&#x27;s Most Mysterious Places on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+World%27s+Most+Mysterious+Places+Lionel+and+Patricia+Fanthorpe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World&#x27;s Most Mysterious Places">The World&#x27;s Most Mysterious Places</a>
+</h4>
+<p class="fr-book-author">By Lionel and Patricia Fanthorpe</p>
+        
+<p class="fr-book-desc">Covers famous haunted sites and historical mysteries.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+World%27s+Most+Mysterious+Places+Lionel+and+Patricia+Fanthorpe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rough+to+Unexplained+Phenomena+2+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rough to Unexplained Phenomena 2 books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghostland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghostland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Haunted+Castles+of+Europe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Haunted Castles of Europe</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
+</section>
+
+<section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Live-tested eBay searches with available results related to this page.</p>
+
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
+
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=monster+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="monster art print" data-ebay-reference="castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for MONSTER 02 VINTAGE CLASSIC B-MOVIE REPRODUCTION ART PRINT A4 A3 A2 A1"><img src="{{ '/assets/images/marketplace-covers/c182e0099d3d4bb76f72.jpg' | relative_url }}" alt="Listing image for MONSTER 02 VINTAGE CLASSIC B-MOVIE REPRODUCTION ART PRINT A4 A3 A2 A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=monster+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="monster art print" data-ebay-reference="castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print" target="_blank" rel="sponsored noopener noreferrer">MONSTER 02 VINTAGE CLASSIC B-MOVIE REPRODUCTION ART PRINT A4 A3 A2 A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=monster+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="monster art print" data-ebay-reference="castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for monster art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: monster art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=monster+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="monster art print" data-ebay-reference="castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=monster+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="monster art print" data-ebay-reference="castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Colorful Monster Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/09b52e6ccdfaa60102a7.jpg' | relative_url }}" alt="Listing image for Colorful Monster Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=monster+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="monster art print" data-ebay-reference="castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print" target="_blank" rel="sponsored noopener noreferrer">Colorful Monster Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=monster+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="monster art print" data-ebay-reference="castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for monster art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: monster art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=monster+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="monster art print" data-ebay-reference="castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=monster+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="monster art print" data-ebay-reference="castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &#x27;Monster&#x27; Art Print Framed Wall Art Poster Canvas Print Picture"><img src="{{ '/assets/images/marketplace-covers/cd3de05b6b5cd09b969d.jpg' | relative_url }}" alt="Listing image for &#x27;Monster&#x27; Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=monster+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="monster art print" data-ebay-reference="castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print" target="_blank" rel="sponsored noopener noreferrer">&#x27;Monster&#x27; Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=monster+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="monster art print" data-ebay-reference="castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for monster art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: monster art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=monster+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="monster art print" data-ebay-reference="castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=monster+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="monster art print" data-ebay-reference="castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for &quot;Blancmange-ster&quot; Monster Art Print – Original Character Illustration A4"><img src="{{ '/assets/images/marketplace-covers/21985ac083eb8765d67b.jpg' | relative_url }}" alt="Listing image for &quot;Blancmange-ster&quot; Monster Art Print – Original Character Illustration A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=monster+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="monster art print" data-ebay-reference="castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print" target="_blank" rel="sponsored noopener noreferrer">&quot;Blancmange-ster&quot; Monster Art Print – Original Character Illustration A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=monster+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="monster art print" data-ebay-reference="castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for monster art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: monster art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=monster+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="monster art print" data-ebay-reference="castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=monster+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="monster art print" data-ebay-reference="castle-ghosts-why-do-belarus-s-castles-have-ghosts-belarus-monster-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
+(function () {
+  if (window.PhoenixAffiliateLocation) return;
+  var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
+  var timezoneRules = [{"market": "EBAY_IE", "pattern": "^Europe/Dublin$"}, {"market": "EBAY_GB", "pattern": "^Europe/(London|Belfast)$"}, {"market": "EBAY_CA", "pattern": "^America/(Toronto|Vancouver|Edmonton|Winnipeg|Halifax|St_Johns|Regina|Saskatoon|Whitehorse|Dawson|Moncton|Glace_Bay|Goose_Bay|Iqaluit|Yellowknife|Inuvik|Rankin_Inlet|Resolute|Cambridge_Bay|Fort_Nelson|Creston|Dawson_Creek)$"}, {"market": "EBAY_US", "pattern": "^America/"}, {"market": "EBAY_DE", "pattern": "^Europe/Berlin$"}, {"market": "EBAY_FR", "pattern": "^Europe/Paris$"}, {"market": "EBAY_IT", "pattern": "^Europe/Rome$"}, {"market": "EBAY_ES", "pattern": "^Europe/Madrid$"}, {"market": "EBAY_AU", "pattern": "^Australia/"}, {"market": "EBAY_AU", "pattern": "^Pacific/(Auckland|Chatham)$"}];
+  function normalize(value) {
+    return String(value || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function localeMatches() {
+    var languages = [];
+    var exactMarket = '';
+    var languageMarket = '';
+    try {
+      if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
+      else if (navigator.language) languages = [navigator.language];
+    } catch (err) {}
+    for (var i = 0; i< languages.length; i += 1) {
+      var normalized = normalize(languages[i]);
+      if (!normalized) continue;
+      if (localeMarketMap[normalized]) {
+        exactMarket = localeMarketMap[normalized];
+        break;
+      }
+      var languageOnly = normalized.split('-')[0];
+      if (!languageMarket && localeMarketMap[languageOnly]) languageMarket = localeMarketMap[languageOnly];
+    }
+    return { exact: exactMarket, language: languageMarket };
+  }
+  function inferFromLocale() {
+    var matches = localeMatches();
+    return matches.exact || matches.language || '';
+  }
+  function inferFromTimezone() {
+    var tz = '';
+    try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
+    if (!tz) return '';
+    for (var i = 0; i< timezoneRules.length; i += 1) {
+      var rule = timezoneRules[i] || {};
+      try {
+        if (new RegExp(rule.pattern).test(tz)) return rule.market;
+      } catch (err) {}
+    }
+    return '';
+  }
+  function inferMarket(available, options) {
+    available = Array.isArray(available) ? available : [];
+    options = options || {};
+    var storageKey = options.storageKey || 'phoenix-affiliate-market';
+    try {
+      var saved = window.localStorage && localStorage.getItem(storageKey);
+      if (saved && available.indexOf(saved) >= 0) return saved;
+    } catch (err) {}
+    var timezoneMarket = inferFromTimezone();
+    if (timezoneMarket && available.indexOf(timezoneMarket) >= 0) return timezoneMarket;
+    var localeMarkets = localeMatches();
+    if (localeMarkets.exact && available.indexOf(localeMarkets.exact) >= 0) return localeMarkets.exact;
+    if (localeMarkets.language && available.indexOf(localeMarkets.language) >= 0) return localeMarkets.language;
+    if (options.defaultMarket && available.indexOf(options.defaultMarket) >= 0) return options.defaultMarket;
+    return available[0] || '';
+  }
+  window.PhoenixAffiliateLocation = {
+    normalize: normalize,
+    inferMarket: inferMarket,
+    inferFromLocale: inferFromLocale,
+    inferFromTimezone: inferFromTimezone
+  };
+})();
+</script>
+<script type="text/javascript">
+(function () {
+  var sections = document.querySelectorAll('[data-ebay-localized-links]');
+  if (!sections.length) return;
+  var markets = {"EBAY_AU": {"campaign_id": "5339151051", "domain_label": "eBay.com.au", "label": "Australia", "mkrid": "705-53470-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com.au/sch/i.html?_nkw={query}"}, "EBAY_CA": {"campaign_id": "5339151051", "domain_label": "eBay.ca", "label": "Canada", "mkrid": "706-53473-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ca/sch/i.html?_nkw={query}"}, "EBAY_GB": {"campaign_id": "5339151051", "domain_label": "eBay.co.uk", "label": "UK", "mkrid": "710-53481-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.co.uk/sch/i.html?_nkw={query}"}, "EBAY_IE": {"campaign_id": "5339151051", "domain_label": "eBay.ie", "label": "Ireland", "mkrid": "5282-53468-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.ie/sch/i.html?_nkw={query}"}, "EBAY_US": {"campaign_id": "5339151051", "domain_label": "eBay.com", "label": "USA", "mkrid": "711-53200-19255-0", "tool_id": "10001", "url_template": "https://www.ebay.com/sch/i.html?_nkw={query}"}};
+  var defaultMarket = "EBAY_GB";
+  function encodeQuery(value) {
+    return encodeURIComponent(String(value || '').replace(/\s+/g, ' ').trim()).replace(/%20/g, '+');
+  }
+  function buildUrl(query, reference, marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket];
+    if (!cfg) return '#';
+    var template = String(cfg.url_template || 'https://www.ebay.com/sch/i.html?_nkw={query}');
+    var url = template.replace('{query}', encodeQuery(query || '')).replace('{query_plain}', String(query || ''));
+    var joiner = url.indexOf('?') >= 0 ? '&' : '?';
+    var params = [];
+    if (cfg.mkrid) params.push('mkrid=' + encodeURIComponent(cfg.mkrid));
+    if (cfg.campaign_id) params.push('campid=' + encodeURIComponent(cfg.campaign_id));
+    params.push('mkevt=1');
+    params.push('mkcid=1');
+    params.push('toolid=' + encodeURIComponent(cfg.tool_id || '10001'));
+    if (reference) params.push('customid=' + encodeURIComponent(reference).slice(0, 256));
+    return url + joiner + params.join('&');
+  }
+  function domainLabel(marketId) {
+    var cfg = markets[marketId] || markets[defaultMarket] || {};
+    return cfg.domain_label || 'eBay';
+  }
+  function flagClass(marketId) {
+    return 'fr-ebay-market-flag fr-ebay-market-flag--' + String(marketId || '').toLowerCase().replace(/_/g, '-').replace(/[^a-z0-9-]+/g, '');
+  }
+  function closeMenu(section) {
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var picker = section.querySelector('.fr-ebay-market-picker');
+    if (menu) menu.hidden = true;
+    if (trigger) trigger.setAttribute('aria-expanded', 'false');
+    if (picker) picker.classList.remove('fr-ebay-market-picker--open');
+  }
+  function availableMarkets(section) {
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      return Array.prototype.slice.call(select.options)
+        .map(function (option) { return option.value; })
+        .filter(function (marketId) { return !!markets[marketId]; });
+    }
+    return Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]'))
+      .map(function (button) { return button.getAttribute('data-ebay-market-button'); })
+      .filter(function (marketId) { return !!markets[marketId]; });
+  }
+  function applyMarket(section, marketId, persist) {
+    var available = availableMarkets(section);
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
+      var query = link.getAttribute('data-ebay-query') || '';
+      var reference = link.getAttribute('data-ebay-reference') || '';
+      link.setAttribute('href', buildUrl(query, reference, marketId));
+    });
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select && available.indexOf(marketId) >= 0) select.value = marketId;
+    var selectedText = marketId;
+    if (select && select.selectedIndex >= 0) selectedText = select.options[select.selectedIndex].text;
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-selected-market-flag], [data-ebay-trigger-market-flag]')).forEach(function (flag) {
+      flag.className = flagClass(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-trigger-market-label]')).forEach(function (label) {
+      label.textContent = selectedText;
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-domain-label]')).forEach(function (label) {
+      label.textContent = domainLabel(marketId);
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+      button.setAttribute('aria-selected', button.getAttribute('data-ebay-market-option') === marketId ? 'true' : 'false');
+    });
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      var active = button.getAttribute('data-ebay-market-button') === marketId;
+      button.setAttribute('aria-pressed', active ? 'true' : 'false');
+    });
+    section.setAttribute('data-ebay-selected-market', marketId);
+    if (persist) {
+      try { if (window.localStorage) localStorage.setItem('phoenix-ebay-market', marketId); } catch (err) {}
+    }
+    closeMenu(section);
+  }
+  sections.forEach(function (section) {
+    if (section.getAttribute('data-ebay-localized-init') === '1') return;
+    section.setAttribute('data-ebay-localized-init', '1');
+    var available = availableMarkets(section);
+    var marketId = defaultMarket;
+    if (window.PhoenixAffiliateLocation && window.PhoenixAffiliateLocation.inferMarket) {
+      marketId = window.PhoenixAffiliateLocation.inferMarket(available, {
+        storageKey: 'phoenix-ebay-market',
+        defaultMarket: defaultMarket
+      });
+    } else if (available.indexOf(defaultMarket)< 0) {
+      marketId = available[0] || defaultMarket;
+    }
+    var select = section.querySelector('[data-ebay-market-select]');
+    if (select) {
+      select.addEventListener('change', function () {
+        applyMarket(section, select.value, true);
+      });
+    }
+    var trigger = section.querySelector('[data-ebay-market-trigger]');
+    var menu = section.querySelector('[data-ebay-market-menu]');
+    if (trigger && menu) {
+      trigger.addEventListener('click', function (event) {
+        event.stopPropagation();
+        var expanded = trigger.getAttribute('aria-expanded') === 'true';
+        menu.hidden = expanded;
+        trigger.setAttribute('aria-expanded', expanded ? 'false' : 'true');
+        var picker = trigger.closest('.fr-ebay-market-picker');
+        if (picker) picker.classList.toggle('fr-ebay-market-picker--open', !expanded);
+      });
+      Array.prototype.slice.call(menu.querySelectorAll('[data-ebay-market-option]')).forEach(function (button) {
+        button.addEventListener('click', function (event) {
+          event.stopPropagation();
+          applyMarket(section, button.getAttribute('data-ebay-market-option'), true);
+        });
+      });
+      document.addEventListener('click', function () { closeMenu(section); });
+    }
+    Array.prototype.slice.call(section.querySelectorAll('[data-ebay-market-button]')).forEach(function (button) {
+      button.addEventListener('click', function () {
+        applyMarket(section, button.getAttribute('data-ebay-market-button'), true);
+      });
+    });
+    applyMarket(section, marketId, false);
+  });
+})();
+</script>
+</section>
+
+## Endnotes
+
+1.<a id="endnote-1"></a>
+   Source: Wikipedia  
+   Title: Nesvizh Castle  
+   Link:<a href="https://en.wikipedia.org/wiki/Nesvizh_Castle" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nesvizh_Castle</a>  
+
+2.<a id="endnote-2"></a>
+   Source: Wikipedia  
+   Title: Mir Castle Complex  
+   Link:<a href="https://en.wikipedia.org/wiki/Mir_Castle_Complex" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mir_Castle_Complex</a>  
+
+3.<a id="endnote-3"></a>
+   Source: belarus.by  
+   Title: What to see in Nesvizh: A UNESCO World  
+   Link:<a href="https://www.belarus.by/en/travel/top-guide-belarus/what-to-see-in-nesvizh-a-unesco-world-heritage-site-and-many-other-attractions_i_0000119730.html" target="_blank" rel="noopener noreferrer nofollow">https://www.belarus.by/en/travel/top-guide-belarus/what-to-see-in-nesvizh-a-unesco-world-heritage-site-and-many-other-attractions_i_0000119730.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The legendary Nesvizh is worth seeing just for its magnificent 16th-century palace: a UNESCO World Heritage site, a former residence of t...</p></details>
+
+4.<a id="endnote-4"></a>
+   Source: pda.ekskursii.by  
+   Title: Black Lady of Nesvizh  
+   Link:<a href="https://pda.ekskursii.by/en/?Legendy=45_Chernaya_dama_Nesvizha" target="_blank" rel="noopener noreferrer nofollow">https://pda.ekskursii.by/en/?Legendy=45_Chernaya_dama_Nesvizha</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is based on a romantic and, at the same time, tragic history.Read more...</p></details>
+
+5.<a id="endnote-5"></a>
+   Source: pda.ekskursii.by  
+   Title: by Mystical tourism  
+   Link:<a href="https://pda.ekskursii.by/en/?Misticheskij_turizm=" target="_blank" rel="noopener noreferrer nofollow">https://pda.ekskursii.by/en/?Misticheskij_turizm=</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It is based on a romantic and, at the same time, tragic story, which...Read more...</p></details>
+
+6.<a id="endnote-6"></a>
+   Source: youtube.com  
+   Title: The TWO MOST FAMOUS castles in Belarus  
+   Link:<a href="https://www.youtube.com/watch?v=lajAZYYMfOM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lajAZYYMfOM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Belarus | Europe&#x27;s Hidden Heart – Castles, Forests &amp; Untold History...</p></details>
+
+7.<a id="endnote-7"></a>
+   Source: youtube.com  
+   Title: Belarus | Europe's Hidden Heart – Castles, Forests & Untold History  
+   Link:<a href="https://www.youtube.com/watch?v=TtoHQGGUZ4c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TtoHQGGUZ4c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Nesvizh Castle. Belarus. Живые истории - Living history...</p></details>
+
+8.<a id="endnote-8"></a>
+   Source: belarus4you.wordpress.com  
+   Title: top 5 most famous ghosts in belarus by migalayte  
+   Link:<a href="https://belarus4you.wordpress.com/2012/08/14/top-5-most-famous-ghosts-in-belarus-by-migalayte/" target="_blank" rel="noopener noreferrer nofollow">https://belarus4you.wordpress.com/2012/08/14/top-5-most-famous-ghosts-in-belarus-by-migalayte/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Black Dame of Nesvizh One of the most legendary ghosts inhabit the Belarusian Nesvizh Castle. Dark nights of the ancient alleys of the pa...</p></details>
+
+9.<a id="endnote-9"></a>
+   Source: turistas.me  
+   Link:<a href="https://turistas.me/en/posts/id1813-mir-castle-in-belarus-the-legend-of-the-white-maiden" target="_blank" rel="noopener noreferrer nofollow">https://turistas.me/en/posts/id1813-mir-castle-in-belarus-the-legend-of-the-white-maiden</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ТУРИСТАСMir Castle in Belarus: the legend of the White MaidenDecember 14, 2025 — 15 Dec 2025 — People say the White Maiden is the spirit...</p></details>
+   Published: December 14, 2025  
+
+### Additional References
+
+10.<a id="endnote-10"></a>
+   Source: vetliva.medium.com  
+   Title: places in Belarus where you can meet ghosts  
+   Link:<a href="https://vetliva.medium.com/ghosts-wanted-places-in-belarus-where-you-can-meet-ghosts-9544754929b6" target="_blank" rel="noopener noreferrer nofollow">https://vetliva.medium.com/ghosts-wanted-places-in-belarus-where-you-can-meet-ghosts-9544754929b6</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>in Belarus where you can meet ghosts - VetlivaThe most famous ghost of Mir Castle is princess Sonechka, who drowned in the local lake. Th...</p></details>
+
+11.<a id="endnote-11"></a>
+   Source: aroundcard.com  
+   Title: Ghost of the Black Lady in Nesvizh castle  
+   Link:<a href="https://aroundcard.com/en/card/69/ghost-of-the-black-lady-in-nesvizh-castle/" target="_blank" rel="noopener noreferrer nofollow">https://aroundcard.com/en/card/69/ghost-of-the-black-lady-in-nesvizh-castle/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>11 Sept 2014 — According to the legend in Nesvizh castle one can meet the ghost of the Black Lady, the beloved wife of Zygmunt...</p></details>
+
+12.<a id="endnote-12"></a>
+   Source: penguintravel.com  
+   Link:<a href="https://www.penguintravel.com/New/532/0/EnchantingNesvizhCastle-AJourneythroughBelarusianHistory.html" target="_blank" rel="noopener noreferrer nofollow">https://www.penguintravel.com/New/532/0/EnchantingNesvizhCastle-AJourneythroughBelarusianHistory.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enchanting Nesvizh Castle: A Journey through Belarusian...10 Jul 2023 — One intriguing story involves the &quot;Black Lady,&quot; a ghostly appari...</p></details>
+
+13.<a id="endnote-13"></a>
+   Source: youtube.com  
+   Title: Nesvizh Castle in Belarus | UNESCO World Heritage | 8K VR180 Walking Tour  
+   Link:<a href="https://www.youtube.com/watch?v=zg7EOmyfvZg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zg7EOmyfvZg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mir Castle Belarus in 8K VR180 | Step Inside a UNESCO World Heritage Castle...</p></details>
+
+14.<a id="endnote-14"></a>
+   Source: youtube.com  
+   Title: Mir Castle Belarus in 8K VR180 | Step Inside a UNESCO World Heritage Castle  
+   Link:<a href="https://www.youtube.com/watch?v=WLz2W3BVVcQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WLz2W3BVVcQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The TWO MOST FAMOUS castles in Belarus...</p></details>

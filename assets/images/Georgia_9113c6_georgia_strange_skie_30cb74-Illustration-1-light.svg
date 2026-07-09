@@ -1,0 +1,304 @@
+<?xml version='1.0' encoding='utf-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1080" viewBox="0 0 1920 1080" data-theme="light">
+  <style>
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Regular.ttf') format('truetype');
+            font-weight: 400;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 600;
+            font-style: normal;
+            font-display: swap;
+        }
+        @font-face {
+            font-family: 'Inter';
+            src: url('assets/fonts/Inter-Bold.ttf') format('truetype');
+            font-weight: 800;
+            font-style: normal;
+            font-display: swap;
+        }
+        
+:root {
+    --background: #f8fafc;
+    --panel: #ffffff;
+    --primary-text: #0f172a;
+    --muted-text: #64748b;
+    --inverse-text: #ffffff;
+    --border: #e2e8f0;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #0891b2;
+    --art-glow-opacity: 0.10;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.34;
+    --art-shadow: #0f172a;
+    --art-shadow-opacity: 0.14;
+    --art-muted-line: #94a3b8;
+    --art-panel-tint: #f1f5f9;
+    --font-family: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --radius-xl: 16px;
+    --font-family-headline: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-family-body: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-heading: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-body: 'Inter', 'Segoe UI', 'Kalam', Roboto, Helvetica, Arial, sans-serif;
+    --font-size-h1: 56px;
+    --font-size-h2: 40px;
+    --font-size-h3: 28px;
+    --font-size-body: 24px;
+    --font-size-caption: 18px;
+    --secondary-text: var(--muted-text);
+    --panel-border: var(--border);
+    --font-weight-normal: 400;
+    --font-weight-medium: 500;
+    --font-weight-semibold: 600;
+    --font-weight-bold: 700;
+    --spacing-gutter-pct: 0.07;
+    --spacing-top-pct: 0.15;
+    --spacing-bottom-pct: 0.07;
+    --spacing-title-y-pct: 0.055;
+    --accent-1: #3b82f6;
+    --accent-2: #22c55e;
+    --accent-3: #f59e0b;
+    --accent-4: #ec4899;
+    --accent-5: #8b5cf6;
+    --accent-6: #06b6d4;
+}
+:root[data-theme="dark"] {
+    --background: #0f172a;
+    --panel: #1e293b;
+    --primary-text: #f1f5f9;
+    --muted-text: #94a3b8;
+    --inverse-text: #0f172a;
+    --border: #334155;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #7dd3fc;
+    --art-glow-opacity: 0.18;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.18;
+    --art-shadow: #000000;
+    --art-shadow-opacity: 0.28;
+    --art-muted-line: #64748b;
+    --art-panel-tint: #1e293b;
+    --accent-1: #93c5fd;
+    --accent-2: #86efac;
+    --accent-3: #fcd34d;
+    --accent-4: #f9a8d4;
+    --accent-5: #c4b5fd;
+    --accent-6: #a5f3fc;
+}
+:root[data-theme="light"] {
+    --background: #f8fafc;
+    --panel: #ffffff;
+    --primary-text: #0f172a;
+    --muted-text: #64748b;
+    --inverse-text: #ffffff;
+    --border: #e2e8f0;
+    --shadow-color: #000000;
+    --icon-pad-bg: #1e293b;
+    --art-glow: #0891b2;
+    --art-glow-opacity: 0.10;
+    --art-sheen: #ffffff;
+    --art-sheen-opacity: 0.34;
+    --art-shadow: #0f172a;
+    --art-shadow-opacity: 0.14;
+    --art-muted-line: #94a3b8;
+    --art-panel-tint: #f1f5f9;
+    --accent-1: #3b82f6;
+    --accent-2: #22c55e;
+    --accent-3: #f59e0b;
+    --accent-4: #ec4899;
+    --accent-5: #8b5cf6;
+    --accent-6: #06b6d4;
+}</style>
+  <rect x="0" y="0" width="1.92E+3" height="1.08E+3" fill="#252a34" stroke="none" id="programmatic_background"/>
+  <line id="HEADER_DECOR" x1="960.0" x2="1080.0" y1="135.0" y2="135.0" stroke="var(--accent-1)" stroke-width="6" stroke-linecap="round"/>
+  <defs>
+    <pattern id="svgf4e5d922-napkin-hatch" patternUnits="userSpaceOnUse" width="12" height="12">
+      <path d="M -3 12 L 12 -3 M 0 15 L 15 0" fill="none" stroke="var(--primary-text)" stroke-width="1" stroke-opacity="0.05"/>
+    </pattern>
+    <radialGradient id="svgf4e5d922-universal-edge-vignette" cx="50%" cy="50%" r="72%">
+      <stop offset="0%" stop-color="var(--background)" stop-opacity="0"/>
+      <stop offset="72%" stop-color="var(--background)" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="var(--primary-text)" stop-opacity="0.08"/>
+    </radialGradient>
+    <linearGradient id="svgf4e5d922-universal-surface-sheen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--art-sheen)" stop-opacity="var(--art-sheen-opacity)"/>
+      <stop offset="46%" stop-color="var(--art-sheen)" stop-opacity="0.035"/>
+      <stop offset="100%" stop-color="var(--art-panel-tint)" stop-opacity="0.14"/>
+    </linearGradient>
+    <radialGradient id="svgf4e5d922-universal-icon-aura" cx="50%" cy="42%" r="64%">
+      <stop offset="0%" stop-color="var(--art-glow)" stop-opacity="var(--art-glow-opacity)"/>
+      <stop offset="100%" stop-color="var(--background)" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="svgf4e5d922-timeline-snake-route-glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--art-glow)" stop-opacity="0"/>
+      <stop offset="48%" stop-color="var(--art-glow)" stop-opacity="var(--art-glow-opacity)"/>
+      <stop offset="100%" stop-color="var(--art-glow)" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="svgf4e5d922-timeline-snake-card-sheen" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="var(--art-sheen)" stop-opacity="var(--art-sheen-opacity)"/>
+      <stop offset="100%" stop-color="var(--art-panel-tint)" stop-opacity="0.12"/>
+    </linearGradient>
+    <filter id="svgf4e5d922-text-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="0" stdDeviation="2" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+    <filter id="svgf4e5d922-shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.08"/>
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.12"/>
+    </filter>
+    <marker id="svgf4e5d922-arrowhead" markerWidth="10" markerHeight="7" refX="9" refY="3.5" orient="auto" markerUnits="strokeWidth">
+      <polygon points="0 0, 10 3.5, 0 7" fill="var(--muted-text)" opacity="0.6"/>
+    </marker>
+  </defs>
+  <rect width="100%" height="100%" fill="var(--background)" id="CANVAS_BG"/>
+  <rect width="100%" height="100%" fill="url(#svgf4e5d922-napkin-hatch)"/>
+  <rect id="UNIVERSAL_EDGE_VIGNETTE" width="100%" height="100%" fill="url(#svgf4e5d922-universal-edge-vignette)" opacity="0.62"/>
+  <text id="TITLE" x="960.0" y="59" font-size="63" font-weight="700" fill="#0f172a" style="font-size: 60px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-1.2px;" text-anchor="middle" data-final-font-size="60">
+    <tspan x="960.0" dy="68.00px">Chronology of King Mirian's Darkness</tspan>
+  </text>
+  <rect id="TITLE_FRAME" x="134" y="59" width="1652" height="103" fill="none"/>
+  <g id="DIAGRAM_SCALER" transform="translate(50.3, 31.5) scale(0.95)">
+    <path d="M 300 360 L 1620 360 C 1770 360 1770 780 1620 780 L 630 780" fill="none" stroke="var(--muted-text)" stroke-width="5" stroke-linecap="round" stroke-opacity="0.26"/>
+    <g transform="translate(300.0, 360.0)">
+      <circle id="ITEM_1_BG" r="50" fill="var(--accent-5)" stroke="var(--accent-1)" stroke-width="2" fill-opacity="1.0"/>
+      <rect id="ITEM_1_TEXT_BG" x="-208.0" y="89.0" width="416.0" height="202.0" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--primary-text)" stroke-opacity="0.12" stroke-width="1.5"/>
+      <rect id="TIMELINE_SNAKE_ART_CARD_SHEEN_1" x="-208.0" y="89.0" width="416.0" height="202.0" rx="16" fill="url(#svgf4e5d922-timeline-snake-card-sheen)" opacity="0.78" stroke="var(--accent-5)" stroke-opacity="1.0"/>
+      <text id="ITEM_1_HEAD" text-anchor="middle" font-weight="bold" font-size="27" fill="var(--primary-text)" x="0.0" y="105.0" data-bg-id="ITEM_1_TEXT_BG" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+        <tspan x="0.0" dy="30.75px">Hunting Expedition</tspan>
+      </text>
+      <rect id="ITEM_1_HEAD_FRAME" x="-190" y="105" width="380" height="45" fill="none"/>
+      <text id="ITEM_1_BODY" text-anchor="middle" font-size="19.5" fill="var(--primary-text)" x="0.0" y="155.0" data-bg-id="ITEM_1_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" opacity="0.9" data-final-font-size="26">
+        <tspan x="0.0" dy="32.84px">King Mirian III travels</tspan>
+        <tspan x="0.0" dy="29.90px">near Mtskheta for a hunt</tspan>
+      </text>
+      <rect id="ITEM_1_BODY_FRAME" x="-190" y="155.0" width="380" height="120" fill="none"/>
+      <circle id="TIMELINE_SNAKE_ART_MILESTONE_AURA_1" cx="0" cy="0" r="58" fill="url(#svgf4e5d922-universal-icon-aura)" opacity="0.82" stroke="var(--accent-5)" stroke-opacity="1.0"/>
+      <circle id="ITEM_1_PAD" cx="0" cy="0" r="39" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" opacity="0.9" fill-opacity="0.9" stroke-width="2"/>
+      <circle id="ITEM_1_PAD_INNER" cx="0" cy="0" r="30.42" fill="var(--accent-5)" fill-opacity="0.22"/>
+      <circle cx="0" cy="0" r="31.2" fill="none" stroke="var(--accent-1)" stroke-width="3" stroke-dasharray="6 4"/>
+      <g id="ITEM_1_ICON" transform="translate(-30.0, -30.0)" data-icon-size="60" stroke-dasharray="6 4">
+        <g transform="translate(-4.765714285714288,-4.765714285714288) scale(2.172857142857143)">
+          <path d="M2.525 22.9386L5.505 19.9586C5.755 19.6986 6.095 19.5386 6.455 19.4986L11.775 18.7886L8.99492 22.6507L5.075 25.4886C4.365 26.1886 3.225 26.1886 2.525 25.4886C1.825 24.7786 1.825 23.6386 2.525 22.9386Z" fill="#635994"/>
+          <path d="M8.99492 29.4685L11.9749 26.4885C12.2349 26.2285 12.3949 25.8985 12.4349 25.5385L13.1449 20.2185L9.28867 23.0539L6.44492 26.9185C5.74492 27.6285 5.74492 28.7685 6.44492 29.4685C7.15492 30.1685 8.29492 30.1685 8.99492 29.4685Z" fill="#635994"/>
+          <path d="M23.8229 6.73645L25.2371 6.84396V8.15066L6.55208 26.8357C6.16155 27.2262 5.52839 27.2262 5.13786 26.8357C4.74734 26.4451 4.74734 25.812 5.13786 25.4214L23.8229 6.73645Z" fill="#F3AD61"/>
+          <path d="M17.585 6.38853V6.37853C15.975 5.92853 14.255 5.88853 12.565 6.27853C10.7472 6.70931 8.87731 6.30873 7.41595 5.2047L5.73111 6.38853L4.65064 7.97001C7.08481 10.0169 10.316 10.8007 13.455 10.0685C14.495 9.82853 15.545 9.85853 16.525 10.1285L18.0597 8.5321L17.555 6.38853H17.585Z" fill="#7D4533"/>
+          <path d="M3.9187 7.28774C3.23596 6.52309 3.26141 5.34251 3.99505 4.61853C4.72851 3.89472 5.89971 3.86945 6.66374 4.5427L5.47533 6.27853L3.9187 7.28774Z" fill="#7D4533"/>
+          <path d="M25.335 13.6185L22.9365 13.1702L21.695 14.9585C22.105 16.0785 22.195 17.3085 21.905 18.5285C21.1804 21.635 21.9405 24.8316 23.9401 27.2568L25.695 26.1809L26.7155 24.4906C25.6608 23.0409 25.2802 21.2046 25.695 19.4185C26.155 17.4385 26.015 15.4385 25.335 13.6185Z" fill="#7D4533"/>
+          <path d="M27.3682 25.2519L25.695 26.5049L24.6138 27.9973C25.3744 28.7485 26.5979 28.7456 27.355 27.9885C28.1105 27.233 28.115 26.0129 27.3682 25.2519Z" fill="#7D4533"/>
+          <path d="M25.335 13.6185L21.685 14.9585C21.375 14.0985 20.885 13.3385 20.245 12.6985L19.275 11.7285C18.515 10.9685 17.565 10.4185 16.525 10.1285L17.555 6.37854C19.245 6.83854 20.785 7.73854 22.025 8.97854L22.995 9.94854C24.035 10.9985 24.825 12.2285 25.335 13.6185Z" fill="#FCD53F"/>
+          <path d="M29.395 2.01858L22.055 3.98858C21.715 4.07858 21.595 4.50858 21.845 4.75858L27.225 10.1386C27.475 10.3886 27.905 10.2786 27.995 9.92858L29.965 2.58858C30.055 2.23858 29.735 1.91858 29.395 2.01858Z" fill="#D3D3D3"/>
+          <path d="M4.49857 8.12208C4.30331 8.31734 3.98673 8.31734 3.79147 8.12208C3.5962 7.92682 3.5962 7.61023 3.79147 7.41497L6.82147 4.38497C7.01673 4.18971 7.33331 4.18971 7.52857 4.38497C7.72383 4.58023 7.72383 4.89682 7.52857 5.09208L4.49857 8.12208Z" fill="#D3D3D3"/>
+          <path d="M4.72688 8.0335C5.05152 8.30116 5.38998 8.5466 5.74019 8.76925L6.02191 24.5374L5.13787 25.4214C5.10177 25.4575 5.06901 25.4957 5.03958 25.5356L4.72688 8.0335Z" fill="#D3D3D3"/>
+          <path d="M23.1966 26.2314L7.45341 25.9343L6.55208 26.8357C6.52324 26.8645 6.49307 26.8912 6.46177 26.9158L23.9307 27.2454C23.6636 26.9205 23.4187 26.5818 23.1966 26.2314Z" fill="#D3D3D3"/>
+          <path d="M26.8221 24.3844C27.0176 24.1894 27.3342 24.19 27.5292 24.3856C27.7241 24.5811 27.7236 24.8977 27.528 25.0927L24.498 28.1127C24.3024 28.3076 23.9858 28.3071 23.7909 28.1115C23.5959 27.9159 23.5965 27.5993 23.7921 27.4044L26.8221 24.3844Z" fill="#D3D3D3"/>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(960.0, 360.0)">
+      <circle id="ITEM_2_BG" r="50" fill="var(--accent-6)" stroke="var(--accent-2)" stroke-width="2" fill-opacity="1.0"/>
+      <rect id="ITEM_2_TEXT_BG" x="-208.0" y="89.0" width="416.0" height="202.0" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--primary-text)" stroke-opacity="0.12" stroke-width="1.5"/>
+      <rect id="TIMELINE_SNAKE_ART_CARD_SHEEN_2" x="-208.0" y="89.0" width="416.0" height="202.0" rx="16" fill="url(#svgf4e5d922-timeline-snake-card-sheen)" opacity="0.78" stroke="var(--accent-6)" stroke-opacity="1.0"/>
+      <text id="ITEM_2_HEAD" text-anchor="middle" font-weight="bold" font-size="27" fill="var(--primary-text)" x="0.0" y="105.0" data-bg-id="ITEM_2_TEXT_BG" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+        <tspan x="0.0" dy="30.75px">Sudden Darkness</tspan>
+      </text>
+      <rect id="ITEM_2_HEAD_FRAME" x="-190" y="105" width="380" height="45" fill="none"/>
+      <text id="ITEM_2_BODY" text-anchor="middle" font-size="19.5" fill="var(--primary-text)" x="0.0" y="155.0" data-bg-id="ITEM_2_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" opacity="0.9" data-final-font-size="26">
+        <tspan x="0.0" dy="32.84px">Daylight vanishes unexpectedly</tspan>
+        <tspan x="0.0" dy="29.90px">during the royal journey</tspan>
+      </text>
+      <rect id="ITEM_2_BODY_FRAME" x="-190" y="155.0" width="380" height="120" fill="none"/>
+      <circle id="TIMELINE_SNAKE_ART_MILESTONE_AURA_2" cx="0" cy="0" r="58" fill="url(#svgf4e5d922-universal-icon-aura)" opacity="0.82" stroke="var(--accent-6)" stroke-opacity="1.0"/>
+      <circle id="ITEM_2_PAD" cx="0" cy="0" r="39" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" opacity="0.9" fill-opacity="0.9" stroke-width="2"/>
+      <circle id="ITEM_2_PAD_INNER" cx="0" cy="0" r="30.42" fill="var(--accent-6)" fill-opacity="0.22"/>
+      <circle cx="0" cy="0" r="31.2" fill="none" stroke="var(--accent-2)" stroke-width="3" stroke-dasharray="6 4"/>
+      <g id="ITEM_2_ICON" transform="translate(-30.0, -30.0)" data-icon-size="60" stroke-dasharray="6 4">
+        <g transform="translate(-4.188849557522126,-4.458053097345137) scale(2.153628318584071)" vector-effect="non-scaling-stroke" fill="#f1f5f9" fill-opacity="1.0" stroke="none">
+          <path fill="#f1f5f9" d="M27 22.142V9.858A3.992 3.992 0 1 0 22.142 5H9.858A3.992 3.992 0 1 0 5 9.858v12.284A3.992 3.992 0 1 0 9.858 27h12.284A3.992 3.992 0 1 0 27 22.142M26 4a2 2 0 1 1-2 2a2 2 0 0 1 2-2M4 6a2 2 0 1 1 2 2a2 2 0 0 1-2-2m2 22a2 2 0 1 1 2-2a2 2 0 0 1-2 2m16.142-3H9.858A4 4 0 0 0 7 22.142V9.858A4 4 0 0 0 9.858 7h12.284A4 4 0 0 0 25 9.858v12.284A3.99 3.99 0 0 0 22.142 25M26 28a2 2 0 1 1 2-2a2.003 2.003 0 0 1-2 2" vector-effect="non-scaling-stroke" stroke="none"/>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(1620.0, 360.0)">
+      <circle id="ITEM_3_BG" r="50" fill="var(--accent-1)" stroke="var(--accent-3)" stroke-width="2" fill-opacity="1.0"/>
+      <rect id="ITEM_3_TEXT_BG" x="-208.0" y="89.0" width="416.0" height="202.0" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--primary-text)" stroke-opacity="0.12" stroke-width="1.5"/>
+      <rect id="TIMELINE_SNAKE_ART_CARD_SHEEN_3" x="-208.0" y="89.0" width="416.0" height="202.0" rx="16" fill="url(#svgf4e5d922-timeline-snake-card-sheen)" opacity="0.78" stroke="var(--accent-1)" stroke-opacity="1.0"/>
+      <text id="ITEM_3_HEAD" text-anchor="middle" font-weight="bold" font-size="27" fill="var(--primary-text)" x="0.0" y="105.0" data-bg-id="ITEM_3_TEXT_BG" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+        <tspan x="0.0" dy="30.75px">Divine Prayer</tspan>
+      </text>
+      <rect id="ITEM_3_HEAD_FRAME" x="-190" y="105" width="380" height="45" fill="none"/>
+      <text id="ITEM_3_BODY" text-anchor="middle" font-size="19.5" fill="var(--primary-text)" x="0.0" y="155.0" data-bg-id="ITEM_3_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" opacity="0.9" data-final-font-size="26">
+        <tspan x="0.0" dy="32.84px">Mirian calls upon the God</tspan>
+        <tspan x="0.0" dy="29.90px">preached by Saint Nino</tspan>
+      </text>
+      <rect id="ITEM_3_BODY_FRAME" x="-190" y="155.0" width="380" height="120" fill="none"/>
+      <circle id="TIMELINE_SNAKE_ART_MILESTONE_AURA_3" cx="0" cy="0" r="58" fill="url(#svgf4e5d922-universal-icon-aura)" opacity="0.82" stroke="var(--accent-1)" stroke-opacity="1.0"/>
+      <circle id="ITEM_3_PAD" cx="0" cy="0" r="39" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" opacity="0.9" fill-opacity="0.9" stroke-width="2"/>
+      <circle id="ITEM_3_PAD_INNER" cx="0" cy="0" r="30.42" fill="var(--accent-1)" fill-opacity="0.22"/>
+      <circle cx="0" cy="0" r="31.2" fill="none" stroke="var(--accent-3)" stroke-width="3" stroke-dasharray="6 4"/>
+      <g id="ITEM_3_ICON" transform="translate(-30.0, -30.0)" data-icon-size="60" stroke-dasharray="6 4">
+        <g transform="translate(-2.976302521008403,-2.4650420168067244) scale(0.12781512605042017)" vector-effect="non-scaling-stroke" fill="#f1f5f9" fill-opacity="1.0" stroke="none">
+          <path fill="#f1f5f9" d="M261.78 18.063c-52.004 0-94.686 45.7-94.686 103.156c0 57.455 42.682 103.155 94.687 103.155c52.007 0 94.72-45.7 94.72-103.156s-42.713-103.157-94.72-103.157zM203 159.655c13.276 3.67 26.394 6.046 39.375 7.22v18.75c-14.674-1.21-29.464-3.85-44.375-7.97zm117.375 0l4.906 18.03c-14.452 3.938-29.08 6.583-43.874 7.845v-18.718c13.085-1.223 26.055-3.638 38.97-7.156zM160.22 175.344c-75.308 50.797-110.604 125.208-116.282 220h.218a25 25 0 0 0-.562 5.28c0 13.808 11.19 25 25 25c.22 0 .436-.025.656-.03v.22l179.438-.002V302.406c-25.58 4.82-45.22 28.49-45.22 62.594v9.344H103.096v-18.688h12.718c3.664-35.178 26.522-77.998 45.343-101.344l14.53 11.72c-15.618 19.373-36.603 61.664-40.905 89.624h50.47c4.04-42.08 35.168-72.875 73.22-72.875c34.98 0 68.653 28.958 73.905 72.876h55.75c-5.412-28.305-26.53-70.32-42.094-89.625l14.564-11.717c18.885 23.424 41.643 66.485 46.562 101.343h10.563v18.688H314.593l-.25-9.094c-1.02-35.656-23.57-58.234-46.97-62.875v123.438H448.03v-.22c.22.006.436.032.658.032c13.81 0 25-11.193 25-25c0-2.092-.266-4.12-.75-6.063c-5.566-92.605-39.022-165.662-111.032-216.218c-19.026 38.355-56.592 64.72-100.125 64.72c-44.662 0-83.047-27.74-101.56-67.72zM140.374 444.5l9.188 47.5h220.562l8.47-47.5z" vector-effect="non-scaling-stroke" stroke="none"/>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(1290.0, 780.0)">
+      <circle id="ITEM_4_BG" r="50" fill="var(--accent-2)" stroke="var(--accent-4)" stroke-width="2" fill-opacity="1.0"/>
+      <rect id="ITEM_4_TEXT_BG" x="-208.0" y="89.0" width="416.0" height="202.0" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--primary-text)" stroke-opacity="0.12" stroke-width="1.5"/>
+      <rect id="TIMELINE_SNAKE_ART_CARD_SHEEN_4" x="-208.0" y="89.0" width="416.0" height="202.0" rx="16" fill="url(#svgf4e5d922-timeline-snake-card-sheen)" opacity="0.78" stroke="var(--accent-2)" stroke-opacity="1.0"/>
+      <text id="ITEM_4_HEAD" text-anchor="middle" font-weight="bold" font-size="27" fill="var(--primary-text)" x="0.0" y="105.0" data-bg-id="ITEM_4_TEXT_BG" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+        <tspan x="0.0" dy="30.75px">Light Returns</tspan>
+      </text>
+      <rect id="ITEM_4_HEAD_FRAME" x="-190" y="105" width="380" height="45" fill="none"/>
+      <text id="ITEM_4_BODY" text-anchor="middle" font-size="19.5" fill="var(--primary-text)" x="0.0" y="155.0" data-bg-id="ITEM_4_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" opacity="0.9" data-final-font-size="26">
+        <tspan x="0.0" dy="32.84px">Sunlight reappears following</tspan>
+        <tspan x="0.0" dy="29.90px">the successful spiritual plea</tspan>
+      </text>
+      <rect id="ITEM_4_BODY_FRAME" x="-190" y="155.0" width="380" height="120" fill="none"/>
+      <circle id="TIMELINE_SNAKE_ART_MILESTONE_AURA_4" cx="0" cy="0" r="58" fill="url(#svgf4e5d922-universal-icon-aura)" opacity="0.82" stroke="var(--accent-2)" stroke-opacity="1.0"/>
+      <circle id="ITEM_4_PAD" cx="0" cy="0" r="39" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" opacity="0.9" fill-opacity="0.9" stroke-width="2"/>
+      <circle id="ITEM_4_PAD_INNER" cx="0" cy="0" r="30.42" fill="var(--accent-2)" fill-opacity="0.22"/>
+      <circle cx="0" cy="0" r="31.2" fill="none" stroke="var(--accent-4)" stroke-width="3" stroke-dasharray="6 4"/>
+      <g id="ITEM_4_ICON" transform="translate(-30.0, -30.0)" data-icon-size="60" stroke-dasharray="6 4">
+        <g transform="translate(-4.76571428571429,-4.765714285714288) scale(2.172857142857143)">
+          <path d="M13.6376 3.20168C14.811 1.61132 17.1889 1.61132 18.3624 3.20168V3.20168C19.1081 4.21232 20.4141 4.63667 21.6114 4.25735V4.25735C23.4955 3.66046 25.4193 5.05815 25.4338 7.03451V7.03451C25.4431 8.29045 26.2502 9.4014 27.4419 9.79831V9.79831C29.317 10.4229 30.0518 12.6844 28.9019 14.2918V14.2918C28.1712 15.3134 28.1712 16.6866 28.9019 17.7081V17.7081C30.0518 19.3155 29.317 21.577 27.4419 22.2016V22.2016C26.2502 22.5985 25.4431 23.7095 25.4338 24.9654V24.9654C25.4193 26.9418 23.4955 28.3395 21.6114 27.7426V27.7426C20.4141 27.3633 19.1081 27.7876 18.3624 28.7982V28.7982C17.1889 30.3886 14.811 30.3886 13.6376 28.7982V28.7982C12.8919 27.7876 11.5859 27.3633 10.3886 27.7426V27.7426C8.50444 28.3395 6.58068 26.9418 6.56613 24.9654V24.9654C6.55689 23.7095 5.74973 22.5985 4.55812 22.2016V22.2016C2.68299 21.577 1.94818 19.3155 3.09808 17.7081V17.7081C3.82882 16.6866 3.82882 15.3134 3.09808 14.2918V14.2918C1.94818 12.6844 2.68299 10.4229 4.55812 9.79831V9.79831C5.74973 9.4014 6.55689 8.29045 6.56613 7.03451V7.03451C6.58068 5.05815 8.50444 3.66046 10.3886 4.25735V4.25735C11.5859 4.63667 12.8919 4.21232 13.6376 3.20168V3.20168Z" fill="#FF822D"/>
+          <path d="M25.0623 21.2321C22.1727 26.237 15.7729 27.9518 10.768 25.0622C5.76307 22.1726 4.04825 15.7728 6.93785 10.7679C9.82744 5.76298 16.2272 4.04817 21.2321 6.93776C26.2371 9.82736 27.9519 16.2271 25.0623 21.2321Z" fill="#FCD53F"/>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(630.0, 780.0)">
+      <circle id="ITEM_5_BG" r="50" fill="var(--accent-3)" stroke="var(--accent-5)" stroke-width="2" fill-opacity="1.0"/>
+      <rect id="ITEM_5_TEXT_BG" x="-208.0" y="89.0" width="416.0" height="202.0" rx="22" fill="var(--panel)" fill-opacity="0.94" stroke="var(--primary-text)" stroke-opacity="0.12" stroke-width="1.5"/>
+      <rect id="TIMELINE_SNAKE_ART_CARD_SHEEN_5" x="-208.0" y="89.0" width="416.0" height="202.0" rx="16" fill="url(#svgf4e5d922-timeline-snake-card-sheen)" opacity="0.78" stroke="var(--accent-3)" stroke-opacity="1.0"/>
+      <text id="ITEM_5_HEAD" text-anchor="middle" font-weight="bold" font-size="27" fill="var(--primary-text)" x="0.0" y="105.0" data-bg-id="ITEM_5_TEXT_BG" fill-opacity="1.0" style="font-size: 30px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 700; letter-spacing:-0.4px;" data-final-font-size="30">
+        <tspan x="0.0" dy="30.75px">Christian Adoption</tspan>
+      </text>
+      <rect id="ITEM_5_HEAD_FRAME" x="-190" y="105" width="380" height="45" fill="none"/>
+      <text id="ITEM_5_BODY" text-anchor="middle" font-size="19.5" fill="var(--primary-text)" x="0.0" y="155.0" data-bg-id="ITEM_5_TEXT_BG" style="font-size: 26px; font-family: Inter, Segoe UI, Kalam, Roboto, Helvetica, Arial, sans-serif; font-weight: 400;" opacity="0.9" data-final-font-size="26">
+        <tspan x="0.0" dy="32.84px">Kingdom officially adopts</tspan>
+        <tspan x="0.0" dy="29.90px">Christianity as state religion</tspan>
+      </text>
+      <rect id="ITEM_5_BODY_FRAME" x="-190" y="155.0" width="380" height="120" fill="none"/>
+      <circle id="TIMELINE_SNAKE_ART_MILESTONE_AURA_5" cx="0" cy="0" r="58" fill="url(#svgf4e5d922-universal-icon-aura)" opacity="0.82" stroke="var(--accent-3)" stroke-opacity="1.0"/>
+      <circle id="ITEM_5_PAD" cx="0" cy="0" r="39" fill="var(--icon-pad-bg)" stroke="var(--primary-text)" opacity="0.9" fill-opacity="0.9" stroke-width="2"/>
+      <circle id="ITEM_5_PAD_INNER" cx="0" cy="0" r="30.42" fill="var(--accent-3)" fill-opacity="0.22"/>
+      <circle cx="0" cy="0" r="31.2" fill="none" stroke="var(--accent-5)" stroke-width="3" stroke-dasharray="6 4"/>
+      <g id="ITEM_5_ICON" transform="translate(-30.0, -30.0)" data-icon-size="60" stroke-dasharray="6 4">
+        <g transform="translate(-6.053333333333335,-7.1800000000000015) scale(2.2533333333333334)">
+          <path d="M13 8H11V15H13V8Z" fill="#7D4533"/>
+          <path d="M21 8H19V15H21V8Z" fill="#7D4533"/>
+          <path d="M6.79089 28.3796L8.36926 20.5854H11.1907L8.59622 28.3796C7.8395 30.8443 6.499 29.8606 6.79089 28.3796Z" fill="#7D4533"/>
+          <path d="M23.6307 20.5854L25.2091 28.3796C25.501 29.8606 24.1605 30.8443 23.4038 28.3796L20.8093 20.5854H23.6307Z" fill="#7D4533"/>
+          <path d="M11.0009 20.5953L11.1221 25.9824C11.1659 27.515 12.4155 27.3156 12.4732 25.9824L13.0102 20.5953H11.0009Z" fill="#402A32"/>
+          <path d="M21 20.5953L20.8788 25.9824C20.8349 27.515 19.5854 27.3156 19.5276 25.9824L18.9907 20.5953H21Z" fill="#402A32"/>
+          <path d="M11 3C9.89543 3 9 3.89543 9 5V6C9 7.65685 10.3431 9 12 9H20C21.6569 9 23 7.65685 23 6V5C23 3.89543 22.1046 3 21 3H11Z" fill="#A56953"/>
+          <path d="M11 14C9 14 7 17.5 7 19.25C7 20.2165 7.7835 21 8.75 21H23.25C24.2165 21 25 20.2165 25 19.25C25 17.5 23 14 21 14H11Z" fill="#A56953"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
