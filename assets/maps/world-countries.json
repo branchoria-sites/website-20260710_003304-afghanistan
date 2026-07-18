@@ -4,7 +4,7 @@
   "itemType": "country",
   "mapAsset": "world.svg",
   "dataAsset": "world-countries.json",
-  "mapLabel": "UFO and UAP country map",
+  "mapLabel": "Interactive country map",
   "fallbackSummary": "Open this country file from the map.",
   "panelCopy": "Use the map to jump into a country file, or browse the full country list below.",
   "items": [
@@ -21,7 +21,7 @@
       "title": "Bosnia's Weird History Between Faith and Folklore",
       "summary": "Bosnia and Herzegovina’s strange-history record is not built around one neat national mystery.",
       "url": "bosnia-and-herzegovina/",
-      "image": "",
+      "image": "assets/images/Bosnia_and_Herzegovi_552c9f-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -38,7 +38,7 @@
       "title": "Botswana's Weird History Without the Hype",
       "summary": "Botswana’s strange-history record is not a parade of famous monsters and haunted castles.",
       "url": "botswanas-weird-history-without-the-hype/",
-      "image": "",
+      "image": "assets/images/Botswana_180c89-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -55,7 +55,7 @@
       "title": "Brazil's Strangest Stories, Claims and Unsolved Files",
       "summary": "Brazil has one of the richest strange-history records in the world: not because every report is convincing, but because the country’s folklore, newspapers,...",
       "url": "brazils-strangest-stories-claims-and/",
-      "image": "",
+      "image": "assets/images/Brazil_37497a-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -72,7 +72,7 @@
       "title": "Cameroon Mysteries Where Science Meets Strange Stories",
       "summary": "Cameroon’s strange-history record is shaped less by a catalogue of proven supernatural events than by a fascinating mixture of natural mysteries, spiritual...",
       "url": "cameroon-mysteries-where-science-meets/",
-      "image": "",
+      "image": "assets/images/Cameroon_73a7dd-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -88,7 +88,7 @@
       "title": "Canada's Strange History Of Unsolved Mysteries",
       "summary": "Canada’s strange-history record is unusually rich because of its scale, geography and long relationship between wilderness, folklore and modern technology.",
       "url": "canadas-strange-history-of-unsolved/",
-      "image": "",
+      "image": "assets/images/Canada_cd6a7b-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -105,7 +105,7 @@
       "title": "Chad's Strangest Stories Between Legend And Science",
       "summary": "Chad is not a country with a large catalogue of famous Fortean mysteries, but its landscape and cultural history contain several strands of strange material:...",
       "url": "chads-strangest-stories-between-legend/",
-      "image": "",
+      "image": "assets/images/Chad_6c6b1b-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -122,7 +122,7 @@
       "title": "Chile's Strangest Stories Between Legend And Evidence",
       "summary": "Chile has one of the richest landscapes for strange reports in South America, not because every mystery has proved to be real, but because the country...",
       "url": "chiles-strangest-stories-between/",
-      "image": "",
+      "image": "assets/images/Chile_349507-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -139,7 +139,7 @@
       "title": "China's Strangest Mysteries: Legends, Sightings and...",
       "summary": "China has one of the richest traditions of strange reports, unexplained sightings and uncanny folklore in the world.",
       "url": "chinas-strangest-mysteries-legends/",
-      "image": "",
+      "image": "assets/images/China_d2eaf2-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -156,7 +156,7 @@
       "title": "Colombia's Strangest Stories: Myth, Mystery and Evidence",
       "summary": "Colombia’s strange-history record is unusually rich because it sits where dramatic landscapes, Indigenous traditions, colonial exploration, scientific...",
       "url": "colombias-strangest-stories-myth-mystery/",
-      "image": "",
+      "image": "assets/images/Colombia_2f7373-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -173,7 +173,7 @@
       "title": "Comoros Mysteries: Where Nature Meets Legend",
       "summary": "Comoros is not a country with a large catalogue of famous modern paranormal cases, but it does have a rich landscape for Fortean interest: active volcanoes,...",
       "url": "comoros-mysteries-where-nature-meets/",
-      "image": "",
+      "image": "assets/images/Comoros_e5bb59-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -191,7 +191,7 @@
       "title": "Congo's Strangest Mysteries Beyond The Map",
       "summary": "The Congo is one of the world’s most famous settings for strange reports, especially stories of hidden animals, mysterious creatures and encounters in dense...",
       "url": "congos-strangest-mysteries-beyond-the/",
-      "image": "",
+      "image": "assets/images/Congo_77f256-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -208,7 +208,7 @@
       "title": "Costa Rica's Strangest Stories and Mysteries",
       "summary": "Costa Rica’s reputation for strange phenomena comes from a mixture of dramatic landscapes, rich oral traditions, unusual natural events and a handful of...",
       "url": "costa-ricas-strangest-stories-and/",
-      "image": "",
+      "image": "assets/images/Costa_Rica_fe586b-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -225,7 +225,7 @@
       "title": "Croatia's Strangest Stories Between Myth And Evidence",
       "summary": "Croatia’s strange-history record is shaped less by one famous “unsolved mystery” than by a rich mixture of mountain legends, unusual natural events, ghost...",
       "url": "croatias-strangest-stories-between/",
-      "image": "",
+      "image": "assets/images/Croatia_d7e045-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -242,7 +242,7 @@
       "title": "Cuba's Strangest Stories Between Myth And Reality",
       "summary": "Cuba’s strange history is less a catalogue of monsters and miracles than a record of how people interpret unusual experiences: lights in the countryside,...",
       "url": "cubas-strangest-stories-between-myth-and/",
-      "image": "",
+      "image": "assets/images/Cuba_c484b1-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -259,7 +259,7 @@
       "title": "Cyprus Mysteries: Monsters, Ghosts And Strange Tales",
       "summary": "Cyprus has a surprisingly rich record of strange stories, from sea monsters said to lurk off the eastern coast to ghostly traditions, prophetic tales and...",
       "url": "cyprus-mysteries-monsters-ghosts-and/",
-      "image": "",
+      "image": "assets/images/Cyprus_852add-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -276,7 +276,7 @@
       "title": "Dominica's Weirdness Between Fire and Folklore",
       "summary": "Dominica’s strange-history record is not a catalogue of famous UFO crashes or internationally celebrated monsters.",
       "url": "dominicas-weirdness-between-fire-and/",
-      "image": "",
+      "image": "assets/images/Dominica_bc1cd4-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -293,7 +293,7 @@
       "title": "Germany's Weirdest Stories Without the Hype",
       "summary": "Germany’s strange-history record is unusually rich because it sits at the meeting point of folklore, early print culture, religious vision, mountain weather,...",
       "url": "germanys-weirdest-stories-without-the/",
-      "image": "",
+      "image": "assets/images/Germany_17d53e-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -309,7 +309,7 @@
       "title": "Grenada's Weird History Without the Hype",
       "summary": "Grenada’s strange-history record is not built around one famous monster or a single blockbuster ghost case.",
       "url": "grenadas-weird-history-without-the-hype/",
-      "image": "",
+      "image": "assets/images/Grenada_dbf2a2-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -326,7 +326,7 @@
       "title": "Guyana's Strangest Stories: Myths, Monsters And...",
       "summary": "Guyana’s strange-history record is not dominated by one neat mystery.",
       "url": "guyanas-strangest-stories-myths-monsters/",
-      "image": "",
+      "image": "assets/images/Guyana_bc88a2-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -343,7 +343,7 @@
       "title": "Haiti's Mysteries Beyond The Zombie Myth",
       "summary": "Haiti has one of the richest strange-history traditions in the Caribbean, but its most famous mystery is also one of the most misunderstood: the zombie.",
       "url": "haitis-mysteries-beyond-the-zombie-myth/",
-      "image": "",
+      "image": "assets/images/Haiti_a4842f-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -360,7 +360,7 @@
       "title": "Honduras' Strangest Stories Between Fact And Folklore",
       "summary": "Honduras has one of the richest collections of strange reports and unusual traditions in Central America, from the famous “rain of fish” in Yoro to forest...",
       "url": "honduras-strangest-stories-between/",
-      "image": "",
+      "image": "assets/images/Honduras_5aa588-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -376,7 +376,7 @@
       "title": "Hungary's Strangest Stories, Legends and Hoaxes",
       "summary": "Hungary’s Fortean landscape is less about one single world-famous mystery and more about the way ordinary places, old beliefs, newspaper stories and modern...",
       "url": "hungarys-strangest-stories-legends-and/",
-      "image": "",
+      "image": "assets/images/Hungary_f14e46-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -394,7 +394,7 @@
       "title": "Iran's Strangest Stories, Tested Against Evidence",
       "summary": "Iran’s strange-history record is unusually rich because it sits at the crossing point of ancient myth, desert and mountain weather, Persian literary memory,...",
       "url": "irans-strangest-stories-tested-against/",
-      "image": "",
+      "image": "assets/images/Iran_889224-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -411,7 +411,7 @@
       "title": "Italy's Strangest Stories, Tested by Evidence",
       "summary": "Italy’s strange-history record is unusually rich because the country sits at a crossroads of religion, classical learning, earthquakes, volcanoes, deep...",
       "url": "italys-strangest-stories-tested-by/",
-      "image": "",
+      "image": "assets/images/Italy_ad79ef-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -427,7 +427,7 @@
       "title": "Japan's Strangest Stories, Explained Without the Hype",
       "summary": "Japan’s strange-history record is not a single shelf of “ghost stories” or “UFO cases”.",
       "url": "japans-strangest-stories-explained/",
-      "image": "",
+      "image": "assets/images/Japan_fcf29f-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -444,7 +444,7 @@
       "title": "Kuwait's Strangest Stories Between Fact And Folklore",
       "summary": "Kuwait’s strange history is not dominated by famous monster sightings or well-documented supernatural cases.",
       "url": "kuwaits-strangest-stories-between-fact/",
-      "image": "",
+      "image": "assets/images/Kuwait_93295b-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -461,7 +461,7 @@
       "title": "Kyrgyzstan's Strangest Stories And Unanswered Mysteries",
       "summary": "Kyrgyzstan’s strange-history record is shaped less by famous “monster” cases or large UFO waves and more by the meeting point of dramatic landscapes, oral...",
       "url": "kyrgyzstans-strangest-stories-and/",
-      "image": "",
+      "image": "assets/images/Kyrgyzstan_c78791-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -478,7 +478,7 @@
       "title": "Latvia's Strangest Stories Between Myth And Mystery",
       "summary": "Latvia’s strange history is less about one famous “unsolved mystery” and more about a landscape where folklore, abandoned places, unusual sightings and old...",
       "url": "latvias-strangest-stories-between-myth/",
-      "image": "",
+      "image": "assets/images/Latvia_c5f5bb-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -495,7 +495,7 @@
       "title": "Lebanon's Strange Stories: Myths, Mysteries And Evidence",
       "summary": "Lebanon’s strange-history record is not built around one single famous “mystery” but around a rich mixture of ancient sacred traditions, village legends,...",
       "url": "lebanons-strange-stories-myths-mysteries/",
-      "image": "",
+      "image": "assets/images/Lebanon_5caa7f-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -512,7 +512,7 @@
       "title": "Nigeria's Strangest Stories Between Myth And Reality",
       "summary": "Nigeria has a rich record of strange stories, unusual reports and mysterious traditions, but its Fortean landscape is less about a single famous “unsolved...",
       "url": "nigerias-strangest-stories-between/",
-      "image": "",
+      "image": "assets/images/Nigeria_9742d0-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -529,7 +529,7 @@
       "title": "North Macedonia's Strangest Legends and Mysteries",
       "summary": "North Macedonia has a rich record of strange stories, but much of its Fortean material is not built around a single famous “mystery case”.",
       "url": "north-macedonias-strangest-legends-and/",
-      "image": "",
+      "image": "assets/images/North_Macedonia_cece1d-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -546,7 +546,7 @@
       "title": "Norway's Strangest Mysteries Between Legend And Evidence",
       "summary": "Norway has one of the richest collections of strange reports in northern Europe, from unexplained lights in remote valleys to lake monsters, sea phantoms,...",
       "url": "norways-strangest-mysteries-between/",
-      "image": "",
+      "image": "assets/images/Norway_988455-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -563,7 +563,7 @@
       "title": "Oman's Strangest Stories Between Legend And Evidence",
       "summary": "Oman’s strange-history record is less about spectacular modern mysteries and more about the meeting point between dramatic landscapes, old traditions,...",
       "url": "omans-strangest-stories-between-legend/",
-      "image": "",
+      "image": "assets/images/Oman_c14c36-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -580,7 +580,7 @@
       "title": "Pakistan's Strangest Stories Between Fact And Folklore",
       "summary": "Pakistan has a rich record of strange reports, unusual natural events, ghostly traditions and unexplained sightings.",
       "url": "pakistans-strangest-stories-between-fact/",
-      "image": "",
+      "image": "assets/images/Pakistan_82d220-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -597,7 +597,7 @@
       "title": "Panama's Weirdest Stories: Monsters, Spirits And...",
       "summary": "Panama’s strange-history record is not dominated by one single famous mystery, but by a mixture of river spirits, ghost stories, unusual creature reports,...",
       "url": "panamas-weirdest-stories-monsters/",
-      "image": "",
+      "image": "assets/images/Panama_1e36b3-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -614,7 +614,7 @@
       "title": "Papua New Guinea's Strangest Stories Explained",
       "summary": "Papua New Guinea (PNG) has one of the richest strange-history landscapes in the Pacific: a place where unusual sky sightings, monster reports, spirit...",
       "url": "papua-new-guineas-strangest-stories/",
-      "image": "",
+      "image": "assets/images/Papua_New_Guinea_90e80c-overview-social.jpg",
       "pageCount": 4,
       "region": "Oceania"
     },
@@ -631,7 +631,7 @@
       "title": "Peru's Strangest Mysteries: Myths, Evidence And Legends",
       "summary": "Peru has one of the richest collections of strange reports and unexplained traditions in South America, partly because its landscape naturally encourages...",
       "url": "perus-strangest-mysteries-myths-evidence/",
-      "image": "",
+      "image": "assets/images/Peru_36c572-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -648,7 +648,7 @@
       "title": "Poland's Strangest Stories From Legends To Skyfall",
       "summary": "Poland has one of Europe’s richest traditions of strange reports, from medieval monsters and haunted places to modern UFO encounters and unusual natural events.",
       "url": "polands-strangest-stories-from-legends/",
-      "image": "",
+      "image": "assets/images/Poland_5ff03b-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -665,7 +665,7 @@
       "title": "Portugal's Strangest Mysteries: Faith, Folklore And Sky",
       "summary": "Portugal has a rich record of strange reports, from the world-famous visions at Ftima to older legends of monsters, spirits, enchanted landscapes and...",
       "url": "portugals-strangest-mysteries-faith/",
-      "image": "",
+      "image": "assets/images/Portugal_a49519-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -681,7 +681,7 @@
       "title": "Romania's Strangest Stories Between Myth And Evidence",
       "summary": "Romania has one of Europes richest landscapes for Fortean stories: strange lights over forests, uncanny photographs, haunted places, unusual sky events, and...",
       "url": "romanias-strangest-stories-between/",
-      "image": "",
+      "image": "assets/images/Romania_d6b897-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -698,7 +698,7 @@
       "title": "Russia's Strangest Mysteries Explained Through Evidence",
       "summary": "Russia has one of the richest collections of strange reports, unexplained episodes and unusual folklore in the world.",
       "url": "russias-strangest-mysteries-explained/",
-      "image": "",
+      "image": "assets/images/Russia_6754fe-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -715,7 +715,7 @@
       "title": "Saint Vincent's Strange Stories and Unexplained...",
       "summary": "Saint Vincent and the Grenadines is not a country with a long catalogue of famous monsters, UFO cases, or celebrated paranormal investigations.",
       "url": "saint-vincent-and-the-grenadines/",
-      "image": "",
+      "image": "assets/images/Saint_Vincent_and_th_3bce2a-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -732,7 +732,7 @@
       "title": "Saudi Arabia's Strangest Stories Explained",
       "summary": "Saudi Arabia has a rich record of strange stories, unusual sightings and folklore that sit at the meeting point of desert landscape, religious tradition,...",
       "url": "saudi-arabias-strangest-stories/",
-      "image": "",
+      "image": "assets/images/Saudi_Arabia_8bf7f8-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -749,7 +749,7 @@
       "title": "Senegal's Strange Stories Beyond The Known World",
       "summary": "Senegal’s strange history is less a catalogue of monsters and flying-saucer scares than a record of how people have interpreted unusual places, natural...",
       "url": "senegals-strange-stories-beyond-the/",
-      "image": "",
+      "image": "assets/images/Senegal_d8973b-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -766,7 +766,7 @@
       "title": "Somalia's Weird History Without the Hype",
       "summary": "Somalias strange-history record is not a neat catalogue of famous UFO landings or lake monsters.",
       "url": "somalias-weird-history-without-the-hype/",
-      "image": "",
+      "image": "assets/images/Somalia_4dfdf1-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -783,25 +783,9 @@
       "title": "Thailand's Weird History, Belief and Doubt",
       "summary": "Thailand’s strange-history record is not built around one tidy mystery.",
       "url": "thailands-weird-history-belief-and-doubt/",
-      "image": "",
+      "image": "assets/images/Thailand_a2b7c1-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
-    },
-    {
-      "id": "CF",
-      "iso": "CF",
-      "basename": "Central_African_Repu_358788",
-      "country": "Central African Republic",
-      "label": "Central African Republic",
-      "mapAliases": [
-        "central african republic"
-      ],
-      "title": "The Central African Republic's Strangest Mysteries",
-      "summary": "The Central African Republic is not usually known internationally as a centre of Fortean mysteries, yet its landscapes, oral traditions and scientific...",
-      "url": "the-central-african-republics-strangest/",
-      "image": "",
-      "pageCount": 4,
-      "region": "Africa"
     },
     {
       "id": "PH",
@@ -816,7 +800,7 @@
       "title": "The Philippines' Strangest Stories Explained",
       "summary": "The Philippines has one of the richest landscapes of strange reports and unusual traditions in Southeast Asia.",
       "url": "the-philippines-strangest-stories/",
-      "image": "",
+      "image": "assets/images/Philippines_806736-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -833,7 +817,7 @@
       "title": "The Strange Stories Behind Saint Kitts and Nevis",
       "summary": "Saint Kitts and Nevis is not known for a large catalogue of famous modern “mysteries”, but its strange-history record is shaped by something more subtle: the...",
       "url": "saint-kitts-and-nevis/",
-      "image": "",
+      "image": "assets/images/Saint_Kitts_and_Nevi_a66de5-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -850,7 +834,7 @@
       "title": "The Strange Stories Hidden In Rwanda's Past",
       "summary": "Rwanda’s strangest stories are rarely about a single spectacular “mystery event”.",
       "url": "the-strange-stories-hidden-in-rwandas/",
-      "image": "",
+      "image": "assets/images/Rwanda_7266a1-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -868,7 +852,7 @@
       "title": "Turkey's Monsters, UFOs and Living Legends",
       "summary": "Turkey’s strange-history record is unusually rich because it sits at a crossroads of empire, migration, religion, geology and mass media.",
       "url": "turkeys-monsters-ufos-and-living-legends/",
-      "image": "",
+      "image": "assets/images/Turkey_d7153e-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -885,7 +869,7 @@
       "title": "Uganda's Strangest Stories, Checked Against Evidence",
       "summary": "Uganda’s strange-history record is not built around one famous monster or one endlessly recycled ghost story.",
       "url": "ugandas-strangest-stories-checked/",
-      "image": "",
+      "image": "assets/images/Uganda_e92904-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -901,7 +885,7 @@
       "title": "Ukraine's Weird History Between Folklore and Fact",
       "summary": "Ukraine’s strange-history record is unusually rich because it sits at the meeting point of folklore, frontier landscapes, Soviet secrecy, wartime rumour,...",
       "url": "ukraines-weird-history-between/",
-      "image": "",
+      "image": "assets/images/Ukraine_c951ec-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -919,7 +903,7 @@
       "title": "Vietnam's Strangest Stories, Evidence First",
       "summary": "Vietnam’s strange-history record is not a neat cabinet of isolated ghost stories and lake monsters.",
       "url": "vietnams-strangest-stories-evidence/",
-      "image": "",
+      "image": "assets/images/Vietnam_681101-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -935,7 +919,7 @@
       "title": "What Makes Barbados So Strangely Haunted?",
       "summary": "Barbados has one truly world-class Fortean story: the Chase Vault at Christ Church, where heavy lead coffins were said to have repeatedly shifted inside a...",
       "url": "what-makes-barbados-so-strangely-haunted/",
-      "image": "",
+      "image": "assets/images/Barbados_93409a-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -951,7 +935,7 @@
       "title": "What Makes Belize's Weird Stories Endure?",
       "summary": "Belize’s strange-history record is less a catalogue of tidy “cases” than a living mixture of forest warnings, river ghosts, cave ritual, jaguar rumours,...",
       "url": "what-makes-belizes-weird-stories-endure/",
-      "image": "",
+      "image": "assets/images/Belize_42ab0c-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -967,7 +951,7 @@
       "title": "What Makes Burkina Faso's Weird History So Earthbound?",
       "summary": "Burkina Faso’s strange-history record is not dominated by famous flying saucers or lake monsters.",
       "url": "what-makes-burkina-fasos-weird-history/",
-      "image": "",
+      "image": "assets/images/Burkina_Faso_f61e5f-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -984,7 +968,7 @@
       "title": "What Makes Burundi's Strange History So Unsettling?",
       "summary": "Burundi is not one of the world’s loudest Fortean countries.",
       "url": "what-makes-burundis-strange-history-so/",
-      "image": "",
+      "image": "assets/images/Burundi_461758-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -1002,7 +986,7 @@
       "title": "What Makes Cape Verde's Weird History So Unusual?",
       "summary": "Cape Verde’s strange-history record is not crowded with famous monsters or world-shaking paranormal cases.",
       "url": "what-makes-cape-verdes-weird-history-so/",
-      "image": "",
+      "image": "assets/images/Cape_Verde_556906-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -1019,7 +1003,7 @@
       "title": "What Makes Eritrea's Strange History So Elusive?",
       "summary": "Eritrea is not a country with a large, well-documented public catalogue of UFO flaps, lake monsters or famous haunted houses.",
       "url": "what-makes-eritreas-strange-history-so/",
-      "image": "",
+      "image": "assets/images/Eritrea_18740a-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -1036,7 +1020,7 @@
       "title": "What Makes Fiji's Strange History So Memorable?",
       "summary": "Fiji’s strange-history record is not dominated by one grand national mystery.",
       "url": "what-makes-fijis-strange-history-so/",
-      "image": "",
+      "image": "assets/images/Fiji_bbb7ef-overview-social.jpg",
       "pageCount": 4,
       "region": "Oceania"
     },
@@ -1053,7 +1037,7 @@
       "title": "What Makes France Such Strange Country?",
       "summary": "France has one of Europe’s richest strange-history records because its oddities sit at the crossroads of folklore, newspapers, science, religion, tourism and...",
       "url": "what-makes-france-such-strange-country/",
-      "image": "",
+      "image": "assets/images/France_e3772a-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -1069,7 +1053,7 @@
       "title": "What Makes Jamaica's Strange History So Powerful?",
       "summary": "Jamaica’s strange-history record is strongest where folklore, slavery-era memory, religious vision, natural disaster and tourism collide.",
       "url": "what-makes-jamaicas-strange-history-so/",
-      "image": "",
+      "image": "assets/images/Jamaica_5eedd6-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -1086,7 +1070,7 @@
       "title": "What Makes Kiribati's Weird History So Oceanic?",
       "summary": "Kiribati is not a country with a vast catalogue of famous monsters, haunted castles or headline-grabbing UFO waves.",
       "url": "what-makes-kiribatis-weird-history-so/",
-      "image": "",
+      "image": "assets/images/Kiribati_3f57ad-overview-social.jpg",
       "pageCount": 4,
       "region": "Oceania"
     },
@@ -1103,7 +1087,7 @@
       "title": "What Makes Liberia's Weird Stories So Unsettling?",
       "summary": "Liberia has a lean but fascinating Fortean record: not a tidy catalogue of famous UFO flaps or internationally verified monsters, but a set of stories where...",
       "url": "what-makes-liberias-weird-stories-so/",
-      "image": "",
+      "image": "assets/images/Liberia_1ed5dd-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -1120,7 +1104,7 @@
       "title": "What Makes Maldives Forteana So Ocean Haunted?",
       "summary": "The Maldives has a strange-history record shaped less by laboratory-style paranormal cases than by island storytelling, sea-centred legends, jinn traditions,...",
       "url": "what-makes-maldives-forteana-so-ocean/",
-      "image": "",
+      "image": "assets/images/Maldives_213cb2-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -1137,7 +1121,7 @@
       "title": "What Makes Mali's Weird History So Compelling?",
       "summary": "Mali’s strongest strange-history material is not a neat catalogue of ghosts and UFO flaps.",
       "url": "what-makes-malis-weird-history-so/",
-      "image": "",
+      "image": "assets/images/Mali_daa6a4-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -1154,7 +1138,7 @@
       "title": "What Makes Mexico's Strange History So Enduring?",
       "summary": "Mexico’s strange-history record is unusually rich because it sits at a crossroads of ancient Mesoamerican cosmology, colonial religious fear, modern mass...",
       "url": "what-makes-mexicos-strange-history-so/",
-      "image": "",
+      "image": "assets/images/Mexico_41937b-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -1172,7 +1156,7 @@
       "title": "What Makes Micronesia's Strange History So Unusual?",
       "summary": "The Federated States of Micronesia is not rich in modern, well-documented UFO flaps or tabloid-style monster hunts.",
       "url": "micronesia-federated-states-of/",
-      "image": "",
+      "image": "assets/images/Micronesia_Federated_30e9e8-overview-social.jpg",
       "pageCount": 4,
       "region": "Oceania"
     },
@@ -1188,7 +1172,7 @@
       "title": "What Makes Mongolia's Strange Stories Endure?",
       "summary": "Mongolia’s strange-history record is dominated by one celebrity monster, the deadly worm said to haunt the Gobi Desert, but that is only the loudest part of...",
       "url": "what-makes-mongolias-strange-stories/",
-      "image": "",
+      "image": "assets/images/Mongolia_f54da3-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -1205,7 +1189,7 @@
       "title": "What Makes Morocco's Weird History So Durable?",
       "summary": "Morocco’s strange-history record is unusually rich because it sits at the meeting point of desert skies, mountain folklore, old spirit traditions,...",
       "url": "what-makes-moroccos-weird-history-so/",
-      "image": "",
+      "image": "assets/images/Morocco_32e087-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -1222,7 +1206,7 @@
       "title": "What Makes Nauru's Weird History So Unsettling?",
       "summary": "Nauru is not famous for a crowded catalogue of UFO waves, lake monsters or spectacular newspaper phantoms.",
       "url": "what-makes-naurus-weird-history-so/",
-      "image": "",
+      "image": "assets/images/Nauru_f648c7-overview-social.jpg",
       "pageCount": 4,
       "region": "Oceania"
     },
@@ -1239,7 +1223,7 @@
       "title": "What Makes Nepal's Strange History So Enduring?",
       "summary": "Nepal’s strange-history record is dominated by one famous creature, the Yeti, but the country’s Fortean landscape is broader and more interesting than a...",
       "url": "what-makes-nepals-strange-history-so/",
-      "image": "",
+      "image": "assets/images/Nepal_0e1d58-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -1255,7 +1239,7 @@
       "title": "What Makes New Zealand's Weird History So Distinctive?",
       "summary": "New Zealand’s strange-history record is not built around one national monster or one famous haunted house.",
       "url": "what-makes-new-zealands-weird-history-so/",
-      "image": "",
+      "image": "assets/images/New_Zealand_3d3336-overview-social.jpg",
       "pageCount": 4,
       "region": "Oceania"
     },
@@ -1272,7 +1256,7 @@
       "title": "What Makes Niger's Weird History So Unusual?",
       "summary": "Niger’s strange-history record is not a neat parade of famous UFO cases or lake monsters.",
       "url": "what-makes-nigers-weird-history-so/",
-      "image": "",
+      "image": "assets/images/Niger_6687e1-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -1291,7 +1275,7 @@
       "title": "What Makes North Korea's Strange Stories So Slippery?",
       "summary": "North Korea’s strange-history record is not a simple catalogue of “weird things in a weird country”.",
       "url": "what-makes-north-koreas-strange/",
-      "image": "",
+      "image": "assets/images/North_Korea_ccbbbb-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -1308,7 +1292,7 @@
       "title": "What Makes San Marino So Mysterious?",
       "summary": "San Marino is not a country famous for a long catalogue of classic Fortean cases such as monster sightings or major UFO flaps.",
       "url": "what-makes-san-marino-so-mysterious/",
-      "image": "",
+      "image": "assets/images/San_Marino_8ff2c5-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -1325,7 +1309,7 @@
       "title": "What Makes Sierra Leone's Weird History So Strange?",
       "summary": "Sierra Leone’s strongest “weird history” is not a tidy catalogue of flying saucers and lake monsters. It is stranger, and more culturally revealing, than that.",
       "url": "what-makes-sierra-leones-weird-history/",
-      "image": "",
+      "image": "assets/images/Sierra_Leone_817b0d-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -1342,7 +1326,7 @@
       "title": "What Makes Singapore's Strange History So Persistent?",
       "summary": "Singapore’s strange-history record is not a wilderness of grand unsolved monsters or famous UFO dossiers.",
       "url": "what-makes-singapores-strange-history-so/",
-      "image": "",
+      "image": "assets/images/Singapore_20c0b7-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -1359,7 +1343,7 @@
       "title": "What Makes South Africa's Weird History So Place Bound?",
       "summary": "South Africa’s strange-history record is not one single tradition.",
       "url": "what-makes-south-africas-weird-history/",
-      "image": "",
+      "image": "assets/images/South_Africa_3b27c8-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -1376,7 +1360,7 @@
       "title": "What Makes South Sudan's Weird History So Different?",
       "summary": "South Sudan’s strange-history record is not a tidy catalogue of famous UFOs, monster scares and newspaper-ready ghost stories.",
       "url": "what-makes-south-sudans-weird-history-so/",
-      "image": "",
+      "image": "assets/images/South_Sudan_80ac9c-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -1393,7 +1377,7 @@
       "title": "What Makes Sri Lanka's Strange Stories Endure?",
       "summary": "Sri Lanka’s strange-history record is unusually rich because it sits where rainforest ecology, Buddhist and Hindu spirit traditions, colonial-era natural...",
       "url": "what-makes-sri-lankas-strange-stories/",
-      "image": "",
+      "image": "assets/images/Sri_Lanka_db33ad-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -1410,7 +1394,7 @@
       "title": "What Makes Sudan's Strange History So Unusual?",
       "summary": "Sudan’s strange-history record is not a neat cabinet of “monsters and ghosts” so much as a meeting place of desert skies, Nile marshes, spirit traditions,...",
       "url": "what-makes-sudans-strange-history-so/",
-      "image": "",
+      "image": "assets/images/Sudan_1193ba-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -1427,7 +1411,7 @@
       "title": "What Makes Syria's Weird History So Layered?",
       "summary": "Syria’s strange-history record is not dominated by one famous monster or one tidy “haunting”.",
       "url": "what-makes-syrias-weird-history-so/",
-      "image": "",
+      "image": "assets/images/Syria_3ed104-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -1444,7 +1428,7 @@
       "title": "What Makes Tajikistan's Weird History So Mountainous?",
       "summary": "Tajikistan’s strange-history record is not a neat cabinet of famous ghosts and headline-grabbing monsters.",
       "url": "what-makes-tajikistans-weird-history-so/",
-      "image": "",
+      "image": "assets/images/Tajikistan_279c77-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -1461,7 +1445,7 @@
       "title": "What Makes The Gambia So Strangely Memorable?",
       "summary": "The Gambia’s strongest strange-history material is not a neat catalogue of UFO files or laboratory puzzles.",
       "url": "what-makes-the-gambia-so-strangely/",
-      "image": "",
+      "image": "assets/images/Gambia_7c3997-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -1477,7 +1461,7 @@
       "title": "What Makes Turkmenistan's Weird History Burn?",
       "summary": "Turkmenistan’s strange-history record is dominated by one extraordinary real place: the burning Darvaza gas crater in the Karakum Desert, better known abroad...",
       "url": "what-makes-turkmenistans-weird-history/",
-      "image": "",
+      "image": "assets/images/Turkmenistan_1f8dc1-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -1494,7 +1478,7 @@
       "title": "What Makes Zambia's Strange History So Unusual?",
       "summary": "Zambia’s strange-history record is not built around one famous “monster case” or a single national ghost story.",
       "url": "what-makes-zambias-strange-history-so/",
-      "image": "",
+      "image": "assets/images/Zambia_dcf25e-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -1512,7 +1496,7 @@
       "title": "What Mysteries Linger Along Laos's Rivers?",
       "summary": "Laos has one of Southeast Asia’s richest traditions of strange reports, spirit stories and unexplained natural spectacles.",
       "url": "what-mysteries-linger-along-laoss-rivers/",
-      "image": "",
+      "image": "assets/images/Laos_7998be-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -1529,7 +1513,7 @@
       "title": "What Strange Stories Does Samoa Remember?",
       "summary": "Samoa’s strangest stories are not dominated by modern UFO reports or famous monster hunts.",
       "url": "what-strange-stories-does-samoa-remember/",
-      "image": "",
+      "image": "assets/images/Samoa_f56806-overview-social.jpg",
       "pageCount": 4,
       "region": "Oceania"
     },
@@ -1546,7 +1530,7 @@
       "title": "What Strange Stories Haunt Paraguay?",
       "summary": "Paraguay’s strange history is less about a single famous mystery and more about the meeting point between Indigenous mythology, rural storytelling, unusual...",
       "url": "what-strange-stories-haunt-paraguay/",
-      "image": "",
+      "image": "assets/images/Paraguay_71a452-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -1563,7 +1547,7 @@
       "title": "What Strange Stories Haunt Qatar's History?",
       "summary": "Qatar’s strange-history record is not dominated by famous UFO cases or spectacular unexplained disasters.",
       "url": "what-strange-stories-haunt-qatars/",
-      "image": "",
+      "image": "assets/images/Qatar_83ef3e-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -1581,7 +1565,7 @@
       "title": "What Strange Stories Haunt South Korea?",
       "summary": "South Korea has a rich record of strange reports, uncanny traditions and unexplained stories, but its Fortean landscape is less about one famous “mystery...",
       "url": "what-strange-stories-haunt-south-korea/",
-      "image": "",
+      "image": "assets/images/South_Korea_7536d5-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -1600,7 +1584,7 @@
       "title": "What Strange Stories Hide Across Ivory Coast?",
       "summary": "Ivory Coast (officially Côte d’Ivoire) has a rich landscape of strange stories, but its Fortean record is less about famous modern “mysteries” with neat...",
       "url": "ivory-coast/",
-      "image": "",
+      "image": "assets/images/Ivory_Coast_0c79b1-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -1617,7 +1601,7 @@
       "title": "What Strange Stories Hide Across Sao Tome?",
       "summary": "So Tom and Prncipe is not a country famous for dramatic UFO waves or internationally recognised monster sightings.",
       "url": "sao-tome-and-principe/",
-      "image": "",
+      "image": "assets/images/Sao_Tome_and_Princip_3437b2-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -1634,7 +1618,7 @@
       "title": "What Strange Stories Linger Across Palau's Islands?",
       "summary": "Palau’s strangest stories are not dominated by famous UFO incidents or internationally known monsters.",
       "url": "what-strange-stories-linger-across/",
-      "image": "",
+      "image": "assets/images/Palau_e5e0b6-overview-social.jpg",
       "pageCount": 4,
       "region": "Oceania"
     },
@@ -1652,7 +1636,7 @@
       "title": "What Strange Stories Shape Moldova's Hidden History?",
       "summary": "Moldovas strange-history record is less about famous monsters or headline-grabbing mysteries and more about the meeting point between folklore, landscape,...",
       "url": "what-strange-stories-shape-moldovas/",
-      "image": "",
+      "image": "assets/images/Moldova_9791bc-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -1668,7 +1652,7 @@
       "title": "What Strange Stories Shape Saint Lucia?",
       "summary": "Saint Lucia’s strange-history record is less about a single famous “unsolved mystery” and more about a rich landscape of folklore, unusual natural settings,...",
       "url": "what-strange-stories-shape-saint-lucia/",
-      "image": "",
+      "image": "assets/images/Saint_Lucia_85ac35-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -1685,7 +1669,7 @@
       "title": "What Strange Stories Shape Serbia's Mystery Landscape?",
       "summary": "Serbia’s strange history is a mixture of dramatic natural events, enduring village legends, unusual sky reports and stories that sit between folklore and...",
       "url": "what-strange-stories-shape-serbias/",
-      "image": "",
+      "image": "assets/images/Serbia_6d31bf-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -1702,7 +1686,7 @@
       "title": "When Lesotho's Ordinary World Turns Strange",
       "summary": "Lesotho’s strangest stories are not dominated by a single famous mystery, but by a mixture of dramatic natural events, sky phenomena, spiritual traditions...",
       "url": "when-lesothos-ordinary-world-turns/",
-      "image": "",
+      "image": "assets/images/Lesotho_93b12b-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -1719,7 +1703,7 @@
       "title": "When Malawi's Rumours Became Public Events",
       "summary": "Malawi’s strongest Fortean material is not a tidy catalogue of UFOs and lake serpents.",
       "url": "when-malawis-rumours-became-public/",
-      "image": "",
+      "image": "assets/images/Malawi_0ce65b-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -1736,7 +1720,7 @@
       "title": "Where Afghan Landscape Turns Into Legend",
       "summary": "Afghanistan’s strongest Fortean material is not a neat catalogue of alien landings, lake monsters and newspaper oddities.",
       "url": "afghanistan/",
-      "image": "",
+      "image": "assets/images/Afghanistan_c69153-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -1753,7 +1737,7 @@
       "title": "Where Albania Turns Weather Into Monsters",
       "summary": "Albania’s strange-history record is not dominated by a single famous “monster” or world-renowned UFO case.",
       "url": "where-albania-turns-weather-into/",
-      "image": "",
+      "image": "assets/images/Albania_79b9d2-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -1770,7 +1754,7 @@
       "title": "Where Angola's Strange Stories Meet Evidence",
       "summary": "Angola’s strange-history record is not dominated by flying saucer flaps or neat monster-hunt dossiers.",
       "url": "where-angolas-strange-stories-meet/",
-      "image": "",
+      "image": "assets/images/Angola_a42522-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -1786,7 +1770,7 @@
       "title": "Where Antigua's Weird Stories Stick to Places",
       "summary": "Antigua and Barbuda does not have one neat “great mystery” that dominates its strange-history record.",
       "url": "antigua-and-barbuda/",
-      "image": "",
+      "image": "assets/images/Antigua_and_Barbuda_0f8518-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -1803,7 +1787,7 @@
       "title": "Where Armenia's Weird History Meets the Mountains",
       "summary": "Armenia’s strange-history record is not dominated by one famous monster or a single national ghost story.",
       "url": "where-armenias-weird-history-meets-the/",
-      "image": "",
+      "image": "assets/images/Armenia_5f4599-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -1820,7 +1804,7 @@
       "title": "Where Benin's Spirits Enter Public Life",
       "summary": "Benin’s strange-history record is not built around one famous lake monster or a neat catalogue of flying saucers.",
       "url": "where-benins-spirits-enter-public-life/",
-      "image": "",
+      "image": "assets/images/Benin_373616-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -1837,7 +1821,7 @@
       "title": "Where Brunei's Strange Stories Live",
       "summary": "Brunei’s strange-history record is not dominated by one famous “monster case” or a single world-known UFO flap.",
       "url": "where-bruneis-strange-stories-live/",
-      "image": "",
+      "image": "assets/images/Brunei_130e4a-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -1854,7 +1838,7 @@
       "title": "Where Cambodia's Strange Stories Touch Everyday Life",
       "summary": "Cambodia’s strange-history record is not built around a single famous “monster” or one neat paranormal case.",
       "url": "where-cambodias-strange-stories-touch/",
-      "image": "",
+      "image": "assets/images/Cambodia_314ccd-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -1871,7 +1855,7 @@
       "title": "Where Djibouti's Landscape Turns Strange",
       "summary": "Djibouti is not a country with a thick public record of classic “monster flap” Forteana, mass UFO scares, or heavily documented ghost cases.",
       "url": "where-djiboutis-landscape-turns-strange/",
-      "image": "",
+      "image": "assets/images/Djibouti_60a8b0-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -1887,7 +1871,7 @@
       "title": "Where Dominican Folklore Meets the Uncanny",
       "summary": "The Dominican Republic’s strange-history record is strongest where folklore, landscape and testimony meet: the mountain woman with backward feet, night...",
       "url": "dominican-republic/",
-      "image": "",
+      "image": "assets/images/Dominican_Republic_dba665-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -1904,7 +1888,7 @@
       "title": "Where Ecuador's Weird Stories Touch Real History",
       "summary": "Ecuador’s strange-history record is not a single grand mystery, but a busy crossroads of folklore, radio panic, mountain lights, visionary religion, jungle...",
       "url": "where-ecuadors-weird-stories-touch-real/",
-      "image": "",
+      "image": "assets/images/Ecuador_09f199-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -1921,7 +1905,7 @@
       "title": "Where Equatorial Guinea Keeps Its Strange Stories",
       "summary": "Equatorial Guinea’s strange-history record is less a catalogue of famous UFO flaps or newspaper monsters than a quieter, more revealing mix of sacred...",
       "url": "where-equatorial-guinea-keeps-its/",
-      "image": "",
+      "image": "assets/images/Equatorial_Guinea_ae2c01-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -1938,7 +1922,7 @@
       "title": "Where Eswatini's Weird History Gets Real",
       "summary": "Eswatini’s strongest Fortean material is not a neat catalogue of lake monsters and famous UFO files.",
       "url": "where-eswatinis-weird-history-gets-real/",
-      "image": "",
+      "image": "assets/images/Eswatini_16cc7f-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -1955,7 +1939,7 @@
       "title": "Where Ethiopia's Sacred History Turns Strange",
       "summary": "Ethiopia has one of the richest strange-history records in Africa, but not because it offers a neat parade of monsters and flying saucers.",
       "url": "where-ethiopias-sacred-history-turns/",
-      "image": "",
+      "image": "assets/images/Ethiopia_3d91f7-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -1972,7 +1956,7 @@
       "title": "Where Folklore Meets Danger in Bangladesh",
       "summary": "Bangladesh has no single “great national monster” or officially documented paranormal mystery that dominates its strange-history record.",
       "url": "where-folklore-meets-danger-in/",
-      "image": "",
+      "image": "assets/images/Bangladesh_fa6c37-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -1989,7 +1973,7 @@
       "title": "Where Folklore Meets Strange History",
       "summary": "Trinidad and Tobago’s strange-history record is less a catalogue of laboratory-defying “proof” than a lively meeting place between folklore, landscape,...",
       "url": "trinidad-and-tobago/",
-      "image": "",
+      "image": "assets/images/Trinidad_and_Tobago_a73120-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -2006,7 +1990,7 @@
       "title": "Where Gabon's Weird History Gets Real",
       "summary": "Gabon’s strange-history record is not built around one world-famous ghost, UFO flap, or lake monster.",
       "url": "where-gabons-weird-history-gets-real/",
-      "image": "",
+      "image": "assets/images/Gabon_a06dcd-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -2022,7 +2006,7 @@
       "title": "Where Georgia's Legends Meet Real Evidence",
       "summary": "Georgia’s strange-history record is less a catalogue of “monster sightings” than a mountain archive of charged places, perilous folk beings, miracle stories,...",
       "url": "where-georgias-legends-meet-real/",
-      "image": "",
+      "image": "assets/images/Georgia_9113c6-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -2039,7 +2023,7 @@
       "title": "Where Ghana's Strange Stories Meet Real Places",
       "summary": "Ghana’s strange-history record is less a catalogue of tidy “mysteries” than a meeting place between oral tradition, sacred geography, colonial memory, modern...",
       "url": "where-ghanas-strange-stories-meet-real/",
-      "image": "",
+      "image": "assets/images/Ghana_317dba-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -2056,7 +2040,7 @@
       "title": "Where Guinea's Weird History Gets Real",
       "summary": "Guinea’s strange-history record is not rich in famous flying saucers, lake monsters or newspaper “rains of frogs”.",
       "url": "where-guineas-weird-history-gets-real/",
-      "image": "",
+      "image": "assets/images/Guinea_b47b54-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -2072,7 +2056,7 @@
       "title": "Where Island Folklore Becomes Fortean Mystery",
       "summary": "Solomon Islands has a unusually rich strange-history record, but it is not best understood as a single “mystery country” full of monsters.",
       "url": "solomon-islands/",
-      "image": "",
+      "image": "assets/images/Solomon_Islands_6f943d-overview-social.jpg",
       "pageCount": 4,
       "region": "Oceania"
     },
@@ -2089,7 +2073,7 @@
       "title": "Where Island Legends Meet Nuclear Shadows",
       "summary": "The Marshall Islands’ strange-history record is not built around one famous monster or a single headline-making haunting.",
       "url": "marshall-islands/",
-      "image": "",
+      "image": "assets/images/Marshall_Islands_ccbdc0-overview-social.jpg",
       "pageCount": 4,
       "region": "Oceania"
     },
@@ -2106,7 +2090,7 @@
       "title": "Where Kenya's Weird Stories Meet Real Landscapes",
       "summary": "Kenya’s strange-history record is not short of monsters, falling frogs, prophetic serpents, haunted craters and lions that became almost mythic.",
       "url": "where-kenyas-weird-stories-meet-real/",
-      "image": "",
+      "image": "assets/images/Kenya_a84f56-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -2123,7 +2107,7 @@
       "title": "Where Liechtenstein Keeps Its Ghosts",
       "summary": "Liechtenstein’s strange-history record is not a catalogue of famous UFO crashes or lake monsters.",
       "url": "where-liechtenstein-keeps-its-ghosts/",
-      "image": "",
+      "image": "assets/images/Liechtenstein_b0ddce-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -2140,7 +2124,7 @@
       "title": "Where Lithuania's Weird Stories Take Root",
       "summary": "Lithuania’s strange-history record is not dominated by one famous monster or one cleanly “unsolved” case.",
       "url": "where-lithuanias-weird-stories-take-root/",
-      "image": "",
+      "image": "assets/images/Lithuania_74a788-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -2157,7 +2141,7 @@
       "title": "Where Madagascar's Monsters Meet Real Natural History",
       "summary": "Madagascar’s strange-history record is not built around one tidy national ghost story.",
       "url": "where-madagascars-monsters-meet-real/",
-      "image": "",
+      "image": "assets/images/Madagascar_f92bcb-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -2174,7 +2158,7 @@
       "title": "Where Mauritania's Desert Makes Weird History",
       "summary": "Mauritania’s strange-history record is not crowded with famous haunted houses or headline-grabbing UFO flaps.",
       "url": "where-mauritanias-desert-makes-weird/",
-      "image": "",
+      "image": "assets/images/Mauritania_85fa35-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -2191,7 +2175,7 @@
       "title": "Where Monaco Turns Strange by the Sea",
       "summary": "Monaco is not a natural home for sprawling monster legends.",
       "url": "where-monaco-turns-strange-by-the-sea/",
-      "image": "",
+      "image": "assets/images/Monaco_35ab1c-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -2208,7 +2192,7 @@
       "title": "Where Mozambique's Weird Stories Meet Real Stakes",
       "summary": "Mozambique’s strange-history record is not dominated by one famous monster or a neat “national UFO case”.",
       "url": "where-mozambiques-weird-stories-meet/",
-      "image": "",
+      "image": "assets/images/Mozambique_a40a9b-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -2225,7 +2209,7 @@
       "title": "Where Myth Still Bites Back",
       "summary": "Timor-Leste is not rich in neatly documented “classic” Fortean cases: there is no well-attested national catalogue of lake monsters, flying saucer waves,...",
       "url": "timor-leste/",
-      "image": "",
+      "image": "assets/images/Timor-Leste_2d79f6-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -2242,7 +2226,7 @@
       "title": "Where Nicaragua's Weird Stories Meet Real Places",
       "summary": "Nicaragua’s strangest material is not best understood as a tidy catalogue of “paranormal cases”.",
       "url": "where-nicaraguas-weird-stories-meet-real/",
-      "image": "",
+      "image": "assets/images/Nicaragua_481264-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -2259,7 +2243,7 @@
       "title": "Where Salvadoran Folklore Meets Real Strangeness",
       "summary": "El Salvador’s strange-history record is not dominated by one famous monster or one neat “unsolved case”.",
       "url": "el-salvador/",
-      "image": "",
+      "image": "assets/images/El_Salvador_9b83b7-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -2276,7 +2260,7 @@
       "title": "Where Slovenia's Strangeness Begins With Real Places",
       "summary": "Slovenia’s strange-history record is not dominated by one famous “case” in the way some countries are defined by a single UFO flap, lake monster, or haunted...",
       "url": "where-slovenias-strangeness-begins-with/",
-      "image": "",
+      "image": "assets/images/Slovenia_d1aa05-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -2293,7 +2277,7 @@
       "title": "Where Spirits, Forests and Animals Stay Strange",
       "summary": "Guinea-Bissau is not a country with a thick public record of famous UFO waves, lake monsters or classic newspaper “falls from the sky”.",
       "url": "guinea-bissau/",
-      "image": "",
+      "image": "assets/images/Guinea-Bissau_b07cb9-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -2311,7 +2295,7 @@
       "title": "Where Tanzania's Strange Stories Meet Real Evidence",
       "summary": "Tanzania’s strange-history record is unusually rich because its best-known oddities do not sit neatly in one box.",
       "url": "where-tanzanias-strange-stories-meet/",
-      "image": "",
+      "image": "assets/images/Tanzania_7e380b-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -2328,7 +2312,7 @@
       "title": "Where Togo's Uncanny Stories Become Public Life",
       "summary": "Togo’s strange-history record is not dominated by one famous monster, one world-beating UFO flap, or a single sensational “mystery” that can be chased...",
       "url": "where-togos-uncanny-stories-become/",
-      "image": "",
+      "image": "assets/images/Togo_30949d-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -2345,7 +2329,7 @@
       "title": "Where Tonga's Weird History Meets Real Earthfire",
       "summary": "Tonga’s strange-history record is not a tidy catalogue of monsters and flying saucers. It is more interesting than that.",
       "url": "where-tongas-weird-history-meets-real/",
-      "image": "",
+      "image": "assets/images/Tonga_e8a123-overview-social.jpg",
       "pageCount": 4,
       "region": "Oceania"
     },
@@ -2362,7 +2346,7 @@
       "title": "Where Tunisia's Weird History Feels Real",
       "summary": "Tunisia’s strange-history record is not best understood as a catalogue of monsters and flying saucers.",
       "url": "where-tunisias-weird-history-feels-real/",
-      "image": "",
+      "image": "assets/images/Tunisia_edf404-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -2379,7 +2363,7 @@
       "title": "Where Uzbekistan's Legends Meet Real Places",
       "summary": "Uzbekistan’s strange-history record is not dominated by one famous monster or a single headline-making haunting.",
       "url": "where-uzbekistans-legends-meet-real/",
-      "image": "",
+      "image": "assets/images/Uzbekistan_db800e-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -2396,7 +2380,7 @@
       "title": "Where Vanuatu's Strange Stories Meet Sacred Ground",
       "summary": "Vanuatu is not a country with one tidy “weird tale”.",
       "url": "where-vanuatus-strange-stories-meet/",
-      "image": "",
+      "image": "assets/images/Vanuatu_d16ad2-overview-social.jpg",
       "pageCount": 4,
       "region": "Oceania"
     },
@@ -2413,7 +2397,7 @@
       "title": "Where Yemen's Landscape Turns Strange",
       "summary": "Yemen’s strange-history record is not built around one famous monster or a single tidy “mystery”.",
       "url": "where-yemens-landscape-turns-strange/",
-      "image": "",
+      "image": "assets/images/Yemen_ac33d6-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -2430,7 +2414,7 @@
       "title": "Why Algeria's Weird Stories Endure",
       "summary": "Algeria’s strange-history record is not a neat cabinet of proven monsters and tidy hauntings.",
       "url": "why-algerias-weird-stories-endure/",
-      "image": "",
+      "image": "assets/images/Algeria_bd6acc-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -2449,7 +2433,7 @@
       "title": "Why America Became a Weird History Machine",
       "summary": "The United States is one of the world’s great engines of modern Forteana because its strange stories sit at the crossroads of huge landscapes, local pride,...",
       "url": "united-states/",
-      "image": "",
+      "image": "assets/images/United_States_f5f19f-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -2466,7 +2450,7 @@
       "title": "Why Argentina's Weird Stories Still Travel",
       "summary": "Argentina’s strange-history record is not one tidy shelf of monsters, UFOs and ghost stories.",
       "url": "why-argentinas-weird-stories-still/",
-      "image": "",
+      "image": "assets/images/Argentina_354bf9-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -2482,7 +2466,7 @@
       "title": "Why Australia Makes Strange Stories Feel Plausible",
       "summary": "Australia’s strange-history record is unusually rich because it sits at the meeting point of old landscapes, colonial newspapers, Indigenous knowledge...",
       "url": "why-australia-makes-strange-stories-feel/",
-      "image": "",
+      "image": "assets/images/Australia_ceafb5-overview-social.jpg",
       "pageCount": 4,
       "region": "Oceania"
     },
@@ -2499,7 +2483,7 @@
       "title": "Why Austria's Weird Stories Still Haunt",
       "summary": "Austria’s strange-history record is strongest where folklore, landscape and documented curiosity overlap: Alpine winter demons, dragon legends tied to...",
       "url": "why-austrias-weird-stories-still-haunt/",
-      "image": "",
+      "image": "assets/images/Austria_593905-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -2516,7 +2500,7 @@
       "title": "Why Azerbaijan's Weirdness Starts in the Ground",
       "summary": "Azerbaijan’s strange-history record is unusually earthy.",
       "url": "why-azerbaijans-weirdness-starts-in-the/",
-      "image": "",
+      "image": "assets/images/Azerbaijan_213598-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -2533,7 +2517,7 @@
       "title": "Why Bahrain's Weird History Runs Deep",
       "summary": "Bahrain is not a country with a long catalogue of famous monsters or headline-grabbing UFO flaps.",
       "url": "why-bahrains-weird-history-runs-deep/",
-      "image": "",
+      "image": "assets/images/Bahrain_3ae11c-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -2550,7 +2534,7 @@
       "title": "Why Belarus Keeps Its Weird Stories Close",
       "summary": "Belarus has a quieter Fortean profile than countries with famous flying-saucer waves or headline lake monsters, but its strange-history record is still rich:...",
       "url": "why-belarus-keeps-its-weird-stories/",
-      "image": "",
+      "image": "assets/images/Belarus_027a12-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -2567,7 +2551,7 @@
       "title": "Why Bhutan's Strange Stories Still Have Power",
       "summary": "Bhutan’s strange-history record is not best understood as a parade of isolated “hauntings” or monster yarns.",
       "url": "why-bhutans-strange-stories-still-have/",
-      "image": "",
+      "image": "assets/images/Bhutan_bb2254-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -2585,7 +2569,7 @@
       "title": "Why Bolivia Makes Strange Stories Feel Plausible",
       "summary": "Bolivia’s strange-history record is not best understood as a catalogue of monsters and flying saucers. It is more interesting than that.",
       "url": "why-bolivia-makes-strange-stories-feel/",
-      "image": "",
+      "image": "assets/images/Bolivia_a001af-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -2604,7 +2588,7 @@
       "title": "Why Britain Turns Odd Reports Into Folklore",
       "summary": "The United Kingdom is unusually rich ground for strange reports because its oddities have been recorded by a dense web of parish lore, newspapers, scientific...",
       "url": "united-kingdom/",
-      "image": "",
+      "image": "assets/images/United_Kingdom_d25561-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -2621,7 +2605,7 @@
       "title": "Why Do UAE Weird Stories Still Haunt?",
       "summary": "The United Arab Emirates has a distinctive strange-history record: less a catalogue of monster hunts and castle ghosts, more a meeting point of desert...",
       "url": "united-arab-emirates/",
-      "image": "",
+      "image": "assets/images/United_Arab_Emirates_c92b89-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -2638,7 +2622,7 @@
       "title": "Why Does Andorra Feel So Uncanny?",
       "summary": "Andorra’s strange-history record is not built around one spectacular monster, crash, or haunting.",
       "url": "why-does-andorra-feel-so-uncanny/",
-      "image": "",
+      "image": "assets/images/Andorra_9d3bd1-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -2655,7 +2639,7 @@
       "title": "Why Does Bulgaria's Weird History Feel So Layered?",
       "summary": "Bulgaria’s strange-history record is not one single mystery but a busy borderland: village rites meant to frighten off evil, medieval graves altered to stop...",
       "url": "why-does-bulgarias-weird-history-feel-so/",
-      "image": "",
+      "image": "assets/images/Bulgaria_5c7772-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -2672,7 +2656,7 @@
       "title": "Why Does Czechia Feel So Haunted?",
       "summary": "The Czech Republic’s strange-history record is less a single “great mystery” than a layered cabinet of oddities: medieval legends turned into tourist...",
       "url": "czech-republic/",
-      "image": "",
+      "image": "assets/images/Czech_Republic_0c207e-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -2690,7 +2674,7 @@
       "title": "Why Does Dutch Weird History Feel So Grounded?",
       "summary": "The Netherlands has a quieter Fortean profile than countries built around one famous monster or one national haunting.",
       "url": "netherlands/",
-      "image": "",
+      "image": "assets/images/Netherlands_fb61c8-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -2707,7 +2691,7 @@
       "title": "Why Does Guatemala Feel So Uncanny?",
       "summary": "Guatemala’s strange-history record is not built around one neat national mystery.",
       "url": "why-does-guatemala-feel-so-uncanny/",
-      "image": "",
+      "image": "assets/images/Guatemala_11760e-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -2724,7 +2708,7 @@
       "title": "Why Does India Have So Many Strange Stories?",
       "summary": "India is one of the world's richest landscapes for strange stories, but its Fortean tradition is not defined by a single mystery.",
       "url": "why-does-india-have-so-many-strange/",
-      "image": "",
+      "image": "assets/images/India_967ce3-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -2741,7 +2725,7 @@
       "title": "Why Does Kazakhstan Feel So Uncanny?",
       "summary": "Kazakhstan’s strange-history record is not a neat parade of monsters and ghosts.",
       "url": "why-does-kazakhstan-feel-so-uncanny/",
-      "image": "",
+      "image": "assets/images/Kazakhstan_2f36b6-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -2758,7 +2742,7 @@
       "title": "Why Does Luxembourg Feel So Quietly Weird?",
       "summary": "Luxembourg’s strange-history record is not built around one famous monster or a single spectacular UFO case.",
       "url": "why-does-luxembourg-feel-so-quietly/",
-      "image": "",
+      "image": "assets/images/Luxembourg_507672-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -2775,7 +2759,7 @@
       "title": "Why Does Namibia Feel So Uncanny?",
       "summary": "Namibia is a superb country for strange-but-grounded history because so many of its mysteries begin as visible facts: bare circles in the desert grass, a...",
       "url": "why-does-namibia-feel-so-uncanny/",
-      "image": "",
+      "image": "assets/images/Namibia_bfe79d-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -2792,7 +2776,7 @@
       "title": "Why Does Slovakia Feel So Uncanny?",
       "summary": "Slovakia’s strange-history record is not built around one single monster or one world-famous UFO flap.",
       "url": "why-does-slovakia-feel-so-uncanny/",
-      "image": "",
+      "image": "assets/images/Slovakia_b6c149-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -2810,7 +2794,7 @@
       "title": "Why Does The Bahamas Feel So Uncanny?",
       "summary": "The Bahamas has a particularly strong claim on Caribbean strange history because many of its best-known mysteries grow out of the landscape itself: blue...",
       "url": "why-does-the-bahamas-feel-so-uncanny/",
-      "image": "",
+      "image": "assets/images/The_Bahamas_f765dc-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -2826,7 +2810,7 @@
       "title": "Why Does Tuvalu's Landscape Feel So Enchanted?",
       "summary": "Tuvalu is not rich in the usual Fortean paperwork: there is no famous national UFO flap, no well-attested lake monster, and no grand archive of anomalous rains.",
       "url": "why-does-tuvalus-landscape-feel-so/",
-      "image": "",
+      "image": "assets/images/Tuvalu_9a2248-overview-social.jpg",
       "pageCount": 4,
       "region": "Oceania"
     },
@@ -2843,7 +2827,7 @@
       "title": "Why Egypt's Mysteries Refuse To Stay Buried",
       "summary": "Egypt is one of the world’s great engines of strange history: not because its monuments need supernatural help, but because its landscape, religion,...",
       "url": "why-egypts-mysteries-refuse-to-stay/",
-      "image": "",
+      "image": "assets/images/Egypt_1c39ab-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -2860,7 +2844,7 @@
       "title": "Why Estonia Turns Landscape Into Legend",
       "summary": "Estonia’s strange-history record is not dominated by one world-famous monster or a single “classic” UFO case.",
       "url": "why-estonia-turns-landscape-into-legend/",
-      "image": "",
+      "image": "assets/images/Estonia_f0a96d-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -2877,7 +2861,7 @@
       "title": "Why Finland's Strange Stories Stay So Grounded",
       "summary": "Finland’s strange-history record is not built around one monster or one famous haunted house.",
       "url": "why-finlands-strange-stories-stay-so/",
-      "image": "",
+      "image": "assets/images/Finland_c909b1-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -2894,7 +2878,7 @@
       "title": "Why Greece Is So Rich In Strange Stories",
       "summary": "Greece is one of the richest countries for strange-but-grounded material because its “weird history” is not a separate shelf from its mainstream culture.",
       "url": "why-greece-is-so-rich-in-strange-stories/",
-      "image": "",
+      "image": "assets/images/Greece_4902a4-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -2911,7 +2895,7 @@
       "title": "Why Iceland Keeps Feeling Supernatural",
       "summary": "Iceland’s strange-history record is unusually rich because the country’s marvels sit at the meeting point of landscape, literature and living belief.",
       "url": "why-iceland-keeps-feeling-supernatural/",
-      "image": "",
+      "image": "assets/images/Iceland_b3c92e-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -2928,7 +2912,7 @@
       "title": "Why Indonesia's Weird Tales Still Matter",
       "summary": "Indonesia’s strange-history record is not a single genre of “paranormal” tale.",
       "url": "why-indonesias-weird-tales-still-matter/",
-      "image": "",
+      "image": "assets/images/Indonesia_35536a-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -2945,7 +2929,7 @@
       "title": "Why Iraq's Weird History Still Haunts",
       "summary": "Iraq’s strange-history record is unusually rich because the country sits at the meeting point of three powerful kinds of evidence: ancient Mesopotamian omen...",
       "url": "why-iraqs-weird-history-still-haunts/",
-      "image": "",
+      "image": "assets/images/Iraq_1aed9e-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -2961,7 +2945,7 @@
       "title": "Why Ireland Keeps Its Strangest Stories Alive",
       "summary": "Ireland’s strange-history record is unusually rich because it sits at the meeting point of oral tradition, Catholic visionary culture, nineteenth-century...",
       "url": "why-ireland-keeps-its-strangest-stories/",
-      "image": "",
+      "image": "assets/images/Ireland_eb2131-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -2978,7 +2962,7 @@
       "title": "Why Is Belgium So Good at Strange History?",
       "summary": "Belgium’s strange-history record is unusually rich because it sits at a crossroads: densely populated skies, old Catholic pilgrimage culture, multilingual...",
       "url": "why-is-belgium-so-good-at-strange/",
-      "image": "",
+      "image": "assets/images/Belgium_5cb4c9-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -2995,7 +2979,7 @@
       "title": "Why Is Denmark's Weird History So Well Preserved?",
       "summary": "Denmark’s strange-history record is not built around one gigantic national mystery, but around a layered mix of folklore, maritime monsters, castle ghosts,...",
       "url": "why-is-denmarks-weird-history-so-well/",
-      "image": "",
+      "image": "assets/images/Denmark_89da12-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -3011,7 +2995,7 @@
       "title": "Why Is Malaysia So Rich in Strange Stories?",
       "summary": "Malaysia’s strange-history record is not built around one neat national mystery.",
       "url": "why-is-malaysia-so-rich-in-strange/",
-      "image": "",
+      "image": "assets/images/Malaysia_ff3ea3-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -3028,7 +3012,7 @@
       "title": "Why Israel Keeps Producing Strange Stories",
       "summary": "Israel’s strange-history record is unusually dense because it sits at the junction of sacred geography, desert ecology, modern mass media and hard archaeology.",
       "url": "why-israel-keeps-producing-strange/",
-      "image": "",
+      "image": "assets/images/Israel_4c197d-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -3045,7 +3029,7 @@
       "title": "Why Jordan Makes the Uncanny Feel Ancient",
       "summary": "Jordan’s Fortean record is not a neat parade of flying saucers and lake monsters.",
       "url": "why-jordan-makes-the-uncanny-feel/",
-      "image": "",
+      "image": "assets/images/Jordan_674027-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -3061,7 +3045,7 @@
       "title": "Why Libya's Desert Keeps Making Mysteries",
       "summary": "Libya’s strange-history record is not built around one famous monster or a single tidy ghost story.",
       "url": "why-libyas-desert-keeps-making-mysteries/",
-      "image": "",
+      "image": "assets/images/Libya_55949d-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -3078,7 +3062,7 @@
       "title": "Why Malta Feels So Uncannily Alive",
       "summary": "Malta’s strange-history record is not built around one famous monster or a single national UFO flap.",
       "url": "why-malta-feels-so-uncannily-alive/",
-      "image": "",
+      "image": "assets/images/Malta_1a591a-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -3095,7 +3079,7 @@
       "title": "Why Mauritius Makes Its Own Weird Weather",
       "summary": "Mauritius has no single “great monster” or world-famous UFO flap at the centre of its strange-history record.",
       "url": "why-mauritius-makes-its-own-weird/",
-      "image": "",
+      "image": "assets/images/Mauritius_26160d-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -3111,7 +3095,7 @@
       "title": "Why Montenegro Turns Landscape Into Legend",
       "summary": "Montenegro’s strange-history record is not dominated by a single world-famous monster or neatly documented UFO wave.",
       "url": "why-montenegro-turns-landscape-into/",
-      "image": "",
+      "image": "assets/images/Montenegro_479fb3-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -3128,7 +3112,7 @@
       "title": "Why Myanmar's Weird History Still Feels Alive",
       "summary": "Myanmar’s strange-history record is not best understood as a neat catalogue of UFO crashes, lake monsters and laboratory-defying marvels.",
       "url": "why-myanmars-weird-history-still-feels/",
-      "image": "",
+      "image": "assets/images/Myanmar_928b7c-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -3145,7 +3129,7 @@
       "title": "Why Seychelles' Weird Stories Still Stick",
       "summary": "Seychelles has a compact but distinctive strange-history record: not a crowded catalogue of famous UFO waves or laboratory-grade mysteries, but a small...",
       "url": "why-seychelles-weird-stories-still-stick/",
-      "image": "",
+      "image": "assets/images/Seychelles_3d2d7b-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -3162,7 +3146,7 @@
       "title": "Why Spain Became So Strangely Well Documented",
       "summary": "Spain’s strange-history record is unusually rich because it sits at the crossroads of older Catholic visionary culture, regional folklore, modern mass media,...",
       "url": "why-spain-became-so-strangely-well/",
-      "image": "",
+      "image": "assets/images/Spain_20a8df-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -3179,7 +3163,7 @@
       "title": "Why Suriname's Weird Stories Feel Different",
       "summary": "Suriname’s strange-history record is not dominated by one famous monster or a single internationally celebrated haunting.",
       "url": "why-surinames-weird-stories-feel/",
-      "image": "",
+      "image": "assets/images/Suriname_b17fc6-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -3196,7 +3180,7 @@
       "title": "Why Sweden's Weird Stories Keep Returning",
       "summary": "Sweden’s strange-history record is unusually rich because its oddities sit at the meeting point of landscape, archives and modern scepticism.",
       "url": "why-swedens-weird-stories-keep-returning/",
-      "image": "",
+      "image": "assets/images/Sweden_72ddd2-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -3213,7 +3197,7 @@
       "title": "Why Switzerland Makes Mystery Feel Plausible",
       "summary": "Switzerland’s strange-history record is not a single national ghost story but a mountain range of overlapping claims: dragons on Pilatus, cat-faced Alpine...",
       "url": "why-switzerland-makes-mystery-feel/",
-      "image": "",
+      "image": "assets/images/Switzerland_77dcd8-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -3230,7 +3214,7 @@
       "title": "Why Uruguay Takes Strange Reports Seriously",
       "summary": "Uruguay’s strange-history record is not dominated by one giant monster or a single world-famous haunting.",
       "url": "why-uruguay-takes-strange-reports/",
-      "image": "",
+      "image": "assets/images/Uruguay_66b989-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -3248,7 +3232,7 @@
       "title": "Why Venezuela Feels Made for Forteana",
       "summary": "Venezuela’s strange-history record is unusually strong because its best-known “mysteries” sit on a spectrum: some are spectacular but natural, some are...",
       "url": "why-venezuela-feels-made-for-forteana/",
-      "image": "",
+      "image": "assets/images/Venezuela_9d4ac4-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -3265,7 +3249,7 @@
       "title": "Zimbabwe's Strangest Stories, Sceptically Told",
       "summary": "Zimbabwe’s strongest Fortean material is not a neat cabinet of monsters and flying saucers.",
       "url": "zimbabwes-strangest-stories-sceptically/",
-      "image": "",
+      "image": "assets/images/Zimbabwe_5922f5-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     }
@@ -3284,7 +3268,7 @@
       "title": "Bosnia's Weird History Between Faith and Folklore",
       "summary": "Bosnia and Herzegovina’s strange-history record is not built around one neat national mystery.",
       "url": "bosnia-and-herzegovina/",
-      "image": "",
+      "image": "assets/images/Bosnia_and_Herzegovi_552c9f-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -3301,7 +3285,7 @@
       "title": "Botswana's Weird History Without the Hype",
       "summary": "Botswana’s strange-history record is not a parade of famous monsters and haunted castles.",
       "url": "botswanas-weird-history-without-the-hype/",
-      "image": "",
+      "image": "assets/images/Botswana_180c89-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -3318,7 +3302,7 @@
       "title": "Brazil's Strangest Stories, Claims and Unsolved Files",
       "summary": "Brazil has one of the richest strange-history records in the world: not because every report is convincing, but because the country’s folklore, newspapers,...",
       "url": "brazils-strangest-stories-claims-and/",
-      "image": "",
+      "image": "assets/images/Brazil_37497a-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -3335,7 +3319,7 @@
       "title": "Cameroon Mysteries Where Science Meets Strange Stories",
       "summary": "Cameroon’s strange-history record is shaped less by a catalogue of proven supernatural events than by a fascinating mixture of natural mysteries, spiritual...",
       "url": "cameroon-mysteries-where-science-meets/",
-      "image": "",
+      "image": "assets/images/Cameroon_73a7dd-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -3351,7 +3335,7 @@
       "title": "Canada's Strange History Of Unsolved Mysteries",
       "summary": "Canada’s strange-history record is unusually rich because of its scale, geography and long relationship between wilderness, folklore and modern technology.",
       "url": "canadas-strange-history-of-unsolved/",
-      "image": "",
+      "image": "assets/images/Canada_cd6a7b-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -3368,7 +3352,7 @@
       "title": "Chad's Strangest Stories Between Legend And Science",
       "summary": "Chad is not a country with a large catalogue of famous Fortean mysteries, but its landscape and cultural history contain several strands of strange material:...",
       "url": "chads-strangest-stories-between-legend/",
-      "image": "",
+      "image": "assets/images/Chad_6c6b1b-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -3385,7 +3369,7 @@
       "title": "Chile's Strangest Stories Between Legend And Evidence",
       "summary": "Chile has one of the richest landscapes for strange reports in South America, not because every mystery has proved to be real, but because the country...",
       "url": "chiles-strangest-stories-between/",
-      "image": "",
+      "image": "assets/images/Chile_349507-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -3402,7 +3386,7 @@
       "title": "China's Strangest Mysteries: Legends, Sightings and...",
       "summary": "China has one of the richest traditions of strange reports, unexplained sightings and uncanny folklore in the world.",
       "url": "chinas-strangest-mysteries-legends/",
-      "image": "",
+      "image": "assets/images/China_d2eaf2-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -3419,7 +3403,7 @@
       "title": "Colombia's Strangest Stories: Myth, Mystery and Evidence",
       "summary": "Colombia’s strange-history record is unusually rich because it sits where dramatic landscapes, Indigenous traditions, colonial exploration, scientific...",
       "url": "colombias-strangest-stories-myth-mystery/",
-      "image": "",
+      "image": "assets/images/Colombia_2f7373-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -3436,7 +3420,7 @@
       "title": "Comoros Mysteries: Where Nature Meets Legend",
       "summary": "Comoros is not a country with a large catalogue of famous modern paranormal cases, but it does have a rich landscape for Fortean interest: active volcanoes,...",
       "url": "comoros-mysteries-where-nature-meets/",
-      "image": "",
+      "image": "assets/images/Comoros_e5bb59-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -3454,7 +3438,7 @@
       "title": "Congo's Strangest Mysteries Beyond The Map",
       "summary": "The Congo is one of the world’s most famous settings for strange reports, especially stories of hidden animals, mysterious creatures and encounters in dense...",
       "url": "congos-strangest-mysteries-beyond-the/",
-      "image": "",
+      "image": "assets/images/Congo_77f256-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -3471,7 +3455,7 @@
       "title": "Costa Rica's Strangest Stories and Mysteries",
       "summary": "Costa Rica’s reputation for strange phenomena comes from a mixture of dramatic landscapes, rich oral traditions, unusual natural events and a handful of...",
       "url": "costa-ricas-strangest-stories-and/",
-      "image": "",
+      "image": "assets/images/Costa_Rica_fe586b-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -3488,7 +3472,7 @@
       "title": "Croatia's Strangest Stories Between Myth And Evidence",
       "summary": "Croatia’s strange-history record is shaped less by one famous “unsolved mystery” than by a rich mixture of mountain legends, unusual natural events, ghost...",
       "url": "croatias-strangest-stories-between/",
-      "image": "",
+      "image": "assets/images/Croatia_d7e045-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -3505,7 +3489,7 @@
       "title": "Cuba's Strangest Stories Between Myth And Reality",
       "summary": "Cuba’s strange history is less a catalogue of monsters and miracles than a record of how people interpret unusual experiences: lights in the countryside,...",
       "url": "cubas-strangest-stories-between-myth-and/",
-      "image": "",
+      "image": "assets/images/Cuba_c484b1-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -3522,7 +3506,7 @@
       "title": "Cyprus Mysteries: Monsters, Ghosts And Strange Tales",
       "summary": "Cyprus has a surprisingly rich record of strange stories, from sea monsters said to lurk off the eastern coast to ghostly traditions, prophetic tales and...",
       "url": "cyprus-mysteries-monsters-ghosts-and/",
-      "image": "",
+      "image": "assets/images/Cyprus_852add-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -3539,7 +3523,7 @@
       "title": "Dominica's Weirdness Between Fire and Folklore",
       "summary": "Dominica’s strange-history record is not a catalogue of famous UFO crashes or internationally celebrated monsters.",
       "url": "dominicas-weirdness-between-fire-and/",
-      "image": "",
+      "image": "assets/images/Dominica_bc1cd4-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -3556,7 +3540,7 @@
       "title": "Germany's Weirdest Stories Without the Hype",
       "summary": "Germany’s strange-history record is unusually rich because it sits at the meeting point of folklore, early print culture, religious vision, mountain weather,...",
       "url": "germanys-weirdest-stories-without-the/",
-      "image": "",
+      "image": "assets/images/Germany_17d53e-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -3572,7 +3556,7 @@
       "title": "Grenada's Weird History Without the Hype",
       "summary": "Grenada’s strange-history record is not built around one famous monster or a single blockbuster ghost case.",
       "url": "grenadas-weird-history-without-the-hype/",
-      "image": "",
+      "image": "assets/images/Grenada_dbf2a2-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -3589,7 +3573,7 @@
       "title": "Guyana's Strangest Stories: Myths, Monsters And...",
       "summary": "Guyana’s strange-history record is not dominated by one neat mystery.",
       "url": "guyanas-strangest-stories-myths-monsters/",
-      "image": "",
+      "image": "assets/images/Guyana_bc88a2-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -3606,7 +3590,7 @@
       "title": "Haiti's Mysteries Beyond The Zombie Myth",
       "summary": "Haiti has one of the richest strange-history traditions in the Caribbean, but its most famous mystery is also one of the most misunderstood: the zombie.",
       "url": "haitis-mysteries-beyond-the-zombie-myth/",
-      "image": "",
+      "image": "assets/images/Haiti_a4842f-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -3623,7 +3607,7 @@
       "title": "Honduras' Strangest Stories Between Fact And Folklore",
       "summary": "Honduras has one of the richest collections of strange reports and unusual traditions in Central America, from the famous “rain of fish” in Yoro to forest...",
       "url": "honduras-strangest-stories-between/",
-      "image": "",
+      "image": "assets/images/Honduras_5aa588-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -3639,7 +3623,7 @@
       "title": "Hungary's Strangest Stories, Legends and Hoaxes",
       "summary": "Hungary’s Fortean landscape is less about one single world-famous mystery and more about the way ordinary places, old beliefs, newspaper stories and modern...",
       "url": "hungarys-strangest-stories-legends-and/",
-      "image": "",
+      "image": "assets/images/Hungary_f14e46-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -3657,7 +3641,7 @@
       "title": "Iran's Strangest Stories, Tested Against Evidence",
       "summary": "Iran’s strange-history record is unusually rich because it sits at the crossing point of ancient myth, desert and mountain weather, Persian literary memory,...",
       "url": "irans-strangest-stories-tested-against/",
-      "image": "",
+      "image": "assets/images/Iran_889224-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -3674,7 +3658,7 @@
       "title": "Italy's Strangest Stories, Tested by Evidence",
       "summary": "Italy’s strange-history record is unusually rich because the country sits at a crossroads of religion, classical learning, earthquakes, volcanoes, deep...",
       "url": "italys-strangest-stories-tested-by/",
-      "image": "",
+      "image": "assets/images/Italy_ad79ef-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -3690,7 +3674,7 @@
       "title": "Japan's Strangest Stories, Explained Without the Hype",
       "summary": "Japan’s strange-history record is not a single shelf of “ghost stories” or “UFO cases”.",
       "url": "japans-strangest-stories-explained/",
-      "image": "",
+      "image": "assets/images/Japan_fcf29f-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -3707,7 +3691,7 @@
       "title": "Kuwait's Strangest Stories Between Fact And Folklore",
       "summary": "Kuwait’s strange history is not dominated by famous monster sightings or well-documented supernatural cases.",
       "url": "kuwaits-strangest-stories-between-fact/",
-      "image": "",
+      "image": "assets/images/Kuwait_93295b-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -3724,7 +3708,7 @@
       "title": "Kyrgyzstan's Strangest Stories And Unanswered Mysteries",
       "summary": "Kyrgyzstan’s strange-history record is shaped less by famous “monster” cases or large UFO waves and more by the meeting point of dramatic landscapes, oral...",
       "url": "kyrgyzstans-strangest-stories-and/",
-      "image": "",
+      "image": "assets/images/Kyrgyzstan_c78791-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -3741,7 +3725,7 @@
       "title": "Latvia's Strangest Stories Between Myth And Mystery",
       "summary": "Latvia’s strange history is less about one famous “unsolved mystery” and more about a landscape where folklore, abandoned places, unusual sightings and old...",
       "url": "latvias-strangest-stories-between-myth/",
-      "image": "",
+      "image": "assets/images/Latvia_c5f5bb-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -3758,7 +3742,7 @@
       "title": "Lebanon's Strange Stories: Myths, Mysteries And Evidence",
       "summary": "Lebanon’s strange-history record is not built around one single famous “mystery” but around a rich mixture of ancient sacred traditions, village legends,...",
       "url": "lebanons-strange-stories-myths-mysteries/",
-      "image": "",
+      "image": "assets/images/Lebanon_5caa7f-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -3775,7 +3759,7 @@
       "title": "Nigeria's Strangest Stories Between Myth And Reality",
       "summary": "Nigeria has a rich record of strange stories, unusual reports and mysterious traditions, but its Fortean landscape is less about a single famous “unsolved...",
       "url": "nigerias-strangest-stories-between/",
-      "image": "",
+      "image": "assets/images/Nigeria_9742d0-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -3792,7 +3776,7 @@
       "title": "North Macedonia's Strangest Legends and Mysteries",
       "summary": "North Macedonia has a rich record of strange stories, but much of its Fortean material is not built around a single famous “mystery case”.",
       "url": "north-macedonias-strangest-legends-and/",
-      "image": "",
+      "image": "assets/images/North_Macedonia_cece1d-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -3809,7 +3793,7 @@
       "title": "Norway's Strangest Mysteries Between Legend And Evidence",
       "summary": "Norway has one of the richest collections of strange reports in northern Europe, from unexplained lights in remote valleys to lake monsters, sea phantoms,...",
       "url": "norways-strangest-mysteries-between/",
-      "image": "",
+      "image": "assets/images/Norway_988455-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -3826,7 +3810,7 @@
       "title": "Oman's Strangest Stories Between Legend And Evidence",
       "summary": "Oman’s strange-history record is less about spectacular modern mysteries and more about the meeting point between dramatic landscapes, old traditions,...",
       "url": "omans-strangest-stories-between-legend/",
-      "image": "",
+      "image": "assets/images/Oman_c14c36-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -3843,7 +3827,7 @@
       "title": "Pakistan's Strangest Stories Between Fact And Folklore",
       "summary": "Pakistan has a rich record of strange reports, unusual natural events, ghostly traditions and unexplained sightings.",
       "url": "pakistans-strangest-stories-between-fact/",
-      "image": "",
+      "image": "assets/images/Pakistan_82d220-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -3860,7 +3844,7 @@
       "title": "Panama's Weirdest Stories: Monsters, Spirits And...",
       "summary": "Panama’s strange-history record is not dominated by one single famous mystery, but by a mixture of river spirits, ghost stories, unusual creature reports,...",
       "url": "panamas-weirdest-stories-monsters/",
-      "image": "",
+      "image": "assets/images/Panama_1e36b3-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -3877,7 +3861,7 @@
       "title": "Papua New Guinea's Strangest Stories Explained",
       "summary": "Papua New Guinea (PNG) has one of the richest strange-history landscapes in the Pacific: a place where unusual sky sightings, monster reports, spirit...",
       "url": "papua-new-guineas-strangest-stories/",
-      "image": "",
+      "image": "assets/images/Papua_New_Guinea_90e80c-overview-social.jpg",
       "pageCount": 4,
       "region": "Oceania"
     },
@@ -3894,7 +3878,7 @@
       "title": "Peru's Strangest Mysteries: Myths, Evidence And Legends",
       "summary": "Peru has one of the richest collections of strange reports and unexplained traditions in South America, partly because its landscape naturally encourages...",
       "url": "perus-strangest-mysteries-myths-evidence/",
-      "image": "",
+      "image": "assets/images/Peru_36c572-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -3911,7 +3895,7 @@
       "title": "Poland's Strangest Stories From Legends To Skyfall",
       "summary": "Poland has one of Europe’s richest traditions of strange reports, from medieval monsters and haunted places to modern UFO encounters and unusual natural events.",
       "url": "polands-strangest-stories-from-legends/",
-      "image": "",
+      "image": "assets/images/Poland_5ff03b-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -3928,7 +3912,7 @@
       "title": "Portugal's Strangest Mysteries: Faith, Folklore And Sky",
       "summary": "Portugal has a rich record of strange reports, from the world-famous visions at Ftima to older legends of monsters, spirits, enchanted landscapes and...",
       "url": "portugals-strangest-mysteries-faith/",
-      "image": "",
+      "image": "assets/images/Portugal_a49519-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -3944,7 +3928,7 @@
       "title": "Romania's Strangest Stories Between Myth And Evidence",
       "summary": "Romania has one of Europes richest landscapes for Fortean stories: strange lights over forests, uncanny photographs, haunted places, unusual sky events, and...",
       "url": "romanias-strangest-stories-between/",
-      "image": "",
+      "image": "assets/images/Romania_d6b897-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -3961,7 +3945,7 @@
       "title": "Russia's Strangest Mysteries Explained Through Evidence",
       "summary": "Russia has one of the richest collections of strange reports, unexplained episodes and unusual folklore in the world.",
       "url": "russias-strangest-mysteries-explained/",
-      "image": "",
+      "image": "assets/images/Russia_6754fe-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -3978,7 +3962,7 @@
       "title": "Saint Vincent's Strange Stories and Unexplained...",
       "summary": "Saint Vincent and the Grenadines is not a country with a long catalogue of famous monsters, UFO cases, or celebrated paranormal investigations.",
       "url": "saint-vincent-and-the-grenadines/",
-      "image": "",
+      "image": "assets/images/Saint_Vincent_and_th_3bce2a-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -3995,7 +3979,7 @@
       "title": "Saudi Arabia's Strangest Stories Explained",
       "summary": "Saudi Arabia has a rich record of strange stories, unusual sightings and folklore that sit at the meeting point of desert landscape, religious tradition,...",
       "url": "saudi-arabias-strangest-stories/",
-      "image": "",
+      "image": "assets/images/Saudi_Arabia_8bf7f8-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -4012,7 +3996,7 @@
       "title": "Senegal's Strange Stories Beyond The Known World",
       "summary": "Senegal’s strange history is less a catalogue of monsters and flying-saucer scares than a record of how people have interpreted unusual places, natural...",
       "url": "senegals-strange-stories-beyond-the/",
-      "image": "",
+      "image": "assets/images/Senegal_d8973b-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -4029,7 +4013,7 @@
       "title": "Somalia's Weird History Without the Hype",
       "summary": "Somalias strange-history record is not a neat catalogue of famous UFO landings or lake monsters.",
       "url": "somalias-weird-history-without-the-hype/",
-      "image": "",
+      "image": "assets/images/Somalia_4dfdf1-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -4046,25 +4030,9 @@
       "title": "Thailand's Weird History, Belief and Doubt",
       "summary": "Thailand’s strange-history record is not built around one tidy mystery.",
       "url": "thailands-weird-history-belief-and-doubt/",
-      "image": "",
+      "image": "assets/images/Thailand_a2b7c1-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
-    },
-    {
-      "id": "CF",
-      "iso": "CF",
-      "basename": "Central_African_Repu_358788",
-      "country": "Central African Republic",
-      "label": "Central African Republic",
-      "mapAliases": [
-        "central african republic"
-      ],
-      "title": "The Central African Republic's Strangest Mysteries",
-      "summary": "The Central African Republic is not usually known internationally as a centre of Fortean mysteries, yet its landscapes, oral traditions and scientific...",
-      "url": "the-central-african-republics-strangest/",
-      "image": "",
-      "pageCount": 4,
-      "region": "Africa"
     },
     {
       "id": "PH",
@@ -4079,7 +4047,7 @@
       "title": "The Philippines' Strangest Stories Explained",
       "summary": "The Philippines has one of the richest landscapes of strange reports and unusual traditions in Southeast Asia.",
       "url": "the-philippines-strangest-stories/",
-      "image": "",
+      "image": "assets/images/Philippines_806736-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -4096,7 +4064,7 @@
       "title": "The Strange Stories Behind Saint Kitts and Nevis",
       "summary": "Saint Kitts and Nevis is not known for a large catalogue of famous modern “mysteries”, but its strange-history record is shaped by something more subtle: the...",
       "url": "saint-kitts-and-nevis/",
-      "image": "",
+      "image": "assets/images/Saint_Kitts_and_Nevi_a66de5-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -4113,7 +4081,7 @@
       "title": "The Strange Stories Hidden In Rwanda's Past",
       "summary": "Rwanda’s strangest stories are rarely about a single spectacular “mystery event”.",
       "url": "the-strange-stories-hidden-in-rwandas/",
-      "image": "",
+      "image": "assets/images/Rwanda_7266a1-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -4131,7 +4099,7 @@
       "title": "Turkey's Monsters, UFOs and Living Legends",
       "summary": "Turkey’s strange-history record is unusually rich because it sits at a crossroads of empire, migration, religion, geology and mass media.",
       "url": "turkeys-monsters-ufos-and-living-legends/",
-      "image": "",
+      "image": "assets/images/Turkey_d7153e-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -4148,7 +4116,7 @@
       "title": "Uganda's Strangest Stories, Checked Against Evidence",
       "summary": "Uganda’s strange-history record is not built around one famous monster or one endlessly recycled ghost story.",
       "url": "ugandas-strangest-stories-checked/",
-      "image": "",
+      "image": "assets/images/Uganda_e92904-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -4164,7 +4132,7 @@
       "title": "Ukraine's Weird History Between Folklore and Fact",
       "summary": "Ukraine’s strange-history record is unusually rich because it sits at the meeting point of folklore, frontier landscapes, Soviet secrecy, wartime rumour,...",
       "url": "ukraines-weird-history-between/",
-      "image": "",
+      "image": "assets/images/Ukraine_c951ec-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -4182,7 +4150,7 @@
       "title": "Vietnam's Strangest Stories, Evidence First",
       "summary": "Vietnam’s strange-history record is not a neat cabinet of isolated ghost stories and lake monsters.",
       "url": "vietnams-strangest-stories-evidence/",
-      "image": "",
+      "image": "assets/images/Vietnam_681101-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -4198,7 +4166,7 @@
       "title": "What Makes Barbados So Strangely Haunted?",
       "summary": "Barbados has one truly world-class Fortean story: the Chase Vault at Christ Church, where heavy lead coffins were said to have repeatedly shifted inside a...",
       "url": "what-makes-barbados-so-strangely-haunted/",
-      "image": "",
+      "image": "assets/images/Barbados_93409a-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -4214,7 +4182,7 @@
       "title": "What Makes Belize's Weird Stories Endure?",
       "summary": "Belize’s strange-history record is less a catalogue of tidy “cases” than a living mixture of forest warnings, river ghosts, cave ritual, jaguar rumours,...",
       "url": "what-makes-belizes-weird-stories-endure/",
-      "image": "",
+      "image": "assets/images/Belize_42ab0c-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -4230,7 +4198,7 @@
       "title": "What Makes Burkina Faso's Weird History So Earthbound?",
       "summary": "Burkina Faso’s strange-history record is not dominated by famous flying saucers or lake monsters.",
       "url": "what-makes-burkina-fasos-weird-history/",
-      "image": "",
+      "image": "assets/images/Burkina_Faso_f61e5f-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -4247,7 +4215,7 @@
       "title": "What Makes Burundi's Strange History So Unsettling?",
       "summary": "Burundi is not one of the world’s loudest Fortean countries.",
       "url": "what-makes-burundis-strange-history-so/",
-      "image": "",
+      "image": "assets/images/Burundi_461758-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -4265,7 +4233,7 @@
       "title": "What Makes Cape Verde's Weird History So Unusual?",
       "summary": "Cape Verde’s strange-history record is not crowded with famous monsters or world-shaking paranormal cases.",
       "url": "what-makes-cape-verdes-weird-history-so/",
-      "image": "",
+      "image": "assets/images/Cape_Verde_556906-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -4282,7 +4250,7 @@
       "title": "What Makes Eritrea's Strange History So Elusive?",
       "summary": "Eritrea is not a country with a large, well-documented public catalogue of UFO flaps, lake monsters or famous haunted houses.",
       "url": "what-makes-eritreas-strange-history-so/",
-      "image": "",
+      "image": "assets/images/Eritrea_18740a-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -4299,7 +4267,7 @@
       "title": "What Makes Fiji's Strange History So Memorable?",
       "summary": "Fiji’s strange-history record is not dominated by one grand national mystery.",
       "url": "what-makes-fijis-strange-history-so/",
-      "image": "",
+      "image": "assets/images/Fiji_bbb7ef-overview-social.jpg",
       "pageCount": 4,
       "region": "Oceania"
     },
@@ -4316,7 +4284,7 @@
       "title": "What Makes France Such Strange Country?",
       "summary": "France has one of Europe’s richest strange-history records because its oddities sit at the crossroads of folklore, newspapers, science, religion, tourism and...",
       "url": "what-makes-france-such-strange-country/",
-      "image": "",
+      "image": "assets/images/France_e3772a-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -4332,7 +4300,7 @@
       "title": "What Makes Jamaica's Strange History So Powerful?",
       "summary": "Jamaica’s strange-history record is strongest where folklore, slavery-era memory, religious vision, natural disaster and tourism collide.",
       "url": "what-makes-jamaicas-strange-history-so/",
-      "image": "",
+      "image": "assets/images/Jamaica_5eedd6-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -4349,7 +4317,7 @@
       "title": "What Makes Kiribati's Weird History So Oceanic?",
       "summary": "Kiribati is not a country with a vast catalogue of famous monsters, haunted castles or headline-grabbing UFO waves.",
       "url": "what-makes-kiribatis-weird-history-so/",
-      "image": "",
+      "image": "assets/images/Kiribati_3f57ad-overview-social.jpg",
       "pageCount": 4,
       "region": "Oceania"
     },
@@ -4366,7 +4334,7 @@
       "title": "What Makes Liberia's Weird Stories So Unsettling?",
       "summary": "Liberia has a lean but fascinating Fortean record: not a tidy catalogue of famous UFO flaps or internationally verified monsters, but a set of stories where...",
       "url": "what-makes-liberias-weird-stories-so/",
-      "image": "",
+      "image": "assets/images/Liberia_1ed5dd-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -4383,7 +4351,7 @@
       "title": "What Makes Maldives Forteana So Ocean Haunted?",
       "summary": "The Maldives has a strange-history record shaped less by laboratory-style paranormal cases than by island storytelling, sea-centred legends, jinn traditions,...",
       "url": "what-makes-maldives-forteana-so-ocean/",
-      "image": "",
+      "image": "assets/images/Maldives_213cb2-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -4400,7 +4368,7 @@
       "title": "What Makes Mali's Weird History So Compelling?",
       "summary": "Mali’s strongest strange-history material is not a neat catalogue of ghosts and UFO flaps.",
       "url": "what-makes-malis-weird-history-so/",
-      "image": "",
+      "image": "assets/images/Mali_daa6a4-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -4417,7 +4385,7 @@
       "title": "What Makes Mexico's Strange History So Enduring?",
       "summary": "Mexico’s strange-history record is unusually rich because it sits at a crossroads of ancient Mesoamerican cosmology, colonial religious fear, modern mass...",
       "url": "what-makes-mexicos-strange-history-so/",
-      "image": "",
+      "image": "assets/images/Mexico_41937b-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -4435,7 +4403,7 @@
       "title": "What Makes Micronesia's Strange History So Unusual?",
       "summary": "The Federated States of Micronesia is not rich in modern, well-documented UFO flaps or tabloid-style monster hunts.",
       "url": "micronesia-federated-states-of/",
-      "image": "",
+      "image": "assets/images/Micronesia_Federated_30e9e8-overview-social.jpg",
       "pageCount": 4,
       "region": "Oceania"
     },
@@ -4451,7 +4419,7 @@
       "title": "What Makes Mongolia's Strange Stories Endure?",
       "summary": "Mongolia’s strange-history record is dominated by one celebrity monster, the deadly worm said to haunt the Gobi Desert, but that is only the loudest part of...",
       "url": "what-makes-mongolias-strange-stories/",
-      "image": "",
+      "image": "assets/images/Mongolia_f54da3-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -4468,7 +4436,7 @@
       "title": "What Makes Morocco's Weird History So Durable?",
       "summary": "Morocco’s strange-history record is unusually rich because it sits at the meeting point of desert skies, mountain folklore, old spirit traditions,...",
       "url": "what-makes-moroccos-weird-history-so/",
-      "image": "",
+      "image": "assets/images/Morocco_32e087-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -4485,7 +4453,7 @@
       "title": "What Makes Nauru's Weird History So Unsettling?",
       "summary": "Nauru is not famous for a crowded catalogue of UFO waves, lake monsters or spectacular newspaper phantoms.",
       "url": "what-makes-naurus-weird-history-so/",
-      "image": "",
+      "image": "assets/images/Nauru_f648c7-overview-social.jpg",
       "pageCount": 4,
       "region": "Oceania"
     },
@@ -4502,7 +4470,7 @@
       "title": "What Makes Nepal's Strange History So Enduring?",
       "summary": "Nepal’s strange-history record is dominated by one famous creature, the Yeti, but the country’s Fortean landscape is broader and more interesting than a...",
       "url": "what-makes-nepals-strange-history-so/",
-      "image": "",
+      "image": "assets/images/Nepal_0e1d58-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -4518,7 +4486,7 @@
       "title": "What Makes New Zealand's Weird History So Distinctive?",
       "summary": "New Zealand’s strange-history record is not built around one national monster or one famous haunted house.",
       "url": "what-makes-new-zealands-weird-history-so/",
-      "image": "",
+      "image": "assets/images/New_Zealand_3d3336-overview-social.jpg",
       "pageCount": 4,
       "region": "Oceania"
     },
@@ -4535,7 +4503,7 @@
       "title": "What Makes Niger's Weird History So Unusual?",
       "summary": "Niger’s strange-history record is not a neat parade of famous UFO cases or lake monsters.",
       "url": "what-makes-nigers-weird-history-so/",
-      "image": "",
+      "image": "assets/images/Niger_6687e1-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -4554,7 +4522,7 @@
       "title": "What Makes North Korea's Strange Stories So Slippery?",
       "summary": "North Korea’s strange-history record is not a simple catalogue of “weird things in a weird country”.",
       "url": "what-makes-north-koreas-strange/",
-      "image": "",
+      "image": "assets/images/North_Korea_ccbbbb-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -4571,7 +4539,7 @@
       "title": "What Makes San Marino So Mysterious?",
       "summary": "San Marino is not a country famous for a long catalogue of classic Fortean cases such as monster sightings or major UFO flaps.",
       "url": "what-makes-san-marino-so-mysterious/",
-      "image": "",
+      "image": "assets/images/San_Marino_8ff2c5-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -4588,7 +4556,7 @@
       "title": "What Makes Sierra Leone's Weird History So Strange?",
       "summary": "Sierra Leone’s strongest “weird history” is not a tidy catalogue of flying saucers and lake monsters. It is stranger, and more culturally revealing, than that.",
       "url": "what-makes-sierra-leones-weird-history/",
-      "image": "",
+      "image": "assets/images/Sierra_Leone_817b0d-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -4605,7 +4573,7 @@
       "title": "What Makes Singapore's Strange History So Persistent?",
       "summary": "Singapore’s strange-history record is not a wilderness of grand unsolved monsters or famous UFO dossiers.",
       "url": "what-makes-singapores-strange-history-so/",
-      "image": "",
+      "image": "assets/images/Singapore_20c0b7-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -4622,7 +4590,7 @@
       "title": "What Makes South Africa's Weird History So Place Bound?",
       "summary": "South Africa’s strange-history record is not one single tradition.",
       "url": "what-makes-south-africas-weird-history/",
-      "image": "",
+      "image": "assets/images/South_Africa_3b27c8-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -4639,7 +4607,7 @@
       "title": "What Makes South Sudan's Weird History So Different?",
       "summary": "South Sudan’s strange-history record is not a tidy catalogue of famous UFOs, monster scares and newspaper-ready ghost stories.",
       "url": "what-makes-south-sudans-weird-history-so/",
-      "image": "",
+      "image": "assets/images/South_Sudan_80ac9c-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -4656,7 +4624,7 @@
       "title": "What Makes Sri Lanka's Strange Stories Endure?",
       "summary": "Sri Lanka’s strange-history record is unusually rich because it sits where rainforest ecology, Buddhist and Hindu spirit traditions, colonial-era natural...",
       "url": "what-makes-sri-lankas-strange-stories/",
-      "image": "",
+      "image": "assets/images/Sri_Lanka_db33ad-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -4673,7 +4641,7 @@
       "title": "What Makes Sudan's Strange History So Unusual?",
       "summary": "Sudan’s strange-history record is not a neat cabinet of “monsters and ghosts” so much as a meeting place of desert skies, Nile marshes, spirit traditions,...",
       "url": "what-makes-sudans-strange-history-so/",
-      "image": "",
+      "image": "assets/images/Sudan_1193ba-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -4690,7 +4658,7 @@
       "title": "What Makes Syria's Weird History So Layered?",
       "summary": "Syria’s strange-history record is not dominated by one famous monster or one tidy “haunting”.",
       "url": "what-makes-syrias-weird-history-so/",
-      "image": "",
+      "image": "assets/images/Syria_3ed104-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -4707,7 +4675,7 @@
       "title": "What Makes Tajikistan's Weird History So Mountainous?",
       "summary": "Tajikistan’s strange-history record is not a neat cabinet of famous ghosts and headline-grabbing monsters.",
       "url": "what-makes-tajikistans-weird-history-so/",
-      "image": "",
+      "image": "assets/images/Tajikistan_279c77-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -4724,7 +4692,7 @@
       "title": "What Makes The Gambia So Strangely Memorable?",
       "summary": "The Gambia’s strongest strange-history material is not a neat catalogue of UFO files or laboratory puzzles.",
       "url": "what-makes-the-gambia-so-strangely/",
-      "image": "",
+      "image": "assets/images/Gambia_7c3997-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -4740,7 +4708,7 @@
       "title": "What Makes Turkmenistan's Weird History Burn?",
       "summary": "Turkmenistan’s strange-history record is dominated by one extraordinary real place: the burning Darvaza gas crater in the Karakum Desert, better known abroad...",
       "url": "what-makes-turkmenistans-weird-history/",
-      "image": "",
+      "image": "assets/images/Turkmenistan_1f8dc1-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -4757,7 +4725,7 @@
       "title": "What Makes Zambia's Strange History So Unusual?",
       "summary": "Zambia’s strange-history record is not built around one famous “monster case” or a single national ghost story.",
       "url": "what-makes-zambias-strange-history-so/",
-      "image": "",
+      "image": "assets/images/Zambia_dcf25e-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -4775,7 +4743,7 @@
       "title": "What Mysteries Linger Along Laos's Rivers?",
       "summary": "Laos has one of Southeast Asia’s richest traditions of strange reports, spirit stories and unexplained natural spectacles.",
       "url": "what-mysteries-linger-along-laoss-rivers/",
-      "image": "",
+      "image": "assets/images/Laos_7998be-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -4792,7 +4760,7 @@
       "title": "What Strange Stories Does Samoa Remember?",
       "summary": "Samoa’s strangest stories are not dominated by modern UFO reports or famous monster hunts.",
       "url": "what-strange-stories-does-samoa-remember/",
-      "image": "",
+      "image": "assets/images/Samoa_f56806-overview-social.jpg",
       "pageCount": 4,
       "region": "Oceania"
     },
@@ -4809,7 +4777,7 @@
       "title": "What Strange Stories Haunt Paraguay?",
       "summary": "Paraguay’s strange history is less about a single famous mystery and more about the meeting point between Indigenous mythology, rural storytelling, unusual...",
       "url": "what-strange-stories-haunt-paraguay/",
-      "image": "",
+      "image": "assets/images/Paraguay_71a452-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -4826,7 +4794,7 @@
       "title": "What Strange Stories Haunt Qatar's History?",
       "summary": "Qatar’s strange-history record is not dominated by famous UFO cases or spectacular unexplained disasters.",
       "url": "what-strange-stories-haunt-qatars/",
-      "image": "",
+      "image": "assets/images/Qatar_83ef3e-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -4844,7 +4812,7 @@
       "title": "What Strange Stories Haunt South Korea?",
       "summary": "South Korea has a rich record of strange reports, uncanny traditions and unexplained stories, but its Fortean landscape is less about one famous “mystery...",
       "url": "what-strange-stories-haunt-south-korea/",
-      "image": "",
+      "image": "assets/images/South_Korea_7536d5-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -4863,7 +4831,7 @@
       "title": "What Strange Stories Hide Across Ivory Coast?",
       "summary": "Ivory Coast (officially Côte d’Ivoire) has a rich landscape of strange stories, but its Fortean record is less about famous modern “mysteries” with neat...",
       "url": "ivory-coast/",
-      "image": "",
+      "image": "assets/images/Ivory_Coast_0c79b1-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -4880,7 +4848,7 @@
       "title": "What Strange Stories Hide Across Sao Tome?",
       "summary": "So Tom and Prncipe is not a country famous for dramatic UFO waves or internationally recognised monster sightings.",
       "url": "sao-tome-and-principe/",
-      "image": "",
+      "image": "assets/images/Sao_Tome_and_Princip_3437b2-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -4897,7 +4865,7 @@
       "title": "What Strange Stories Linger Across Palau's Islands?",
       "summary": "Palau’s strangest stories are not dominated by famous UFO incidents or internationally known monsters.",
       "url": "what-strange-stories-linger-across/",
-      "image": "",
+      "image": "assets/images/Palau_e5e0b6-overview-social.jpg",
       "pageCount": 4,
       "region": "Oceania"
     },
@@ -4915,7 +4883,7 @@
       "title": "What Strange Stories Shape Moldova's Hidden History?",
       "summary": "Moldovas strange-history record is less about famous monsters or headline-grabbing mysteries and more about the meeting point between folklore, landscape,...",
       "url": "what-strange-stories-shape-moldovas/",
-      "image": "",
+      "image": "assets/images/Moldova_9791bc-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -4931,7 +4899,7 @@
       "title": "What Strange Stories Shape Saint Lucia?",
       "summary": "Saint Lucia’s strange-history record is less about a single famous “unsolved mystery” and more about a rich landscape of folklore, unusual natural settings,...",
       "url": "what-strange-stories-shape-saint-lucia/",
-      "image": "",
+      "image": "assets/images/Saint_Lucia_85ac35-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -4948,7 +4916,7 @@
       "title": "What Strange Stories Shape Serbia's Mystery Landscape?",
       "summary": "Serbia’s strange history is a mixture of dramatic natural events, enduring village legends, unusual sky reports and stories that sit between folklore and...",
       "url": "what-strange-stories-shape-serbias/",
-      "image": "",
+      "image": "assets/images/Serbia_6d31bf-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -4965,7 +4933,7 @@
       "title": "When Lesotho's Ordinary World Turns Strange",
       "summary": "Lesotho’s strangest stories are not dominated by a single famous mystery, but by a mixture of dramatic natural events, sky phenomena, spiritual traditions...",
       "url": "when-lesothos-ordinary-world-turns/",
-      "image": "",
+      "image": "assets/images/Lesotho_93b12b-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -4982,7 +4950,7 @@
       "title": "When Malawi's Rumours Became Public Events",
       "summary": "Malawi’s strongest Fortean material is not a tidy catalogue of UFOs and lake serpents.",
       "url": "when-malawis-rumours-became-public/",
-      "image": "",
+      "image": "assets/images/Malawi_0ce65b-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -4999,7 +4967,7 @@
       "title": "Where Afghan Landscape Turns Into Legend",
       "summary": "Afghanistan’s strongest Fortean material is not a neat catalogue of alien landings, lake monsters and newspaper oddities.",
       "url": "afghanistan/",
-      "image": "",
+      "image": "assets/images/Afghanistan_c69153-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -5016,7 +4984,7 @@
       "title": "Where Albania Turns Weather Into Monsters",
       "summary": "Albania’s strange-history record is not dominated by a single famous “monster” or world-renowned UFO case.",
       "url": "where-albania-turns-weather-into/",
-      "image": "",
+      "image": "assets/images/Albania_79b9d2-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -5033,7 +5001,7 @@
       "title": "Where Angola's Strange Stories Meet Evidence",
       "summary": "Angola’s strange-history record is not dominated by flying saucer flaps or neat monster-hunt dossiers.",
       "url": "where-angolas-strange-stories-meet/",
-      "image": "",
+      "image": "assets/images/Angola_a42522-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -5049,7 +5017,7 @@
       "title": "Where Antigua's Weird Stories Stick to Places",
       "summary": "Antigua and Barbuda does not have one neat “great mystery” that dominates its strange-history record.",
       "url": "antigua-and-barbuda/",
-      "image": "",
+      "image": "assets/images/Antigua_and_Barbuda_0f8518-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -5066,7 +5034,7 @@
       "title": "Where Armenia's Weird History Meets the Mountains",
       "summary": "Armenia’s strange-history record is not dominated by one famous monster or a single national ghost story.",
       "url": "where-armenias-weird-history-meets-the/",
-      "image": "",
+      "image": "assets/images/Armenia_5f4599-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -5083,7 +5051,7 @@
       "title": "Where Benin's Spirits Enter Public Life",
       "summary": "Benin’s strange-history record is not built around one famous lake monster or a neat catalogue of flying saucers.",
       "url": "where-benins-spirits-enter-public-life/",
-      "image": "",
+      "image": "assets/images/Benin_373616-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -5100,7 +5068,7 @@
       "title": "Where Brunei's Strange Stories Live",
       "summary": "Brunei’s strange-history record is not dominated by one famous “monster case” or a single world-known UFO flap.",
       "url": "where-bruneis-strange-stories-live/",
-      "image": "",
+      "image": "assets/images/Brunei_130e4a-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -5117,7 +5085,7 @@
       "title": "Where Cambodia's Strange Stories Touch Everyday Life",
       "summary": "Cambodia’s strange-history record is not built around a single famous “monster” or one neat paranormal case.",
       "url": "where-cambodias-strange-stories-touch/",
-      "image": "",
+      "image": "assets/images/Cambodia_314ccd-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -5134,7 +5102,7 @@
       "title": "Where Djibouti's Landscape Turns Strange",
       "summary": "Djibouti is not a country with a thick public record of classic “monster flap” Forteana, mass UFO scares, or heavily documented ghost cases.",
       "url": "where-djiboutis-landscape-turns-strange/",
-      "image": "",
+      "image": "assets/images/Djibouti_60a8b0-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -5150,7 +5118,7 @@
       "title": "Where Dominican Folklore Meets the Uncanny",
       "summary": "The Dominican Republic’s strange-history record is strongest where folklore, landscape and testimony meet: the mountain woman with backward feet, night...",
       "url": "dominican-republic/",
-      "image": "",
+      "image": "assets/images/Dominican_Republic_dba665-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -5167,7 +5135,7 @@
       "title": "Where Ecuador's Weird Stories Touch Real History",
       "summary": "Ecuador’s strange-history record is not a single grand mystery, but a busy crossroads of folklore, radio panic, mountain lights, visionary religion, jungle...",
       "url": "where-ecuadors-weird-stories-touch-real/",
-      "image": "",
+      "image": "assets/images/Ecuador_09f199-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -5184,7 +5152,7 @@
       "title": "Where Equatorial Guinea Keeps Its Strange Stories",
       "summary": "Equatorial Guinea’s strange-history record is less a catalogue of famous UFO flaps or newspaper monsters than a quieter, more revealing mix of sacred...",
       "url": "where-equatorial-guinea-keeps-its/",
-      "image": "",
+      "image": "assets/images/Equatorial_Guinea_ae2c01-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -5201,7 +5169,7 @@
       "title": "Where Eswatini's Weird History Gets Real",
       "summary": "Eswatini’s strongest Fortean material is not a neat catalogue of lake monsters and famous UFO files.",
       "url": "where-eswatinis-weird-history-gets-real/",
-      "image": "",
+      "image": "assets/images/Eswatini_16cc7f-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -5218,7 +5186,7 @@
       "title": "Where Ethiopia's Sacred History Turns Strange",
       "summary": "Ethiopia has one of the richest strange-history records in Africa, but not because it offers a neat parade of monsters and flying saucers.",
       "url": "where-ethiopias-sacred-history-turns/",
-      "image": "",
+      "image": "assets/images/Ethiopia_3d91f7-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -5235,7 +5203,7 @@
       "title": "Where Folklore Meets Danger in Bangladesh",
       "summary": "Bangladesh has no single “great national monster” or officially documented paranormal mystery that dominates its strange-history record.",
       "url": "where-folklore-meets-danger-in/",
-      "image": "",
+      "image": "assets/images/Bangladesh_fa6c37-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -5252,7 +5220,7 @@
       "title": "Where Folklore Meets Strange History",
       "summary": "Trinidad and Tobago’s strange-history record is less a catalogue of laboratory-defying “proof” than a lively meeting place between folklore, landscape,...",
       "url": "trinidad-and-tobago/",
-      "image": "",
+      "image": "assets/images/Trinidad_and_Tobago_a73120-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -5269,7 +5237,7 @@
       "title": "Where Gabon's Weird History Gets Real",
       "summary": "Gabon’s strange-history record is not built around one world-famous ghost, UFO flap, or lake monster.",
       "url": "where-gabons-weird-history-gets-real/",
-      "image": "",
+      "image": "assets/images/Gabon_a06dcd-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -5285,7 +5253,7 @@
       "title": "Where Georgia's Legends Meet Real Evidence",
       "summary": "Georgia’s strange-history record is less a catalogue of “monster sightings” than a mountain archive of charged places, perilous folk beings, miracle stories,...",
       "url": "where-georgias-legends-meet-real/",
-      "image": "",
+      "image": "assets/images/Georgia_9113c6-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -5302,7 +5270,7 @@
       "title": "Where Ghana's Strange Stories Meet Real Places",
       "summary": "Ghana’s strange-history record is less a catalogue of tidy “mysteries” than a meeting place between oral tradition, sacred geography, colonial memory, modern...",
       "url": "where-ghanas-strange-stories-meet-real/",
-      "image": "",
+      "image": "assets/images/Ghana_317dba-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -5319,7 +5287,7 @@
       "title": "Where Guinea's Weird History Gets Real",
       "summary": "Guinea’s strange-history record is not rich in famous flying saucers, lake monsters or newspaper “rains of frogs”.",
       "url": "where-guineas-weird-history-gets-real/",
-      "image": "",
+      "image": "assets/images/Guinea_b47b54-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -5335,7 +5303,7 @@
       "title": "Where Island Folklore Becomes Fortean Mystery",
       "summary": "Solomon Islands has a unusually rich strange-history record, but it is not best understood as a single “mystery country” full of monsters.",
       "url": "solomon-islands/",
-      "image": "",
+      "image": "assets/images/Solomon_Islands_6f943d-overview-social.jpg",
       "pageCount": 4,
       "region": "Oceania"
     },
@@ -5352,7 +5320,7 @@
       "title": "Where Island Legends Meet Nuclear Shadows",
       "summary": "The Marshall Islands’ strange-history record is not built around one famous monster or a single headline-making haunting.",
       "url": "marshall-islands/",
-      "image": "",
+      "image": "assets/images/Marshall_Islands_ccbdc0-overview-social.jpg",
       "pageCount": 4,
       "region": "Oceania"
     },
@@ -5369,7 +5337,7 @@
       "title": "Where Kenya's Weird Stories Meet Real Landscapes",
       "summary": "Kenya’s strange-history record is not short of monsters, falling frogs, prophetic serpents, haunted craters and lions that became almost mythic.",
       "url": "where-kenyas-weird-stories-meet-real/",
-      "image": "",
+      "image": "assets/images/Kenya_a84f56-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -5386,7 +5354,7 @@
       "title": "Where Liechtenstein Keeps Its Ghosts",
       "summary": "Liechtenstein’s strange-history record is not a catalogue of famous UFO crashes or lake monsters.",
       "url": "where-liechtenstein-keeps-its-ghosts/",
-      "image": "",
+      "image": "assets/images/Liechtenstein_b0ddce-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -5403,7 +5371,7 @@
       "title": "Where Lithuania's Weird Stories Take Root",
       "summary": "Lithuania’s strange-history record is not dominated by one famous monster or one cleanly “unsolved” case.",
       "url": "where-lithuanias-weird-stories-take-root/",
-      "image": "",
+      "image": "assets/images/Lithuania_74a788-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -5420,7 +5388,7 @@
       "title": "Where Madagascar's Monsters Meet Real Natural History",
       "summary": "Madagascar’s strange-history record is not built around one tidy national ghost story.",
       "url": "where-madagascars-monsters-meet-real/",
-      "image": "",
+      "image": "assets/images/Madagascar_f92bcb-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -5437,7 +5405,7 @@
       "title": "Where Mauritania's Desert Makes Weird History",
       "summary": "Mauritania’s strange-history record is not crowded with famous haunted houses or headline-grabbing UFO flaps.",
       "url": "where-mauritanias-desert-makes-weird/",
-      "image": "",
+      "image": "assets/images/Mauritania_85fa35-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -5454,7 +5422,7 @@
       "title": "Where Monaco Turns Strange by the Sea",
       "summary": "Monaco is not a natural home for sprawling monster legends.",
       "url": "where-monaco-turns-strange-by-the-sea/",
-      "image": "",
+      "image": "assets/images/Monaco_35ab1c-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -5471,7 +5439,7 @@
       "title": "Where Mozambique's Weird Stories Meet Real Stakes",
       "summary": "Mozambique’s strange-history record is not dominated by one famous monster or a neat “national UFO case”.",
       "url": "where-mozambiques-weird-stories-meet/",
-      "image": "",
+      "image": "assets/images/Mozambique_a40a9b-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -5488,7 +5456,7 @@
       "title": "Where Myth Still Bites Back",
       "summary": "Timor-Leste is not rich in neatly documented “classic” Fortean cases: there is no well-attested national catalogue of lake monsters, flying saucer waves,...",
       "url": "timor-leste/",
-      "image": "",
+      "image": "assets/images/Timor-Leste_2d79f6-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -5505,7 +5473,7 @@
       "title": "Where Nicaragua's Weird Stories Meet Real Places",
       "summary": "Nicaragua’s strangest material is not best understood as a tidy catalogue of “paranormal cases”.",
       "url": "where-nicaraguas-weird-stories-meet-real/",
-      "image": "",
+      "image": "assets/images/Nicaragua_481264-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -5522,7 +5490,7 @@
       "title": "Where Salvadoran Folklore Meets Real Strangeness",
       "summary": "El Salvador’s strange-history record is not dominated by one famous monster or one neat “unsolved case”.",
       "url": "el-salvador/",
-      "image": "",
+      "image": "assets/images/El_Salvador_9b83b7-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -5539,7 +5507,7 @@
       "title": "Where Slovenia's Strangeness Begins With Real Places",
       "summary": "Slovenia’s strange-history record is not dominated by one famous “case” in the way some countries are defined by a single UFO flap, lake monster, or haunted...",
       "url": "where-slovenias-strangeness-begins-with/",
-      "image": "",
+      "image": "assets/images/Slovenia_d1aa05-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -5556,7 +5524,7 @@
       "title": "Where Spirits, Forests and Animals Stay Strange",
       "summary": "Guinea-Bissau is not a country with a thick public record of famous UFO waves, lake monsters or classic newspaper “falls from the sky”.",
       "url": "guinea-bissau/",
-      "image": "",
+      "image": "assets/images/Guinea-Bissau_b07cb9-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -5574,7 +5542,7 @@
       "title": "Where Tanzania's Strange Stories Meet Real Evidence",
       "summary": "Tanzania’s strange-history record is unusually rich because its best-known oddities do not sit neatly in one box.",
       "url": "where-tanzanias-strange-stories-meet/",
-      "image": "",
+      "image": "assets/images/Tanzania_7e380b-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -5591,7 +5559,7 @@
       "title": "Where Togo's Uncanny Stories Become Public Life",
       "summary": "Togo’s strange-history record is not dominated by one famous monster, one world-beating UFO flap, or a single sensational “mystery” that can be chased...",
       "url": "where-togos-uncanny-stories-become/",
-      "image": "",
+      "image": "assets/images/Togo_30949d-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -5608,7 +5576,7 @@
       "title": "Where Tonga's Weird History Meets Real Earthfire",
       "summary": "Tonga’s strange-history record is not a tidy catalogue of monsters and flying saucers. It is more interesting than that.",
       "url": "where-tongas-weird-history-meets-real/",
-      "image": "",
+      "image": "assets/images/Tonga_e8a123-overview-social.jpg",
       "pageCount": 4,
       "region": "Oceania"
     },
@@ -5625,7 +5593,7 @@
       "title": "Where Tunisia's Weird History Feels Real",
       "summary": "Tunisia’s strange-history record is not best understood as a catalogue of monsters and flying saucers.",
       "url": "where-tunisias-weird-history-feels-real/",
-      "image": "",
+      "image": "assets/images/Tunisia_edf404-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -5642,7 +5610,7 @@
       "title": "Where Uzbekistan's Legends Meet Real Places",
       "summary": "Uzbekistan’s strange-history record is not dominated by one famous monster or a single headline-making haunting.",
       "url": "where-uzbekistans-legends-meet-real/",
-      "image": "",
+      "image": "assets/images/Uzbekistan_db800e-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -5659,7 +5627,7 @@
       "title": "Where Vanuatu's Strange Stories Meet Sacred Ground",
       "summary": "Vanuatu is not a country with one tidy “weird tale”.",
       "url": "where-vanuatus-strange-stories-meet/",
-      "image": "",
+      "image": "assets/images/Vanuatu_d16ad2-overview-social.jpg",
       "pageCount": 4,
       "region": "Oceania"
     },
@@ -5676,7 +5644,7 @@
       "title": "Where Yemen's Landscape Turns Strange",
       "summary": "Yemen’s strange-history record is not built around one famous monster or a single tidy “mystery”.",
       "url": "where-yemens-landscape-turns-strange/",
-      "image": "",
+      "image": "assets/images/Yemen_ac33d6-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -5693,7 +5661,7 @@
       "title": "Why Algeria's Weird Stories Endure",
       "summary": "Algeria’s strange-history record is not a neat cabinet of proven monsters and tidy hauntings.",
       "url": "why-algerias-weird-stories-endure/",
-      "image": "",
+      "image": "assets/images/Algeria_bd6acc-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -5712,7 +5680,7 @@
       "title": "Why America Became a Weird History Machine",
       "summary": "The United States is one of the world’s great engines of modern Forteana because its strange stories sit at the crossroads of huge landscapes, local pride,...",
       "url": "united-states/",
-      "image": "",
+      "image": "assets/images/United_States_f5f19f-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -5729,7 +5697,7 @@
       "title": "Why Argentina's Weird Stories Still Travel",
       "summary": "Argentina’s strange-history record is not one tidy shelf of monsters, UFOs and ghost stories.",
       "url": "why-argentinas-weird-stories-still/",
-      "image": "",
+      "image": "assets/images/Argentina_354bf9-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -5745,7 +5713,7 @@
       "title": "Why Australia Makes Strange Stories Feel Plausible",
       "summary": "Australia’s strange-history record is unusually rich because it sits at the meeting point of old landscapes, colonial newspapers, Indigenous knowledge...",
       "url": "why-australia-makes-strange-stories-feel/",
-      "image": "",
+      "image": "assets/images/Australia_ceafb5-overview-social.jpg",
       "pageCount": 4,
       "region": "Oceania"
     },
@@ -5762,7 +5730,7 @@
       "title": "Why Austria's Weird Stories Still Haunt",
       "summary": "Austria’s strange-history record is strongest where folklore, landscape and documented curiosity overlap: Alpine winter demons, dragon legends tied to...",
       "url": "why-austrias-weird-stories-still-haunt/",
-      "image": "",
+      "image": "assets/images/Austria_593905-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -5779,7 +5747,7 @@
       "title": "Why Azerbaijan's Weirdness Starts in the Ground",
       "summary": "Azerbaijan’s strange-history record is unusually earthy.",
       "url": "why-azerbaijans-weirdness-starts-in-the/",
-      "image": "",
+      "image": "assets/images/Azerbaijan_213598-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -5796,7 +5764,7 @@
       "title": "Why Bahrain's Weird History Runs Deep",
       "summary": "Bahrain is not a country with a long catalogue of famous monsters or headline-grabbing UFO flaps.",
       "url": "why-bahrains-weird-history-runs-deep/",
-      "image": "",
+      "image": "assets/images/Bahrain_3ae11c-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -5813,7 +5781,7 @@
       "title": "Why Belarus Keeps Its Weird Stories Close",
       "summary": "Belarus has a quieter Fortean profile than countries with famous flying-saucer waves or headline lake monsters, but its strange-history record is still rich:...",
       "url": "why-belarus-keeps-its-weird-stories/",
-      "image": "",
+      "image": "assets/images/Belarus_027a12-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -5830,7 +5798,7 @@
       "title": "Why Bhutan's Strange Stories Still Have Power",
       "summary": "Bhutan’s strange-history record is not best understood as a parade of isolated “hauntings” or monster yarns.",
       "url": "why-bhutans-strange-stories-still-have/",
-      "image": "",
+      "image": "assets/images/Bhutan_bb2254-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -5848,7 +5816,7 @@
       "title": "Why Bolivia Makes Strange Stories Feel Plausible",
       "summary": "Bolivia’s strange-history record is not best understood as a catalogue of monsters and flying saucers. It is more interesting than that.",
       "url": "why-bolivia-makes-strange-stories-feel/",
-      "image": "",
+      "image": "assets/images/Bolivia_a001af-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -5867,7 +5835,7 @@
       "title": "Why Britain Turns Odd Reports Into Folklore",
       "summary": "The United Kingdom is unusually rich ground for strange reports because its oddities have been recorded by a dense web of parish lore, newspapers, scientific...",
       "url": "united-kingdom/",
-      "image": "",
+      "image": "assets/images/United_Kingdom_d25561-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -5884,7 +5852,7 @@
       "title": "Why Do UAE Weird Stories Still Haunt?",
       "summary": "The United Arab Emirates has a distinctive strange-history record: less a catalogue of monster hunts and castle ghosts, more a meeting point of desert...",
       "url": "united-arab-emirates/",
-      "image": "",
+      "image": "assets/images/United_Arab_Emirates_c92b89-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -5901,7 +5869,7 @@
       "title": "Why Does Andorra Feel So Uncanny?",
       "summary": "Andorra’s strange-history record is not built around one spectacular monster, crash, or haunting.",
       "url": "why-does-andorra-feel-so-uncanny/",
-      "image": "",
+      "image": "assets/images/Andorra_9d3bd1-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -5918,7 +5886,7 @@
       "title": "Why Does Bulgaria's Weird History Feel So Layered?",
       "summary": "Bulgaria’s strange-history record is not one single mystery but a busy borderland: village rites meant to frighten off evil, medieval graves altered to stop...",
       "url": "why-does-bulgarias-weird-history-feel-so/",
-      "image": "",
+      "image": "assets/images/Bulgaria_5c7772-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -5935,7 +5903,7 @@
       "title": "Why Does Czechia Feel So Haunted?",
       "summary": "The Czech Republic’s strange-history record is less a single “great mystery” than a layered cabinet of oddities: medieval legends turned into tourist...",
       "url": "czech-republic/",
-      "image": "",
+      "image": "assets/images/Czech_Republic_0c207e-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -5953,7 +5921,7 @@
       "title": "Why Does Dutch Weird History Feel So Grounded?",
       "summary": "The Netherlands has a quieter Fortean profile than countries built around one famous monster or one national haunting.",
       "url": "netherlands/",
-      "image": "",
+      "image": "assets/images/Netherlands_fb61c8-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -5970,7 +5938,7 @@
       "title": "Why Does Guatemala Feel So Uncanny?",
       "summary": "Guatemala’s strange-history record is not built around one neat national mystery.",
       "url": "why-does-guatemala-feel-so-uncanny/",
-      "image": "",
+      "image": "assets/images/Guatemala_11760e-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -5987,7 +5955,7 @@
       "title": "Why Does India Have So Many Strange Stories?",
       "summary": "India is one of the world's richest landscapes for strange stories, but its Fortean tradition is not defined by a single mystery.",
       "url": "why-does-india-have-so-many-strange/",
-      "image": "",
+      "image": "assets/images/India_967ce3-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -6004,7 +5972,7 @@
       "title": "Why Does Kazakhstan Feel So Uncanny?",
       "summary": "Kazakhstan’s strange-history record is not a neat parade of monsters and ghosts.",
       "url": "why-does-kazakhstan-feel-so-uncanny/",
-      "image": "",
+      "image": "assets/images/Kazakhstan_2f36b6-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -6021,7 +5989,7 @@
       "title": "Why Does Luxembourg Feel So Quietly Weird?",
       "summary": "Luxembourg’s strange-history record is not built around one famous monster or a single spectacular UFO case.",
       "url": "why-does-luxembourg-feel-so-quietly/",
-      "image": "",
+      "image": "assets/images/Luxembourg_507672-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -6038,7 +6006,7 @@
       "title": "Why Does Namibia Feel So Uncanny?",
       "summary": "Namibia is a superb country for strange-but-grounded history because so many of its mysteries begin as visible facts: bare circles in the desert grass, a...",
       "url": "why-does-namibia-feel-so-uncanny/",
-      "image": "",
+      "image": "assets/images/Namibia_bfe79d-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -6055,7 +6023,7 @@
       "title": "Why Does Slovakia Feel So Uncanny?",
       "summary": "Slovakia’s strange-history record is not built around one single monster or one world-famous UFO flap.",
       "url": "why-does-slovakia-feel-so-uncanny/",
-      "image": "",
+      "image": "assets/images/Slovakia_b6c149-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -6073,7 +6041,7 @@
       "title": "Why Does The Bahamas Feel So Uncanny?",
       "summary": "The Bahamas has a particularly strong claim on Caribbean strange history because many of its best-known mysteries grow out of the landscape itself: blue...",
       "url": "why-does-the-bahamas-feel-so-uncanny/",
-      "image": "",
+      "image": "assets/images/The_Bahamas_f765dc-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -6089,7 +6057,7 @@
       "title": "Why Does Tuvalu's Landscape Feel So Enchanted?",
       "summary": "Tuvalu is not rich in the usual Fortean paperwork: there is no famous national UFO flap, no well-attested lake monster, and no grand archive of anomalous rains.",
       "url": "why-does-tuvalus-landscape-feel-so/",
-      "image": "",
+      "image": "assets/images/Tuvalu_9a2248-overview-social.jpg",
       "pageCount": 4,
       "region": "Oceania"
     },
@@ -6106,7 +6074,7 @@
       "title": "Why Egypt's Mysteries Refuse To Stay Buried",
       "summary": "Egypt is one of the world’s great engines of strange history: not because its monuments need supernatural help, but because its landscape, religion,...",
       "url": "why-egypts-mysteries-refuse-to-stay/",
-      "image": "",
+      "image": "assets/images/Egypt_1c39ab-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -6123,7 +6091,7 @@
       "title": "Why Estonia Turns Landscape Into Legend",
       "summary": "Estonia’s strange-history record is not dominated by one world-famous monster or a single “classic” UFO case.",
       "url": "why-estonia-turns-landscape-into-legend/",
-      "image": "",
+      "image": "assets/images/Estonia_f0a96d-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -6140,7 +6108,7 @@
       "title": "Why Finland's Strange Stories Stay So Grounded",
       "summary": "Finland’s strange-history record is not built around one monster or one famous haunted house.",
       "url": "why-finlands-strange-stories-stay-so/",
-      "image": "",
+      "image": "assets/images/Finland_c909b1-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -6157,7 +6125,7 @@
       "title": "Why Greece Is So Rich In Strange Stories",
       "summary": "Greece is one of the richest countries for strange-but-grounded material because its “weird history” is not a separate shelf from its mainstream culture.",
       "url": "why-greece-is-so-rich-in-strange-stories/",
-      "image": "",
+      "image": "assets/images/Greece_4902a4-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -6174,7 +6142,7 @@
       "title": "Why Iceland Keeps Feeling Supernatural",
       "summary": "Iceland’s strange-history record is unusually rich because the country’s marvels sit at the meeting point of landscape, literature and living belief.",
       "url": "why-iceland-keeps-feeling-supernatural/",
-      "image": "",
+      "image": "assets/images/Iceland_b3c92e-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -6191,7 +6159,7 @@
       "title": "Why Indonesia's Weird Tales Still Matter",
       "summary": "Indonesia’s strange-history record is not a single genre of “paranormal” tale.",
       "url": "why-indonesias-weird-tales-still-matter/",
-      "image": "",
+      "image": "assets/images/Indonesia_35536a-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -6208,7 +6176,7 @@
       "title": "Why Iraq's Weird History Still Haunts",
       "summary": "Iraq’s strange-history record is unusually rich because the country sits at the meeting point of three powerful kinds of evidence: ancient Mesopotamian omen...",
       "url": "why-iraqs-weird-history-still-haunts/",
-      "image": "",
+      "image": "assets/images/Iraq_1aed9e-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -6224,7 +6192,7 @@
       "title": "Why Ireland Keeps Its Strangest Stories Alive",
       "summary": "Ireland’s strange-history record is unusually rich because it sits at the meeting point of oral tradition, Catholic visionary culture, nineteenth-century...",
       "url": "why-ireland-keeps-its-strangest-stories/",
-      "image": "",
+      "image": "assets/images/Ireland_eb2131-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -6241,7 +6209,7 @@
       "title": "Why Is Belgium So Good at Strange History?",
       "summary": "Belgium’s strange-history record is unusually rich because it sits at a crossroads: densely populated skies, old Catholic pilgrimage culture, multilingual...",
       "url": "why-is-belgium-so-good-at-strange/",
-      "image": "",
+      "image": "assets/images/Belgium_5cb4c9-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -6258,7 +6226,7 @@
       "title": "Why Is Denmark's Weird History So Well Preserved?",
       "summary": "Denmark’s strange-history record is not built around one gigantic national mystery, but around a layered mix of folklore, maritime monsters, castle ghosts,...",
       "url": "why-is-denmarks-weird-history-so-well/",
-      "image": "",
+      "image": "assets/images/Denmark_89da12-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -6274,7 +6242,7 @@
       "title": "Why Is Malaysia So Rich in Strange Stories?",
       "summary": "Malaysia’s strange-history record is not built around one neat national mystery.",
       "url": "why-is-malaysia-so-rich-in-strange/",
-      "image": "",
+      "image": "assets/images/Malaysia_ff3ea3-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -6291,7 +6259,7 @@
       "title": "Why Israel Keeps Producing Strange Stories",
       "summary": "Israel’s strange-history record is unusually dense because it sits at the junction of sacred geography, desert ecology, modern mass media and hard archaeology.",
       "url": "why-israel-keeps-producing-strange/",
-      "image": "",
+      "image": "assets/images/Israel_4c197d-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -6308,7 +6276,7 @@
       "title": "Why Jordan Makes the Uncanny Feel Ancient",
       "summary": "Jordan’s Fortean record is not a neat parade of flying saucers and lake monsters.",
       "url": "why-jordan-makes-the-uncanny-feel/",
-      "image": "",
+      "image": "assets/images/Jordan_674027-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -6324,7 +6292,7 @@
       "title": "Why Libya's Desert Keeps Making Mysteries",
       "summary": "Libya’s strange-history record is not built around one famous monster or a single tidy ghost story.",
       "url": "why-libyas-desert-keeps-making-mysteries/",
-      "image": "",
+      "image": "assets/images/Libya_55949d-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -6341,7 +6309,7 @@
       "title": "Why Malta Feels So Uncannily Alive",
       "summary": "Malta’s strange-history record is not built around one famous monster or a single national UFO flap.",
       "url": "why-malta-feels-so-uncannily-alive/",
-      "image": "",
+      "image": "assets/images/Malta_1a591a-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -6358,7 +6326,7 @@
       "title": "Why Mauritius Makes Its Own Weird Weather",
       "summary": "Mauritius has no single “great monster” or world-famous UFO flap at the centre of its strange-history record.",
       "url": "why-mauritius-makes-its-own-weird/",
-      "image": "",
+      "image": "assets/images/Mauritius_26160d-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -6374,7 +6342,7 @@
       "title": "Why Montenegro Turns Landscape Into Legend",
       "summary": "Montenegro’s strange-history record is not dominated by a single world-famous monster or neatly documented UFO wave.",
       "url": "why-montenegro-turns-landscape-into/",
-      "image": "",
+      "image": "assets/images/Montenegro_479fb3-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -6391,7 +6359,7 @@
       "title": "Why Myanmar's Weird History Still Feels Alive",
       "summary": "Myanmar’s strange-history record is not best understood as a neat catalogue of UFO crashes, lake monsters and laboratory-defying marvels.",
       "url": "why-myanmars-weird-history-still-feels/",
-      "image": "",
+      "image": "assets/images/Myanmar_928b7c-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
     },
@@ -6408,7 +6376,7 @@
       "title": "Why Seychelles' Weird Stories Still Stick",
       "summary": "Seychelles has a compact but distinctive strange-history record: not a crowded catalogue of famous UFO waves or laboratory-grade mysteries, but a small...",
       "url": "why-seychelles-weird-stories-still-stick/",
-      "image": "",
+      "image": "assets/images/Seychelles_3d2d7b-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     },
@@ -6425,7 +6393,7 @@
       "title": "Why Spain Became So Strangely Well Documented",
       "summary": "Spain’s strange-history record is unusually rich because it sits at the crossroads of older Catholic visionary culture, regional folklore, modern mass media,...",
       "url": "why-spain-became-so-strangely-well/",
-      "image": "",
+      "image": "assets/images/Spain_20a8df-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -6442,7 +6410,7 @@
       "title": "Why Suriname's Weird Stories Feel Different",
       "summary": "Suriname’s strange-history record is not dominated by one famous monster or a single internationally celebrated haunting.",
       "url": "why-surinames-weird-stories-feel/",
-      "image": "",
+      "image": "assets/images/Suriname_b17fc6-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -6459,7 +6427,7 @@
       "title": "Why Sweden's Weird Stories Keep Returning",
       "summary": "Sweden’s strange-history record is unusually rich because its oddities sit at the meeting point of landscape, archives and modern scepticism.",
       "url": "why-swedens-weird-stories-keep-returning/",
-      "image": "",
+      "image": "assets/images/Sweden_72ddd2-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -6476,7 +6444,7 @@
       "title": "Why Switzerland Makes Mystery Feel Plausible",
       "summary": "Switzerland’s strange-history record is not a single national ghost story but a mountain range of overlapping claims: dragons on Pilatus, cat-faced Alpine...",
       "url": "why-switzerland-makes-mystery-feel/",
-      "image": "",
+      "image": "assets/images/Switzerland_77dcd8-overview-social.jpg",
       "pageCount": 4,
       "region": "Europe"
     },
@@ -6493,7 +6461,7 @@
       "title": "Why Uruguay Takes Strange Reports Seriously",
       "summary": "Uruguay’s strange-history record is not dominated by one giant monster or a single world-famous haunting.",
       "url": "why-uruguay-takes-strange-reports/",
-      "image": "",
+      "image": "assets/images/Uruguay_66b989-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -6511,7 +6479,7 @@
       "title": "Why Venezuela Feels Made for Forteana",
       "summary": "Venezuela’s strange-history record is unusually strong because its best-known “mysteries” sit on a spectrum: some are spectacular but natural, some are...",
       "url": "why-venezuela-feels-made-for-forteana/",
-      "image": "",
+      "image": "assets/images/Venezuela_9d4ac4-overview-social.jpg",
       "pageCount": 4,
       "region": "Americas"
     },
@@ -6528,12 +6496,12 @@
       "title": "Zimbabwe's Strangest Stories, Sceptically Told",
       "summary": "Zimbabwe’s strongest Fortean material is not a neat cabinet of monsters and flying saucers.",
       "url": "zimbabwes-strangest-stories-sceptically/",
-      "image": "",
+      "image": "assets/images/Zimbabwe_5922f5-overview-social.jpg",
       "pageCount": 4,
       "region": "Africa"
     }
   ],
-  "matchedCount": 192,
+  "matchedCount": 191,
   "totalTopTopics": 193,
   "source": "Generated from Stage 3 country collection pages; base SVG from SimpleMaps world.svg."
 }

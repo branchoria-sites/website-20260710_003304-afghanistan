@@ -168,16 +168,30 @@ ui_strings:
   search_kind_relevant_snippet: Relevant snippet
 map_view:
   kind: world-countries
-  items: 192
+  items: 191
   map: /assets/maps/world.svg
   data: /assets/maps/world-countries.json
+header:
+  og_image: /assets/images/Morocco_32e087-overview-social.jpg
+  preview_image: /assets/images/Morocco_32e087-overview-social.jpg
+image: /assets/images/Morocco_32e087-overview-social.jpg
 site_image_description: A rocky Afghan valley at dusk with a long split ridge, pale mineral streaks, distant caves and mountains under a darkening sky.
 ---
 
 <section class="home-map-panel uap-world-map-panel" data-home-map-panel>
-<section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="world" data-map-layout="world" data-map-item-type="country" data-map-label="UFO and UAP country map" data-map-fallback-summary="Open this country file from the map." data-map-src="{{ 'assets/maps/world.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/world-countries.json' | relative_url }}" data-map-fit="" data-map-initial-item="BA" data-map-preview-preload="all">
-<div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas></div>
+<section class="interactive-map-shell uap-world-map-shell" data-map-view-home data-interactive-map data-uap-world-map data-map-kind="world" data-map-layout="world" data-map-item-type="country" data-map-label="Interactive country map" data-map-fallback-summary="Open this country file from the map." data-map-src="{{ 'assets/maps/world.svg' | relative_url }}" data-map-data-src="{{ 'assets/maps/world-countries.json' | relative_url }}" data-map-fit="" data-map-initial-item="BA" data-map-preview-preload="8">
+<nav class="interactive-map-region-nav" aria-label="Map regions">
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="africa" aria-label="Focus map on Africa"><span>Africa</span><small>52</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="americas" aria-label="Focus map on Americas"><span>Americas</span><small>35</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="asia" aria-label="Focus map on Asia"><span>Asia</span><small>47</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="europe" aria-label="Focus map on Europe"><span>Europe</span><small>43</small></button>
+<button type="button" class="interactive-map-region-button" data-interactive-map-continent-focus="oceania" aria-label="Focus map on Oceania"><span>Oceania</span><small>14</small></button>
+</nav>
+<div class="interactive-map-canvas uap-world-map-canvas" data-interactive-map-canvas data-uap-world-map-canvas>
+<span class="interactive-map-status uap-world-map-status" role="status" aria-live="polite">Loading map…</span>
+</div>
 <article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview>
+<img src="{{ '/assets/images/Bosnia_and_Herzegovi_552c9f-overview-social.jpg' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
 <span class="interactive-map-preview-meta uap-world-map-preview-meta">
 <span class="interactive-map-preview-chip uap-world-map-preview-chip">BA</span>
 <button type="button" class="interactive-map-preview-chip uap-world-map-preview-chip interactive-map-preview-chip-action uap-world-map-preview-chip-action" data-interactive-map-continent-focus="europe" data-uap-world-map-region-focus="europe" aria-label="Focus map on Europe">Europe</button>
