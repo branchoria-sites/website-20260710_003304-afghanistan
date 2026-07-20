@@ -1311,89 +1311,89 @@ Tonga’s appeal is that its best strange material does not collapse under scept
 That is the country’s distinctive contribution to weird history: Tonga shows that the strange does not have to be false to be fascinating, and it does not have to be supernatural to feel uncanny. Its most memorable cases sit in the overlap between story and landscape — where gods once fished up islands, where stones became royal memory, where an island appeared and disappeared, and where a volcano made the whole planet listen.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Where Tonga&#x27;s Weird History Meets Real Earthfire. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Where Tonga&#x27;s Weird History Meets Real Earthfire. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Vikings+of+the+sunrise%2C+by+Peter+H.+Buck+%28Te+Rangi+Hiroa%29+...with+fifty-eight+illustrations+from+photographs+Peter+Henry+Buck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vikings of the sunrise, by Peter H. Buck (Te Rangi Hiroa) ...with fifty-eight illustrations from photographs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13523102-M.jpg" alt="Cover for Vikings of the sunrise, by Peter H. Buck (Te Rangi Hiroa) ...with fifty-eight illustrations from photographs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Vikings+of+the+sunrise%2C+by+Peter+H.+Buck+%28Te+Rangi+Hiroa%29+...with+fifty-eight+illustrations+from+photographs+Peter+Henry+Buck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vikings of the sunrise, by Peter H. Buck (Te Rangi Hiroa) ...with fifty-eight illustrations from photographs">Vikings of the sunrise, by Peter H. Buck (Te Rangi Hiroa) ......</a>
-</h4>
-<p class="fr-book-author">By Peter Henry Buck, Paora Tapihana</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Collapse+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Collapse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12915198-M.jpg" alt="Cover for Collapse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Collapse+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Collapse">Collapse</a>
+        </h4>
+        <p class="fr-book-author">By Jared Diamond</p>
         
-<p class="fr-book-desc">First published 1938. Subjects: Ethnology, Polynesians, World history, Australia, history.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Vikings+of+the+sunrise%2C+by+Peter+H.+Buck+%28Te+Rangi+Hiroa%29+...with+fifty-eight+illustrations+from+photographs+Peter+Henry+Buck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Includes discussion of Pacific societies and environmental change.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Collapse+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Collapse+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Collapse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12915198-M.jpg" alt="Cover for Collapse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Collapse+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Collapse">Collapse</a>
-</h4>
-<p class="fr-book-author">By Jared Diamond</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Vikings+of+the+sunrise%2C+by+Peter+H.+Buck+%28Te+Rangi+Hiroa%29+...with+fifty-eight+illustrations+from+photographs+Peter+Henry+Buck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vikings of the sunrise, by Peter H. Buck (Te Rangi Hiroa) ...with fifty-eight illustrations from photographs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13523102-M.jpg" alt="Cover for Vikings of the sunrise, by Peter H. Buck (Te Rangi Hiroa) ...with fifty-eight illustrations from photographs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Vikings+of+the+sunrise%2C+by+Peter+H.+Buck+%28Te+Rangi+Hiroa%29+...with+fifty-eight+illustrations+from+photographs+Peter+Henry+Buck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vikings of the sunrise, by Peter H. Buck (Te Rangi Hiroa) ...with fifty-eight illustrations from photographs">Vikings of the sunrise, by Peter H. Buck (Te Rangi Hiroa) ......</a>
+        </h4>
+        <p class="fr-book-author">By Peter Henry Buck, Paora Tapihana</p>
         
-<p class="fr-book-desc">First published 2004. Subjects: Sociology, Culturen, Environnement, Changement social, Verval (geschiedenis).</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Collapse+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1938. Subjects: Ethnology, Polynesians, World history, Australia, history.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Vikings+of+the+sunrise%2C+by+Peter+H.+Buck+%28Te+Rangi+Hiroa%29+...with+fifty-eight+illustrations+from+photographs+Peter+Henry+Buck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Kon-Tiki+Kon+Tiki+Across+the+Pacific+by+Raft+by+Thor+Heyerdahl+1950+Thor+Heyerdahl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Kon-Tiki Kon Tiki Across the Pacific by Raft by Thor Heyerdahl 1950 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14997144-M.jpg" alt="Cover for Kon-Tiki Kon Tiki Across the Pacific by Raft by Thor Heyerdahl 1950" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Kon-Tiki+Kon+Tiki+Across+the+Pacific+by+Raft+by+Thor+Heyerdahl+1950+Thor+Heyerdahl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kon-Tiki Kon Tiki Across the Pacific by Raft by Thor Heyerdahl 1950">Kon-Tiki Kon Tiki Across the Pacific by Raft by Thor Heyerdah...</a>
-</h4>
-<p class="fr-book-author">By Thor Heyerdahl</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Kon-Tiki+Kon+Tiki+Across+the+Pacific+by+Raft+by+Thor+Heyerdahl+1950+Thor+Heyerdahl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Kon-Tiki Kon Tiki Across the Pacific by Raft by Thor Heyerdahl 1950 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14997144-M.jpg" alt="Cover for Kon-Tiki Kon Tiki Across the Pacific by Raft by Thor Heyerdahl 1950" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Kon-Tiki+Kon+Tiki+Across+the+Pacific+by+Raft+by+Thor+Heyerdahl+1950+Thor+Heyerdahl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kon-Tiki Kon Tiki Across the Pacific by Raft by Thor Heyerdahl 1950">Kon-Tiki Kon Tiki Across the Pacific by Raft by Thor Heyerdah...</a>
+        </h4>
+        <p class="fr-book-author">By Thor Heyerdahl</p>
         
-<p class="fr-book-desc">First published 1950.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Kon-Tiki+Kon+Tiki+Across+the+Pacific+by+Raft+by+Thor+Heyerdahl+1950+Thor+Heyerdahl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1950.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Kon-Tiki+Kon+Tiki+Across+the+Pacific+by+Raft+by+Thor+Heyerdahl+1950+Thor+Heyerdahl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Supernatural+in+Tonga+E.+E.+V.+Collocott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Supernatural in Tonga on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Supernatural+in+Tonga+E.+E.+V.+Collocott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Supernatural in Tonga">The Supernatural in Tonga</a>
-</h4>
-<p class="fr-book-author">By E. E. V. Collocott</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Supernatural+in+Tonga+E.+E.+V.+Collocott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Supernatural in Tonga on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Supernatural+in+Tonga+E.+E.+V.+Collocott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Supernatural in Tonga">The Supernatural in Tonga</a>
+        </h4>
+        <p class="fr-book-author">By E. E. V. Collocott</p>
         
-<p class="fr-book-desc">Foundational survey of Tongan supernatural traditions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Supernatural+in+Tonga+E.+E.+V.+Collocott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Foundational survey of Tongan supernatural traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Supernatural+in+Tonga+E.+E.+V.+Collocott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Vikings+of+the+sunrise%2C+by+Peter+H.+Buck+%28Te+Rangi+Hiroa%29+...with+fifty+eight+illustrations+from+photographs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vikings of the sunrise, by Peter H. Buck (Te Rangi Hiroa) ...with fifty eight illustrations from photographs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Collapse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Collapse</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Kon+Tiki+Kon+Tiki+Across+the+Pacific+by+Raft+by+Thor+Heyerdahl+1950&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Kon Tiki Kon Tiki Across the Pacific by Raft by Thor Heyerdahl 1950</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Collapse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Collapse</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Vikings+of+the+sunrise%2C+by+Peter+H.+Buck+%28Te+Rangi+Hiroa%29+...with+fifty+eight+illustrations+from+photographs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vikings of the sunrise, by Peter H. Buck (Te Rangi Hiroa) ...with fifty eight illustrations from photographs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Kon+Tiki+Kon+Tiki+Across+the+Pacific+by+Raft+by+Thor+Heyerdahl+1950&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Kon Tiki Kon Tiki Across the Pacific by Raft by Thor Heyerdahl 1950</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

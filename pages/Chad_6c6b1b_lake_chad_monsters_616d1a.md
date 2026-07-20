@@ -330,89 +330,89 @@ This is why Lake Chad’s monsters remain part of the region’s strange-history
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to The Lake Chad Monsters Legends Or Lost Animals?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to The Lake Chad Monsters: Legends Or Lost Animals?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+beasts+that+hide+from+man+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The beasts that hide from man on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/955796-M.jpg" alt="Cover for The beasts that hide from man" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+beasts+that+hide+from+man+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The beasts that hide from man">The beasts that hide from man</a>
-</h4>
-<p class="fr-book-author">By Karl Shuker</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Myth+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Myth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/240505-M.jpg" alt="Cover for The Power of Myth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Power+of+Myth+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Myth">The Power of Myth</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Campbell</p>
         
-<p class="fr-book-desc">First published 2003. Subjects: Cryptozoology.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+beasts+that+hide+from+man+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains cultural role of monster stories.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Power+of+Myth+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Secret+World+of+Weather+Tristan+Gooley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Secret World of Weather on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11335351-M.jpg" alt="Cover for Secret World of Weather" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Secret+World+of+Weather+Tristan+Gooley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Secret World of Weather">Secret World of Weather</a>
-</h4>
-<p class="fr-book-author">By Tristan Gooley</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+beasts+that+hide+from+man+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The beasts that hide from man on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/955796-M.jpg" alt="Cover for The beasts that hide from man" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+beasts+that+hide+from+man+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The beasts that hide from man">The beasts that hide from man</a>
+        </h4>
+        <p class="fr-book-author">By Karl Shuker</p>
         
-<p class="fr-book-desc">First published 2021. Subjects: Physics.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Secret+World+of+Weather+Tristan+Gooley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Matches lake monster themes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+beasts+that+hide+from+man+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+World%27s+last+mysteries+Reader%27s+Digest+%28Australia%29+Pty.+Ltd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World&#x27;s last mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+World%27s+last+mysteries+Reader%27s+Digest+%28Australia%29+Pty.+Ltd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World&#x27;s last mysteries">The World&#x27;s last mysteries</a>
-</h4>
-<p class="fr-book-author">By Reader&#x27;s Digest (Australia) Pty. Ltd</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Secret+World+of+Weather+Tristan+Gooley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Secret World of Weather on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11335351-M.jpg" alt="Cover for Secret World of Weather" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Secret+World+of+Weather+Tristan+Gooley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Secret World of Weather">Secret World of Weather</a>
+        </h4>
+        <p class="fr-book-author">By Tristan Gooley</p>
         
-<p class="fr-book-desc">First published 1977. Subjects: Prehistoric peoples, Antiquities, Ancient Civilization.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+World%27s+last+mysteries+Reader%27s+Digest+%28Australia%29+Pty.+Ltd&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2021. Subjects: Physics.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Secret+World+of+Weather+Tristan+Gooley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals+Bernard+Heuvelmans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open On the Track of Unknown Animals on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals+Bernard+Heuvelmans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On the Track of Unknown Animals">On the Track of Unknown Animals</a>
-</h4>
-<p class="fr-book-author">By Bernard Heuvelmans</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals+Bernard+Heuvelmans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open On the Track of Unknown Animals on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals+Bernard+Heuvelmans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On the Track of Unknown Animals">On the Track of Unknown Animals</a>
+        </h4>
+        <p class="fr-book-author">By Bernard Heuvelmans</p>
         
-<p class="fr-book-desc">First published 1959.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals+Bernard+Heuvelmans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers mystery animals and reports.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals+Bernard+Heuvelmans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+beasts+that+hide+from+man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The beasts that hide from man</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Secret+World+of+Weather&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Secret World of Weather</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World%27s+last+mysteries&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World&#x27;s last mysteries</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Power+of+Myth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Power of Myth</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+beasts+that+hide+from+man&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The beasts that hide from man</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Secret+World+of+Weather&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Secret World of Weather</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

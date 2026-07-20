@@ -378,89 +378,89 @@ The crater itself is unquestionably real. The reports of mysterious lights are l
 That uncertainty is precisely why the Paasselkä Devils continue to fascinate. They sit at the meeting point of geology, atmospheric science, psychology and oral tradition, allowing each generation to revisit the same lonely Finnish lake and ask whether the strange lights belong to nature, imagination, or somewhere in between.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Are the Paasselka Devils?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Are the Paasselka Devils?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lonely+Planet+Finland+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lonely Planet Finland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14750999-M.jpg" alt="Cover for Lonely Planet Finland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Lonely+Planet+Finland+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Finland">Lonely Planet Finland</a>
-</h4>
-<p class="fr-book-author">By Lonely Planet, Barbara Woolsey et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lonely+Planet+Finland+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lonely Planet Finland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14750999-M.jpg" alt="Cover for Lonely Planet Finland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Lonely+Planet+Finland+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Finland">Lonely Planet Finland</a>
+        </h4>
+        <p class="fr-book-author">By Lonely Planet, Barbara Woolsey et al.</p>
         
-<p class="fr-book-desc">First published 2023.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Lonely+Planet+Finland+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Introduces eastern Finland and its landscapes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Lonely+Planet+Finland+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Earth+lights+revelation+Paul+Devereux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Earth lights revelation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13111938-M.jpg" alt="Cover for Earth lights revelation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Earth+lights+revelation+Paul+Devereux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Earth lights revelation">Earth lights revelation</a>
-</h4>
-<p class="fr-book-author">By Paul Devereux</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kalevala+Elias+Lonnrot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kalevala on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/413457-M.jpg" alt="Cover for The Kalevala" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Kalevala+Elias+Lonnrot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kalevala">The Kalevala</a>
+        </h4>
+        <p class="fr-book-author">By Elias Lonnrot</p>
         
-<p class="fr-book-desc">First published 1989. Subjects: Unidentified flying objects.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Earth+lights+revelation+Paul+Devereux&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides mythological context for supernatural landscape traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Kalevala+Elias+Lonnrot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kalevala+Elias+Lonnrot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kalevala on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/413457-M.jpg" alt="Cover for The Kalevala" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Kalevala+Elias+Lonnrot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kalevala">The Kalevala</a>
-</h4>
-<p class="fr-book-author">By Elias Lonnrot</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Earth+lights+revelation+Paul+Devereux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Earth lights revelation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13111938-M.jpg" alt="Cover for Earth lights revelation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Earth+lights+revelation+Paul+Devereux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Earth lights revelation">Earth lights revelation</a>
+        </h4>
+        <p class="fr-book-author">By Paul Devereux</p>
         
-<p class="fr-book-desc">First published 1985.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Kalevala+Elias+Lonnrot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1989. Subjects: Unidentified flying objects.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Earth+lights+revelation+Paul+Devereux&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Finnish+Folk+Belief%3A+A+Reader+Laura+Stark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Finnish Folk Belief: A Reader on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Finnish+Folk+Belief%3A+A+Reader+Laura+Stark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Finnish Folk Belief: A Reader">Finnish Folk Belief: A Reader</a>
-</h4>
-<p class="fr-book-author">By Laura Stark</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Finnish+Folk+Belief%3A+A+Reader+Laura+Stark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Finnish Folk Belief: A Reader on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Finnish+Folk+Belief%3A+A+Reader+Laura+Stark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Finnish Folk Belief: A Reader">Finnish Folk Belief: A Reader</a>
+        </h4>
+        <p class="fr-book-author">By Laura Stark</p>
         
-<p class="fr-book-desc">Directly supports understanding of Finnish mystery-light traditions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Finnish+Folk+Belief%3A+A+Reader+Laura+Stark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly supports understanding of Finnish mystery-light traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Finnish+Folk+Belief%3A+A+Reader+Laura+Stark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lonely+Planet+Finland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lonely Planet Finland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Earth+lights+revelation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Earth lights revelation</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kalevala&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kalevala</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lonely+Planet+Finland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lonely Planet Finland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kalevala&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kalevala</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Earth+lights+revelation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Earth lights revelation</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

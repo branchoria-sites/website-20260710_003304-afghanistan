@@ -1313,89 +1313,89 @@ That makes Finland especially valuable for readers who prefer strange-but-ground
 Finland’s weird-history record is therefore not a cabinet of random oddities. It is a landscape tradition: evidence-aware, locally rooted, sometimes funny, often eerie, and strongest when it lets mystery remain a question rather than forcing it into a miracle.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Finland&#x27;s Strange Stories Stay So Grounded. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Finland&#x27;s Strange Stories Stay So Grounded. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lonely+Planet+Finland+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lonely Planet Finland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14750999-M.jpg" alt="Cover for Lonely Planet Finland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Lonely+Planet+Finland+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Finland">Lonely Planet Finland</a>
-</h4>
-<p class="fr-book-author">By Lonely Planet, Barbara Woolsey et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kalevala+Elias+Lonnrot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kalevala on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/413457-M.jpg" alt="Cover for The Kalevala" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Kalevala+Elias+Lonnrot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kalevala">The Kalevala</a>
+        </h4>
+        <p class="fr-book-author">By Elias Lonnrot</p>
         
-<p class="fr-book-desc">First published 2023.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Lonely+Planet+Finland+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Foundation of Finnish mythology and folklore.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Kalevala+Elias+Lonnrot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Culture+Smart%21+Finland+Terttu+Leney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Culture Smart! Finland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2910335-M.jpg" alt="Cover for Culture Smart! Finland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Culture+Smart%21+Finland+Terttu+Leney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Culture Smart! Finland">Culture Smart! Finland</a>
-</h4>
-<p class="fr-book-author">By Terttu Leney</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lonely+Planet+Finland+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lonely Planet Finland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14750999-M.jpg" alt="Cover for Lonely Planet Finland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Lonely+Planet+Finland+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Finland">Lonely Planet Finland</a>
+        </h4>
+        <p class="fr-book-author">By Lonely Planet, Barbara Woolsey et al.</p>
         
-<p class="fr-book-desc">First published 2004. Subjects: Etiquette, Finnish National characteristics, Description and travel, Social life and customs, Finland, so...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Culture+Smart%21+Finland+Terttu+Leney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Introduces the landscapes behind Finland&#x27;s strange traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Lonely+Planet+Finland+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Kalevala+Elias+Lonnrot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Kalevala on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/413457-M.jpg" alt="Cover for The Kalevala" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Kalevala+Elias+Lonnrot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kalevala">The Kalevala</a>
-</h4>
-<p class="fr-book-author">By Elias Lonnrot</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Culture+Smart%21+Finland+Terttu+Leney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Culture Smart! Finland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2910335-M.jpg" alt="Cover for Culture Smart! Finland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Culture+Smart%21+Finland+Terttu+Leney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Culture Smart! Finland">Culture Smart! Finland</a>
+        </h4>
+        <p class="fr-book-author">By Terttu Leney</p>
         
-<p class="fr-book-desc">First published 1985.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Kalevala+Elias+Lonnrot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains Finnish beliefs and cultural context.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Culture+Smart%21+Finland+Terttu+Leney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Finnish+Folk+Belief%3A+A+Reader+Laura+Stark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Finnish Folk Belief: A Reader on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Finnish+Folk+Belief%3A+A+Reader+Laura+Stark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Finnish Folk Belief: A Reader">Finnish Folk Belief: A Reader</a>
-</h4>
-<p class="fr-book-author">By Laura Stark</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Finnish+Folk+Belief%3A+A+Reader+Laura+Stark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Finnish Folk Belief: A Reader on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Finnish+Folk+Belief%3A+A+Reader+Laura+Stark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Finnish Folk Belief: A Reader">Finnish Folk Belief: A Reader</a>
+        </h4>
+        <p class="fr-book-author">By Laura Stark</p>
         
-<p class="fr-book-desc">Directly explores Finnish supernatural traditions.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Finnish+Folk+Belief%3A+A+Reader+Laura+Stark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly explores Finnish supernatural traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Finnish+Folk+Belief%3A+A+Reader+Laura+Stark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lonely+Planet+Finland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lonely Planet Finland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Culture+Smart%21+Finland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Culture Smart! Finland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kalevala&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kalevala</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Kalevala&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Kalevala</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lonely+Planet+Finland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lonely Planet Finland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Culture+Smart%21+Finland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Culture Smart! Finland</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

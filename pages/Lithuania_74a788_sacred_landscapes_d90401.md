@@ -399,89 +399,89 @@ Lithuania's oldest Fortean traditions survive because they are rooted in geograp
 That persistence explains why sacred landscapes continue to occupy such an important place in Lithuanian weird history. They are simultaneously archaeological sites, folklore collections, historical records and living cultural landmarks. Their enduring mystery lies less in proving ancient supernatural claims than in showing how certain places can accumulate meaning across centuries, preserving echoes of forgotten beliefs long after the original religion has disappeared.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.folklore.ee/folklore/vol42/vaitkevicius.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: folklore.ee">[folklore.ee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">folklore.ee</span><span class="citation-popover-title">TH E SACRED GROVES OF THE BALTS: LOST HISTORY</span><span class="citation-popover-snippet">THE SACRED GROVES OF THE BALTS: LOST HISTORY...November 12, 2013 — The article deals with the sacred groves of the Balts in Lithuania an...</span><span class="citation-popover-meta">Published: November 12, 2013</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Lithuania&#x27;s Weirdest Stories Live in Places. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Lithuania&#x27;s Weirdest Stories Live in Places. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Old+Ways+Robert+Macfarlane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Old Ways on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8701934-M.jpg" alt="Cover for The Old Ways" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Old+Ways+Robert+Macfarlane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Old Ways">The Old Ways</a>
-</h4>
-<p class="fr-book-author">By Robert Macfarlane, Robin Sachs</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Balts+Marija+Alseikait%C4%97+Gimbutas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Balts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5728900-M.jpg" alt="Cover for The Balts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Balts+Marija+Alseikait%C4%97+Gimbutas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Balts">The Balts</a>
+        </h4>
+        <p class="fr-book-author">By Marija Alseikaitė Gimbutas</p>
         
-<p class="fr-book-desc">First published 2012. Subjects: Voyages and travels, Walking, Description and travel, Natural history, Trails.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Old+Ways+Robert+Macfarlane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains sacred groves, landscapes and pre-Christian beliefs.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Balts+Marija+Alseikait%C4%97+Gimbutas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Balts+Marija+Alseikait%C4%97+Gimbutas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Balts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5728900-M.jpg" alt="Cover for The Balts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Balts+Marija+Alseikait%C4%97+Gimbutas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Balts">The Balts</a>
-</h4>
-<p class="fr-book-author">By Marija Alseikaitė Gimbutas</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Old+Ways+Robert+Macfarlane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Old Ways on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8701934-M.jpg" alt="Cover for The Old Ways" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Old+Ways+Robert+Macfarlane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Old Ways">The Old Ways</a>
+        </h4>
+        <p class="fr-book-author">By Robert Macfarlane, Robin Sachs</p>
         
-<p class="fr-book-desc">First published 1963. Subjects: Antiquities, Baltic region, Balts (Indo-European people).</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Balts+Marija+Alseikait%C4%97+Gimbutas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores how landscape preserves memory and tradition.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Old+Ways+Robert+Macfarlane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+spirit+of+the+liturgy+Joseph+Ratzinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The spirit of the liturgy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8108314-M.jpg" alt="Cover for The spirit of the liturgy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+spirit+of+the+liturgy+Joseph+Ratzinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The spirit of the liturgy">The spirit of the liturgy</a>
-</h4>
-<p class="fr-book-author">By Joseph Ratzinger</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+spirit+of+the+liturgy+Joseph+Ratzinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The spirit of the liturgy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8108314-M.jpg" alt="Cover for The spirit of the liturgy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+spirit+of+the+liturgy+Joseph+Ratzinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The spirit of the liturgy">The spirit of the liturgy</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Ratzinger</p>
         
-<p class="fr-book-desc">First published 2000. Subjects: Catholic Church, Doctrines, Liturgy, Catholic church, liturgy, Roman catholicism.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+spirit+of+the+liturgy+Joseph+Ratzinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2000. Subjects: Catholic Church, Doctrines, Liturgy, Catholic church, liturgy, Roman catholicism.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+spirit+of+the+liturgy+Joseph+Ratzinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Book of Dragons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10947401-M.jpg" alt="Cover for The Penguin Book of Dragons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
-</h4>
-<p class="fr-book-author">By Scott G. Bruce</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Book of Dragons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10947401-M.jpg" alt="Cover for The Penguin Book of Dragons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
+        </h4>
+        <p class="fr-book-author">By Scott G. Bruce</p>
         
-<p class="fr-book-desc">First published 2021. Subjects: Folklore.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2021. Subjects: Folklore.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Old+Ways&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Old Ways</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Balts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Balts</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+spirit+of+the+liturgy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The spirit of the liturgy</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Balts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Balts</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Old+Ways&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Old Ways</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+spirit+of+the+liturgy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The spirit of the liturgy</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes

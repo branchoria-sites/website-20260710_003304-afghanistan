@@ -1326,89 +1326,89 @@ Believers and sceptics tend to argue over whether the extraordinary claim is tru
 The strongest conclusion is neither “Bosnia is full of proven paranormal events” nor “there is nothing here but hoax and error”. The better answer is that Bosnia and Herzegovina has a remarkably rich strange-history landscape in which folklore, faith, geology, archaeology and tourism continually reshape one another. Its mysteries are most rewarding when read with both eyes open: one for the enchantment, the other for the evidence.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Bosnia&#x27;s Weird History Between Faith and Folklore. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Bosnia&#x27;s Weird History Between Faith and Folklore. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Myth+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Myth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/240505-M.jpg" alt="Cover for The Power of Myth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Power+of+Myth+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Myth">The Power of Myth</a>
-</h4>
-<p class="fr-book-author">By Joseph Campbell</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Power+of+Myth+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Power of Myth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/240505-M.jpg" alt="Cover for The Power of Myth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Power+of+Myth+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Myth">The Power of Myth</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Campbell</p>
         
-<p class="fr-book-desc">First published 1988. Subjects: Long Now Manual for Civilization, Campbell, Joseph, -- 1904- -- Interviews, Religion historians, Intervie...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Power+of+Myth+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores why supernatural traditions endure.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Power+of+Myth+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bosnia+%26+Herzegovina+Tim+Clancy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bosnia &amp; Herzegovina on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12189472-M.jpg" alt="Cover for Bosnia &amp; Herzegovina" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Bosnia+%26+Herzegovina+Tim+Clancy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bosnia &amp; Herzegovina">Bosnia &amp; Herzegovina</a>
-</h4>
-<p class="fr-book-author">By Tim Clancy</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bosnian+Chronicle+Ivo+Andri%C4%87&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bosnian Chronicle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/914712-M.jpg" alt="Cover for Bosnian Chronicle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Bosnian+Chronicle+Ivo+Andri%C4%87&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bosnian Chronicle">Bosnian Chronicle</a>
+        </h4>
+        <p class="fr-book-author">By Ivo Andrić</p>
         
-<p class="fr-book-desc">First published 2011. Subjects: Guidebooks, Balkan peninsula, history, Bosnia and hercegovina, description and travel.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Bosnia+%26+Herzegovina+Tim+Clancy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Captures the historical atmosphere of Bosnia.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Bosnian+Chronicle+Ivo+Andri%C4%87&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bosnian+Chronicle+Ivo+Andri%C4%87&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bosnian Chronicle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/914712-M.jpg" alt="Cover for Bosnian Chronicle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Bosnian+Chronicle+Ivo+Andri%C4%87&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bosnian Chronicle">Bosnian Chronicle</a>
-</h4>
-<p class="fr-book-author">By Ivo Andrić</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bosnia+%26+Herzegovina+Tim+Clancy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bosnia &amp; Herzegovina on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12189472-M.jpg" alt="Cover for Bosnia &amp; Herzegovina" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Bosnia+%26+Herzegovina+Tim+Clancy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bosnia &amp; Herzegovina">Bosnia &amp; Herzegovina</a>
+        </h4>
+        <p class="fr-book-author">By Tim Clancy</p>
         
-<p class="fr-book-desc">First published 1998. Subjects: Modern fiction, Fiction.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Bosnian+Chronicle+Ivo+Andri%C4%87&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2011. Subjects: Guidebooks, Balkan peninsula, history, Bosnia and hercegovina, description and travel.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Bosnia+%26+Herzegovina+Tim+Clancy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chariots of the gods? on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chariots of the gods?">Chariots of the gods?</a>
-</h4>
-<p class="fr-book-author">By Erich von Däniken</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chariots of the gods? on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chariots of the gods?">Chariots of the gods?</a>
+        </h4>
+        <p class="fr-book-author">By Erich von Däniken</p>
         
-<p class="fr-book-desc">First published 1971. Subjects: Interplanetary voyages, Life on other planets.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Relevant to pseudoarchaeological themes discussed across Bosnia.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Power+of+Myth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Power of Myth</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bosnia+%26+Herzegovina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bosnia &amp; Herzegovina</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bosnian+Chronicle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bosnian Chronicle</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Power+of+Myth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Power of Myth</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bosnian+Chronicle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bosnian Chronicle</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bosnia+%26+Herzegovina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bosnia &amp; Herzegovina</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

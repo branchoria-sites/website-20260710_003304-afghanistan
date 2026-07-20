@@ -318,89 +318,89 @@ Seen through the lens of Forteana, the curse is therefore valuable not because i
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Was Tutankhamun&#x27;s Curse Ever More Than Folklore?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Was Tutankhamun&#x27;s Curse Ever More Than Folklore?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+complete+gods+and+goddesses+of+ancient+Egypt+Richard+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The complete gods and goddesses of ancient Egypt on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/315820-M.jpg" alt="Cover for The complete gods and goddesses of ancient Egypt" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+complete+gods+and+goddesses+of+ancient+Egypt+Richard+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The complete gods and goddesses of ancient Egypt">The complete gods and goddesses of ancient Egypt</a>
-</h4>
-<p class="fr-book-author">By Richard H. Wilkinson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Tutankhamun+Nicholas+Reeves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Tutankhamun on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/316459-M.jpg" alt="Cover for The Complete Tutankhamun" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Complete+Tutankhamun+Nicholas+Reeves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Tutankhamun">The Complete Tutankhamun</a>
+        </h4>
+        <p class="fr-book-author">By Nicholas Reeves</p>
         
-<p class="fr-book-desc">First published 2003. Subjects: Egyptian Goddesses, Egyptian Gods, Egyptian Mythology, Religion, Gods.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+complete+gods+and+goddesses+of+ancient+Egypt+Richard+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides authoritative context for the tomb and its discovery.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Complete+Tutankhamun+Nicholas+Reeves&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The rise and fall of ancient Egypt on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9836729-M.jpg" alt="Cover for The rise and fall of ancient Egypt" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rise and fall of ancient Egypt">The rise and fall of ancient Egypt</a>
-</h4>
-<p class="fr-book-author">By Toby A. H. Wilkinson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+murder+of+Tutankhamen+Bob+Brier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The murder of Tutankhamen on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/258586-M.jpg" alt="Cover for The murder of Tutankhamen" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+murder+of+Tutankhamen+Bob+Brier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The murder of Tutankhamen">The murder of Tutankhamen</a>
+        </h4>
+        <p class="fr-book-author">By Bob Brier</p>
         
-<p class="fr-book-desc">First published 2010. Subjects: Civilization, History, Egypt, history, to 640 a.d..</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Examines myths and evidence surrounding Tutankhamun.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+murder+of+Tutankhamen+Bob+Brier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+murder+of+Tutankhamen+Bob+Brier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The murder of Tutankhamen on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/258586-M.jpg" alt="Cover for The murder of Tutankhamen" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+murder+of+Tutankhamen+Bob+Brier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The murder of Tutankhamen">The murder of Tutankhamen</a>
-</h4>
-<p class="fr-book-author">By Bob Brier</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+complete+gods+and+goddesses+of+ancient+Egypt+Richard+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The complete gods and goddesses of ancient Egypt on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/315820-M.jpg" alt="Cover for The complete gods and goddesses of ancient Egypt" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+complete+gods+and+goddesses+of+ancient+Egypt+Richard+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The complete gods and goddesses of ancient Egypt">The complete gods and goddesses of ancient Egypt</a>
+        </h4>
+        <p class="fr-book-author">By Richard H. Wilkinson</p>
         
-<p class="fr-book-desc">First published 1998. Subjects: Death and burial, Kings and rulers, Pharaohs, Biography, History.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+murder+of+Tutankhamen+Bob+Brier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains beliefs behind tombs and funerary practices.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+complete+gods+and+goddesses+of+ancient+Egypt+Richard+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Complete+Tutankhamun+Nicholas+Reeves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Complete Tutankhamun on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/316459-M.jpg" alt="Cover for The Complete Tutankhamun" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Complete+Tutankhamun+Nicholas+Reeves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Tutankhamun">The Complete Tutankhamun</a>
-</h4>
-<p class="fr-book-author">By Nicholas Reeves</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The rise and fall of ancient Egypt on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9836729-M.jpg" alt="Cover for The rise and fall of ancient Egypt" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rise and fall of ancient Egypt">The rise and fall of ancient Egypt</a>
+        </h4>
+        <p class="fr-book-author">By Toby A. H. Wilkinson</p>
         
-<p class="fr-book-desc">First published 1995. Subjects: Tomb, Antiquities, Archaeological expeditions, Egypt - Antiquities, King of Egypt Tutankhamen.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Complete+Tutankhamun+Nicholas+Reeves&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places Tutankhamun within broader Egyptian history.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+complete+gods+and+goddesses+of+ancient+Egypt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The complete gods and goddesses of ancient Egypt</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The rise and fall of ancient Egypt</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+murder+of+Tutankhamen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The murder of Tutankhamen</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Complete+Tutankhamun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Complete Tutankhamun</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+murder+of+Tutankhamen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The murder of Tutankhamen</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+complete+gods+and+goddesses+of+ancient+Egypt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The complete gods and goddesses of ancient Egypt</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

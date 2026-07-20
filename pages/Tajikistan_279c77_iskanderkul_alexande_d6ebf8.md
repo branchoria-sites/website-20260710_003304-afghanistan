@@ -346,89 +346,89 @@ The result is one of Tajikistan's richest examples of living landscape folklore:
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Iskanderkul Keeps Alexander&#x27;s Horse Alive. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Iskanderkul Keeps Alexander&#x27;s Horse Alive. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Alexander+the+Great+Freeman%2C+Philip&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Alexander the Great on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8032437-M.jpg" alt="Cover for Alexander the Great" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Alexander+the+Great+Freeman%2C+Philip&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Alexander the Great">Alexander the Great</a>
-</h4>
-<p class="fr-book-author">By Freeman, Philip</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk Roads on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8963642-M.jpg" alt="Cover for The Silk Roads" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
+        </h4>
+        <p class="fr-book-author">By Peter Frankopan</p>
         
-<p class="fr-book-desc">First published 2011. Subjects: Kings and rulers, Generals, Biography, History.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Alexander+the+Great+Freeman%2C+Philip&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides historical context for Alexander traditions and Central Asian landscapes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Myths+and+Legends+Philip+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Myths and Legends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10252483-M.jpg" alt="Cover for Myths and Legends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Myths+and+Legends+Philip+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and Legends">Myths and Legends</a>
-</h4>
-<p class="fr-book-author">By Philip Wilkinson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Alexander+the+Great+Freeman%2C+Philip&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Alexander the Great on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8032437-M.jpg" alt="Cover for Alexander the Great" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Alexander+the+Great+Freeman%2C+Philip&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Alexander the Great">Alexander the Great</a>
+        </h4>
+        <p class="fr-book-author">By Freeman, Philip</p>
         
-<p class="fr-book-desc">First published 2009. Subjects: Legends.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Myths+and+Legends+Philip+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Covers Alexander&#x27;s Central Asian campaigns that inspired regional folklore.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Alexander+the+Great+Freeman%2C+Philip&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lost+Enlightenment+Central+Asias+Golden+Age+From+The+Arab+Conquest+To+Tamerlane+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lost Enlightenment Central Asias Golden Age From The Arab Conquest To Tamerlane on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7633414-M.jpg" alt="Cover for Lost Enlightenment Central Asias Golden Age From The Arab Conquest To Tamerlane" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Lost+Enlightenment+Central+Asias+Golden+Age+From+The+Arab+Conquest+To+Tamerlane+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost Enlightenment Central Asias Golden Age From The Arab Conquest To Tamerlane">Lost Enlightenment Central Asias Golden Age From The Arab Con...</a>
-</h4>
-<p class="fr-book-author">By S. Frederick Starr</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Myths+and+Legends+Philip+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Myths and Legends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10252483-M.jpg" alt="Cover for Myths and Legends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Myths+and+Legends+Philip+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and Legends">Myths and Legends</a>
+        </h4>
+        <p class="fr-book-author">By Philip Wilkinson</p>
         
-<p class="fr-book-desc">First published 2013. Subjects: History, Civilization, Asia, central, history.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Lost+Enlightenment+Central+Asias+Golden+Age+From+The+Arab+Conquest+To+Tamerlane+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Helps place sacred landscape and dragon traditions into a wider mythic context.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Myths+and+Legends+Philip+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk Roads on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8963642-M.jpg" alt="Cover for The Silk Roads" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
-</h4>
-<p class="fr-book-author">By Peter Frankopan</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lost+Enlightenment+Central+Asias+Golden+Age+From+The+Arab+Conquest+To+Tamerlane+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lost Enlightenment Central Asias Golden Age From The Arab Conquest To Tamerlane on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7633414-M.jpg" alt="Cover for Lost Enlightenment Central Asias Golden Age From The Arab Conquest To Tamerlane" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Lost+Enlightenment+Central+Asias+Golden+Age+From+The+Arab+Conquest+To+Tamerlane+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost Enlightenment Central Asias Golden Age From The Arab Conquest To Tamerlane">Lost Enlightenment Central Asias Golden Age From The Arab Con...</a>
+        </h4>
+        <p class="fr-book-author">By S. Frederick Starr</p>
         
-<p class="fr-book-desc">First published 2015. Subjects: East and West, HISTORY / World, Trade routes, Acculturation, TRAVEL / Asia / China.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2013. Subjects: History, Civilization, Asia, central, history.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Lost+Enlightenment+Central+Asias+Golden+Age+From+The+Arab+Conquest+To+Tamerlane+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Alexander+the+Great&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Alexander the Great</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Myths+and+Legends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Myths and Legends</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lost+Enlightenment+Central+Asias+Golden+Age+From+The+Arab+Conquest+To+Tamerlane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lost Enlightenment Central Asias Golden Age From The Arab Conquest To Tamerlane</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Silk Roads</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Alexander+the+Great&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Alexander the Great</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Myths+and+Legends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Myths and Legends</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

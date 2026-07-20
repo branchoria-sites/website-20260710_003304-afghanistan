@@ -1316,89 +1316,89 @@ Nicaragua’s weird-history record lasts because it is unusually place-bound. Ma
 The country’s Forteana is therefore most convincing when read as a layered record rather than a paranormal proof sheet. Some claims are natural wonders misunderstood at first glance. Some are moral tales sharpened by fear. Some are Indigenous and local traditions that deserve careful handling. Some are modern rumours with little evidence but clear social life. Together, they make Nicaragua a country where the strange is not separate from history and landscape, but one of the ways people have learned to describe them.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Where Nicaragua&#x27;s Weird Stories Meet Real Places. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Where Nicaragua&#x27;s Weird Stories Meet Real Places. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Y%C5%8Dkai%3A+Mysterious+Creatures+of+Japanese+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Yōkai: Mysterious Creatures of Japanese Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8453413-M.jpg" alt="Cover for The Book of Yōkai: Mysterious Creatures of Japanese Folklore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Book+of+Y%C5%8Dkai%3A+Mysterious+Creatures+of+Japanese+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Yōkai: Mysterious Creatures of Japanese Folklore">The Book of Yōkai: Mysterious Creatures of Japanese Folklore</a>
-</h4>
-<p class="fr-book-author">By Unknown author</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Y%C5%8Dkai%3A+Mysterious+Creatures+of+Japanese+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Yōkai: Mysterious Creatures of Japanese Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8453413-M.jpg" alt="Cover for The Book of Yōkai: Mysterious Creatures of Japanese Folklore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Book+of+Y%C5%8Dkai%3A+Mysterious+Creatures+of+Japanese+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Yōkai: Mysterious Creatures of Japanese Folklore">The Book of Yōkai: Mysterious Creatures of Japanese Folklore</a>
+        </h4>
+        <p class="fr-book-author">By Unknown author</p>
         
-<p class="fr-book-desc">Useful comparative folklore reading for understanding how cultures transform fears and places into stories.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Book+of+Y%C5%8Dkai%3A+Mysterious+Creatures+of+Japanese+Folklore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Useful comparative folklore reading for understanding how cultures transform fears and places into stories.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Book+of+Y%C5%8Dkai%3A+Mysterious+Creatures+of+Japanese+Folklore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+encyclopedia+of+monsters+Jeff+Rovin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The encyclopedia of monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4091777-M.jpg" alt="Cover for The encyclopedia of monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+encyclopedia+of+monsters+Jeff+Rovin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The encyclopedia of monsters">The encyclopedia of monsters</a>
-</h4>
-<p class="fr-book-author">By Jeff Rovin</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+encyclopedia+of+monsters+Jeff+Rovin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The encyclopedia of monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4091777-M.jpg" alt="Cover for The encyclopedia of monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+encyclopedia+of+monsters+Jeff+Rovin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The encyclopedia of monsters">The encyclopedia of monsters</a>
+        </h4>
+        <p class="fr-book-author">By Jeff Rovin</p>
         
-<p class="fr-book-desc">First published 1989. Subjects: Dictionaries, Monsters in mass media, Popular culture, Monsters in motion pictures, Monsters in mass medi...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+encyclopedia+of+monsters+Jeff+Rovin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides a wider folklore and creature context that fits Nicaragua&#x27;s mix of legends, landscapes and strange history.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+encyclopedia+of+monsters+Jeff+Rovin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Atlas of Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8804520-M.jpg" alt="Cover for The Atlas of Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Atlas of Monsters">The Atlas of Monsters</a>
-</h4>
-<p class="fr-book-author">By Sandra Lawrence</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Atlas of Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8804520-M.jpg" alt="Cover for The Atlas of Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Atlas of Monsters">The Atlas of Monsters</a>
+        </h4>
+        <p class="fr-book-author">By Sandra Lawrence</p>
         
-<p class="fr-book-desc">First published 2018.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Connects global creature traditions with the page&#x27;s unusual-history theme.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Encyclopedia+of+Monsters%3A+A+Guide+to+Creatures+from+Around+the+World+Jeff+Rovin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Encyclopedia of Monsters: A Guide to Creatures from Around the World on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Monsters%3A+A+Guide+to+Creatures+from+Around+the+World+Jeff+Rovin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Encyclopedia of Monsters: A Guide to Creatures from Around the World">The Encyclopedia of Monsters: A Guide to Creatures from Aroun...</a>
-</h4>
-<p class="fr-book-author">By Jeff Rovin</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mythology Book on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology Book">The Mythology Book</a>
+        </h4>
+        <p class="fr-book-author">By DK</p>
         
-<p class="fr-book-desc">Provides a wider folklore and creature context that fits Nicaragua&#x27;s mix of legends, landscapes and strange history.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Monsters%3A+A+Guide+to+Creatures+from+Around+the+World+Jeff+Rovin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Offers broad myth and legend background relevant to regional stories.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Y%C5%8Dkai%3A+Mysterious+Creatures+of+Japanese+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Yōkai: Mysterious Creatures of Japanese Folklore</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+encyclopedia+of+monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The encyclopedia of monsters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Atlas+of+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Atlas of Monsters</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Y%C5%8Dkai%3A+Mysterious+Creatures+of+Japanese+Folklore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Yōkai: Mysterious Creatures of Japanese Folklore</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+encyclopedia+of+monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The encyclopedia of monsters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Atlas+of+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Atlas of Monsters</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -1307,89 +1307,89 @@ Bolivia’s Fortean material has cultural pull because it refuses to sit in one 
 The answer changes by case. Sometimes the force is a meteorite. Sometimes it is colonial history. Sometimes it is dangerous labour, drought, tourism, bad evidence, or a rumour that has learned how to travel. Bolivia’s strange-history record is strongest when read in that layered way: curious, sceptical, and alert to the fact that folklore often preserves truths even when its creatures do not need to be literally real.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Bolivia Makes Strange Stories Feel Plausible. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Bolivia Makes Strange Stories Feel Plausible. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Rough+Guide+to+Bolivia+Harry+Ad%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rough Guide to Bolivia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Bolivia+Harry+Ad%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Bolivia">The Rough Guide to Bolivia</a>
-</h4>
-<p class="fr-book-author">By Harry Adès</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fingerprints of the gods on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/322542-M.jpg" alt="Cover for Fingerprints of the gods" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the gods">Fingerprints of the gods</a>
+        </h4>
+        <p class="fr-book-author">By Graham Hancock</p>
         
-<p class="fr-book-desc">Provides cultural, historical and geographical context behind many strange stories.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Bolivia+Harry+Ad%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Frequently references Andean mystery traditions including Tiwanaku.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Magic%2C+Mysticism+and+Religion%3A+A+Reader+in+the+Anthropology+of+Religion+Michael+Lambek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Magic, Mysticism and Religion: A Reader in the Anthropology of Religion on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Magic%2C+Mysticism+and+Religion%3A+A+Reader+in+the+Anthropology+of+Religion+Michael+Lambek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Magic, Mysticism and Religion: A Reader in the Anthropology of Religion">Magic, Mysticism and Religion: A Reader in the Anthropology o...</a>
-</h4>
-<p class="fr-book-author">By Michael Lambek</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chariots of the gods? on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chariots of the gods?">Chariots of the gods?</a>
+        </h4>
+        <p class="fr-book-author">By Erich von Däniken</p>
         
-<p class="fr-book-desc">Explains how belief, ritual and folklore emerge in different societies.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Magic%2C+Mysticism+and+Religion%3A+A+Reader+in+the+Anthropology+of+Religion+Michael+Lambek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Represents the influential fringe interpretations discussed on the page.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fingerprints of the gods on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/322542-M.jpg" alt="Cover for Fingerprints of the gods" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the gods">Fingerprints of the gods</a>
-</h4>
-<p class="fr-book-author">By Graham Hancock</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Rough+Guide+to+Bolivia+Harry+Ad%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rough Guide to Bolivia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Bolivia+Harry+Ad%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Bolivia">The Rough Guide to Bolivia</a>
+        </h4>
+        <p class="fr-book-author">By Harry Adès</p>
         
-<p class="fr-book-desc">First published 1995. Subjects: Lost continents, World maps, Ancient Civilization, Discovery and exploration, Early works to 1800.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides cultural, historical and geographical context behind many strange stories.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Bolivia+Harry+Ad%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Chariots of the gods? on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chariots of the gods?">Chariots of the gods?</a>
-</h4>
-<p class="fr-book-author">By Erich von Däniken</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Magic%2C+Mysticism+and+Religion%3A+A+Reader+in+the+Anthropology+of+Religion+Michael+Lambek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Magic, Mysticism and Religion: A Reader in the Anthropology of Religion on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Magic%2C+Mysticism+and+Religion%3A+A+Reader+in+the+Anthropology+of+Religion+Michael+Lambek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Magic, Mysticism and Religion: A Reader in the Anthropology of Religion">Magic, Mysticism and Religion: A Reader in the Anthropology o...</a>
+        </h4>
+        <p class="fr-book-author">By Michael Lambek</p>
         
-<p class="fr-book-desc">First published 1971. Subjects: Interplanetary voyages, Life on other planets.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains how belief, ritual and folklore emerge in different societies.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Magic%2C+Mysticism+and+Religion%3A+A+Reader+in+the+Anthropology+of+Religion+Michael+Lambek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rough+to+Bolivia+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rough to Bolivia books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Magic%2C+Mysticism+and+Religion%3A+A+Reader+in+the+Anthropology+of+Religion&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Magic, Mysticism and Religion: A Reader in the Anthropology of Religion</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fingerprints+of+the+gods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fingerprints of the gods</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fingerprints+of+the+gods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fingerprints of the gods</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Chariots of the gods?</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Rough+to+Bolivia+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Rough to Bolivia books</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

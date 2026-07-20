@@ -1264,89 +1264,89 @@ In this sense, Chad’s contribution to weird history is a record of how humans 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Chad&#x27;s Strangest Stories Between Legend And Science. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Chad&#x27;s Strangest Stories Between Legend And Science. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+short+history+of+nearly+everything+Bill+Bryson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A short history of nearly everything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12725620-M.jpg" alt="Cover for A short history of nearly everything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=A+short+history+of+nearly+everything+Bill+Bryson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A short history of nearly everything">A short history of nearly everything</a>
-</h4>
-<p class="fr-book-author">By Bill Bryson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+short+history+of+nearly+everything+Bill+Bryson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A short history of nearly everything on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12725620-M.jpg" alt="Cover for A short history of nearly everything" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+short+history+of+nearly+everything+Bill+Bryson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A short history of nearly everything">A short history of nearly everything</a>
+        </h4>
+        <p class="fr-book-author">By Bill Bryson</p>
         
-<p class="fr-book-desc">First published 2003. Subjects: Science, Popular works, Ciencia, Obras populares, Science, popular works.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=A+short+history+of+nearly+everything+Bill+Bryson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Fits broad science, geography, and mystery themes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+short+history+of+nearly+everything+Bill+Bryson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Secret+World+of+Weather+Tristan+Gooley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Secret World of Weather on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11335351-M.jpg" alt="Cover for Secret World of Weather" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Secret+World+of+Weather+Tristan+Gooley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Secret World of Weather">Secret World of Weather</a>
-</h4>
-<p class="fr-book-author">By Tristan Gooley</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sahara+Michael+Palin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sahara on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/179100-M.jpg" alt="Cover for Sahara" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sahara+Michael+Palin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sahara">Sahara</a>
+        </h4>
+        <p class="fr-book-author">By Michael Palin</p>
         
-<p class="fr-book-desc">First published 2021. Subjects: Physics.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Secret+World+of+Weather+Tristan+Gooley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the landscapes behind Chad&#x27;s mysteries.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sahara+Michael+Palin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Sahara+Eamonn+Gearon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Sahara on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12176297-M.jpg" alt="Cover for The Sahara" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Sahara+Eamonn+Gearon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sahara">The Sahara</a>
-</h4>
-<p class="fr-book-author">By Eamonn Gearon</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Secret+World+of+Weather+Tristan+Gooley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Secret World of Weather on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11335351-M.jpg" alt="Cover for Secret World of Weather" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Secret+World+of+Weather+Tristan+Gooley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Secret World of Weather">Secret World of Weather</a>
+        </h4>
+        <p class="fr-book-author">By Tristan Gooley</p>
         
-<p class="fr-book-desc">First published 2011. Subjects: In literature, Civilization, History, Sahara, Africa, north, history.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Sahara+Eamonn+Gearon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Supports environmental mystery themes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Secret+World+of+Weather+Tristan+Gooley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+World%27s+last+mysteries+Reader%27s+Digest+%28Australia%29+Pty.+Ltd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World&#x27;s last mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+World%27s+last+mysteries+Reader%27s+Digest+%28Australia%29+Pty.+Ltd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World&#x27;s last mysteries">The World&#x27;s last mysteries</a>
-</h4>
-<p class="fr-book-author">By Reader&#x27;s Digest (Australia) Pty. Ltd</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+World%27s+last+mysteries+Reader%27s+Digest+%28Australia%29+Pty.+Ltd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World&#x27;s last mysteries on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+World%27s+last+mysteries+Reader%27s+Digest+%28Australia%29+Pty.+Ltd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World&#x27;s last mysteries">The World&#x27;s last mysteries</a>
+        </h4>
+        <p class="fr-book-author">By Reader&#x27;s Digest (Australia) Pty. Ltd</p>
         
-<p class="fr-book-desc">First published 1977. Subjects: Prehistoric peoples, Antiquities, Ancient Civilization.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+World%27s+last+mysteries+Reader%27s+Digest+%28Australia%29+Pty.+Ltd&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Matches unexplained phenomena themes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+World%27s+last+mysteries+Reader%27s+Digest+%28Australia%29+Pty.+Ltd&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+short+history+of+nearly+everything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A short history of nearly everything</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Secret+World+of+Weather&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Secret World of Weather</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Sahara&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Sahara</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+short+history+of+nearly+everything&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A short history of nearly everything</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sahara&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Sahara</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Secret+World+of+Weather&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Secret World of Weather</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

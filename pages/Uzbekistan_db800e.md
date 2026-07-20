@@ -1295,89 +1295,89 @@ The pattern is worth noticing. Uzbekistan’s anomalies are rarely free-floating
 The most credible reading is therefore neither debunking everything flat nor accepting every legend literally. Timur’s curse is a coincidence made meaningful by history. Chashma’s fish are real animals protected by sacred tradition. Kirk Kiz is a ruin wrapped in heroic memory. Vozrozhdeniye is a documented Cold War hazard that feels like dark folklore because reality made it so. Uzbekistan’s Forteana is not a catalogue of proofs; it is a map of places where history has become uncanny.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Where Uzbekistan&#x27;s Legends Meet Real Places. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Where Uzbekistan&#x27;s Legends Meet Real Places. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk Roads on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8963642-M.jpg" alt="Cover for The Silk Roads" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
-</h4>
-<p class="fr-book-author">By Peter Frankopan</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk Roads on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8963642-M.jpg" alt="Cover for The Silk Roads" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
+        </h4>
+        <p class="fr-book-author">By Peter Frankopan</p>
         
-<p class="fr-book-desc">First published 2015. Subjects: East and West, HISTORY / World, Trade routes, Acculturation, TRAVEL / Asia / China.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides broad historical context for Uzbekistan&#x27;s legendary places.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lost+Enlightenment+Central+Asias+Golden+Age+From+The+Arab+Conquest+To+Tamerlane+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lost Enlightenment Central Asias Golden Age From The Arab Conquest To Tamerlane on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7633414-M.jpg" alt="Cover for Lost Enlightenment Central Asias Golden Age From The Arab Conquest To Tamerlane" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Lost+Enlightenment+Central+Asias+Golden+Age+From+The+Arab+Conquest+To+Tamerlane+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost Enlightenment Central Asias Golden Age From The Arab Conquest To Tamerlane">Lost Enlightenment Central Asias Golden Age From The Arab Con...</a>
-</h4>
-<p class="fr-book-author">By S. Frederick Starr</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Tamerlane+Justin+Marozzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tamerlane on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8820-M.jpg" alt="Cover for Tamerlane" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Tamerlane+Justin+Marozzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tamerlane">Tamerlane</a>
+        </h4>
+        <p class="fr-book-author">By Justin Marozzi</p>
         
-<p class="fr-book-desc">First published 2013. Subjects: History, Civilization, Asia, central, history.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Lost+Enlightenment+Central+Asias+Golden+Age+From+The+Arab+Conquest+To+Tamerlane+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Supports the site&#x27;s strongest legendary topic around Timur&#x27;s tomb.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Tamerlane+Justin+Marozzi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Tamerlane+Justin+Marozzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Tamerlane on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8820-M.jpg" alt="Cover for Tamerlane" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Tamerlane+Justin+Marozzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tamerlane">Tamerlane</a>
-</h4>
-<p class="fr-book-author">By Justin Marozzi</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Shadow+of+the+Silk+Road+Colin+Thubron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Shadow of the Silk Road on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/447532-M.jpg" alt="Cover for Shadow of the Silk Road" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Shadow+of+the+Silk+Road+Colin+Thubron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shadow of the Silk Road">Shadow of the Silk Road</a>
+        </h4>
+        <p class="fr-book-author">By Colin Thubron</p>
         
-<p class="fr-book-desc">First published 2004. Subjects: Mongols, Conquerors, Kings and rulers, Biography, History.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Tamerlane+Justin+Marozzi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Includes evocative journeys through Uzbekistan&#x27;s historic landscapes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Shadow+of+the+Silk+Road+Colin+Thubron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Golden+Road+William+Dalrymple&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Golden Road on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14817293-M.jpg" alt="Cover for Golden Road" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Golden+Road+William+Dalrymple&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Golden Road">Golden Road</a>
-</h4>
-<p class="fr-book-author">By William Dalrymple</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lost+Enlightenment+Central+Asias+Golden+Age+From+The+Arab+Conquest+To+Tamerlane+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lost Enlightenment Central Asias Golden Age From The Arab Conquest To Tamerlane on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7633414-M.jpg" alt="Cover for Lost Enlightenment Central Asias Golden Age From The Arab Conquest To Tamerlane" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Lost+Enlightenment+Central+Asias+Golden+Age+From+The+Arab+Conquest+To+Tamerlane+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost Enlightenment Central Asias Golden Age From The Arab Conquest To Tamerlane">Lost Enlightenment Central Asias Golden Age From The Arab Con...</a>
+        </h4>
+        <p class="fr-book-author">By S. Frederick Starr</p>
         
-<p class="fr-book-desc">First published 2024. Subjects: Asia, history.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Golden+Road+William+Dalrymple&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2013. Subjects: History, Civilization, Asia, central, history.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Lost+Enlightenment+Central+Asias+Golden+Age+From+The+Arab+Conquest+To+Tamerlane+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Silk Roads</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lost+Enlightenment+Central+Asias+Golden+Age+From+The+Arab+Conquest+To+Tamerlane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lost Enlightenment Central Asias Golden Age From The Arab Conquest To Tamerlane</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Tamerlane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tamerlane</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Silk Roads</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Tamerlane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Tamerlane</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Shadow+of+the+Silk+Road&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Shadow of the Silk Road</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

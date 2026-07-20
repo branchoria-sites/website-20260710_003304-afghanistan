@@ -1277,89 +1277,89 @@ Zambia’s Forteana is strongest when it is read as a conversation between exper
 The common thread is not “Zambia is full of unexplained things”. It is more precise and more interesting: Zambia’s weird-history record often appears where power changes hands — rivers dammed, countries born, churches break away, courts inherit colonial laws, fossils leave the ground, and ordinary people try to explain forces larger than themselves. That is why the stories endure. They are not just oddities. They are pressure points where folklore, evidence, humour, fear and national history meet.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Makes Zambia&#x27;s Strange History So Unusual?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Makes Zambia&#x27;s Strange History So Unusual?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The scramble for Africa, 1876-1912 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4615361-M.jpg" alt="Cover for The scramble for Africa," loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The scramble for Africa,">The scramble for Africa,</a>
-</h4>
-<p class="fr-book-author">By Thomas Pakenham, Thomas Pakenham et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Dark+star+safari+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dark star safari on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/394572-M.jpg" alt="Cover for Dark star safari" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Dark+star+safari+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dark star safari">Dark star safari</a>
+        </h4>
+        <p class="fr-book-author">By Paul Theroux</p>
         
-<p class="fr-book-desc">First published 1990. Subjects: History, Colonies, Colonization, Colonización, Kolonisatie.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Offers engaging perspectives on travel through southern Africa.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Dark+star+safari+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Dark+star+safari+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dark star safari on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/394572-M.jpg" alt="Cover for Dark star safari" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Dark+star+safari+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dark star safari">Dark star safari</a>
-</h4>
-<p class="fr-book-author">By Paul Theroux</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The scramble for Africa, 1876-1912 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4615361-M.jpg" alt="Cover for The scramble for Africa, 1876-1912" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The scramble for Africa, 1876-1912">The scramble for Africa, 1876-1912</a>
+        </h4>
+        <p class="fr-book-author">By Thomas Pakenham, Thomas Pakenham et al.</p>
         
-<p class="fr-book-desc">First published 2002. Subjects: Journeys, Description and travel, Africa, description and travel, New York Times reviewed, Travel.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Dark+star+safari+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1990. Subjects: History, Colonies, Colonization, Colonización, Kolonisatie.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Africa+Richard+Dowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8110604-M.jpg" alt="Cover for Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Africa+Richard+Dowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa">Africa</a>
-</h4>
-<p class="fr-book-author">By Richard Dowden</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+Thomas+Pakenham%2C+Thomas+Pakenham+et+al.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The scramble for Africa, on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4615361-M.jpg" alt="Cover for The scramble for Africa," loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+Thomas+Pakenham%2C+Thomas+Pakenham+et+al.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The scramble for Africa,">The scramble for Africa,</a>
+        </h4>
+        <p class="fr-book-author">By Thomas Pakenham, Thomas Pakenham et al.</p>
         
-<p class="fr-book-desc">First published 2008. Subjects: Social life and customs, Manners and customs, Civilization, History, Africa, social life and customs.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Africa+Richard+Dowden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains colonial forces that shaped Zambia&#x27;s modern history.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+Thomas+Pakenham%2C+Thomas+Pakenham+et+al.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Africa%3A+Altered+States%2C+Ordinary+Miracles+Richard+Dowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Africa: Altered States, Ordinary Miracles on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Africa%3A+Altered+States%2C+Ordinary+Miracles+Richard+Dowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa: Altered States, Ordinary Miracles">Africa: Altered States, Ordinary Miracles</a>
-</h4>
-<p class="fr-book-author">By Richard Dowden</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Africa+Richard+Dowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Africa on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8110604-M.jpg" alt="Cover for Africa" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Africa+Richard+Dowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa">Africa</a>
+        </h4>
+        <p class="fr-book-author">By Richard Dowden</p>
         
-<p class="fr-book-desc">Provides broad context for Zambia&#x27;s history and culture.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Africa%3A+Altered+States%2C+Ordinary+Miracles+Richard+Dowden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2008. Subjects: Social life and customs, Manners and customs, Civilization, History, Africa, social life and customs.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Africa+Richard+Dowden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876+1912&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The scramble for Africa,</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dark+star+safari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dark star safari</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Africa</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Dark+star+safari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dark star safari</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876+1912&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The scramble for Africa, 1876 1912</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+scramble+for+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The scramble for Africa</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

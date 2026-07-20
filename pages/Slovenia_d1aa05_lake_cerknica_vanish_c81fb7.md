@@ -355,89 +355,89 @@ Its disappearing waters inspired folklore because they challenged everyday exper
 For Fortean readers, the lesson is an important one. The wonder of Lake Cerknica does not survive despite scientific explanation but alongside it. The hidden rivers, reversible springs and seasonally vanishing water show that nature itself can produce spectacles every bit as memorable as the legends created to explain them.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Does Slovenia&#x27;s Vanishing Lake Feel Haunted?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Does Slovenia&#x27;s Vanishing Lake Feel Haunted?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Magic+of+Reality+Richard+Dawkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Magic of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6954864-M.jpg" alt="Cover for The Magic of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Magic+of+Reality+Richard+Dawkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Magic of Reality">The Magic of Reality</a>
-</h4>
-<p class="fr-book-author">By Richard Dawkins, Dave McKean</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hidden Life of Trees on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8064205-M.jpg" alt="Cover for The Hidden Life of Trees" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hidden Life of Trees">The Hidden Life of Trees</a>
+        </h4>
+        <p class="fr-book-author">By Peter Wohlleben</p>
         
-<p class="fr-book-desc">First published 2001. Subjects: Miscellanea, Science, Philosophy, Reality, Nature.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Magic+of+Reality+Richard+Dawkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Appeals to readers fascinated by surprising natural landscapes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Encyclopedia of Ghosts and Spirits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4725203-M.jpg" alt="Cover for The Encyclopedia of Ghosts and Spirits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Encyclopedia of Ghosts and Spirits">The Encyclopedia of Ghosts and Spirits</a>
-</h4>
-<p class="fr-book-author">By Rosemary Ellen Guiley</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Magic+of+Reality+Richard+Dawkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Magic of Reality on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6954864-M.jpg" alt="Cover for The Magic of Reality" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Magic+of+Reality+Richard+Dawkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Magic of Reality">The Magic of Reality</a>
+        </h4>
+        <p class="fr-book-author">By Richard Dawkins, Dave McKean</p>
         
-<p class="fr-book-desc">First published 1999.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains natural phenomena that once seemed supernatural.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Magic+of+Reality+Richard+Dawkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Wisdom+from+the+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wisdom from the Hidden Life of Trees on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Wisdom+from+the+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wisdom from the Hidden Life of Trees">Wisdom from the Hidden Life of Trees</a>
-</h4>
-<p class="fr-book-author">By Peter Wohlleben, Jane Billinghurst</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Encyclopedia of Ghosts and Spirits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4725203-M.jpg" alt="Cover for The Encyclopedia of Ghosts and Spirits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Encyclopedia of Ghosts and Spirits">The Encyclopedia of Ghosts and Spirits</a>
+        </h4>
+        <p class="fr-book-author">By Rosemary Ellen Guiley</p>
         
-<p class="fr-book-desc">First published 2024.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Wisdom+from+the+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1999.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysteries of the Unexplained on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
-</h4>
-<p class="fr-book-author">By Reader&#x27;s Digest Association</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Wisdom+from+the+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wisdom from the Hidden Life of Trees on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Wisdom+from+the+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wisdom from the Hidden Life of Trees">Wisdom from the Hidden Life of Trees</a>
+        </h4>
+        <p class="fr-book-author">By Peter Wohlleben, Jane Billinghurst</p>
         
-<p class="fr-book-desc">First published 1985.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2024.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Wisdom+from+the+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Magic+of+Reality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Magic of Reality</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Encyclopedia of Ghosts and Spirits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Wisdom+from+the+Hidden+Life+of+Trees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Wisdom from the Hidden Life of Trees</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hidden+Life+of+Trees&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hidden Life of Trees</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Magic+of+Reality&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Magic of Reality</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Encyclopedia of Ghosts and Spirits</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -1297,89 +1297,89 @@ Tajikistan’s strange record endures because it is not just a list of oddities.
 The most responsible conclusion is also the most interesting one. Tajikistan does not need invented paranormal certainty to be Fortean. Its strongest material lies in the border zone between testimony and terrain: the Pamir snowman glimpsed and never confirmed; Lake Sarez watched like a sleeping catastrophe; Iskanderkul retelling Alexander through a lost horse; devs, dragons and spirits turning mountains into moral landscapes; and the 2008 bolide proving that sometimes the thing that tears across the sky really did come from space.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Makes Tajikistan&#x27;s Weird History So Mountainous?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Makes Tajikistan&#x27;s Weird History So Mountainous?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk Roads on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8963642-M.jpg" alt="Cover for The Silk Roads" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
-</h4>
-<p class="fr-book-author">By Peter Frankopan</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Great+Game+Peter+Hopkirk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Great Game on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/811189-M.jpg" alt="Cover for The Great Game" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Great+Game+Peter+Hopkirk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Game">The Great Game</a>
+        </h4>
+        <p class="fr-book-author">By Peter Hopkirk</p>
         
-<p class="fr-book-desc">First published 2015. Subjects: East and West, HISTORY / World, Trade routes, Acculturation, TRAVEL / Asia / China.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides historical context for the Pamirs and Central Asia.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Great+Game+Peter+Hopkirk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Great+Game+Peter+Hopkirk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Great Game on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/811189-M.jpg" alt="Cover for The Great Game" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Great+Game+Peter+Hopkirk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Game">The Great Game</a>
-</h4>
-<p class="fr-book-author">By Peter Hopkirk</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Silk Roads on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8963642-M.jpg" alt="Cover for The Silk Roads" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
+        </h4>
+        <p class="fr-book-author">By Peter Frankopan</p>
         
-<p class="fr-book-desc">First published 1990. Subjects: Politics and government, Relations, Intelligence service, Foreign relations, History.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Great+Game+Peter+Hopkirk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places Tajikistan within wider Eurasian history.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Pamirs+Robert+Middleton+and+Huw+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pamirs on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Pamirs+Robert+Middleton+and+Huw+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pamirs">The Pamirs</a>
-</h4>
-<p class="fr-book-author">By Robert Middleton and Huw Thomas</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Central Asia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Central Asia">Central Asia</a>
+        </h4>
+        <p class="fr-book-author">By Adeeb Khalid</p>
         
-<p class="fr-book-desc">Introduces landscapes central to Tajikistan&#x27;s strange history.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Pamirs+Robert+Middleton+and+Huw+Thomas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the region behind Tajikistan&#x27;s folklore and history.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Central Asia on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Central Asia">Central Asia</a>
-</h4>
-<p class="fr-book-author">By Adeeb Khalid</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Pamirs+Robert+Middleton+and+Huw+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Pamirs on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Pamirs+Robert+Middleton+and+Huw+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pamirs">The Pamirs</a>
+        </h4>
+        <p class="fr-book-author">By Robert Middleton and Huw Thomas</p>
         
-<p class="fr-book-desc">First published 2021.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Introduces landscapes central to Tajikistan&#x27;s strange history.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Pamirs+Robert+Middleton+and+Huw+Thomas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Silk Roads</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Great+Game&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Great Game</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Pamirs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Pamirs</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Great+Game&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Great Game</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Silk Roads</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Central+Asia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Central Asia</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

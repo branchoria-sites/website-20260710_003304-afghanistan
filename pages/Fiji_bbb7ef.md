@@ -1520,4 +1520,40 @@ The result is a country-level weird-history record that rewards restraint. Some 
 
 55.<a id="endnote-55"></a>
    Source: landandseatours.com.fj  
-   Link:<a href="https://landandseatours.com.fj/fiji-firewalking-ceremony/" target="_blank" rel="noopener noreferrer nofollow">https://landandseatours.com.fj/fiji-firewalking-ceremony/</a>  
+   Link:<a href="https://landandseatours.com.fj/fiji-firewalking-ceremony/" target="_blank" rel="noopener noreferrer nofollow">https://landandseatours.com.fj/fiji-firewalking-ceremony/</a>
+
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Makes Fiji&#x27;s Strange History So Memorable?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Lonely+Planet+Fiji+Lonely+Planet&amp;i=stripbooks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lonely Planet Fiji on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Lonely+Planet+Fiji+Lonely+Planet&amp;i=stripbooks" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Fiji">Lonely Planet Fiji</a>
+        </h4>
+        <p class="fr-book-author">By Lonely Planet, Paul Clammer et al.</p>
+        
+        <p class="fr-book-desc">Covers places connected with many of Fiji&#x27;s unusual traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Lonely+Planet+Fiji+Lonely+Planet&amp;i=stripbooks" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lonely+Planet+Fiji&amp;i=stripbooks" target="_blank" rel="sponsored noopener noreferrer">Browse more on Amazon</a>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+

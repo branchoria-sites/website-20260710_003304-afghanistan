@@ -356,89 +356,89 @@ For anyone interested in Denmark's strange history, these beings illustrate an i
 That practical role helps explain their longevity. Even after science replaced the supernatural explanations, the stories endured because they preserved something equally valuable: a record of how ordinary people once made sense of an uncertain world.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Danish_folklore" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Danish folklore</span><span class="citation-popover-snippet">Danish folklore</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Did Denmark&#x27;s Hidden Beings Explain?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Did Denmark&#x27;s Hidden Beings Explain?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Monsters%3A+A+Bestiary+of+the+Bizarre+Christopher+Dell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monsters: A Bestiary of the Bizarre on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8495141-M.jpg" alt="Cover for Monsters: A Bestiary of the Bizarre" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Monsters%3A+A+Bestiary+of+the+Bizarre+Christopher+Dell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters: A Bestiary of the Bizarre">Monsters: A Bestiary of the Bizarre</a>
-</h4>
-<p class="fr-book-author">By Christopher Dell</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Scandinavian+folk+belief+and+legend+Reimund+Kvideland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scandinavian folk belief and legend on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1550447-M.jpg" alt="Cover for Scandinavian folk belief and legend" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Scandinavian+folk+belief+and+legend+Reimund+Kvideland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scandinavian folk belief and legend">Scandinavian folk belief and legend</a>
+        </h4>
+        <p class="fr-book-author">By Reimund Kvideland, Henning K. Sehmsdorf</p>
         
-<p class="fr-book-desc">First published 2001. Subjects: Monsters.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Monsters%3A+A+Bestiary+of+the+Bizarre+Christopher+Dell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Directly addresses elves, trolls, household spirits and folk belief.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Scandinavian+folk+belief+and+legend+Reimund+Kvideland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Scandinavian+folk+belief+and+legend+Reimund+Kvideland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Scandinavian folk belief and legend on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1550447-M.jpg" alt="Cover for Scandinavian folk belief and legend" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Scandinavian+folk+belief+and+legend+Reimund+Kvideland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scandinavian folk belief and legend">Scandinavian folk belief and legend</a>
-</h4>
-<p class="fr-book-author">By Reimund Kvideland, Henning K. Sehmsdorf</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Monsters%3A+A+Bestiary+of+the+Bizarre+Christopher+Dell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monsters: A Bestiary of the Bizarre on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8495141-M.jpg" alt="Cover for Monsters: A Bestiary of the Bizarre" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Monsters%3A+A+Bestiary+of+the+Bizarre+Christopher+Dell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters: A Bestiary of the Bizarre">Monsters: A Bestiary of the Bizarre</a>
+        </h4>
+        <p class="fr-book-author">By Christopher Dell</p>
         
-<p class="fr-book-desc">First published 1988. Subjects: Legends, Folklore, Folklore, scandinavia.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Scandinavian+folk+belief+and+legend+Reimund+Kvideland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2001. Subjects: Monsters.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Monsters%3A+A+Bestiary+of+the+Bizarre+Christopher+Dell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghostland+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghostland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13074544-M.jpg" alt="Cover for Ghostland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Ghostland+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland">Ghostland</a>
-</h4>
-<p class="fr-book-author">By Colin Dickey</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghostland+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghostland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13074544-M.jpg" alt="Cover for Ghostland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ghostland+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland">Ghostland</a>
+        </h4>
+        <p class="fr-book-author">By Colin Dickey</p>
         
-<p class="fr-book-desc">First published 2016. Subjects: Haunted places, nyt:travel=2016-11-13, New York Times bestseller, New York Times reviewed, United states,...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Ghostland+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2016. Subjects: Haunted places, nyt:travel=2016-11-13, New York Times bestseller, New York Times reviewed, United states,...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ghostland+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Fairies+Morgan+Daimler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fairies on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Fairies+Morgan+Daimler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fairies">Fairies</a>
-</h4>
-<p class="fr-book-author">By Morgan Daimler</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Fairies+Morgan+Daimler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fairies on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Fairies+Morgan+Daimler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fairies">Fairies</a>
+        </h4>
+        <p class="fr-book-author">By Morgan Daimler</p>
         
-<p class="fr-book-desc">First published 2017. Subjects: Fairies, Celtic Mythology, Celts, folklore.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Fairies+Morgan+Daimler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2017. Subjects: Fairies, Celtic Mythology, Celts, folklore.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Fairies+Morgan+Daimler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Monsters%3A+A+Bestiary+of+the+Bizarre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Monsters: A Bestiary of the Bizarre</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Scandinavian+folk+belief+and+legend&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scandinavian folk belief and legend</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghostland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghostland</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Scandinavian+folk+belief+and+legend&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Scandinavian folk belief and legend</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Monsters%3A+A+Bestiary+of+the+Bizarre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Monsters: A Bestiary of the Bizarre</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghostland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghostland</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -313,89 +313,89 @@ For readers interested in Grenada's Fortean heritage, the *Island Queen* occupie
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Happened to the Island Queen?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Happened to the Island Queen?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Into+the+Bermuda+Triangle+Gian+J.+Quasar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Into the Bermuda Triangle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2129264-M.jpg" alt="Cover for Into the Bermuda Triangle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Into+the+Bermuda+Triangle+Gian+J.+Quasar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Into the Bermuda Triangle">Into the Bermuda Triangle</a>
-</h4>
-<p class="fr-book-author">By Gian J. Quasar</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Brief History of the Caribbean on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10165246-M.jpg" alt="Cover for A Brief History of the Caribbean" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of the Caribbean">A Brief History of the Caribbean</a>
+        </h4>
+        <p class="fr-book-author">By Jan Rogozinski</p>
         
-<p class="fr-book-desc">First published 2004. Subjects: Nonfiction, Sports &amp; Recreations, Bermuda triangle.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Into+the+Bermuda+Triangle+Gian+J.+Quasar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Provides wartime and regional background.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Brief History of the Caribbean on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10165246-M.jpg" alt="Cover for A Brief History of the Caribbean" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of the Caribbean">A Brief History of the Caribbean</a>
-</h4>
-<p class="fr-book-author">By Jan Rogozinski</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Into+the+Bermuda+Triangle+Gian+J.+Quasar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Into the Bermuda Triangle on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2129264-M.jpg" alt="Cover for Into the Bermuda Triangle" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Into+the+Bermuda+Triangle+Gian+J.+Quasar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Into the Bermuda Triangle">Into the Bermuda Triangle</a>
+        </h4>
+        <p class="fr-book-author">By Gian J. Quasar</p>
         
-<p class="fr-book-desc">First published 1999.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Appeals to readers interested in unresolved maritime mysteries.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Into+the+Bermuda+Triangle+Gian+J.+Quasar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dead+Wake+Erik+Larson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dead Wake on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Dead+Wake+Erik+Larson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dead Wake">Dead Wake</a>
-</h4>
-<p class="fr-book-author">By Erik Larson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Erik+Larson+Bestselling+4+Books+Set.+the+Devil+in+the+White+City%2C+the+Splendid+and+the+Vile%2C+in+the+Garden+of+Beasts%2C+Dead+Wake+by+Erik+Larson+Erik+Larson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Erik Larson Bestselling 4 Books Set. the Devil in the White City, the Splendid and the Vile, in the Garden of Beasts, Dead Wake by Erik Larson on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Erik+Larson+Bestselling+4+Books+Set.+the+Devil+in+the+White+City%2C+the+Splendid+and+the+Vile%2C+in+the+Garden+of+Beasts%2C+Dead+Wake+by+Erik+Larson+Erik+Larson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Erik Larson Bestselling 4 Books Set. the Devil in the White City, the Splendid and the Vile, in the Garden of Beasts, Dead Wake by Erik Larson">Erik Larson Bestselling 4 Books Set. the Devil in the White C...</a>
+        </h4>
+        <p class="fr-book-author">By Erik Larson</p>
         
-<p class="fr-book-desc">Appeals to readers interested in unexplained ship losses.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Dead+Wake+Erik+Larson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2022. Subjects: Biography.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Erik+Larson+Bestselling+4+Books+Set.+the+Devil+in+the+White+City%2C+the+Splendid+and+the+Vile%2C+in+the+Garden+of+Beasts%2C+Dead+Wake+by+Erik+Larson+Erik+Larson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Caribbean%3A+A+History+of+the+Region+and+Its+Peoples+Stephan+Palmi%C3%A9+and+Francisco+A.+Scarano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Caribbean: A History of the Region and Its Peoples on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Caribbean%3A+A+History+of+the+Region+and+Its+Peoples+Stephan+Palmi%C3%A9+and+Francisco+A.+Scarano&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caribbean: A History of the Region and Its Peoples">Caribbean: A History of the Region and Its Peoples</a>
-</h4>
-<p class="fr-book-author">By Stephan Palmié and Francisco A. Scarano</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Dead+Wake+Erik+Larson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Dead Wake on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Dead+Wake+Erik+Larson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dead Wake">Dead Wake</a>
+        </h4>
+        <p class="fr-book-author">By Erik Larson</p>
         
-<p class="fr-book-desc">Explains the wider Caribbean setting for the tragedy.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Caribbean%3A+A+History+of+the+Region+and+Its+Peoples+Stephan+Palmi%C3%A9+and+Francisco+A.+Scarano&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Appeals to readers interested in unexplained ship losses.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Dead+Wake+Erik+Larson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Into+the+Bermuda+Triangle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Into the Bermuda Triangle</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Brief History of the Caribbean</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Dead+Wake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Dead Wake</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Brief History of the Caribbean</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Into+the+Bermuda+Triangle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Into the Bermuda Triangle</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Erik+Larson+Bestselling+4+Books+Set.+the+Devil+in+the+White+City%2C+the+Splendid+and+the+Vile%2C+in+the+Garden+of+Beasts%2C+Dead+Wake+by+Erik+Larson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Erik Larson Bestselling 4 Books Set. the Devil in the White City, the Splendid and the Vile, in the Garden of Beasts, Dead Wake by Erik Larson</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -1302,6 +1302,41 @@ The Jinn Cave gives danger a personality. Zerzura turns the hope of water into a
 
 That is the heart of Libya’s weird-history record. The best stories are not those that prove ghosts, jinn, aliens or lost kingdoms. They are the ones that reveal how easily the natural, historical and folkloric can become entangled in a country where a rock can sound alive, a horizon can become water, and a desert can remember animals that vanished thousands of years ago.
 
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Libya&#x27;s Desert Keeps Making Mysteries. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sahara+Michael+Palin&amp;i=stripbooks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sahara on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/179100-M.jpg" alt="Cover for Sahara" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Sahara+Michael+Palin&amp;i=stripbooks" target="_blank" rel="sponsored noopener noreferrer" title="Sahara">Sahara</a>
+        </h4>
+        <p class="fr-book-author">By Michael Palin</p>
+        
+        <p class="fr-book-desc">Explores the Sahara&#x27;s landscapes, peoples and enduring mysteries.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Sahara+Michael+Palin&amp;i=stripbooks" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <a class="fr-browse-more" href="https://www.amazon.com/s?k=Sahara&amp;i=stripbooks" target="_blank" rel="sponsored noopener noreferrer">Browse more on Amazon</a>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
+</section>
+
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
 <div class="fr-section-shell">
 <div class="fr-section-header">

@@ -323,89 +323,89 @@ Bahla’s supernatural reputation has become inseparable from its wider historic
 The enduring appeal of Bahla lies in that tension. The walls, towers, and oasis can be studied through archaeology and history, while the jinn stories belong to the realm of folklore and cultural memory. Together they create one of Oman’s most distinctive mystery traditions: a place where human craftsmanship and supernatural imagination have become woven into the same landscape.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Bahla Became Oman&#x27;s City Of Mystery. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Bahla Became Oman&#x27;s City Of Mystery. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Arabian+Nights+Entertainments+%5B7+stories%5D+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Arabian Nights Entertainments [7 stories] on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1046897-M.jpg" alt="Cover for The Arabian Nights Entertainments [7 stories]" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Arabian+Nights+Entertainments+%5B7+stories%5D+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arabian Nights Entertainments [7 stories]">The Arabian Nights Entertainments [7 stories]</a>
-</h4>
-<p class="fr-book-author">By Anonymous</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Arabian+sands+Wilfred+Thesiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Arabian sands on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/94300-M.jpg" alt="Cover for Arabian sands" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Arabian+sands+Wilfred+Thesiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabian sands">Arabian sands</a>
+        </h4>
+        <p class="fr-book-author">By Wilfred Thesiger</p>
         
-<p class="fr-book-desc">First published 1973.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Arabian+Nights+Entertainments+%5B7+stories%5D+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Adds cultural and environmental context around Omani settings.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Arabian+sands+Wilfred+Thesiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Secret+Teachings+of+All+Ages+Manly+Palmer+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret Teachings of All Ages on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4762003-M.jpg" alt="Cover for The Secret Teachings of All Ages" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Secret+Teachings+of+All+Ages+Manly+Palmer+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret Teachings of All Ages">The Secret Teachings of All Ages</a>
-</h4>
-<p class="fr-book-author">By Manly Palmer Hall</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Secret+Teachings+of+All+Ages+Manly+Palmer+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Secret Teachings of All Ages on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4762003-M.jpg" alt="Cover for The Secret Teachings of All Ages" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Secret+Teachings+of+All+Ages+Manly+Palmer+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret Teachings of All Ages">The Secret Teachings of All Ages</a>
+        </h4>
+        <p class="fr-book-author">By Manly Palmer Hall</p>
         
-<p class="fr-book-desc">First published 1978. Subjects: Religious Mysteries, Occultism, Cabala, Secret societies, Freemasonry.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Secret+Teachings+of+All+Ages+Manly+Palmer+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Appeals to readers interested in hidden traditions and beliefs.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Secret+Teachings+of+All+Ages+Manly+Palmer+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Arabian+sands+Wilfred+Thesiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Arabian sands on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/94300-M.jpg" alt="Cover for Arabian sands" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Arabian+sands+Wilfred+Thesiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabian sands">Arabian sands</a>
-</h4>
-<p class="fr-book-author">By Wilfred Thesiger</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+%26+Caitlin+Matthews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Element Encyclopedia of Magical Creatures on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13541-M.jpg" alt="Cover for The Element Encyclopedia of Magical Creatures" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+%26+Caitlin+Matthews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Element Encyclopedia of Magical Creatures">The Element Encyclopedia of Magical Creatures</a>
+        </h4>
+        <p class="fr-book-author">By John &amp; Caitlin Matthews</p>
         
-<p class="fr-book-desc">First published 1959. Subjects: Description and travel, Travel, Thesiger, Wilfred, -- 1910- -- Travel -- Arabian Peninsula, Travel writin...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Arabian+sands+Wilfred+Thesiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Includes wider supernatural creature traditions.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+%26+Caitlin+Matthews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+%26+Caitlin+Matthews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Element Encyclopedia of Magical Creatures on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13541-M.jpg" alt="Cover for The Element Encyclopedia of Magical Creatures" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+%26+Caitlin+Matthews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Element Encyclopedia of Magical Creatures">The Element Encyclopedia of Magical Creatures</a>
-</h4>
-<p class="fr-book-author">By John &amp; Caitlin Matthews</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Arabian+Nights+Entertainments+%5B7+stories%5D+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Arabian Nights Entertainments [7 stories] on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1046897-M.jpg" alt="Cover for The Arabian Nights Entertainments [7 stories]" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Arabian+Nights+Entertainments+%5B7+stories%5D+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arabian Nights Entertainments [7 stories]">The Arabian Nights Entertainments [7 stories]</a>
+        </h4>
+        <p class="fr-book-author">By Anonymous</p>
         
-<p class="fr-book-desc">First published 2005. Subjects: Animals, mythical.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+%26+Caitlin+Matthews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1973.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Arabian+Nights+Entertainments+%5B7+stories%5D+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Arabian+Nights+Entertainments+%5B7+stories%5D&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Arabian Nights Entertainments [7 stories]</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Secret+Teachings+of+All+Ages&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Secret Teachings of All Ages</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Arabian+sands&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Arabian sands</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Arabian+sands&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Arabian sands</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Secret+Teachings+of+All+Ages&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Secret Teachings of All Ages</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Element Encyclopedia of Magical Creatures</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

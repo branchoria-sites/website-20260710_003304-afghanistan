@@ -391,89 +391,89 @@ Modern disaster science explains the mechanics of flash floods, landslides and h
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to When Bhutan&#x27;s Landscape Seems to Answer Back. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to When Bhutan&#x27;s Landscape Seems to Answer Back. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Snow Leopard on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/914727-M.jpg" alt="Cover for The Snow Leopard" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Snow Leopard">The Snow Leopard</a>
-</h4>
-<p class="fr-book-author">By Peter Matthiessen</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Beyond+the+sky+and+the+earth+Jamie+Zeppa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Beyond the sky and the earth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/823999-M.jpg" alt="Cover for Beyond the sky and the earth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Beyond+the+sky+and+the+earth+Jamie+Zeppa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Beyond the sky and the earth">Beyond the sky and the earth</a>
+        </h4>
+        <p class="fr-book-author">By Jamie Zeppa</p>
         
-<p class="fr-book-desc">First published 1978. Subjects: Description and travel, Biologists, American Authors, Natural history, Biography.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Describes everyday beliefs tied to place.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Beyond+the+sky+and+the+earth+Jamie+Zeppa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Beyond+the+sky+and+the+earth+Jamie+Zeppa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Beyond the sky and the earth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/823999-M.jpg" alt="Cover for Beyond the sky and the earth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Beyond+the+sky+and+the+earth+Jamie+Zeppa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Beyond the sky and the earth">Beyond the sky and the earth</a>
-</h4>
-<p class="fr-book-author">By Jamie Zeppa</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Snow Leopard on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/914727-M.jpg" alt="Cover for The Snow Leopard" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Snow Leopard">The Snow Leopard</a>
+        </h4>
+        <p class="fr-book-author">By Peter Matthiessen</p>
         
-<p class="fr-book-desc">First published 1999. Subjects: Description and travel, Nonfiction, Travel, Bhutan, description and travel, Women travelers.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Beyond+the+sky+and+the+earth+Jamie+Zeppa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Evokes mountain landscapes associated with sacred geography.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Geography+of+Bliss+Eric+Weiner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Geography of Bliss on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2422297-M.jpg" alt="Cover for The Geography of Bliss" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Geography+of+Bliss+Eric+Weiner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Geography of Bliss">The Geography of Bliss</a>
-</h4>
-<p class="fr-book-author">By Eric Weiner</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Geography+of+Bliss+Eric+Weiner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Geography of Bliss on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2422297-M.jpg" alt="Cover for The Geography of Bliss" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Geography+of+Bliss+Eric+Weiner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Geography of Bliss">The Geography of Bliss</a>
+        </h4>
+        <p class="fr-book-author">By Eric Weiner</p>
         
-<p class="fr-book-desc">First published 2008. Subjects: Travel, Voyages and travels, Nonfiction, Large type books, Happiness.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Geography+of+Bliss+Eric+Weiner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Includes Bhutan while exploring cultural worldviews.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Geography+of+Bliss+Eric+Weiner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bhutan+Fran%C3%A7oise+Pommaret&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bhutan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1052710-M.jpg" alt="Cover for Bhutan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Bhutan+Fran%C3%A7oise+Pommaret&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bhutan">Bhutan</a>
-</h4>
-<p class="fr-book-author">By Françoise Pommaret</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bhutan+Fran%C3%A7oise+Pommaret&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bhutan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1052710-M.jpg" alt="Cover for Bhutan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Bhutan+Fran%C3%A7oise+Pommaret&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bhutan">Bhutan</a>
+        </h4>
+        <p class="fr-book-author">By Françoise Pommaret</p>
         
-<p class="fr-book-desc">First published 1984. Subjects: Guidebooks, Description and travel.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Bhutan+Fran%C3%A7oise+Pommaret&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1984. Subjects: Guidebooks, Description and travel.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Bhutan+Fran%C3%A7oise+Pommaret&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Snow+Leopard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Snow Leopard</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Beyond+the+sky+and+the+earth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Beyond the sky and the earth</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Geography+of+Bliss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Geography of Bliss</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Beyond+the+sky+and+the+earth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Beyond the sky and the earth</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Snow+Leopard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Snow Leopard</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Geography+of+Bliss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Geography of Bliss</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

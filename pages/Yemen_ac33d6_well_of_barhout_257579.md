@@ -338,89 +338,89 @@ That combination makes the Well of Barhout one of Yemen's defining strange place
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Was the Well of Hell Ever More Than Geology?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Was the Well of Hell Ever More Than Geology?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Arabs%3A+A+History+Eugene+L.+Rogan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Arabs: A History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8444558-M.jpg" alt="Cover for The Arabs: A History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Arabs%3A+A+History+Eugene+L.+Rogan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arabs: A History">The Arabs: A History</a>
-</h4>
-<p class="fr-book-author">By Eugene L. Rogan</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Arabs%3A+A+History+Eugene+L.+Rogan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Arabs: A History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8444558-M.jpg" alt="Cover for The Arabs: A History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Arabs%3A+A+History+Eugene+L.+Rogan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arabs: A History">The Arabs: A History</a>
+        </h4>
+        <p class="fr-book-author">By Eugene L. Rogan</p>
         
-<p class="fr-book-desc">First published 2011. Subjects: Petroleum industry and trade, Arab nationalism, Islam and politics, Imperialism, History.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Arabs%3A+A+History+Eugene+L.+Rogan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2011. Subjects: Petroleum industry and trade, Arab nationalism, Islam and politics, Imperialism, History.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Arabs%3A+A+History+Eugene+L.+Rogan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Yemen+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Yemen on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/457529-M.jpg" alt="Cover for Yemen" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Yemen+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Yemen">Yemen</a>
-</h4>
-<p class="fr-book-author">By Tim MacKintosh-Smith, Tim MacIntosh-Smith</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Yemen+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Yemen on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/457529-M.jpg" alt="Cover for Yemen" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Yemen+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Yemen">Yemen</a>
+        </h4>
+        <p class="fr-book-author">By Tim MacKintosh-Smith, Tim MacIntosh-Smith</p>
         
-<p class="fr-book-desc">First published 1998. Subjects: Travel writing, History, Travel, Yemen, ASIA.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Yemen+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1998. Subjects: Travel writing, History, Travel, Yemen, ASIA.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Yemen+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Underground+Hunt%2C+Will+%28Urban+adventurer%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Underground on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8397687-M.jpg" alt="Cover for Underground" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Underground+Hunt%2C+Will+%28Urban+adventurer%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Underground">Underground</a>
-</h4>
-<p class="fr-book-author">By Hunt, Will (Urban adventurer)</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Arabia+Felix%2C+the+Danish+expedition+of+1761-1767+Thorkild+Hansen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Arabia Felix, the Danish expedition of 1761-1767 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Arabia+Felix%2C+the+Danish+expedition+of+1761-1767+Thorkild+Hansen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabia Felix, the Danish expedition of 1761-1767">Arabia Felix, the Danish expedition of 1761-1767</a>
+        </h4>
+        <p class="fr-book-author">By Thorkild Hansen</p>
         
-<p class="fr-book-desc">First published 2018. Subjects: Burial, Waste disposal in the ground, HISTORY / Social History, Mines and mineral resources, Underground...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Underground+Hunt%2C+Will+%28Urban+adventurer%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1964. Subjects: Description and travel.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Arabia+Felix%2C+the+Danish+expedition+of+1761-1767+Thorkild+Hansen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Arabia+Felix%2C+the+Danish+expedition+of+1761-1767+Thorkild+Hansen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Arabia Felix, the Danish expedition of 1761-1767 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Arabia+Felix%2C+the+Danish+expedition+of+1761-1767+Thorkild+Hansen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabia Felix, the Danish expedition of">Arabia Felix, the Danish expedition of</a>
-</h4>
-<p class="fr-book-author">By Thorkild Hansen</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=World+Beneath+Richard+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open World Beneath on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=World+Beneath+Richard+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="World Beneath">World Beneath</a>
+        </h4>
+        <p class="fr-book-author">By Richard Smith</p>
         
-<p class="fr-book-desc">First published 1964. Subjects: Description and travel.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Arabia+Felix%2C+the+Danish+expedition+of+1761-1767+Thorkild+Hansen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the science and exploration of dramatic underground environments.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=World+Beneath+Richard+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Arabs%3A+A+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Arabs: A History</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Yemen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Yemen</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Underground&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Underground</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Arabs%3A+A+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Arabs: A History</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Yemen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Yemen</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Arabia+Felix%2C+the+Danish+expedition+of+1761+1767&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Arabia Felix, the Danish expedition of 1761 1767</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

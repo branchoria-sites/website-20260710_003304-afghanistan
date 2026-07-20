@@ -362,89 +362,89 @@ Their importance lies elsewhere. They reveal how cities generate folklore from a
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why Do Cairo&#x27;s Palaces Become Haunted?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why Do Cairo&#x27;s Palaces Become Haunted?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lonely+Planet+Egipto+%28Spanish%29+2+%28Lonely+Planet+Egypt%29+Lonely+Planet+Publications&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lonely Planet Egipto (Spanish) 2 (Lonely Planet Egypt) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3324745-M.jpg" alt="Cover for Lonely Planet Egipto (Spanish) 2 (Lonely Planet Egypt)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Lonely+Planet+Egipto+%28Spanish%29+2+%28Lonely+Planet+Egypt%29+Lonely+Planet+Publications&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Egipto (Spanish) 2 (Lonely Planet Egypt)">Lonely Planet Egipto (Spanish) 2 (Lonely Planet Egypt)</a>
-</h4>
-<p class="fr-book-author">By Lonely Planet Publications</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=CAIRO+THE+CITY+VICTORIOUS+Max+Rodenbeck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open CAIRO THE CITY VICTORIOUS on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2386491-M.jpg" alt="Cover for CAIRO THE CITY VICTORIOUS" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=CAIRO+THE+CITY+VICTORIOUS+Max+Rodenbeck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="CAIRO THE CITY VICTORIOUS">CAIRO THE CITY VICTORIOUS</a>
+        </h4>
+        <p class="fr-book-author">By Max Rodenbeck</p>
         
-<p class="fr-book-desc">First published 2004.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Lonely+Planet+Egipto+%28Spanish%29+2+%28Lonely+Planet+Egypt%29+Lonely+Planet+Publications&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explains the city&#x27;s history, architecture and social imagination.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=CAIRO+THE+CITY+VICTORIOUS+Max+Rodenbeck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+complete+gods+and+goddesses+of+ancient+Egypt+Richard+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The complete gods and goddesses of ancient Egypt on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/315820-M.jpg" alt="Cover for The complete gods and goddesses of ancient Egypt" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+complete+gods+and+goddesses+of+ancient+Egypt+Richard+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The complete gods and goddesses of ancient Egypt">The complete gods and goddesses of ancient Egypt</a>
-</h4>
-<p class="fr-book-author">By Richard H. Wilkinson</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Egyptian+Book+of+the+dead+Raymond+Oliver+Faulkner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Egyptian Book of the dead on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3947185-M.jpg" alt="Cover for The Egyptian Book of the dead" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Egyptian+Book+of+the+dead+Raymond+Oliver+Faulkner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Egyptian Book of the dead">The Egyptian Book of the dead</a>
+        </h4>
+        <p class="fr-book-author">By Raymond Oliver Faulkner, Goelet, Ogden Jr et al.</p>
         
-<p class="fr-book-desc">First published 2003. Subjects: Egyptian Goddesses, Egyptian Gods, Egyptian Mythology, Religion, Gods.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+complete+gods+and+goddesses+of+ancient+Egypt+Richard+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Background reading on Egyptian beliefs about death and the supernatural.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Egyptian+Book+of+the+dead+Raymond+Oliver+Faulkner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=CAIRO+THE+CITY+VICTORIOUS+Max+Rodenbeck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open CAIRO THE CITY VICTORIOUS on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2386491-M.jpg" alt="Cover for CAIRO THE CITY VICTORIOUS" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=CAIRO+THE+CITY+VICTORIOUS+Max+Rodenbeck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="CAIRO THE CITY VICTORIOUS">CAIRO THE CITY VICTORIOUS</a>
-</h4>
-<p class="fr-book-author">By Max Rodenbeck</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lonely+Planet+Egipto+%28Spanish%29+2+%28Lonely+Planet+Egypt%29+Lonely+Planet+Publications&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lonely Planet Egipto (Spanish) 2 (Lonely Planet Egypt) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3324745-M.jpg" alt="Cover for Lonely Planet Egipto (Spanish) 2 (Lonely Planet Egypt)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Lonely+Planet+Egipto+%28Spanish%29+2+%28Lonely+Planet+Egypt%29+Lonely+Planet+Publications&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Egipto (Spanish) 2 (Lonely Planet Egypt)">Lonely Planet Egipto (Spanish) 2 (Lonely Planet Egypt)</a>
+        </h4>
+        <p class="fr-book-author">By Lonely Planet Publications</p>
         
-<p class="fr-book-desc">First published 1998. Subjects: Description and travel, History, Travel.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=CAIRO+THE+CITY+VICTORIOUS+Max+Rodenbeck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2004.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Lonely+Planet+Egipto+%28Spanish%29+2+%28Lonely+Planet+Egypt%29+Lonely+Planet+Publications&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Egyptian+Book+of+the+dead+Raymond+Oliver+Faulkner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Egyptian Book of the dead on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3947185-M.jpg" alt="Cover for The Egyptian Book of the dead" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Egyptian+Book+of+the+dead+Raymond+Oliver+Faulkner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Egyptian Book of the dead">The Egyptian Book of the dead</a>
-</h4>
-<p class="fr-book-author">By Raymond Oliver Faulkner, Goelet, Ogden Jr et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+complete+gods+and+goddesses+of+ancient+Egypt+Richard+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The complete gods and goddesses of ancient Egypt on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/315820-M.jpg" alt="Cover for The complete gods and goddesses of ancient Egypt" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+complete+gods+and+goddesses+of+ancient+Egypt+Richard+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The complete gods and goddesses of ancient Egypt">The complete gods and goddesses of ancient Egypt</a>
+        </h4>
+        <p class="fr-book-author">By Richard H. Wilkinson</p>
         
-<p class="fr-book-desc">First published 1994. Subjects: Egyptian Incantations, Future life, Livre des morts, Religion, Jenseitsglaube.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Egyptian+Book+of+the+dead+Raymond+Oliver+Faulkner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2003. Subjects: Egyptian Goddesses, Egyptian Gods, Egyptian Mythology, Religion, Gods.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+complete+gods+and+goddesses+of+ancient+Egypt+Richard+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lonely+Planet+Egipto+%28Spanish%29+2+%28Lonely+Planet+Egypt%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lonely Planet Egipto (Spanish) 2 (Lonely Planet Egypt)</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+complete+gods+and+goddesses+of+ancient+Egypt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The complete gods and goddesses of ancient Egypt</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=CAIRO+THE+CITY+VICTORIOUS&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">CAIRO THE CITY VICTORIOUS</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=CAIRO+THE+CITY+VICTORIOUS&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">CAIRO THE CITY VICTORIOUS</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Egyptian+Book+of+the+dead&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Egyptian Book of the dead</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lonely+Planet+Egipto+%28Spanish%29+2+%28Lonely+Planet+Egypt%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lonely Planet Egipto (Spanish) 2 (Lonely Planet Egypt)</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

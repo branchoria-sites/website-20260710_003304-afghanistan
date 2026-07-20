@@ -346,89 +346,89 @@ The fairy circles may never acquire the simple, single-cause explanation that ma
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Are Namibia&#x27;s Fairy Circles Really Explained?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Are Namibia&#x27;s Fairy Circles Really Explained?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Selfish+Gene+Richard+Dawkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Selfish Gene on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/133936-M.jpg" alt="Cover for The Selfish Gene" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Selfish+Gene+Richard+Dawkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Selfish Gene">The Selfish Gene</a>
-</h4>
-<p class="fr-book-author">By Richard Dawkins</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Selfish+Gene+Richard+Dawkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Selfish Gene on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/133936-M.jpg" alt="Cover for The Selfish Gene" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Selfish+Gene+Richard+Dawkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Selfish Gene">The Selfish Gene</a>
+        </h4>
+        <p class="fr-book-author">By Richard Dawkins</p>
         
-<p class="fr-book-desc">First published 1976. Subjects: Evolution (Biology), Genetics, Sociobiology, Behavior genetics, Genetica.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Selfish+Gene+Richard+Dawkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Introduces evolutionary thinking relevant to natural pattern formation.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Selfish+Gene+Richard+Dawkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Entangled+Life+Merlin+Sheldrake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Entangled Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10152882-M.jpg" alt="Cover for Entangled Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Entangled+Life+Merlin+Sheldrake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Entangled Life">Entangled Life</a>
-</h4>
-<p class="fr-book-author">By Merlin Sheldrake</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Entangled+Life+Merlin+Sheldrake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Entangled Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10152882-M.jpg" alt="Cover for Entangled Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Entangled+Life+Merlin+Sheldrake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Entangled Life">Entangled Life</a>
+        </h4>
+        <p class="fr-book-author">By Merlin Sheldrake</p>
         
-<p class="fr-book-desc">First published 2020. Subjects: Botany, Fungi, New York Times reviewed, nyt:paperback-nonfiction=2021-12-12, New York Times bestseller.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Entangled+Life+Merlin+Sheldrake&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Explores ecological systems and emergent natural processes.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Entangled+Life+Merlin+Sheldrake&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Namibia%2C+3rd+Bradt+Travel+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Namibia, 3rd on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2018214-M.jpg" alt="Cover for Namibia, 3rd" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Namibia%2C+3rd+Bradt+Travel+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Namibia, 3rd">Namibia, 3rd</a>
-</h4>
-<p class="fr-book-author">By Bradt Travel Guides</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Skeleton+Coast+John+Henry+Marsh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skeleton Coast on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15223020-M.jpg" alt="Cover for Skeleton Coast" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Skeleton+Coast+John+Henry+Marsh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skeleton Coast">Skeleton Coast</a>
+        </h4>
+        <p class="fr-book-author">By John Henry Marsh</p>
         
-<p class="fr-book-desc">First published 2007. Subjects: Guidebooks, Namibia, description and travel.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Namibia%2C+3rd+Bradt+Travel+Guides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Places fairy circles within the country&#x27;s unusual environments.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Skeleton+Coast+John+Henry+Marsh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Wisdom+from+the+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Wisdom from the Hidden Life of Trees on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Wisdom+from+the+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wisdom from the Hidden Life of Trees">Wisdom from the Hidden Life of Trees</a>
-</h4>
-<p class="fr-book-author">By Peter Wohlleben, Jane Billinghurst</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Namibia%2C+3rd+Bradt+Travel+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Namibia, 3rd on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2018214-M.jpg" alt="Cover for Namibia, 3rd" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Namibia%2C+3rd+Bradt+Travel+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Namibia, 3rd">Namibia, 3rd</a>
+        </h4>
+        <p class="fr-book-author">By Bradt Travel Guides</p>
         
-<p class="fr-book-desc">First published 2024.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Wisdom+from+the+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 2007. Subjects: Guidebooks, Namibia, description and travel.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Namibia%2C+3rd+Bradt+Travel+Guides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Selfish+Gene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Selfish Gene</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Entangled+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Entangled Life</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Namibia%2C+3rd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Namibia, 3rd</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Selfish+Gene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Selfish Gene</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Entangled+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Entangled Life</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skeleton+Coast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skeleton Coast</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
