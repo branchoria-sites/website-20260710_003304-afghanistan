@@ -349,7 +349,7 @@ The result is one of the clearest examples in world folklore of a national origi
           <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Bough">The Golden Bough</a>
         </h4>
         <p class="fr-book-author">By James George Frazer</p>
-        
+
         <p class="fr-book-desc">Explores how sacred animals shape belief.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -366,7 +366,7 @@ The result is one of the clearest examples in world folklore of a national origi
           <a href="https://www.amazon.com/s?k=Myths+and+Legends+Philip+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and Legends">Myths and Legends</a>
         </h4>
         <p class="fr-book-author">By Philip Wilkinson</p>
-        
+
         <p class="fr-book-desc">Places creation myths into comparative context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Myths+and+Legends+Philip+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ The result is one of the clearest examples in world folklore of a national origi
           <a href="https://www.amazon.com/s?k=The+book+of+barely+imagined+beings+Caspar+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The book of barely imagined beings">The book of barely imagined beings</a>
         </h4>
         <p class="fr-book-author">By Caspar Henderson</p>
-        
+
         <p class="fr-book-desc">Blends myth, animals and cultural storytelling.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+book+of+barely+imagined+beings+Caspar+Henderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ The result is one of the clearest examples in world folklore of a national origi
           <a href="https://www.amazon.com/s?k=The+Crocodile%3A+Evolution%27s+Greatest+Survivor+Steve+Backshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Crocodile: Evolution&#x27;s Greatest Survivor">The Crocodile: Evolution&#x27;s Greatest Survivor</a>
         </h4>
         <p class="fr-book-author">By Steve Backshall</p>
-        
+
         <p class="fr-book-desc">Explains the biology of crocodiles alongside mythic interest.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Crocodile%3A+Evolution%27s+Greatest+Survivor+Steve+Backshall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -1307,7 +1307,7 @@ That is why the UAE is a rewarding country-level Fortean subject. Its weird reco
           <a href="https://www.amazon.com/s?k=Arabian+sands+Wilfred+Thesiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabian sands">Arabian sands</a>
         </h4>
         <p class="fr-book-author">By Wilfred Thesiger</p>
-        
+
         <p class="fr-book-desc">Captures the landscapes and traditions behind Gulf folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Arabian+sands+Wilfred+Thesiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1324,7 +1324,7 @@ That is why the UAE is a rewarding country-level Fortean subject. Its weird reco
           <a href="https://www.amazon.com/s?k=Dubai+Jim+Krane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dubai">Dubai</a>
         </h4>
         <p class="fr-book-author">By Jim Krane</p>
-        
+
         <p class="fr-book-desc">First published 2009.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Dubai+Jim+Krane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1341,7 +1341,7 @@ That is why the UAE is a rewarding country-level Fortean subject. Its weird reco
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology Book">The Mythology Book</a>
         </h4>
         <p class="fr-book-author">By DK</p>
-        
+
         <p class="fr-book-desc">Introduces comparative mythology useful for folklore readers.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1358,7 +1358,7 @@ That is why the UAE is a rewarding country-level Fortean subject. Its weird reco
           <a href="https://www.amazon.com/s?k=Myths%2C+Legends+%26+Folktales+of+the+Emirates+Tony+Allison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths, Legends &amp; Folktales of the Emirates">Myths, Legends &amp; Folktales of the Emirates</a>
         </h4>
         <p class="fr-book-author">By Tony Allison</p>
-        
+
         <p class="fr-book-desc">Directly covers folklore, supernatural tales and oral traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Myths%2C+Legends+%26+Folktales+of+the+Emirates+Tony+Allison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

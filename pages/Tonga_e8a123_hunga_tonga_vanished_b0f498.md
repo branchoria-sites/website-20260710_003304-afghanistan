@@ -343,7 +343,7 @@ The result is an unusual blend of geology and modern myth-making. Unlike traditi
           <a href="https://www.amazon.com/s?k=The+Sixth+Extinction+Elizabeth+Kolbert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sixth Extinction">The Sixth Extinction</a>
         </h4>
         <p class="fr-book-author">By Elizabeth Kolbert, Marcel Blanc</p>
-        
+
         <p class="fr-book-desc">Provides wider context on rapid planetary change and geological processes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Sixth+Extinction+Elizabeth+Kolbert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -360,7 +360,7 @@ The result is an unusual blend of geology and modern myth-making. Unlike traditi
           <a href="https://www.amazon.com/s?k=The+volcano+adventure+guide+Rosaly+M.+C.+Lopes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The volcano adventure guide">The volcano adventure guide</a>
         </h4>
         <p class="fr-book-author">By Rosaly M. C. Lopes</p>
-        
+
         <p class="fr-book-desc">Covers famous volcanoes and the science behind dramatic eruptions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+volcano+adventure+guide+Rosaly+M.+C.+Lopes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ The result is an unusual blend of geology and modern myth-making. Unlike traditi
           <a href="https://www.amazon.com/s?k=Volcanoes+Francis%2C+Peter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Volcanoes">Volcanoes</a>
         </h4>
         <p class="fr-book-author">By Francis, Peter</p>
-        
+
         <p class="fr-book-desc">Explains submarine eruptions, island formation and volcanic landscapes like Hunga Tonga-Hunga Ha&#x27;apai.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Volcanoes+Francis%2C+Peter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ The result is an unusual blend of geology and modern myth-making. Unlike traditi
           <a href="https://www.amazon.com/s?k=Collapse+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Collapse">Collapse</a>
         </h4>
         <p class="fr-book-author">By Jared Diamond</p>
-        
+
         <p class="fr-book-desc">First published 2004. Subjects: Sociology, Culturen, Environnement, Changement social, Verval (geschiedenis).</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Collapse+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

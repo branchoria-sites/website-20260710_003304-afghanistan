@@ -344,7 +344,7 @@ The lasting appeal of the aswang is therefore not simply the image of a monster 
           <a href="https://www.amazon.com/s?k=The+encyclopedia+of+monsters+Jeff+Rovin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The encyclopedia of monsters">The encyclopedia of monsters</a>
         </h4>
         <p class="fr-book-author">By Jeff Rovin</p>
-        
+
         <p class="fr-book-desc">Allows comparison of aswang with other legendary beings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+encyclopedia+of+monsters+Jeff+Rovin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -361,7 +361,7 @@ The lasting appeal of the aswang is therefore not simply the image of a monster 
           <a href="https://www.amazon.com/s?k=Philippine+Folk+Literature+Damiana+L.+Eugenio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Philippine Folk Literature">Philippine Folk Literature</a>
         </h4>
         <p class="fr-book-author">By Damiana L. Eugenio</p>
-        
+
         <p class="fr-book-desc">Provides traditional legend material connected to aswang beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Philippine+Folk+Literature+Damiana+L.+Eugenio&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ The lasting appeal of the aswang is therefore not simply the image of a monster 
           <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Encyclopedia of Ghosts and Spirits">The Encyclopedia of Ghosts and Spirits</a>
         </h4>
         <p class="fr-book-author">By Rosemary Ellen Guiley</p>
-        
+
         <p class="fr-book-desc">Connects aswang folklore with wider supernatural traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ The lasting appeal of the aswang is therefore not simply the image of a monster 
           <a href="https://www.amazon.com/s?k=Nick+Joaquin%27s+The+woman+who+had+two+navels+Nick+Joaquin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nick Joaquin&#x27;s The woman who had two navels">Nick Joaquin&#x27;s The woman who had two navels</a>
         </h4>
         <p class="fr-book-author">By Nick Joaquin</p>
-        
+
         <p class="fr-book-desc">First published 1961.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Nick+Joaquin%27s+The+woman+who+had+two+navels+Nick+Joaquin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

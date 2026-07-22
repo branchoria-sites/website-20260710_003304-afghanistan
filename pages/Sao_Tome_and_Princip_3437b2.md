@@ -1286,7 +1286,7 @@ The islands greatest mysteries are therefore not claims waiting to be proven, bu
           <a href="https://www.amazon.com/s?k=The+book+of+general+ignorance+John+Mitchinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The book of general ignorance">The book of general ignorance</a>
         </h4>
         <p class="fr-book-author">By John Mitchinson, John Lloyd</p>
-        
+
         <p class="fr-book-desc">Matches unusual places, hidden histories, and surprising facts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+book+of+general+ignorance+John+Mitchinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1303,7 +1303,7 @@ The islands greatest mysteries are therefore not claims waiting to be proven, bu
           <a href="https://www.amazon.com/s?k=A+history+of+Africa+J.+D.+Fage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Africa">A history of Africa</a>
         </h4>
         <p class="fr-book-author">By J. D. Fage</p>
-        
+
         <p class="fr-book-desc">Connects the islands to wider colonial and regional history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Africa+J.+D.+Fage&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1320,7 +1320,7 @@ The islands greatest mysteries are therefore not claims waiting to be proven, bu
           <a href="https://www.amazon.com/s?k=The+Invention+of+tradition+Eric+Hobsbawm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invention of tradition">The Invention of tradition</a>
         </h4>
         <p class="fr-book-author">By Eric Hobsbawm, Terence O. Ranger</p>
-        
+
         <p class="fr-book-desc">Explains how traditions and stories endure.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Invention+of+tradition+Eric+Hobsbawm&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1337,7 +1337,7 @@ The islands greatest mysteries are therefore not claims waiting to be proven, bu
           <a href="https://www.amazon.com/s?k=The+Atlas+of+Unusual+Places+Travis+Elborough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Atlas of Unusual Places">The Atlas of Unusual Places</a>
         </h4>
         <p class="fr-book-author">By Travis Elborough</p>
-        
+
         <p class="fr-book-desc">Relevant to mysterious landscapes and unusual destinations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Atlas+of+Unusual+Places+Travis+Elborough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

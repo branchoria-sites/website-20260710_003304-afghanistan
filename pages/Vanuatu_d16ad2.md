@@ -1334,7 +1334,7 @@ The best way to approach Vanuatu Forteana is therefore neither credulous nor dis
           <a href="https://www.amazon.com/s?k=Collapse+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Collapse">Collapse</a>
         </h4>
         <p class="fr-book-author">By Jared Diamond</p>
-        
+
         <p class="fr-book-desc">Useful for understanding island environments and cultural resilience.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Collapse+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1351,7 +1351,7 @@ The best way to approach Vanuatu Forteana is therefore neither credulous nor dis
           <a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The happy isles of Oceania">The happy isles of Oceania</a>
         </h4>
         <p class="fr-book-author">By Paul Theroux</p>
-        
+
         <p class="fr-book-desc">Explores Pacific societies and island cultures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1368,7 +1368,7 @@ The best way to approach Vanuatu Forteana is therefore neither credulous nor dis
           <a href="https://www.amazon.com/s?k=The+world+until+yesterday+Jared+M.+Diamond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world until yesterday">The world until yesterday</a>
         </h4>
         <p class="fr-book-author">By Jared M. Diamond, Efrén del Valle Peñamil</p>
-        
+
         <p class="fr-book-desc">Examines traditional societies relevant to Pacific cultural themes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world+until+yesterday+Jared+M.+Diamond&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1385,7 +1385,7 @@ The best way to approach Vanuatu Forteana is therefore neither credulous nor dis
           <a href="https://www.amazon.com/s?k=Cargo+cult+Lamont+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cargo cult">Cargo cult</a>
         </h4>
         <p class="fr-book-author">By Lamont Lindstrom</p>
-        
+
         <p class="fr-book-desc">Directly relevant to Vanuatu&#x27;s best-known strange traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cargo+cult+Lamont+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

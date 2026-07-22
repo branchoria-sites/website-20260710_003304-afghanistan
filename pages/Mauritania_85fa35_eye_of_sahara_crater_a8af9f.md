@@ -390,7 +390,7 @@ The answer—that uplift, igneous activity and millions of years of erosion prod
           <a href="https://www.amazon.com/s?k=The+map+that+changed+the+world+Simon+Winchester&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The map that changed the world">The map that changed the world</a>
         </h4>
         <p class="fr-book-author">By Simon Winchester</p>
-        
+
         <p class="fr-book-desc">Encourages understanding of geological interpretation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+map+that+changed+the+world+Simon+Winchester&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ The answer—that uplift, igneous activity and millions of years of erosion prod
           <a href="https://www.amazon.com/s?k=Sahara+Michael+Palin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sahara">Sahara</a>
         </h4>
         <p class="fr-book-author">By Michael Palin</p>
-        
+
         <p class="fr-book-desc">Provides rich context for Mauritania and the Richat region.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sahara+Michael+Palin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ The answer—that uplift, igneous activity and millions of years of erosion prod
           <a href="https://www.amazon.com/s?k=Annals+of+the+former+world+John+McPhee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Annals of the former world">Annals of the former world</a>
         </h4>
         <p class="fr-book-author">By John McPhee</p>
-        
+
         <p class="fr-book-desc">Helps readers understand geological processes behind unusual formations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Annals+of+the+former+world+John+McPhee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ The answer—that uplift, igneous activity and millions of years of erosion prod
           <a href="https://www.amazon.com/s?k=The+Atlas+of+Middle-earth+Karen+Wynn+Fonstad&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Atlas of Middle-earth">The Atlas of Middle-earth</a>
         </h4>
         <p class="fr-book-author">By Karen Wynn Fonstad</p>
-        
+
         <p class="fr-book-desc">Appeals to readers fascinated by large-scale landscape interpretation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Atlas+of+Middle-earth+Karen+Wynn+Fonstad&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

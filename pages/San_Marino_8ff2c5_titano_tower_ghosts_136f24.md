@@ -323,7 +323,7 @@ For a country with relatively few classic paranormal claims, San Marino’s fort
           <a href="https://www.amazon.com/s?k=Haunted+Places%3A+The+National+Directory+Dennis+William+Hauck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Places: The National Directory">Haunted Places: The National Directory</a>
         </h4>
         <p class="fr-book-author">By Dennis William Hauck</p>
-        
+
         <p class="fr-book-desc">Matches interest in fortress legends and supposedly haunted places.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Places%3A+The+National+Directory+Dennis+William+Hauck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -340,7 +340,7 @@ For a country with relatively few classic paranormal claims, San Marino’s fort
           <a href="https://www.amazon.com/s?k=The+Ghost+Hunter%27s+Guidebook+Troy+A.+Taylor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ghost Hunter&#x27;s Guidebook">The Ghost Hunter&#x27;s Guidebook</a>
         </h4>
         <p class="fr-book-author">By Troy A. Taylor</p>
-        
+
         <p class="fr-book-desc">Connects ghost folklore with historic locations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Ghost+Hunter%27s+Guidebook+Troy+A.+Taylor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -357,7 +357,7 @@ For a country with relatively few classic paranormal claims, San Marino’s fort
           <a href="https://www.amazon.com/s?k=The+book+of+general+ignorance+John+Mitchinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The book of general ignorance">The book of general ignorance</a>
         </h4>
         <p class="fr-book-author">By John Mitchinson, John Lloyd</p>
-        
+
         <p class="fr-book-desc">Supports examining myths around historic places.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+book+of+general+ignorance+John+Mitchinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -374,7 +374,7 @@ For a country with relatively few classic paranormal claims, San Marino’s fort
           <a href="https://www.amazon.com/s?k=Europe+%3A+a+history+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Europe : a history">Europe : a history</a>
         </h4>
         <p class="fr-book-author">By Norman Davies</p>
-        
+
         <p class="fr-book-desc">First published 1996. Subjects: History, Europe, history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Europe+%3A+a+history+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

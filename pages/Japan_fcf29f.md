@@ -1330,7 +1330,7 @@ The result is a national weird-history record that is unusually rich because it 
           <a href="https://www.amazon.com/s?k=Kwaidan%3A+Stories+and+Studies+of+Strange+Things+Lafcadio+Hearn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kwaidan: Stories and Studies of Strange Things">Kwaidan: Stories and Studies of Strange Things</a>
         </h4>
         <p class="fr-book-author">By Lafcadio Hearn</p>
-        
+
         <p class="fr-book-desc">Foundational collection of Japanese supernatural tales.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Kwaidan%3A+Stories+and+Studies+of+Strange+Things+Lafcadio+Hearn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1347,27 +1347,10 @@ The result is a national weird-history record that is unusually rich because it 
           <a href="https://www.amazon.com/s?k=Japanese+tales+Royall+Tyler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Japanese tales">Japanese tales</a>
         </h4>
         <p class="fr-book-author">By Royall Tyler</p>
-        
+
         <p class="fr-book-desc">Provides historical legends and folklore that contextualise strange traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Japanese+tales+Royall+Tyler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Pandemonium+and+Parade+Michael+Dylan+Foster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pandemonium and Parade on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15091267-M.jpg" alt="Cover for Pandemonium and Parade" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Pandemonium+and+Parade+Michael+Dylan+Foster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pandemonium and Parade">Pandemonium and Parade</a>
-        </h4>
-        <p class="fr-book-author">By Michael Dylan Foster</p>
-        
-        <p class="fr-book-desc">Explores how strange stories and monsters evolved across Japanese history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Pandemonium+and+Parade+Michael+Dylan+Foster&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1381,8 +1364,8 @@ The result is a national weird-history record that is unusually rich because it 
           <a href="https://www.amazon.com/s?k=The+Book+of+Y%C5%8Dkai+Michael+Dylan+Foster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Yōkai">The Book of Yōkai</a>
         </h4>
         <p class="fr-book-author">By Michael Dylan Foster</p>
-        
-        <p class="fr-book-desc">First published 2015. Subjects: Yōkai (Japanese folklore), Folklore (Japan), Mythical Animals, Folklore, Spirits.</p>
+
+        <p class="fr-book-desc">Useful comparative folklore reading for understanding how cultures transform fears and places into stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+Y%C5%8Dkai+Michael+Dylan+Foster&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -1390,9 +1373,26 @@ The result is a national weird-history record that is unusually rich because it 
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Pandemonium+and+Parade+Michael+Dylan+Foster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Pandemonium and Parade on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15091267-M.jpg" alt="Cover for Pandemonium and Parade" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Pandemonium+and+Parade+Michael+Dylan+Foster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pandemonium and Parade">Pandemonium and Parade</a>
+        </h4>
+        <p class="fr-book-author">By Michael Dylan Foster</p>
+
+        <p class="fr-book-desc">Explores how strange stories and monsters evolved across Japanese history.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Pandemonium+and+Parade+Michael+Dylan+Foster&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Kwaidan%3A+Stories+and+Studies+of+Strange+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Kwaidan: Stories and Studies of Strange Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Japanese+tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Japanese tales</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Pandemonium+and+Parade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Pandemonium and Parade</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Kwaidan%3A+Stories+and+Studies+of+Strange+Things&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Kwaidan: Stories and Studies of Strange Things</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Japanese+tales&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Japanese tales</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Y%C5%8Dkai&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Yōkai</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

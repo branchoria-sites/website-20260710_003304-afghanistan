@@ -330,7 +330,7 @@ From a Fortean perspective, the coco de mer is significant precisely because the
           <a href="https://www.amazon.com/s?k=The+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hidden Life of Trees">The Hidden Life of Trees</a>
         </h4>
         <p class="fr-book-author">By Peter Wohlleben</p>
-        
+
         <p class="fr-book-desc">Introduces readers to fascinating tree biology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -347,7 +347,7 @@ From a Fortean perspective, the coco de mer is significant precisely because the
           <a href="https://www.amazon.com/s?k=The+botany+of+desire+Michael+Pollan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The botany of desire">The botany of desire</a>
         </h4>
         <p class="fr-book-author">By Michael Pollan, Michael Pollan et al.</p>
-        
+
         <p class="fr-book-desc">Explores human fascination with remarkable plants.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+botany+of+desire+Michael+Pollan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -364,7 +364,7 @@ From a Fortean perspective, the coco de mer is significant precisely because the
           <a href="https://www.amazon.com/s?k=Remarkable+plants+that+shape+our+world+Helen+Bynum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remarkable plants that shape our world">Remarkable plants that shape our world</a>
         </h4>
         <p class="fr-book-author">By Helen Bynum</p>
-        
+
         <p class="fr-book-desc">First published 2014. Subjects: Plants, Gardening, Useful Plants.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Remarkable+plants+that+shape+our+world+Helen+Bynum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ From a Fortean perspective, the coco de mer is significant precisely because the
           <a href="https://www.amazon.com/s?k=Wisdom+from+the+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wisdom from the Hidden Life of Trees">Wisdom from the Hidden Life of Trees</a>
         </h4>
         <p class="fr-book-author">By Peter Wohlleben, Jane Billinghurst</p>
-        
+
         <p class="fr-book-desc">First published 2024.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Wisdom+from+the+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

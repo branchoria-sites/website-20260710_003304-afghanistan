@@ -347,7 +347,7 @@ Within Zambia's Fortean landscape, the moonbow therefore occupies a distinctive 
 <a href="https://www.amazon.com/s?k=Dark+star+safari+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dark star safari">Dark star safari</a>
 </h4>
 <p class="fr-book-author">By Paul Theroux</p>
-        
+
 <p class="fr-book-desc">First published 2002. Subjects: Journeys, Description and travel, Africa, description and travel, New York Times reviewed, Travel.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Dark+star+safari+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -364,7 +364,7 @@ Within Zambia's Fortean landscape, the moonbow therefore occupies a distinctive 
 <a href="https://www.amazon.com/s?k=The+weather+book+Williams%2C+Jack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The weather book">The weather book</a>
 </h4>
 <p class="fr-book-author">By Williams, Jack</p>
-        
+
 <p class="fr-book-desc">First published 1992. Subjects: Climate, Weather.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+weather+book+Williams%2C+Jack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ Within Zambia's Fortean landscape, the moonbow therefore occupies a distinctive 
 <a href="https://www.amazon.com/s?k=Africa+Richard+Dowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa">Africa</a>
 </h4>
 <p class="fr-book-author">By Richard Dowden</p>
-        
+
 <p class="fr-book-desc">First published 2008. Subjects: Social life and customs, Manners and customs, Civilization, History, Africa, social life and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Africa+Richard+Dowden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ Within Zambia's Fortean landscape, the moonbow therefore occupies a distinctive 
 <a href="https://www.amazon.com/s?k=National+Geographic+Complete+Guide+to+Night+Photography+Jennifer+Wu+%26+James+Martin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="National Geographic Complete Guide to Night Photography">National Geographic Complete Guide to Night Photography</a>
 </h4>
 <p class="fr-book-author">By Jennifer Wu &amp; James Martin</p>
-        
+
 <p class="fr-book-desc">Useful for readers hoping to capture moonbows at Victoria Falls.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=National+Geographic+Complete+Guide+to+Night+Photography+Jennifer+Wu+%26+James+Martin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

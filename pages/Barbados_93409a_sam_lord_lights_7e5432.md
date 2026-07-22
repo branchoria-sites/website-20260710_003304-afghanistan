@@ -344,7 +344,7 @@ Within the island's wider body of Fortean and uncanny traditions, Sam Lord's lig
           <a href="https://www.amazon.com/s?k=Under+the+black+flag+David+Cordingly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Under the black flag">Under the black flag</a>
         </h4>
         <p class="fr-book-author">By David Cordingly</p>
-        
+
         <p class="fr-book-desc">Separates pirate reality from enduring folklore such as Sam Lord&#x27;s legend.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Under+the+black+flag+David+Cordingly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -361,7 +361,7 @@ Within the island's wider body of Fortean and uncanny traditions, Sam Lord's lig
           <a href="https://www.amazon.com/s?k=The+world%27s+most+mysterious+places+R.+Lionel+Fanthorpe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world&#x27;s most mysterious places">The world&#x27;s most mysterious places</a>
         </h4>
         <p class="fr-book-author">By R. Lionel Fanthorpe</p>
-        
+
         <p class="fr-book-desc">Relevant to legendary haunted and mysterious coastal locations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world%27s+most+mysterious+places+R.+Lionel+Fanthorpe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ Within the island's wider body of Fortean and uncanny traditions, Sam Lord's lig
           <a href="https://www.amazon.com/s?k=The+Sea+Wolves+Lars+Brownworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sea Wolves">The Sea Wolves</a>
         </h4>
         <p class="fr-book-author">By Lars Brownworth, Joe Barrett</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in seafaring legends and coastal myth.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Sea+Wolves+Lars+Brownworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ Within the island's wider body of Fortean and uncanny traditions, Sam Lord's lig
           <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+2+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Unexplained Phenomena 2">The Rough Guide to Unexplained Phenomena 2</a>
         </h4>
         <p class="fr-book-author">By Rough Guides</p>
-        
+
         <p class="fr-book-desc">First published 2007.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+2+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

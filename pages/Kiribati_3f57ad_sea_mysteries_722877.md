@@ -368,7 +368,7 @@ Science explains the underlying mechanisms with increasing confidence, but expla
           <a href="https://www.amazon.com/s?k=The+Sea+Around+Us+Rachel+Carson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sea Around Us">The Sea Around Us</a>
         </h4>
         <p class="fr-book-author">By Rachel Carson, Jeffrey S. Levinton</p>
-        
+
         <p class="fr-book-desc">Directly matches ocean wonder, marine life and natural mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Sea+Around+Us+Rachel+Carson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ Science explains the underlying mechanisms with increasing confidence, but expla
           <a href="https://www.amazon.com/s?k=The+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hidden Life of Trees">The Hidden Life of Trees</a>
         </h4>
         <p class="fr-book-author">By Peter Wohlleben</p>
-        
+
         <p class="fr-book-desc">Broader natural-world curiosity audience overlaps with readers of unexplained phenomena.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ Science explains the underlying mechanisms with increasing confidence, but expla
           <a href="https://www.amazon.com/s?k=The+Edge+of+the+Sea+Rachel+Carson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Edge of the Sea">The Edge of the Sea</a>
         </h4>
         <p class="fr-book-author">By Rachel Carson, Robert W. Hines</p>
-        
+
         <p class="fr-book-desc">Covers coastal environments and unusual shoreline phenomena.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Edge+of+the+Sea+Rachel+Carson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ Science explains the underlying mechanisms with increasing confidence, but expla
           <a href="https://www.amazon.com/s?k=The+Unnatural+History+of+the+Sea+Callum+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Unnatural History of the Sea">The Unnatural History of the Sea</a>
         </h4>
         <p class="fr-book-author">By Callum Roberts</p>
-        
+
         <p class="fr-book-desc">Explores human encounters with the ocean and changing perceptions of marine mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Unnatural+History+of+the+Sea+Callum+Roberts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

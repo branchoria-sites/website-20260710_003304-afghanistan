@@ -319,7 +319,7 @@ Cameroon’s water spirits therefore belong to a broader tradition of “living 
           <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The hero with a thousand faces">The hero with a thousand faces</a>
         </h4>
         <p class="fr-book-author">By Joseph Campbell</p>
-        
+
         <p class="fr-book-desc">Useful for readers exploring recurring myth patterns.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -336,7 +336,7 @@ Cameroon’s water spirits therefore belong to a broader tradition of “living 
           <a href="https://www.amazon.com/s?k=African+folktales+Roger+D.+Abrahams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African folktales">African folktales</a>
         </h4>
         <p class="fr-book-author">By Roger D. Abrahams</p>
-        
+
         <p class="fr-book-desc">Connects readers to oral storytelling traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+folktales+Roger+D.+Abrahams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -353,7 +353,7 @@ Cameroon’s water spirits therefore belong to a broader tradition of “living 
           <a href="https://www.amazon.com/s?k=Mami+Wata+Henry+John+Drewal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mami Wata">Mami Wata</a>
         </h4>
         <p class="fr-book-author">By Henry John Drewal</p>
-        
+
         <p class="fr-book-desc">Directly examines Mami Wata traditions and water-spirit culture.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mami+Wata+Henry+John+Drewal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +370,7 @@ Cameroon’s water spirits therefore belong to a broader tradition of “living 
           <a href="https://www.amazon.com/s?k=African+Mythology+by+Geoffrey+Parrinder+%281967-12-01%29+Geoffrey+Parrinder&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Mythology by Geoffrey Parrinder (1967-12-01)">African Mythology by Geoffrey Parrinder (1967-12-01)</a>
         </h4>
         <p class="fr-book-author">By Geoffrey Parrinder</p>
-        
+
         <p class="fr-book-desc">First published 1656.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+Mythology+by+Geoffrey+Parrinder+%281967-12-01%29+Geoffrey+Parrinder&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

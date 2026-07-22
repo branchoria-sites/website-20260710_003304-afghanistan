@@ -363,7 +363,7 @@ Whatever one's perspective, the institution demonstrates how folklore, governanc
           <a href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Snow Leopard">The Snow Leopard</a>
         </h4>
         <p class="fr-book-author">By Peter Matthiessen</p>
-        
+
         <p class="fr-book-desc">Provides cultural and spiritual context for Nepal.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ Whatever one's perspective, the institution demonstrates how folklore, governanc
           <a href="https://www.amazon.com/s?k=Myths+and+Symbols+in+Indian+Art+and+Civilization+%28Works+by+Heinrich+Zimmer%29+Heinrich+Robert+Zimmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and Symbols in Indian Art and Civilization (Works by Heinrich Zimmer)">Myths and Symbols in Indian Art and Civilization (Works by He...</a>
         </h4>
         <p class="fr-book-author">By Heinrich Robert Zimmer</p>
-        
+
         <p class="fr-book-desc">First published 2017. Subjects: Symbolism in art, Art, indic.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Myths+and+Symbols+in+Indian+Art+and+Civilization+%28Works+by+Heinrich+Zimmer%29+Heinrich+Robert+Zimmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ Whatever one's perspective, the institution demonstrates how folklore, governanc
           <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
         </h4>
         <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
-        
+
         <p class="fr-book-desc">Appeals to readers exploring Nepal&#x27;s wider strange-history traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ Whatever one's perspective, the institution demonstrates how folklore, governanc
           <a href="https://www.amazon.com/s?k=From+goddess+to+mortal+Rashmila+Shakya&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From goddess to mortal">From goddess to mortal</a>
         </h4>
         <p class="fr-book-author">By Rashmila Shakya</p>
-        
+
         <p class="fr-book-desc">Directly explains the Living Goddess institution from personal experience.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=From+goddess+to+mortal+Rashmila+Shakya&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

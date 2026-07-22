@@ -341,7 +341,7 @@ That blend of uncertainty, symbolism and lived tradition explains why Aicha Kand
           <a href="https://www.amazon.com/s?k=Women+Who+Run+with+the+Wolves+Clarissa+Pinkola+Este%CC%81s&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Women Who Run with the Wolves">Women Who Run with the Wolves</a>
         </h4>
         <p class="fr-book-author">By Clarissa Pinkola Estés</p>
-        
+
         <p class="fr-book-desc">Explores enduring female archetypes in folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Women+Who+Run+with+the+Wolves+Clarissa+Pinkola+Este%CC%81s&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -358,7 +358,7 @@ That blend of uncertainty, symbolism and lived tradition explains why Aicha Kand
           <a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Atlas of Monsters">The Atlas of Monsters</a>
         </h4>
         <p class="fr-book-author">By Sandra Lawrence</p>
-        
+
         <p class="fr-book-desc">Includes legendary beings comparable to Aicha Kandisha.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -375,7 +375,7 @@ That blend of uncertainty, symbolism and lived tradition explains why Aicha Kand
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Morocco+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Morocco">Lonely Planet Morocco</a>
         </h4>
         <p class="fr-book-author">By Lonely Planet</p>
-        
+
         <p class="fr-book-desc">Adds cultural background to Moroccan beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Morocco+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ That blend of uncertainty, symbolism and lived tradition explains why Aicha Kand
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology Book">The Mythology Book</a>
         </h4>
         <p class="fr-book-author">By DK</p>
-        
+
         <p class="fr-book-desc">Explains mythic figures and belief systems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

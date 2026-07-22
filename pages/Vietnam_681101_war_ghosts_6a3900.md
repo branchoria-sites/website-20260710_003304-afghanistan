@@ -353,7 +353,7 @@ For that reason, Vietnam's war ghosts occupy an unusual place within the country
 <a href="https://www.amazon.com/s?k=Ghosts+of+War+in+Vietnam+Heonik+Kwon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts of War in Vietnam">Ghosts of War in Vietnam</a>
 </h4>
 <p class="fr-book-author">By Heonik Kwon</p>
-        
+
 <p class="fr-book-desc">First published 2008. Subjects: History, Nonfiction, Vietnam war, 1961-1975, social aspects, Ghosts, Social psychology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ghosts+of+War+in+Vietnam+Heonik+Kwon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +370,7 @@ For that reason, Vietnam's war ghosts occupy an unusual place within the country
 <a href="https://www.amazon.com/s?k=Vietnam%2C+a+history+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vietnam, a history">Vietnam, a history</a>
 </h4>
 <p class="fr-book-author">By Stanley Karnow</p>
-        
+
 <p class="fr-book-desc">First published 1983. Subjects: History, Vietnam War, 1961-1975, Vietnamese Conflict, 1961-1975, Historia, Histoire.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Vietnam%2C+a+history+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ For that reason, Vietnam's war ghosts occupy an unusual place within the country
 <a href="https://www.amazon.com/s?k=After+the+Massacre%3A+Commemoration+and+Consolation+in+Ha+My+and+My+Lai+%28Asia%3A+Local+Studies%2FGlobal+Themes%29+Heonik+Kwon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After the Massacre: Commemoration and Consolation in Ha My and My Lai (Asia: Local Studies/Global Themes)">After the Massacre: Commemoration and Consolation in Ha My an...</a>
 </h4>
 <p class="fr-book-author">By Heonik Kwon, Heonik Kwon</p>
-        
+
 <p class="fr-book-desc">First published 2006. Subjects: Historiography, Vietnam War, 1961-1975, Atrocities, My Lai Massacre, Vietnam, 1968, Vietnam war, 1961-197...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=After+the+Massacre%3A+Commemoration+and+Consolation+in+Ha+My+and+My+Lai+%28Asia%3A+Local+Studies%2FGlobal+Themes%29+Heonik+Kwon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ For that reason, Vietnam's war ghosts occupy an unusual place within the country
 <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world of Lore">The world of Lore</a>
 </h4>
 <p class="fr-book-author">By Aaron Mahnke</p>
-        
+
 <p class="fr-book-desc">First published 2017. Subjects: Ghosts, Haunted places.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

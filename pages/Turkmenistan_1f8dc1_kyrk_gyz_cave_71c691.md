@@ -325,7 +325,7 @@ That combination of natural formation, enduring legend and continuing pilgrimage
           <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
         </h4>
         <p class="fr-book-author">By Peter Frankopan</p>
-        
+
         <p class="fr-book-desc">Provides broad Central Asian historical context including regions around Turkmenistan.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -342,7 +342,7 @@ That combination of natural formation, enduring legend and continuing pilgrimage
           <a href="https://www.amazon.com/s?k=From+the+Holy+Mountain+William+Dalrymple&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From the Holy Mountain">From the Holy Mountain</a>
         </h4>
         <p class="fr-book-author">By William Dalrymple</p>
-        
+
         <p class="fr-book-desc">Examines sacred traditions and landscapes across the wider region.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=From+the+Holy+Mountain+William+Dalrymple&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -353,16 +353,16 @@ That combination of natural formation, enduring legend and continuing pilgrimage
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Myths+and+Legends+Philip+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Myths and Legends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10252483-M.jpg" alt="Cover for Myths and Legends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Turkmenistan+Paul+Brummell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Turkmenistan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/2018182-M.jpg" alt="Cover for Turkmenistan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Myths+and+Legends+Philip+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and Legends">Myths and Legends</a>
+          <a href="https://www.amazon.com/s?k=Turkmenistan+Paul+Brummell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Turkmenistan">Turkmenistan</a>
         </h4>
-        <p class="fr-book-author">By Philip Wilkinson</p>
-        
-        <p class="fr-book-desc">Helps place local legends such as the Forty Girls within world folklore.</p>
+        <p class="fr-book-author">By Paul Brummell</p>
+
+        <p class="fr-book-desc">Includes cultural traditions and notable heritage sites in Turkmenistan.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Myths+and+Legends+Philip+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Turkmenistan+Paul+Brummell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -376,7 +376,7 @@ That combination of natural formation, enduring legend and continuing pilgrimage
           <a href="https://www.amazon.com/s?k=Sacred+places+James+A.+Swan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sacred places">Sacred places</a>
         </h4>
         <p class="fr-book-author">By James A. Swan</p>
-        
+
         <p class="fr-book-desc">Explores why natural places become spiritually significant, matching cave pilgrimage traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sacred+places+James+A.+Swan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ That combination of natural formation, enduring legend and continuing pilgrimage
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Silk Roads</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=From+the+Holy+Mountain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">From the Holy Mountain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Myths+and+Legends&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Myths and Legends</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Silk+Roads&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Silk Roads</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=From+the+Holy+Mountain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">From the Holy Mountain</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Turkmenistan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Turkmenistan</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

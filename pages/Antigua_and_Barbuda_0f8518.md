@@ -1342,7 +1342,7 @@ In the end, the country’s strange archive is not a cabinet of proven supernatu
 <a href="https://www.amazon.com/s?k=Wide+Sargasso+Sea+Jean+Rhys&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wide Sargasso Sea">Wide Sargasso Sea</a>
 </h4>
 <p class="fr-book-author">By Jean Rhys</p>
-        
+
 <p class="fr-book-desc">First published 1966. Subjects: stream of consciousness, Creoles, postcolonial literature, race, colonialism.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Wide+Sargasso+Sea+Jean+Rhys&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1359,7 +1359,7 @@ In the end, the country’s strange archive is not a cabinet of proven supernatu
 <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Bough">The Golden Bough</a>
 </h4>
 <p class="fr-book-author">By James George Frazer</p>
-        
+
 <p class="fr-book-desc">First published 1890. Subjects: Mythology, Magic, Superstition, Religion, Primitive Religion.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1376,7 +1376,7 @@ In the end, the country’s strange archive is not a cabinet of proven supernatu
 <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Encyclopedia of Ghosts and Spirits">The Encyclopedia of Ghosts and Spirits</a>
 </h4>
 <p class="fr-book-author">By Rosemary Ellen Guiley</p>
-        
+
 <p class="fr-book-desc">First published 1999.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1393,7 +1393,7 @@ In the end, the country’s strange archive is not a cabinet of proven supernatu
 <a href="https://www.amazon.com/s?k=Caribbean+Folktales+Diane+Wolkstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caribbean Folktales">Caribbean Folktales</a>
 </h4>
 <p class="fr-book-author">By Diane Wolkstein</p>
-        
+
 <p class="fr-book-desc">Introduces regional supernatural traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Caribbean+Folktales+Diane+Wolkstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

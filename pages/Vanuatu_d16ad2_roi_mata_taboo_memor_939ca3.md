@@ -360,7 +360,7 @@ That makes Roi Mata's Domain one of the most compelling examples in the Pacific 
           <a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The happy isles of Oceania">The happy isles of Oceania</a>
         </h4>
         <p class="fr-book-author">By Paul Theroux</p>
-        
+
         <p class="fr-book-desc">Introduces the cultural landscapes of Pacific islands.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ That makes Roi Mata's Domain one of the most compelling examples in the Pacific 
           <a href="https://www.amazon.com/s?k=The+world+until+yesterday+Jared+M.+Diamond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world until yesterday">The world until yesterday</a>
         </h4>
         <p class="fr-book-author">By Jared M. Diamond, Efrén del Valle Peñamil</p>
-        
+
         <p class="fr-book-desc">Helps explain oral tradition and customary law.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world+until+yesterday+Jared+M.+Diamond&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ That makes Roi Mata's Domain one of the most compelling examples in the Pacific 
           <a href="https://www.amazon.com/s?k=Cargo+cult+Lamont+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cargo cult">Cargo cult</a>
         </h4>
         <p class="fr-book-author">By Lamont Lindstrom</p>
-        
+
         <p class="fr-book-desc">Strong gateway book for readers exploring Vanuatu traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cargo+cult+Lamont+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ That makes Roi Mata's Domain one of the most compelling examples in the Pacific 
           <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Archaeology : theories, methods, and practice">Archaeology : theories, methods, and practice</a>
         </h4>
         <p class="fr-book-author">By Colin Renfrew, Paul Bahn</p>
-        
+
         <p class="fr-book-desc">Supports interest in archaeology confirming oral history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Archaeology+%3A+theories%2C+methods%2C+and+practice+Colin+Renfrew&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

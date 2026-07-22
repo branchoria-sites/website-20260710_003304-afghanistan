@@ -349,10 +349,27 @@ Modern memorials increasingly present these places as sites of education, peace 
           <a href="https://www.amazon.com/s?k=First+They+Killed+My+Father+Loung+Ung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="First They Killed My Father">First They Killed My Father</a>
         </h4>
         <p class="fr-book-author">By Loung Ung</p>
-        
+
         <p class="fr-book-desc">Provides survivor memory and personal context for understanding trauma, loss, mourning and the legacy of the Khmer Rouge.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=First+They+Killed+My+Father+Loung+Ung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+the+war+was+over+Elizabeth+Becker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When the war was over on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6793110-M.jpg" alt="Cover for When the war was over" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=When+the+war+was+over+Elizabeth+Becker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When the war was over">When the war was over</a>
+        </h4>
+        <p class="fr-book-author">By Elizabeth Becker</p>
+
+        <p class="fr-book-desc">Explains the Khmer Rouge era and its continuing impact on Cambodian society.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=When+the+war+was+over+Elizabeth+Becker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -366,7 +383,7 @@ Modern memorials increasingly present these places as sites of education, peace 
           <a href="https://www.amazon.com/s?k=The+lost+executioner+Nic+Dunlop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lost executioner">The lost executioner</a>
         </h4>
         <p class="fr-book-author">By Nic Dunlop</p>
-        
+
         <p class="fr-book-desc">Investigates Khmer Rouge crimes and the human stories behind Cambodia&#x27;s killing sites.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+lost+executioner+Nic+Dunlop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +400,7 @@ Modern memorials increasingly present these places as sites of education, peace 
           <a href="https://www.amazon.com/s?k=The+killing+fields+Christopher+Hudson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The killing fields">The killing fields</a>
         </h4>
         <p class="fr-book-author">By Christopher Hudson</p>
-        
+
         <p class="fr-book-desc">Explores the violence and aftermath behind the landscapes that became associated with spirits and remembrance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+killing+fields+Christopher+Hudson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,26 +409,9 @@ Modern memorials increasingly present these places as sites of education, peace 
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+the+war+was+over+Elizabeth+Becker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When the war was over on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6793110-M.jpg" alt="Cover for When the war was over" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+the+war+was+over+Elizabeth+Becker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When the war was over">When the war was over</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth Becker</p>
-        
-        <p class="fr-book-desc">Explains the Khmer Rouge era and its continuing impact on Cambodian society.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+the+war+was+over+Elizabeth+Becker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=First+They+Killed+My+Father&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">First They Killed My Father</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+lost+executioner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The lost executioner</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+killing+fields&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The killing fields</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=First+They+Killed+My+Father&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">First They Killed My Father</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+the+war+was+over&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When the war was over</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+lost+executioner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The lost executioner</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

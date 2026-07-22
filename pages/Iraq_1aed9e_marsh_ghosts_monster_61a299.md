@@ -376,7 +376,7 @@ Together, Iraq's haunted marshes and burial grounds demonstrate how environment 
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Encourages evidence-based interpretation of ghost stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ Together, Iraq's haunted marshes and burial grounds demonstrate how environment 
           <a href="https://www.amazon.com/s?k=The+Marsh+Arabs+Wilfred+Thesiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Marsh Arabs">The Marsh Arabs</a>
         </h4>
         <p class="fr-book-author">By Wilfred Thesiger</p>
-        
+
         <p class="fr-book-desc">Captures the landscape that inspired many marsh legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Marsh+Arabs+Wilfred+Thesiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ Together, Iraq's haunted marshes and burial grounds demonstrate how environment 
           <a href="https://www.amazon.com/s?k=The+Epic+of+Gilgamesh+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Epic of Gilgamesh">The Epic of Gilgamesh</a>
         </h4>
         <p class="fr-book-author">By Anonymous, Andrew George</p>
-        
+
         <p class="fr-book-desc">Links modern folklore to ancient regional traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Epic+of+Gilgamesh+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ Together, Iraq's haunted marshes and burial grounds demonstrate how environment 
           <a href="https://www.amazon.com/s?k=Myths+from+Mesopotamia+Stephanie+Dalley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths from Mesopotamia">Myths from Mesopotamia</a>
         </h4>
         <p class="fr-book-author">By Stephanie Dalley</p>
-        
+
         <p class="fr-book-desc">Provides wider Mesopotamian folklore context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Myths+from+Mesopotamia+Stephanie+Dalley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

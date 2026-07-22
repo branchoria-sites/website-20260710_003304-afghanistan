@@ -372,7 +372,7 @@ That is why Oklo has become one of the world's most celebrated "impossible anoma
           <a href="https://www.amazon.com/s?k=A+Brief+History+of+Time+Stephen+Hawking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of Time">A Brief History of Time</a>
         </h4>
         <p class="fr-book-author">By Stephen Hawking</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in extraordinary natural phenomena.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Brief+History+of+Time+Stephen+Hawking&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ That is why Oklo has become one of the world's most celebrated "impossible anoma
           <a href="https://www.amazon.com/s?k=The+Disappearing+Spoon+Sam+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Disappearing Spoon">The Disappearing Spoon</a>
         </h4>
         <p class="fr-book-author">By Sam Kean</p>
-        
+
         <p class="fr-book-desc">Explains remarkable stories from chemistry and nuclear science.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Disappearing+Spoon+Sam+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ That is why Oklo has become one of the world's most celebrated "impossible anoma
           <a href="https://www.amazon.com/s?k=The+making+of+the+atomic+bomb+Richard+Rhodes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The making of the atomic bomb">The making of the atomic bomb</a>
         </h4>
         <p class="fr-book-author">By Richard Rhodes</p>
-        
+
         <p class="fr-book-desc">Provides essential background on nuclear fission.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+making+of+the+atomic+bomb+Richard+Rhodes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,7 +423,7 @@ That is why Oklo has become one of the world's most celebrated "impossible anoma
           <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
         </h4>
         <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
-        
+
         <p class="fr-book-desc">Fits readers drawn to remarkable real-world anomalies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

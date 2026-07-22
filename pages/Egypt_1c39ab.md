@@ -1321,7 +1321,7 @@ That is why Egypt remains central to any country-by-country map of Forteana. Its
           <a href="https://www.amazon.com/s?k=The+complete+gods+and+goddesses+of+ancient+Egypt+Richard+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The complete gods and goddesses of ancient Egypt">The complete gods and goddesses of ancient Egypt</a>
         </h4>
         <p class="fr-book-author">By Richard H. Wilkinson</p>
-        
+
         <p class="fr-book-desc">Essential background for many Egyptian mystery traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+complete+gods+and+goddesses+of+ancient+Egypt+Richard+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1338,7 +1338,7 @@ That is why Egypt remains central to any country-by-country map of Forteana. Its
           <a href="https://www.amazon.com/s?k=The+Oxford+history+of+ancient+Egypt+Ian+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford history of ancient Egypt">The Oxford history of ancient Egypt</a>
         </h4>
         <p class="fr-book-author">By Ian Shaw, Ian Shaw</p>
-        
+
         <p class="fr-book-desc">Provides evidence-based historical framework.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Oxford+history+of+ancient+Egypt+Ian+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1355,7 +1355,7 @@ That is why Egypt remains central to any country-by-country map of Forteana. Its
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the gods">Fingerprints of the gods</a>
         </h4>
         <p class="fr-book-author">By Graham Hancock</p>
-        
+
         <p class="fr-book-desc">Frequently linked to Egyptian mystery discussions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1372,7 +1372,7 @@ That is why Egypt remains central to any country-by-country map of Forteana. Its
           <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rise and fall of ancient Egypt">The rise and fall of ancient Egypt</a>
         </h4>
         <p class="fr-book-author">By Toby A. H. Wilkinson</p>
-        
+
         <p class="fr-book-desc">Strong overview of Egyptian civilisation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

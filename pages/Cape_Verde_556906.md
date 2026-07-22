@@ -1318,7 +1318,7 @@ The result is a quieter but more durable weird-history record: less about specta
           <a href="https://www.amazon.com/s?k=The+island+at+the+center+of+the+world+Russell+Shorto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The island at the center of the world">The island at the center of the world</a>
         </h4>
         <p class="fr-book-author">By Russell Shorto</p>
-        
+
         <p class="fr-book-desc">Provides wider Atlantic historical context for island cultures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+island+at+the+center+of+the+world+Russell+Shorto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1335,7 +1335,7 @@ The result is a quieter but more durable weird-history record: less about specta
           <a href="https://www.amazon.com/s?k=The+Book+of+Mythical+Beasts+and+Magical+Creatures+Stephen+Krensky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Mythical Beasts and Magical Creatures">The Book of Mythical Beasts and Magical Creatures</a>
         </h4>
         <p class="fr-book-author">By Stephen Krensky</p>
-        
+
         <p class="fr-book-desc">Provides wider context for legendary beings and folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+Mythical+Beasts+and+Magical+Creatures+Stephen+Krensky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1352,7 +1352,7 @@ The result is a quieter but more durable weird-history record: less about specta
           <a href="https://www.amazon.com/s?k=Folk-lore+from+the+Cape+Verde+Islands+Elsie+Clews+Parsons&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folk-lore from the Cape Verde Islands">Folk-lore from the Cape Verde Islands</a>
         </h4>
         <p class="fr-book-author">By Elsie Clews Parsons</p>
-        
+
         <p class="fr-book-desc">Directly covers Cape Verdean tales, beliefs and supernatural traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Folk-lore+from+the+Cape+Verde+Islands+Elsie+Clews+Parsons&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1369,7 +1369,7 @@ The result is a quieter but more durable weird-history record: less about specta
           <a href="https://www.amazon.com/s?k=The+Odyssey+Homer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Odyssey">The Odyssey</a>
         </h4>
         <p class="fr-book-author">By Homer</p>
-        
+
         <p class="fr-book-desc">Connects to maritime storytelling traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Odyssey+Homer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

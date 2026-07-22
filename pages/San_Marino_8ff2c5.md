@@ -1283,7 +1283,7 @@ For a country as small as San Marino, the unexplained is not found in endless li
           <a href="https://www.amazon.com/s?k=A+little+history+of+the+world+E.+H.+Gombrich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A little history of the world">A little history of the world</a>
         </h4>
         <p class="fr-book-author">By E. H. Gombrich</p>
-        
+
         <p class="fr-book-desc">Provides historical context for small states, medieval Europe, and cultural memory.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+little+history+of+the+world+E.+H.+Gombrich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1300,7 +1300,7 @@ For a country as small as San Marino, the unexplained is not found in endless li
           <a href="https://www.amazon.com/s?k=The+book+of+general+ignorance+John+Mitchinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The book of general ignorance">The book of general ignorance</a>
         </h4>
         <p class="fr-book-author">By John Mitchinson, John Lloyd</p>
-        
+
         <p class="fr-book-desc">Matches a page about unusual facts, myths, and the boundary between history and legend.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+book+of+general+ignorance+John+Mitchinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1317,7 +1317,7 @@ For a country as small as San Marino, the unexplained is not found in endless li
           <a href="https://www.amazon.com/s?k=Europe+%3A+a+history+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Europe : a history">Europe : a history</a>
         </h4>
         <p class="fr-book-author">By Norman Davies</p>
-        
+
         <p class="fr-book-desc">Places San Marino&#x27;s unusual survival story within European history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Europe+%3A+a+history+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1334,7 +1334,7 @@ For a country as small as San Marino, the unexplained is not found in endless li
           <a href="https://www.amazon.com/s?k=The+Invention+of+tradition+Eric+Hobsbawm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invention of tradition">The Invention of tradition</a>
         </h4>
         <p class="fr-book-author">By Eric Hobsbawm, Terence O. Ranger</p>
-        
+
         <p class="fr-book-desc">Explores how national legends and traditions develop over time.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Invention+of+tradition+Eric+Hobsbawm&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

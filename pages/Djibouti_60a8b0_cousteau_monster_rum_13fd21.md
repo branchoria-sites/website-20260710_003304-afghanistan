@@ -350,16 +350,16 @@ In Djibouti's catalogue of strange stories, the Cousteau monster remains memorab
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Ends+of+the+World+Peter+Brannen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ends of the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8B29DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Ends of the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+silent+world+Jacques+Yves+Cousteau&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The silent world on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/557523-M.jpg" alt="Cover for The silent world" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Ends+of+the+World+Peter+Brannen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ends of the World">The Ends of the World</a>
+          <a href="https://www.amazon.com/s?k=The+silent+world+Jacques+Yves+Cousteau&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The silent world">The silent world</a>
         </h4>
-        <p class="fr-book-author">By Peter Brannen</p>
-        
-        <p class="fr-book-desc">Explains extreme geological processes relevant to rift landscapes.</p>
+        <p class="fr-book-author">By Jacques Yves Cousteau, Frédéric Dumas</p>
+
+        <p class="fr-book-desc">Provides authentic context for claims involving Cousteau.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Ends+of+the+World+Peter+Brannen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+silent+world+Jacques+Yves+Cousteau&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -367,16 +367,16 @@ In Djibouti's catalogue of strange stories, the Cousteau monster remains memorab
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+silent+world+Jacques+Yves+Cousteau&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The silent world on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/557523-M.jpg" alt="Cover for The silent world" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Ends+of+the+World+Peter+Brannen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ends of the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=8B29DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Ends of the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+silent+world+Jacques+Yves+Cousteau&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The silent world">The silent world</a>
+          <a href="https://www.amazon.com/s?k=The+Ends+of+the+World+Peter+Brannen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ends of the World">The Ends of the World</a>
         </h4>
-        <p class="fr-book-author">By Jacques Yves Cousteau, Frédéric Dumas</p>
-        
-        <p class="fr-book-desc">Provides authentic context for claims involving Cousteau.</p>
+        <p class="fr-book-author">By Peter Brannen</p>
+
+        <p class="fr-book-desc">‘A book about one apocalypse – much less five – could have been a daunting read, were it not for the wit, lyricism, and clarity that Pete...</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+silent+world+Jacques+Yves+Cousteau&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Ends+of+the+World+Peter+Brannen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -390,7 +390,7 @@ In Djibouti's catalogue of strange stories, the Cousteau monster remains memorab
           <a href="https://www.amazon.com/s?k=Origins+Lewis+Dartnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Origins">Origins</a>
         </h4>
         <p class="fr-book-author">By Lewis Dartnell</p>
-        
+
         <p class="fr-book-desc">First published 2019. Subjects: Human evolution, Human beings, origin, Human beings, Origin, Effect of environment on.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Origins+Lewis+Dartnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ In Djibouti's catalogue of strange stories, the Cousteau monster remains memorab
           <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
         </h4>
         <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
-        
+
         <p class="fr-book-desc">Perfect fit for analysing the Cousteau monster rumour.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ In Djibouti's catalogue of strange stories, the Cousteau monster remains memorab
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ends+of+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ends of the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+silent+world&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The silent world</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Origins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Origins</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+silent+world&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The silent world</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Ends+of+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Ends of the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Origins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Origins</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

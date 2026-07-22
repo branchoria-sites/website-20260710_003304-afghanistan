@@ -1342,7 +1342,7 @@ The country’s weird-history record is therefore not a cabinet of random odditi
           <a href="https://www.amazon.com/s?k=The+Greeks+and+the+irrational+E.+R.+Dodds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Greeks and the irrational">The Greeks and the irrational</a>
         </h4>
         <p class="fr-book-author">By E. R. Dodds</p>
-        
+
         <p class="fr-book-desc">Explores prophecy, religion, dreams and supernatural belief in ancient Greece.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Greeks+and+the+irrational+E.+R.+Dodds&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1359,7 +1359,7 @@ The country’s weird-history record is therefore not a cabinet of random odditi
           <a href="https://www.amazon.com/s?k=Mythos+Stephen+Fry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mythos">Mythos</a>
         </h4>
         <p class="fr-book-author">By Stephen Fry</p>
-        
+
         <p class="fr-book-desc">Accessible introduction to Greek myths behind many strange traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mythos+Stephen+Fry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1376,7 +1376,7 @@ The country’s weird-history record is therefore not a cabinet of random odditi
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
         </h4>
         <p class="fr-book-author">By Scott G. Bruce</p>
-        
+
         <p class="fr-book-desc">Introduces wider medieval and classical traditions of strange creatures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1393,7 +1393,7 @@ The country’s weird-history record is therefore not a cabinet of random odditi
           <a href="https://www.amazon.com/s?k=Greek+Religion+Walter+Burkert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Greek Religion">Greek Religion</a>
         </h4>
         <p class="fr-book-author">By Walter Burkert, John Raffan</p>
-        
+
         <p class="fr-book-desc">Provides context for rituals, oracles, miracles and sacred landscapes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Greek+Religion+Walter+Burkert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -1324,7 +1324,7 @@ Taken together, these stories make Malta a particularly rich country-level Forte
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the gods">Fingerprints of the gods</a>
         </h4>
         <p class="fr-book-author">By Graham Hancock</p>
-        
+
         <p class="fr-book-desc">Readers interested in prehistoric mysteries often seek it.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

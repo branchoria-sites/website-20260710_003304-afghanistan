@@ -389,7 +389,7 @@ The greatest unresolved question is not how people could die in the harsh Himala
           <a href="https://www.amazon.com/s?k=Myths+and+legends+of+India+Veronica+Ions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and legends of India">Myths and legends of India</a>
         </h4>
         <p class="fr-book-author">By Veronica Ions</p>
-        
+
         <p class="fr-book-desc">Covers religious and cultural background relevant to pilgrimage legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Myths+and+legends+of+India+Veronica+Ions&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ The greatest unresolved question is not how people could die in the harsh Himala
           <a href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Archaeology+of+Death+and+Burial+Sarah+Tarlow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oxford Handbook of the Archaeology of Death and Burial">Oxford Handbook of the Archaeology of Death and Burial</a>
         </h4>
         <p class="fr-book-author">By Sarah Tarlow, Liv Nilsson Stutz</p>
-        
+
         <p class="fr-book-desc">Explains how ancient human remains are interpreted.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Archaeology+of+Death+and+Burial+Sarah+Tarlow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,7 +423,7 @@ The greatest unresolved question is not how people could die in the harsh Himala
           <a href="https://www.amazon.com/s?k=Element+Encyclopedia+of+Ghosts+and+Hauntings+Theresa+Cheung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Element Encyclopedia of Ghosts and Hauntings">Element Encyclopedia of Ghosts and Hauntings</a>
         </h4>
         <p class="fr-book-author">By Theresa Cheung</p>
-        
+
         <p class="fr-book-desc">First published 2008. Subjects: Parapsychology, Encyclopedias, Curiosities and wonders, Parapsychologie, Encyclopédies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Element+Encyclopedia+of+Ghosts+and+Hauntings+Theresa+Cheung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -440,7 +440,7 @@ The greatest unresolved question is not how people could die in the harsh Himala
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology Book">The Mythology Book</a>
         </h4>
         <p class="fr-book-author">By DK</p>
-        
+
         <p class="fr-book-desc">Provides wider mythological context for Himalayan traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

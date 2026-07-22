@@ -391,7 +391,7 @@ Within India's wider record of strange stories, the Monkey Man occupies a distin
           <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
         </h4>
         <p class="fr-book-author">By Jan Harold Brunvand</p>
-        
+
         <p class="fr-book-desc">Shows how modern folklore spreads.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ Within India's wider record of strange stories, the Monkey Man occupies a distin
           <a href="https://www.amazon.com/s?k=Myths+and+legends+of+India+Veronica+Ions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and legends of India">Myths and legends of India</a>
         </h4>
         <p class="fr-book-author">By Veronica Ions</p>
-        
+
         <p class="fr-book-desc">Places modern legends alongside older traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Myths+and+legends+of+India+Veronica+Ions&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ Within India's wider record of strange stories, the Monkey Man occupies a distin
           <a href="https://www.amazon.com/s?k=The+truth+never+stands+in+the+way+of+a+good+story+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The truth never stands in the way of a good story">The truth never stands in the way of a good story</a>
         </h4>
         <p class="fr-book-author">By Jan Harold Brunvand</p>
-        
+
         <p class="fr-book-desc">Closely matches the Monkey Man phenomenon.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+truth+never+stands+in+the+way+of+a+good+story+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

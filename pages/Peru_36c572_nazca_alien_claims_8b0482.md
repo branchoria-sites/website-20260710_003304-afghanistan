@@ -368,7 +368,7 @@ Nazca’s alien controversy has become part of Peru’s strange-history record p
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Helps evaluate extraordinary claims and evidence standards.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ Nazca’s alien controversy has become part of Peru’s strange-history record p
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the gods">Fingerprints of the gods</a>
         </h4>
         <p class="fr-book-author">By Graham Hancock</p>
-        
+
         <p class="fr-book-desc">Matches readers interested in alternative interpretations of ancient Peru.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ Nazca’s alien controversy has become part of Peru’s strange-history record p
           <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chariots of the gods?">Chariots of the gods?</a>
         </h4>
         <p class="fr-book-author">By Erich von Däniken</p>
-        
+
         <p class="fr-book-desc">Represents the popular ideas that influence alien interpretations of ancient sites.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ Nazca’s alien controversy has become part of Peru’s strange-history record p
           <a href="https://www.amazon.com/s?k=The+Nazca+Lines%3A+A+New+Perspective+on+the+Ancient+Enigma+Anthony+F.+Aveni&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Nazca Lines: A New Perspective on the Ancient Enigma">The Nazca Lines: A New Perspective on the Ancient Enigma</a>
         </h4>
         <p class="fr-book-author">By Anthony F. Aveni</p>
-        
+
         <p class="fr-book-desc">Provides archaeological context for Peru&#x27;s most famous ancient mystery site.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Nazca+Lines%3A+A+New+Perspective+on+the+Ancient+Enigma+Anthony+F.+Aveni&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

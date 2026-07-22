@@ -1289,7 +1289,7 @@ The mystery-animal material sits between the two. Claims of spectacular hidden c
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Encourages careful evaluation of extraordinary claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1306,7 +1306,7 @@ The mystery-animal material sits between the two. Claims of spectacular hidden c
           <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Encyclopedia of Ghosts and Spirits">The Encyclopedia of Ghosts and Spirits</a>
         </h4>
         <p class="fr-book-author">By Rosemary Ellen Guiley</p>
-        
+
         <p class="fr-book-desc">Provides broader context for supernatural traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1323,7 +1323,7 @@ The mystery-animal material sits between the two. Claims of spectacular hidden c
           <a href="https://www.amazon.com/s?k=The+world+atlas+of+mysteries+Francis+Hitching&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world atlas of mysteries">The world atlas of mysteries</a>
         </h4>
         <p class="fr-book-author">By Francis Hitching</p>
-        
+
         <p class="fr-book-desc">Covers mysterious places and traditions worldwide.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world+atlas+of+mysteries+Francis+Hitching&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1340,7 +1340,7 @@ The mystery-animal material sits between the two. Claims of spectacular hidden c
           <a href="https://www.amazon.com/s?k=Suriname+Bradt+Travel+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Suriname">Suriname</a>
         </h4>
         <p class="fr-book-author">By Bradt Travel Guides</p>
-        
+
         <p class="fr-book-desc">Introduces the country&#x27;s history, culture and landscapes behind its folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Suriname+Bradt+Travel+Guides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

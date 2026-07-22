@@ -346,7 +346,7 @@ That combination of observable reality, historical misunderstanding, religious r
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Georgia%2C+Armenia+%26+Azerbaijan+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Georgia, Armenia &amp; Azerbaijan">Lonely Planet Georgia, Armenia &amp; Azerbaijan</a>
         </h4>
         <p class="fr-book-author">By Lonely Planet, Tom Masters et al.</p>
-        
+
         <p class="fr-book-desc">Covers Yanar Dag, Ateshgah and Azerbaijan&#x27;s famous fire heritage.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Georgia%2C+Armenia+%26+Azerbaijan+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -363,7 +363,7 @@ That combination of observable reality, historical misunderstanding, religious r
           <a href="https://www.amazon.com/s?k=Prisoners+of+geography+Tim+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Prisoners of geography">Prisoners of geography</a>
         </h4>
         <p class="fr-book-author">By Tim Marshall</p>
-        
+
         <p class="fr-book-desc">Adds geopolitical and geographic context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Prisoners+of+geography+Tim+Marshall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ That combination of observable reality, historical misunderstanding, religious r
           <a href="https://www.amazon.com/s?k=Origins+Lewis+Dartnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Origins">Origins</a>
         </h4>
         <p class="fr-book-author">By Lewis Dartnell</p>
-        
+
         <p class="fr-book-desc">First published 2019. Subjects: Human evolution, Human beings, origin, Human beings, Origin, Effect of environment on.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Origins+Lewis+Dartnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ That combination of observable reality, historical misunderstanding, religious r
           <a href="https://www.amazon.com/s?k=Origins%3A+How+the+Earth+Made+Us+Lewis+Dartnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Origins: How the Earth Made Us">Origins: How the Earth Made Us</a>
         </h4>
         <p class="fr-book-author">By Lewis Dartnell</p>
-        
+
         <p class="fr-book-desc">Explains the geological origins of natural gas seeps and landscapes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Origins%3A+How+the+Earth+Made+Us+Lewis+Dartnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

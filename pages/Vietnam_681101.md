@@ -1310,7 +1310,7 @@ What unites them is Vietnam’s unusual density of place-bound meaning. Lakes, f
 <a href="https://www.amazon.com/s?k=Ghosts+of+War+in+Vietnam+Heonik+Kwon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts of War in Vietnam">Ghosts of War in Vietnam</a>
 </h4>
 <p class="fr-book-author">By Heonik Kwon</p>
-        
+
 <p class="fr-book-desc">First published 2008. Subjects: History, Nonfiction, Vietnam war, 1961-1975, social aspects, Ghosts, Social psychology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ghosts+of+War+in+Vietnam+Heonik+Kwon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1327,7 +1327,7 @@ What unites them is Vietnam’s unusual density of place-bound meaning. Lakes, f
 <a href="https://www.amazon.com/s?k=Vietnam%2C+a+history+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vietnam, a history">Vietnam, a history</a>
 </h4>
 <p class="fr-book-author">By Stanley Karnow</p>
-        
+
 <p class="fr-book-desc">First published 1983. Subjects: History, Vietnam War, 1961-1975, Vietnamese Conflict, 1961-1975, Historia, Histoire.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Vietnam%2C+a+history+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1344,7 +1344,7 @@ What unites them is Vietnam’s unusual density of place-bound meaning. Lakes, f
 <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world of Lore">The world of Lore</a>
 </h4>
 <p class="fr-book-author">By Aaron Mahnke</p>
-        
+
 <p class="fr-book-desc">First published 2017. Subjects: Ghosts, Haunted places.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1361,7 +1361,7 @@ What unites them is Vietnam’s unusual density of place-bound meaning. Lakes, f
 <a href="https://www.amazon.com/s?k=Vietnam+Bill+Hayton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vietnam">Vietnam</a>
 </h4>
 <p class="fr-book-author">By Bill Hayton</p>
-        
+
 <p class="fr-book-desc">First published 2010. Subjects: Politics and government, Social change, Economic conditions, Social conditions, Đảng cộng sản Việt Nam.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Vietnam+Bill+Hayton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -1321,7 +1321,7 @@ That is why Mauritania rewards a grounded approach. Its best strange stories do 
           <a href="https://www.amazon.com/s?k=Sahara+Michael+Palin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sahara">Sahara</a>
         </h4>
         <p class="fr-book-author">By Michael Palin</p>
-        
+
         <p class="fr-book-desc">Introduces Mauritania&#x27;s landscapes, history and mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sahara+Michael+Palin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1338,7 +1338,7 @@ That is why Mauritania rewards a grounded approach. Its best strange stories do 
           <a href="https://www.amazon.com/s?k=The+map+that+changed+the+world+Simon+Winchester&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The map that changed the world">The map that changed the world</a>
         </h4>
         <p class="fr-book-author">By Simon Winchester</p>
-        
+
         <p class="fr-book-desc">Appeals to readers fascinated by unusual landscapes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+map+that+changed+the+world+Simon+Winchester&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1355,7 +1355,7 @@ That is why Mauritania rewards a grounded approach. Its best strange stories do 
           <a href="https://www.amazon.com/s?k=The+desert+and+the+sea+Michael+Scott+Moore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The desert and the sea">The desert and the sea</a>
         </h4>
         <p class="fr-book-author">By Michael Scott Moore</p>
-        
+
         <p class="fr-book-desc">Explores the wider Sahara and Sahel world.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+desert+and+the+sea+Michael+Scott+Moore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1372,7 +1372,7 @@ That is why Mauritania rewards a grounded approach. Its best strange stories do 
           <a href="https://www.amazon.com/s?k=The+Ends+of+the+Earth+Robert+D.+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ends of the Earth">The Ends of the Earth</a>
         </h4>
         <p class="fr-book-author">By Robert D. Kaplan</p>
-        
+
         <p class="fr-book-desc">Provides regional background for the Sahara.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Ends+of+the+Earth+Robert+D.+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

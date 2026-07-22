@@ -353,7 +353,7 @@ For readers interested in Algeria's strange history, this makes Saharan meteorit
           <a href="https://www.amazon.com/s?k=Rocks+from+Space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space">Rocks from Space</a>
         </h4>
         <p class="fr-book-author">By O. Richard Norton</p>
-        
+
         <p class="fr-book-desc">Directly explains meteorites, falls and finds like those associated with the Sahara.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Rocks+from+Space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +370,7 @@ For readers interested in Algeria's strange history, this makes Saharan meteorit
           <a href="https://www.amazon.com/s?k=The+Cambridge+Encyclopedia+of+Meteorites+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cambridge Encyclopedia of Meteorites">The Cambridge Encyclopedia of Meteorites</a>
         </h4>
         <p class="fr-book-author">By O. Richard Norton</p>
-        
+
         <p class="fr-book-desc">Explores meteorite science and famous discoveries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Cambridge+Encyclopedia+of+Meteorites+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ For readers interested in Algeria's strange history, this makes Saharan meteorit
           <a href="https://www.amazon.com/s?k=Meteorites+Caroline+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites">Meteorites</a>
         </h4>
         <p class="fr-book-author">By Caroline Smith, Sara Russell et al.</p>
-        
+
         <p class="fr-book-desc">Explains identification and history of meteorites.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Meteorites+Caroline+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ For readers interested in Algeria's strange history, this makes Saharan meteorit
           <a href="https://www.amazon.com/s?k=Sahara+Michael+Palin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sahara">Sahara</a>
         </h4>
         <p class="fr-book-author">By Michael Palin</p>
-        
+
         <p class="fr-book-desc">Adds environmental context for why the Sahara preserves meteorites.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sahara+Michael+Palin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

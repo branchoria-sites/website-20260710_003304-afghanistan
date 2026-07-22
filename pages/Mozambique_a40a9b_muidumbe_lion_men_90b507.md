@@ -346,7 +346,7 @@ That combination makes the War of Lions one of Mozambique's most revealing examp
           <a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Atlas of Monsters">The Atlas of Monsters</a>
         </h4>
         <p class="fr-book-author">By Sandra Lawrence</p>
-        
+
         <p class="fr-book-desc">Compares legendary human-animal figures across cultures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -363,7 +363,7 @@ That combination makes the War of Lions one of Mozambique's most revealing examp
           <a href="https://www.amazon.com/s?k=African+myths+of+origin+Stephen+Paterson+Belcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African myths of origin">African myths of origin</a>
         </h4>
         <p class="fr-book-author">By Stephen Paterson Belcher</p>
-        
+
         <p class="fr-book-desc">Explains belief systems that shape lion-man stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+myths+of+origin+Stephen+Paterson+Belcher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ That combination makes the War of Lions one of Mozambique's most revealing examp
           <a href="https://www.amazon.com/s?k=The+Man-Eaters+of+Tsavo+John+Henry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Man-Eaters of Tsavo">The Man-Eaters of Tsavo</a>
         </h4>
         <p class="fr-book-author">By John Henry Patterson</p>
-        
+
         <p class="fr-book-desc">Explores how deadly lion attacks become enduring legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Man-Eaters+of+Tsavo+John+Henry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ That combination makes the War of Lions one of Mozambique's most revealing examp
           <a href="https://www.amazon.com/s?k=The+Lion%3A+Behavior%2C+Ecology%2C+and+Conservation+of+an+Iconic+Species+Craig+Packer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lion: Behavior, Ecology, and Conservation of an Iconic Species">The Lion: Behavior, Ecology, and Conservation of an Iconic Sp...</a>
         </h4>
         <p class="fr-book-author">By Craig Packer</p>
-        
+
         <p class="fr-book-desc">Provides scientific context for lion behavior behind the panic.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lion%3A+Behavior%2C+Ecology%2C+and+Conservation+of+an+Iconic+Species+Craig+Packer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -359,7 +359,7 @@ For readers interested in the stranger side of the Marshall Islands, the endurin
           <a href="https://www.amazon.com/s?k=We%2C+the+navigators+David+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We, the navigators">We, the navigators</a>
         </h4>
         <p class="fr-book-author">By David Lewis, Derek Oulton</p>
-        
+
         <p class="fr-book-desc">Directly explains traditional navigation methods including wave reading.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=We%2C+the+navigators+David+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,7 +376,7 @@ For readers interested in the stranger side of the Marshall Islands, the endurin
           <a href="https://www.amazon.com/s?k=The+Nature+of+Boats+Dave+Gerr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Nature of Boats">The Nature of Boats</a>
         </h4>
         <p class="fr-book-author">By Dave Gerr</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in traditional seafaring.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Nature+of+Boats+Dave+Gerr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ For readers interested in the stranger side of the Marshall Islands, the endurin
           <a href="https://www.amazon.com/s?k=An+ocean+in+mind+Will+Kyselka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An ocean in mind">An ocean in mind</a>
         </h4>
         <p class="fr-book-author">By Will Kyselka</p>
-        
+
         <p class="fr-book-desc">Explores traditional Polynesian navigation knowledge.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=An+ocean+in+mind+Will+Kyselka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ For readers interested in the stranger side of the Marshall Islands, the endurin
           <a href="https://www.amazon.com/s?k=Sea+People+Christina+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sea People">Sea People</a>
         </h4>
         <p class="fr-book-author">By Christina Thompson</p>
-        
+
         <p class="fr-book-desc">Provides wider context for Pacific voyaging traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sea+People+Christina+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -342,7 +342,7 @@ For readers interested in Belize's broader strange traditions, these legends als
           <a href="https://www.amazon.com/s?k=Women+Who+Run+with+the+Wolves+Clarissa+Pinkola+Este%CC%81s&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Women Who Run with the Wolves">Women Who Run with the Wolves</a>
         </h4>
         <p class="fr-book-author">By Clarissa Pinkola Estés</p>
-        
+
         <p class="fr-book-desc">Explores archetypal female figures in folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Women+Who+Run+with+the+Wolves+Clarissa+Pinkola+Este%CC%81s&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -359,7 +359,7 @@ For readers interested in Belize's broader strange traditions, these legends als
           <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
         </h4>
         <p class="fr-book-author">By Jan Harold Brunvand</p>
-        
+
         <p class="fr-book-desc">Examines enduring ghost and legend traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,7 +376,7 @@ For readers interested in Belize's broader strange traditions, these legends als
           <a href="https://www.amazon.com/s?k=Popol+Vuh+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popol Vuh">Popol Vuh</a>
         </h4>
         <p class="fr-book-author">By Dennis Tedlock</p>
-        
+
         <p class="fr-book-desc">Supplies Mesoamerican cultural context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Popol+Vuh+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ For readers interested in Belize's broader strange traditions, these legends als
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology Book">The Mythology Book</a>
         </h4>
         <p class="fr-book-author">By DK</p>
-        
+
         <p class="fr-book-desc">Provides context for female supernatural figures across cultures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

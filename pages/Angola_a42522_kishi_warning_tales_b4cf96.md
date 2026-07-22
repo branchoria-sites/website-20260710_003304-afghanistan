@@ -363,7 +363,7 @@ For readers interested in Angola's Fortean heritage, the older Kimbundu narrativ
           <a href="https://www.amazon.com/s?k=Folk-tales+of+Angola+He%CC%81li+Chatelain&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folk-tales of Angola">Folk-tales of Angola</a>
         </h4>
         <p class="fr-book-author">By Héli Chatelain</p>
-        
+
         <p class="fr-book-desc">Primary reference for the kishi tradition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Folk-tales+of+Angola+He%CC%81li+Chatelain&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ For readers interested in Angola's Fortean heritage, the older Kimbundu narrativ
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
         </h4>
         <p class="fr-book-author">By Scott G. Bruce</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in monsters and folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ For readers interested in Angola's Fortean heritage, the older Kimbundu narrativ
           <a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Atlas of Monsters">The Atlas of Monsters</a>
         </h4>
         <p class="fr-book-author">By Sandra Lawrence</p>
-        
+
         <p class="fr-book-desc">Introduces legendary creatures from around the world.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ For readers interested in Angola's Fortean heritage, the older Kimbundu narrativ
           <a href="https://www.amazon.com/s?k=African+myths+of+origin+Stephen+Paterson+Belcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African myths of origin">African myths of origin</a>
         </h4>
         <p class="fr-book-author">By Stephen Paterson Belcher</p>
-        
+
         <p class="fr-book-desc">Expands understanding of oral storytelling.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+myths+of+origin+Stephen+Paterson+Belcher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

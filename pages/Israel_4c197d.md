@@ -1342,7 +1342,7 @@ That mixture is exactly why Israel is such a rich country-level Fortean subject.
           <a href="https://www.amazon.com/s?k=The+Source+James+A.+Michener&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Source">The Source</a>
         </h4>
         <p class="fr-book-author">By James A. Michener</p>
-        
+
         <p class="fr-book-desc">Brings Israel&#x27;s layered history and archaeology to life.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Source+James+A.+Michener&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1359,7 +1359,7 @@ That mixture is exactly why Israel is such a rich country-level Fortean subject.
           <a href="https://www.amazon.com/s?k=The+Bible+unearthed+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Bible unearthed">The Bible unearthed</a>
         </h4>
         <p class="fr-book-author">By Israel Finkelstein, Neil Asher Silberman</p>
-        
+
         <p class="fr-book-desc">Explores the archaeology behind biblical landscapes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Bible+unearthed+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1376,7 +1376,7 @@ That mixture is exactly why Israel is such a rich country-level Fortean subject.
           <a href="https://www.amazon.com/s?k=From+Time+Immemorial+Joan+Peters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From Time Immemorial">From Time Immemorial</a>
         </h4>
         <p class="fr-book-author">By Joan Peters</p>
-        
+
         <p class="fr-book-desc">Provides historical context for the region.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=From+Time+Immemorial+Joan+Peters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1393,7 +1393,7 @@ That mixture is exactly why Israel is such a rich country-level Fortean subject.
           <a href="https://www.amazon.com/s?k=Jerusalem+Simon+Sebag-Montefiore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jerusalem">Jerusalem</a>
         </h4>
         <p class="fr-book-author">By Simon Sebag-Montefiore</p>
-        
+
         <p class="fr-book-desc">First published 2011. Subjects: History, New York Times bestseller, nyt:hardcover_political_books=2011-12-24, Middle East, General.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Jerusalem+Simon+Sebag-Montefiore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

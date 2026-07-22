@@ -343,7 +343,7 @@ For Portugal’s record of strange and unexplained events, Fátima remains disti
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Provides a sceptical framework for extraordinary claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -360,7 +360,7 @@ For Portugal’s record of strange and unexplained events, Fátima remains disti
           <a href="https://www.amazon.com/s?k=Fatima+for+today+Andrew+Apostoli&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fatima for today">Fatima for today</a>
         </h4>
         <p class="fr-book-author">By Andrew Apostoli</p>
-        
+
         <p class="fr-book-desc">Directly covers the Fátima events and their meaning.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fatima+for+today+Andrew+Apostoli&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ For Portugal’s record of strange and unexplained events, Fátima remains disti
           <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Encyclopedia of Ghosts and Spirits">The Encyclopedia of Ghosts and Spirits</a>
         </h4>
         <p class="fr-book-author">By Rosemary Ellen Guiley</p>
-        
+
         <p class="fr-book-desc">First published 1999.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

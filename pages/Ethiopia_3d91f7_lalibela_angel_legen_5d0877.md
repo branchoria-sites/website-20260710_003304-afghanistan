@@ -361,7 +361,7 @@ Seen this way, there is no need to choose between appreciating the legend and re
 <a href="https://www.amazon.com/s?k=The+Sign+and+the+Seal+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sign and the Seal">The Sign and the Seal</a>
 </h4>
 <p class="fr-book-author">By Graham Hancock</p>
-        
+
 <p class="fr-book-desc">First published 1992. Subjects: Ark of the Covenant, Travel, Description and travel, Miscellanea, Hancock, Graham -- Travel -- Ethiopia.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Sign+and+the+Seal+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ Seen this way, there is no need to choose between appreciating the legend and re
 <a href="https://www.amazon.com/s?k=A+history+of+Ethiopia+Harold+G.+Marcus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Ethiopia">A history of Ethiopia</a>
 </h4>
 <p class="fr-book-author">By Harold G. Marcus</p>
-        
+
 <p class="fr-book-desc">First published 1994. Subjects: History, Histoire, Ethiopia, history, East.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+history+of+Ethiopia+Harold+G.+Marcus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ Seen this way, there is no need to choose between appreciating the legend and re
 <a href="https://www.amazon.com/s?k=The+Ethiopians+Pankhurst%2C+Richard.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ethiopians">The Ethiopians</a>
 </h4>
 <p class="fr-book-author">By Pankhurst, Richard.</p>
-        
+
 <p class="fr-book-desc">First published 1998. Subjects: Ethnology, History, Ethiopia, history, Ethnology, ethiopia.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Ethiopians+Pankhurst%2C+Richard.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ Seen this way, there is no need to choose between appreciating the legend and re
 <a href="https://www.amazon.com/s?k=Ethiopia+Philip+Marsden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ethiopia">Ethiopia</a>
 </h4>
 <p class="fr-book-author">By Philip Marsden, Mary Anne Fitzgerald et al.</p>
-        
+
 <p class="fr-book-desc">First published 2017. Subjects: Ethiopia, history, Ethiopic church, Church architecture, Church buildings, Church history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ethiopia+Philip+Marsden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

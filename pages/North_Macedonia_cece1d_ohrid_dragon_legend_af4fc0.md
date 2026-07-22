@@ -345,7 +345,7 @@ The Dragon Beneath Lake Ohrid remains part of North Macedonia’s strange-histor
           <a href="https://www.amazon.com/s?k=Vampires%2C+burial%2C+and+death+Paul+Barber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vampires, burial, and death">Vampires, burial, and death</a>
         </h4>
         <p class="fr-book-author">By Paul Barber</p>
-        
+
         <p class="fr-book-desc">First published 1988. Subjects: Dead, Folklore, Postmortem changes, Vampires, Death, religious aspects.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Vampires%2C+burial%2C+and+death+Paul+Barber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -362,7 +362,7 @@ The Dragon Beneath Lake Ohrid remains part of North Macedonia’s strange-histor
           <a href="https://www.amazon.com/s?k=The+vampire+Alan+Dundes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vampire">The vampire</a>
         </h4>
         <p class="fr-book-author">By Alan Dundes</p>
-        
+
         <p class="fr-book-desc">First published 1998. Subjects: Volkscultuur, Vampir, Vampires, Pathologie, Vampiers.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+vampire+Alan+Dundes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ The Dragon Beneath Lake Ohrid remains part of North Macedonia’s strange-histor
           <a href="https://www.amazon.com/s?k=Dragons+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dragons">Dragons</a>
         </h4>
         <p class="fr-book-author">By Karl Shuker</p>
-        
+
         <p class="fr-book-desc">First published 1995. Subjects: Dragons, Mythology, Dragons in literature, Acadiens, Biographies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Dragons+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ The Dragon Beneath Lake Ohrid remains part of North Macedonia’s strange-histor
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology Book">The Mythology Book</a>
         </h4>
         <p class="fr-book-author">By DK</p>
-        
+
         <p class="fr-book-desc">Provides context for dragon and water-being legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

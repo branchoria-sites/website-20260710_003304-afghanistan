@@ -351,7 +351,7 @@ Unlike fabricated hoaxes or unsupported supernatural claims, these stories remin
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Unexplained Phenomena">The Mammoth Book of Unexplained Phenomena</a>
 </h4>
 <p class="fr-book-author">By Roy Bainton</p>
-        
+
 <p class="fr-book-desc">Includes famous anomalous weather and falling-object reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -368,7 +368,7 @@ Unlike fabricated hoaxes or unsupported supernatural claims, these stories remin
 <a href="https://www.amazon.com/s?k=The+weather+detective+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The weather detective">The weather detective</a>
 </h4>
 <p class="fr-book-author">By Peter Wohlleben</p>
-        
+
 <p class="fr-book-desc">First published 2018. Subjects: Miscellanea, Weather, Popular works, Nature, Weather forecasting.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+weather+detective+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ Unlike fabricated hoaxes or unsupported supernatural claims, these stories remin
 <a href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unexplained phenomena">Unexplained phenomena</a>
 </h4>
 <p class="fr-book-author">By John F. Michell, John Michell et al.</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: Curiosities and wonders, Reference works, Unexplained phenomena, Metaphysical Phenomena - General, Refere...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ Unlike fabricated hoaxes or unsupported supernatural claims, these stories remin
 <a href="https://www.amazon.com/s?k=The+Australian+Geographic+Book+of+the+Bush+Australian+Geographic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Australian Geographic Book of the Bush">The Australian Geographic Book of the Bush</a>
 </h4>
 <p class="fr-book-author">By Australian Geographic</p>
-        
+
 <p class="fr-book-desc">Provides environmental background for fish rain and spider ballooning.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Australian+Geographic+Book+of+the+Bush+Australian+Geographic&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

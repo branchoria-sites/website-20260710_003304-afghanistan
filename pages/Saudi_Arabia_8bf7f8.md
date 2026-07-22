@@ -1300,7 +1300,7 @@ Saudi Arabia’s unusual reports therefore belong to a wider human tradition: th
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Covers skepticism, strange claims, and scientific thinking.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1317,7 +1317,7 @@ Saudi Arabia’s unusual reports therefore belong to a wider human tradition: th
           <a href="https://www.amazon.com/s?k=The+Book+of+Mythical+Beasts+and+Magical+Creatures+Stephen+Krensky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Mythical Beasts and Magical Creatures">The Book of Mythical Beasts and Magical Creatures</a>
         </h4>
         <p class="fr-book-author">By Stephen Krensky</p>
-        
+
         <p class="fr-book-desc">Supports folklore and creature traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+Mythical+Beasts+and+Magical+Creatures+Stephen+Krensky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1334,7 +1334,7 @@ Saudi Arabia’s unusual reports therefore belong to a wider human tradition: th
           <a href="https://www.amazon.com/s?k=The+encyclopedia+of+unsolved+mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The encyclopedia of unsolved mysteries">The encyclopedia of unsolved mysteries</a>
         </h4>
         <p class="fr-book-author">By Colin Wilson</p>
-        
+
         <p class="fr-book-desc">Broad collection of unexplained events and legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+encyclopedia+of+unsolved+mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1351,7 +1351,7 @@ Saudi Arabia’s unusual reports therefore belong to a wider human tradition: th
           <a href="https://www.amazon.com/s?k=Folklore+Thomas+A.+Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folklore">Folklore</a>
         </h4>
         <p class="fr-book-author">By Thomas A. Green</p>
-        
+
         <p class="fr-book-desc">First published 1997. Subjects: Folklore, Encyclopedias.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Folklore+Thomas+A.+Green&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

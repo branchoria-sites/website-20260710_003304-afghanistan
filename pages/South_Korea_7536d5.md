@@ -1310,7 +1310,7 @@ The country’s strangest stories endure because they are not only about ghosts,
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Supports the investigation of unusual reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1327,7 +1327,7 @@ The country’s strangest stories endure because they are not only about ghosts,
           <a href="https://www.amazon.com/s?k=Korean+folk+tales%3A+imps%2C+ghosts+and+fairies+Pang+Im&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Korean folk tales: imps, ghosts and fairies">Korean folk tales: imps, ghosts and fairies</a>
         </h4>
         <p class="fr-book-author">By Pang Im, James Scarth Gale et al.</p>
-        
+
         <p class="fr-book-desc">Directly covers Korean folklore, spirits, and legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Korean+folk+tales%3A+imps%2C+ghosts+and+fairies+Pang+Im&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1344,7 +1344,7 @@ The country’s strangest stories endure because they are not only about ghosts,
           <a href="https://www.amazon.com/s?k=The+Oxford+companion+to+world+mythology+David+Adams+Leeming&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford companion to world mythology">The Oxford companion to world mythology</a>
         </h4>
         <p class="fr-book-author">By David Adams Leeming</p>
-        
+
         <p class="fr-book-desc">Provides comparative mythology background.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Oxford+companion+to+world+mythology+David+Adams+Leeming&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1361,7 +1361,7 @@ The country’s strangest stories endure because they are not only about ghosts,
           <a href="https://www.amazon.com/s?k=KOREA+-+A+RELIGIOUS+HISTORY+JAMES+HUNTLEY+GRAYSON&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="KOREA - A RELIGIOUS HISTORY">KOREA - A RELIGIOUS HISTORY</a>
         </h4>
         <p class="fr-book-author">By JAMES HUNTLEY GRAYSON</p>
-        
+
         <p class="fr-book-desc">Explains cultural traditions behind strange stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=KOREA+-+A+RELIGIOUS+HISTORY+JAMES+HUNTLEY+GRAYSON&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

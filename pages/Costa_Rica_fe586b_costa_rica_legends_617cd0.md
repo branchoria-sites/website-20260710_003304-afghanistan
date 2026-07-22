@@ -339,7 +339,7 @@ Costa Rica’s ghostly creatures remain alive because they continue to answer an
           <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The hero with a thousand faces">The hero with a thousand faces</a>
         </h4>
         <p class="fr-book-author">By Joseph Campbell</p>
-        
+
         <p class="fr-book-desc">Explains recurring patterns in legends and folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -356,7 +356,7 @@ Costa Rica’s ghostly creatures remain alive because they continue to answer an
           <a href="https://www.amazon.com/s?k=The+Woman+in+White+Wilkie+Collins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Woman in White">The Woman in White</a>
         </h4>
         <p class="fr-book-author">By Wilkie Collins, William Collins</p>
-        
+
         <p class="fr-book-desc">Matches readers seeking eerie storytelling.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Woman+in+White+Wilkie+Collins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ Costa Rica’s ghostly creatures remain alive because they continue to answer an
           <a href="https://www.amazon.com/s?k=Ghost+Stories+of+an+Antiquary+Montague+Rhodes+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Stories of an Antiquary">Ghost Stories of an Antiquary</a>
         </h4>
         <p class="fr-book-author">By Montague Rhodes James</p>
-        
+
         <p class="fr-book-desc">Fits readers interested in haunting traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghost+Stories+of+an+Antiquary+Montague+Rhodes+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,16 +384,16 @@ Costa Rica’s ghostly creatures remain alive because they continue to answer an
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Encyclopedia+of+Spirits+Judika+Illes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Encyclopedia of Spirits on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+dictionary+of+mythology+J.+A.+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The dictionary of mythology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9676568-M.jpg" alt="Cover for The dictionary of mythology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Spirits+Judika+Illes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Encyclopedia of Spirits">The Encyclopedia of Spirits</a>
+          <a href="https://www.amazon.com/s?k=The+dictionary+of+mythology+J.+A.+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The dictionary of mythology">The dictionary of mythology</a>
         </h4>
-        <p class="fr-book-author">By Judika Illes</p>
-        
-        <p class="fr-book-desc">Directly supports folklore about spirits and supernatural beings.</p>
+        <p class="fr-book-author">By J. A. Coleman</p>
+
+        <p class="fr-book-desc">Helps readers explore Costa Rican legends within world traditions.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Spirits+Judika+Illes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+dictionary+of+mythology+J.+A.+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

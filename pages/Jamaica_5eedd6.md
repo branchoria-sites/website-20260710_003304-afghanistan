@@ -1318,7 +1318,7 @@ The most responsible reading keeps two ideas in balance. Jamaica’s folklore sh
           <a href="https://www.amazon.com/s?k=Jamaican+folk+tales+and+oral+histories+Laura+Tanna&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jamaican folk tales and oral histories">Jamaican folk tales and oral histories</a>
         </h4>
         <p class="fr-book-author">By Laura Tanna</p>
-        
+
         <p class="fr-book-desc">Introduces Jamaica&#x27;s major legends and folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Jamaican+folk+tales+and+oral+histories+Laura+Tanna&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1335,7 +1335,7 @@ The most responsible reading keeps two ideas in balance. Jamaica’s folklore sh
           <a href="https://www.amazon.com/s?k=Encyclopedia+of+Jamaican+heritage+Olive+Senior&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encyclopedia of Jamaican heritage">Encyclopedia of Jamaican heritage</a>
         </h4>
         <p class="fr-book-author">By Olive Senior</p>
-        
+
         <p class="fr-book-desc">Explains folklore, history and traditions behind strange stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Encyclopedia+of+Jamaican+heritage+Olive+Senior&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1352,7 +1352,7 @@ The most responsible reading keeps two ideas in balance. Jamaica’s folklore sh
           <a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Atlas of Monsters">The Atlas of Monsters</a>
         </h4>
         <p class="fr-book-author">By Sandra Lawrence</p>
-        
+
         <p class="fr-book-desc">Complements articles about legendary creatures and hauntings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1369,7 +1369,7 @@ The most responsible reading keeps two ideas in balance. Jamaica’s folklore sh
           <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Jamaica+3+ROUGH+GUIDES&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Jamaica 3">The Rough Guide to Jamaica 3</a>
         </h4>
         <p class="fr-book-author">By ROUGH GUIDES</p>
-        
+
         <p class="fr-book-desc">First published 2003.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Jamaica+3+ROUGH+GUIDES&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

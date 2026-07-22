@@ -351,7 +351,7 @@ They are also symbols of a fragile ecosystem. Recent research indicates that man
 <a href="https://www.amazon.com/s?k=First+They+Killed+My+Father+Loung+Ung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="First They Killed My Father">First They Killed My Father</a>
 </h4>
 <p class="fr-book-author">By Loung Ung</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: Childhood and youth, Political atrocities, Politics and government, Cambodia, politics and government, Ca...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=First+They+Killed+My+Father+Loung+Ung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -368,7 +368,7 @@ They are also symbols of a fragile ecosystem. Recent research indicates that man
 <a href="https://www.amazon.com/s?k=THE+MEKONG%2C+Turbulent+Past%2C+Uncertain+Future+Milton+Osborne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="THE MEKONG, Turbulent Past, Uncertain Future">THE MEKONG, Turbulent Past, Uncertain Future</a>
 </h4>
 <p class="fr-book-author">By Milton Osborne</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: Mekong river delta (vietnam and cambodia), Politics, Economic systems and theories, economic history, Asi...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=THE+MEKONG%2C+Turbulent+Past%2C+Uncertain+Future+Milton+Osborne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ They are also symbols of a fragile ecosystem. Recent research indicates that man
 <a href="https://www.amazon.com/s?k=A+history+of+Cambodia+David+P.+Chandler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Cambodia">A history of Cambodia</a>
 </h4>
 <p class="fr-book-author">By David P. Chandler</p>
-        
+
 <p class="fr-book-desc">First published 1983. Subjects: History, Cambodia, history, Cambodia, Histoire, Geschichte.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+history+of+Cambodia+David+P.+Chandler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ They are also symbols of a fragile ecosystem. Recent research indicates that man
 <a href="https://www.amazon.com/s?k=Wisdom+from+the+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wisdom from the Hidden Life of Trees">Wisdom from the Hidden Life of Trees</a>
 </h4>
 <p class="fr-book-author">By Peter Wohlleben, Jane Billinghurst</p>
-        
+
 <p class="fr-book-desc">First published 2024.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Wisdom+from+the+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

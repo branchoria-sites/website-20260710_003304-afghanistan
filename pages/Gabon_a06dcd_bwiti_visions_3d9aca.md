@@ -373,7 +373,7 @@ For readers interested in Forteana, this makes Bwiti especially valuable. It sho
           <a href="https://www.amazon.com/s?k=Breaking+Open+the+Head+Daniel+Pinchbeck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Breaking Open the Head">Breaking Open the Head</a>
         </h4>
         <p class="fr-book-author">By Daniel Pinchbeck</p>
-        
+
         <p class="fr-book-desc">Discusses iboga and African initiation experiences.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Breaking+Open+the+Head+Daniel+Pinchbeck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ For readers interested in Forteana, this makes Bwiti especially valuable. It sho
           <a href="https://www.amazon.com/s?k=The+Fellowship+of+the+River+Joseph+Tafur+MD&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fellowship of the River">The Fellowship of the River</a>
         </h4>
         <p class="fr-book-author">By Joseph Tafur MD, Gabor Maté</p>
-        
+
         <p class="fr-book-desc">Provides accessible context for healing and visionary practices.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Fellowship+of+the+River+Joseph+Tafur+MD&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ For readers interested in Forteana, this makes Bwiti especially valuable. It sho
           <a href="https://www.amazon.com/s?k=Immortality+Key+Brian+C.+Muraresku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Immortality Key">Immortality Key</a>
         </h4>
         <p class="fr-book-author">By Brian C. Muraresku, Graham Hancock</p>
-        
+
         <p class="fr-book-desc">Explores disciplined spiritual use of altered states.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Immortality+Key+Brian+C.+Muraresku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ For readers interested in Forteana, this makes Bwiti especially valuable. It sho
           <a href="https://www.amazon.com/s?k=Road+to+Eleusis+R.+Gordon+Wasson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Road to Eleusis">Road to Eleusis</a>
         </h4>
         <p class="fr-book-author">By R. Gordon Wasson, Carl A. P. Ruck et al.</p>
-        
+
         <p class="fr-book-desc">Offers historical comparison for ritual vision practices.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Road+to+Eleusis+R.+Gordon+Wasson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

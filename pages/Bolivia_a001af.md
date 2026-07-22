@@ -1324,7 +1324,7 @@ The answer changes by case. Sometimes the force is a meteorite. Sometimes it is 
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the gods">Fingerprints of the gods</a>
         </h4>
         <p class="fr-book-author">By Graham Hancock</p>
-        
+
         <p class="fr-book-desc">Frequently references Andean mystery traditions including Tiwanaku.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1341,7 +1341,7 @@ The answer changes by case. Sometimes the force is a meteorite. Sometimes it is 
           <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chariots of the gods?">Chariots of the gods?</a>
         </h4>
         <p class="fr-book-author">By Erich von Däniken</p>
-        
+
         <p class="fr-book-desc">Represents the influential fringe interpretations discussed on the page.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1358,7 +1358,7 @@ The answer changes by case. Sometimes the force is a meteorite. Sometimes it is 
           <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Bolivia+Harry+Ad%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Bolivia">The Rough Guide to Bolivia</a>
         </h4>
         <p class="fr-book-author">By Harry Adès</p>
-        
+
         <p class="fr-book-desc">Provides cultural, historical and geographical context behind many strange stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Bolivia+Harry+Ad%C3%A8s&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1375,7 +1375,7 @@ The answer changes by case. Sometimes the force is a meteorite. Sometimes it is 
           <a href="https://www.amazon.com/s?k=Magic%2C+Mysticism+and+Religion%3A+A+Reader+in+the+Anthropology+of+Religion+Michael+Lambek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Magic, Mysticism and Religion: A Reader in the Anthropology of Religion">Magic, Mysticism and Religion: A Reader in the Anthropology o...</a>
         </h4>
         <p class="fr-book-author">By Michael Lambek</p>
-        
+
         <p class="fr-book-desc">Explains how belief, ritual and folklore emerge in different societies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Magic%2C+Mysticism+and+Religion%3A+A+Reader+in+the+Anthropology+of+Religion+Michael+Lambek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

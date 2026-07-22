@@ -354,7 +354,7 @@ The Gilgit event therefore occupies an interesting place in [Pakistan]({{ 'pakis
           <a href="https://www.amazon.com/s?k=NightWatch+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="NightWatch">NightWatch</a>
         </h4>
         <p class="fr-book-author">By Terence Dickinson</p>
-        
+
         <p class="fr-book-desc">Useful for readers interested in observing the sky.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=NightWatch+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ The Gilgit event therefore occupies an interesting place in [Pakistan]({{ 'pakis
           <a href="https://www.amazon.com/s?k=Nightwatch+%3A+a+practical+guide+to+viewing+the+universe+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nightwatch : a practical guide to viewing the universe">Nightwatch : a practical guide to viewing the universe</a>
         </h4>
         <p class="fr-book-author">By Terence Dickinson</p>
-        
+
         <p class="fr-book-desc">Useful for readers interested in observing the sky.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Nightwatch+%3A+a+practical+guide+to+viewing+the+universe+Terence+Dickinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ The Gilgit event therefore occupies an interesting place in [Pakistan]({{ 'pakis
           <a href="https://www.amazon.com/s?k=Meteorites%3A+The+Stones+from+Outer+Space+That+Made+Our+World+Caroline+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites: The Stones from Outer Space That Made Our World">Meteorites: The Stones from Outer Space That Made Our World</a>
         </h4>
         <p class="fr-book-author">By Caroline Smith</p>
-        
+
         <p class="fr-book-desc">Directly relates to meteor events and explanations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Meteorites%3A+The+Stones+from+Outer+Space+That+Made+Our+World+Caroline+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

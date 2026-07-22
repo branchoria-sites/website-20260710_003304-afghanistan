@@ -376,7 +376,7 @@ Rather than confirming that Sodom was destroyed by a cosmic blast, the Tall el-H
           <a href="https://www.amazon.com/s?k=The+Bible+unearthed+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Bible unearthed">The Bible unearthed</a>
         </h4>
         <p class="fr-book-author">By Israel Finkelstein, Neil Asher Silberman</p>
-        
+
         <p class="fr-book-desc">Provides balanced context for biblical destruction narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Bible+unearthed+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ Rather than confirming that Sodom was destroyed by a cosmic blast, the Tall el-H
           <a href="https://www.amazon.com/s?k=The+Atlas+of+Middle-earth+Karen+Wynn+Fonstad&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Atlas of Middle-earth">The Atlas of Middle-earth</a>
         </h4>
         <p class="fr-book-author">By Karen Wynn Fonstad</p>
-        
+
         <p class="fr-book-desc">First published 1981. Subjects: Maps, Middle Earth (Imaginary place), Settings, Roman, Geographie.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Atlas+of+Middle-earth+Karen+Wynn+Fonstad&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ Rather than confirming that Sodom was destroyed by a cosmic blast, the Tall el-H
           <a href="https://www.amazon.com/s?k=Lost+Cities+of+the+Ancient+World+Philip+Matyszak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost Cities of the Ancient World">Lost Cities of the Ancient World</a>
         </h4>
         <p class="fr-book-author">By Philip Matyszak</p>
-        
+
         <p class="fr-book-desc">Offers wider perspective on ruined cities and archaeology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lost+Cities+of+the+Ancient+World+Philip+Matyszak&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ Rather than confirming that Sodom was destroyed by a cosmic blast, the Tall el-H
           <a href="https://www.amazon.com/s?k=The+Holy+Land%3A+An+Oxford+Archaeological+Guide+Jerome+Murphy-O%27Connor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Holy Land: An Oxford Archaeological Guide">The Holy Land: An Oxford Archaeological Guide</a>
         </h4>
         <p class="fr-book-author">By Jerome Murphy-O&#x27;Connor</p>
-        
+
         <p class="fr-book-desc">Explains sites associated with biblical traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Holy+Land%3A+An+Oxford+Archaeological+Guide+Jerome+Murphy-O%27Connor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

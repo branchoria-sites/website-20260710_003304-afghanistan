@@ -340,7 +340,7 @@ The lasting importance of Congo monster hunts is therefore cultural as much as z
           <a href="https://www.amazon.com/s?k=The+Lost+World+Arthur+Conan+Doyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lost World">The Lost World</a>
         </h4>
         <p class="fr-book-author">By Arthur Conan Doyle</p>
-        
+
         <p class="fr-book-desc">Captures the exploration fantasy that shaped monster-hunting culture.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lost+World+Arthur+Conan+Doyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -357,7 +357,7 @@ The lasting importance of Congo monster hunts is therefore cultural as much as z
           <a href="https://www.amazon.com/s?k=Animal+wise&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Animal wise">Animal wise</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Connects Congo searches to the wider culture of exploration.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Animal+wise&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -374,7 +374,7 @@ The lasting importance of Congo monster hunts is therefore cultural as much as z
           <a href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals+Bernard+Heuvelmans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On the Track of Unknown Animals">On the Track of Unknown Animals</a>
         </h4>
         <p class="fr-book-author">By Bernard Heuvelmans</p>
-        
+
         <p class="fr-book-desc">Covers the investigative tradition behind searches for unknown animals.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals+Bernard+Heuvelmans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ The lasting importance of Congo monster hunts is therefore cultural as much as z
           <a href="https://www.amazon.com/s?k=The+Explorers+Martin+Dugard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Explorers">The Explorers</a>
         </h4>
         <p class="fr-book-author">By Martin Dugard</p>
-        
+
         <p class="fr-book-desc">Connects Congo searches to the wider culture of exploration.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Explorers+Martin+Dugard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

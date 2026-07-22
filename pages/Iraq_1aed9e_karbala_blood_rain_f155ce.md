@@ -402,7 +402,7 @@ For believers, the stories express a cosmic response to injustice. For sceptics,
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Encourages careful evaluation of miraculous claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ For believers, the stories express a cosmic response to injustice. For sceptics,
           <a href="https://www.amazon.com/s?k=After+the+Prophet+Lesley+Hazleton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="After the Prophet">After the Prophet</a>
         </h4>
         <p class="fr-book-author">By Lesley Hazleton</p>
-        
+
         <p class="fr-book-desc">Provides engaging context for Karbala and its legacy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=After+the+Prophet+Lesley+Hazleton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +436,7 @@ For believers, the stories express a cosmic response to injustice. For sceptics,
           <a href="https://www.amazon.com/s?k=No+god+but+God+Reza+Aslan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="No god but God">No god but God</a>
         </h4>
         <p class="fr-book-author">By Reza Aslan</p>
-        
+
         <p class="fr-book-desc">Explains the religious background of Karbala traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=No+god+but+God+Reza+Aslan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -453,7 +453,7 @@ For believers, the stories express a cosmic response to injustice. For sceptics,
           <a href="https://www.amazon.com/s?k=The+Oxford+history+of+Islam+John+L.+Esposito&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford history of Islam">The Oxford history of Islam</a>
         </h4>
         <p class="fr-book-author">By John L. Esposito</p>
-        
+
         <p class="fr-book-desc">Places miracle traditions within Islamic history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Oxford+history+of+Islam+John+L.+Esposito&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -363,7 +363,7 @@ The result is one of Tajikistan's richest examples of living landscape folklore:
           <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
         </h4>
         <p class="fr-book-author">By Peter Frankopan</p>
-        
+
         <p class="fr-book-desc">Provides historical context for Alexander traditions and Central Asian landscapes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ The result is one of Tajikistan's richest examples of living landscape folklore:
           <a href="https://www.amazon.com/s?k=Alexander+the+Great+Freeman%2C+Philip&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Alexander the Great">Alexander the Great</a>
         </h4>
         <p class="fr-book-author">By Freeman, Philip</p>
-        
+
         <p class="fr-book-desc">Covers Alexander&#x27;s Central Asian campaigns that inspired regional folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Alexander+the+Great+Freeman%2C+Philip&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ The result is one of Tajikistan's richest examples of living landscape folklore:
           <a href="https://www.amazon.com/s?k=Myths+and+Legends+Philip+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and Legends">Myths and Legends</a>
         </h4>
         <p class="fr-book-author">By Philip Wilkinson</p>
-        
+
         <p class="fr-book-desc">Helps place sacred landscape and dragon traditions into a wider mythic context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Myths+and+Legends+Philip+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ The result is one of Tajikistan's richest examples of living landscape folklore:
           <a href="https://www.amazon.com/s?k=Lost+Enlightenment+Central+Asias+Golden+Age+From+The+Arab+Conquest+To+Tamerlane+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost Enlightenment Central Asias Golden Age From The Arab Conquest To Tamerlane">Lost Enlightenment Central Asias Golden Age From The Arab Con...</a>
         </h4>
         <p class="fr-book-author">By S. Frederick Starr</p>
-        
+
         <p class="fr-book-desc">First published 2013. Subjects: History, Civilization, Asia, central, history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lost+Enlightenment+Central+Asias+Golden+Age+From+The+Arab+Conquest+To+Tamerlane+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

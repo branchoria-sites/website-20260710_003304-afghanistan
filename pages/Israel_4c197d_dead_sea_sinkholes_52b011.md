@@ -352,7 +352,7 @@ Its enduring fascination comes from the overlap of several themes: sacred geogra
 <a href="https://www.amazon.com/s?k=The+Sixth+Extinction+Elizabeth+Kolbert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sixth Extinction">The Sixth Extinction</a>
 </h4>
 <p class="fr-book-author">By Elizabeth Kolbert, Marcel Blanc</p>
-        
+
 <p class="fr-book-desc">First published 2014. Subjects: Extinction (Biology), Mass extinctions, Environmental disasters, SCIENCE / Environmental Science, SCIENCE...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Sixth+Extinction+Elizabeth+Kolbert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ Its enduring fascination comes from the overlap of several themes: sacred geogra
 <a href="https://www.amazon.com/s?k=The+World+Without+Us+Alan+Weisman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World Without Us">The World Without Us</a>
 </h4>
 <p class="fr-book-author">By Alan Weisman</p>
-        
+
 <p class="fr-book-desc">First published 2007. Subjects: Human-plant relationships, Efecto del ser humano sobre, Nature, Effect of human beings on, Ecología.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+World+Without+Us+Alan+Weisman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ Its enduring fascination comes from the overlap of several themes: sacred geogra
 <a href="https://www.amazon.com/s?k=Jerusalem+Simon+Sebag-Montefiore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jerusalem">Jerusalem</a>
 </h4>
 <p class="fr-book-author">By Simon Sebag-Montefiore</p>
-        
+
 <p class="fr-book-desc">First published 2011. Subjects: History, New York Times bestseller, nyt:hardcover_political_books=2011-12-24, Middle East, General.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Jerusalem+Simon+Sebag-Montefiore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ Its enduring fascination comes from the overlap of several themes: sacred geogra
 <a href="https://www.amazon.com/s?k=The+Dead+Sea%3A+A+Biography+Nir+Orion+and+Ruth+Kark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dead Sea: A Biography">The Dead Sea: A Biography</a>
 </h4>
 <p class="fr-book-author">By Nir Orion and Ruth Kark</p>
-        
+
 <p class="fr-book-desc">Directly explores the landscape and its transformations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Dead+Sea%3A+A+Biography+Nir+Orion+and+Ruth+Kark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

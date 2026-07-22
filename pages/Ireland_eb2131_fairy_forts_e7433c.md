@@ -358,7 +358,7 @@ That combination makes fairy forts one of Ireland's most distinctive examples of
           <a href="https://www.amazon.com/s?k=Irish+fairy+and+folk+tales+William+Butler+Yeats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Irish fairy and folk tales">Irish fairy and folk tales</a>
         </h4>
         <p class="fr-book-author">By William Butler Yeats</p>
-        
+
         <p class="fr-book-desc">Includes many traditions connected with fairy belief.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Irish+fairy+and+folk+tales+William+Butler+Yeats&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -375,7 +375,7 @@ That combination makes fairy forts one of Ireland's most distinctive examples of
           <a href="https://www.amazon.com/s?k=Meeting+the+Other+Crowd+Carolyn+Eve+Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meeting the Other Crowd">Meeting the Other Crowd</a>
         </h4>
         <p class="fr-book-author">By Carolyn Eve Green, Eddie Lenihan</p>
-        
+
         <p class="fr-book-desc">Directly explores fairy beliefs surrounding Irish landscapes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Meeting+the+Other+Crowd+Carolyn+Eve+Green&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ That combination makes fairy forts one of Ireland's most distinctive examples of
           <a href="https://www.amazon.com/s?k=The+lore+of+Ireland+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of Ireland">The lore of Ireland</a>
         </h4>
         <p class="fr-book-author">By Dáithí Ó hÓgáin</p>
-        
+
         <p class="fr-book-desc">Explains the cultural background of fairy forts.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+lore+of+Ireland+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -345,7 +345,7 @@ Their significance lies elsewhere. They reveal how Bahrain's communities explain
           <a href="https://www.amazon.com/s?k=Arabian+sands+Wilfred+Thesiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabian sands">Arabian sands</a>
         </h4>
         <p class="fr-book-author">By Wilfred Thesiger</p>
-        
+
         <p class="fr-book-desc">Captures Gulf culture and traditional storytelling environments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Arabian+sands+Wilfred+Thesiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -362,7 +362,7 @@ Their significance lies elsewhere. They reveal how Bahrain's communities explain
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
         </h4>
         <p class="fr-book-author">By Scott G. Bruce</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in legendary creatures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ Their significance lies elsewhere. They reveal how Bahrain's communities explain
           <a href="https://www.amazon.com/s?k=The+Arabian+Nights+Entertainments+%5B7+stories%5D+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arabian Nights Entertainments [7 stories]">The Arabian Nights Entertainments [7 stories]</a>
         </h4>
         <p class="fr-book-author">By Anonymous</p>
-        
+
         <p class="fr-book-desc">First published 1973.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Arabian+Nights+Entertainments+%5B7+stories%5D+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ Their significance lies elsewhere. They reveal how Bahrain's communities explain
           <a href="https://www.amazon.com/s?k=Arabian+Mythology+Geoffrey+Ashe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabian Mythology">Arabian Mythology</a>
         </h4>
         <p class="fr-book-author">By Geoffrey Ashe</p>
-        
+
         <p class="fr-book-desc">Best broad introduction to Arabian legendary beings and folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Arabian+Mythology+Geoffrey+Ashe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -1281,7 +1281,7 @@ In this sense, Chad’s contribution to weird history is a record of how humans 
           <a href="https://www.amazon.com/s?k=A+short+history+of+nearly+everything+Bill+Bryson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A short history of nearly everything">A short history of nearly everything</a>
         </h4>
         <p class="fr-book-author">By Bill Bryson</p>
-        
+
         <p class="fr-book-desc">Fits broad science, geography, and mystery themes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+short+history+of+nearly+everything+Bill+Bryson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1298,7 +1298,7 @@ In this sense, Chad’s contribution to weird history is a record of how humans 
           <a href="https://www.amazon.com/s?k=Sahara+Michael+Palin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sahara">Sahara</a>
         </h4>
         <p class="fr-book-author">By Michael Palin</p>
-        
+
         <p class="fr-book-desc">Explains the landscapes behind Chad&#x27;s mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sahara+Michael+Palin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1315,7 +1315,7 @@ In this sense, Chad’s contribution to weird history is a record of how humans 
           <a href="https://www.amazon.com/s?k=Secret+World+of+Weather+Tristan+Gooley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Secret World of Weather">Secret World of Weather</a>
         </h4>
         <p class="fr-book-author">By Tristan Gooley</p>
-        
+
         <p class="fr-book-desc">Supports environmental mystery themes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Secret+World+of+Weather+Tristan+Gooley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1332,7 +1332,7 @@ In this sense, Chad’s contribution to weird history is a record of how humans 
           <a href="https://www.amazon.com/s?k=The+World%27s+last+mysteries+Reader%27s+Digest+%28Australia%29+Pty.+Ltd&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World&#x27;s last mysteries">The World&#x27;s last mysteries</a>
         </h4>
         <p class="fr-book-author">By Reader&#x27;s Digest (Australia) Pty. Ltd</p>
-        
+
         <p class="fr-book-desc">Matches unexplained phenomena themes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+World%27s+last+mysteries+Reader%27s+Digest+%28Australia%29+Pty.+Ltd&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

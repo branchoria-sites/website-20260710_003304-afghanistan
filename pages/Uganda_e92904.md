@@ -1327,7 +1327,7 @@ Uganda’s weird-history record is therefore strongest when read as a conversati
           <a href="https://www.amazon.com/s?k=The+Ghosts+of+Africa+William+Stevenson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ghosts of Africa">The Ghosts of Africa</a>
         </h4>
         <p class="fr-book-author">By William Stevenson</p>
-        
+
         <p class="fr-book-desc">Touches on Uganda&#x27;s history, beliefs and remarkable stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Ghosts+of+Africa+William+Stevenson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1344,7 +1344,7 @@ Uganda’s weird-history record is therefore strongest when read as a conversati
           <a href="https://www.amazon.com/s?k=Dark+star+safari+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dark star safari">Dark star safari</a>
         </h4>
         <p class="fr-book-author">By Paul Theroux</p>
-        
+
         <p class="fr-book-desc">Includes observations from East Africa and Uganda.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Dark+star+safari+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1361,7 +1361,7 @@ Uganda’s weird-history record is therefore strongest when read as a conversati
           <a href="https://www.amazon.com/s?k=African+myths+of+origin+Stephen+Paterson+Belcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African myths of origin">African myths of origin</a>
         </h4>
         <p class="fr-book-author">By Stephen Paterson Belcher</p>
-        
+
         <p class="fr-book-desc">Useful context for legendary traditions discussed across Uganda.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+myths+of+origin+Stephen+Paterson+Belcher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1378,7 +1378,7 @@ Uganda’s weird-history record is therefore strongest when read as a conversati
           <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The scramble for Africa, 1876-1912">The scramble for Africa, 1876-1912</a>
         </h4>
         <p class="fr-book-author">By Thomas Pakenham, Thomas Pakenham et al.</p>
-        
+
         <p class="fr-book-desc">First published 1990. Subjects: History, Colonies, Colonization, Colonización, Kolonisatie.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

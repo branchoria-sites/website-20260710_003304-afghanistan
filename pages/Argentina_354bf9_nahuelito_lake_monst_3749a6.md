@@ -373,7 +373,7 @@ As a piece of Argentine Forteana, however, Nahuelito is enormously successful. I
           <a href="https://www.amazon.com/s?k=The+world+atlas+of+mysteries+Francis+Hitching&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world atlas of mysteries">The world atlas of mysteries</a>
         </h4>
         <p class="fr-book-author">By Francis Hitching</p>
-        
+
         <p class="fr-book-desc">Places Nahuelito within global mystery traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world+atlas+of+mysteries+Francis+Hitching&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ As a piece of Argentine Forteana, however, Nahuelito is enormously successful. I
           <a href="https://www.amazon.com/s?k=Still+in+Search+of+Prehistoric+Survivors+Karl+P.N.+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Still in Search of Prehistoric Survivors">Still in Search of Prehistoric Survivors</a>
         </h4>
         <p class="fr-book-author">By Karl P.N. Shuker, Roy P. Mackal et al.</p>
-        
+
         <p class="fr-book-desc">Discusses reports of surviving unknown animals including aquatic mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Still+in+Search+of+Prehistoric+Survivors+Karl+P.N.+Shuker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ As a piece of Argentine Forteana, however, Nahuelito is enormously successful. I
           <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Argentina+3+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Argentina 3">The Rough Guide to Argentina 3</a>
         </h4>
         <p class="fr-book-author">By Rough Guides</p>
-        
+
         <p class="fr-book-desc">First published 2008. Subjects: Nonfiction, Travel, Guidebooks.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Argentina+3+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ As a piece of Argentine Forteana, however, Nahuelito is enormously successful. I
           <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
         </h4>
         <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
-        
+
         <p class="fr-book-desc">Explains lake-monster legends and evidence using scientific methods.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

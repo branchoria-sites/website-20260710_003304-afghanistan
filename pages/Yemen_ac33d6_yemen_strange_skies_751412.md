@@ -343,7 +343,7 @@ For readers interested in Yemen's wider strange history, these episodes connect 
           <a href="https://www.amazon.com/s?k=Death+by+black+hole+%3A+and+other+cosmic+quandaries+Neil+deGrasse+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Death by black hole : and other cosmic quandaries">Death by black hole : and other cosmic quandaries</a>
         </h4>
         <p class="fr-book-author">By Neil deGrasse Tyson</p>
-        
+
         <p class="fr-book-desc">Introduces the science behind dramatic cosmic phenomena.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Death+by+black+hole+%3A+and+other+cosmic+quandaries+Neil+deGrasse+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -360,7 +360,7 @@ For readers interested in Yemen's wider strange history, these episodes connect 
           <a href="https://www.amazon.com/s?k=Coming+of+age+in+the+Milky+Way+Timothy+Ferris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Coming of age in the Milky Way">Coming of age in the Milky Way</a>
         </h4>
         <p class="fr-book-author">By Timothy Ferris</p>
-        
+
         <p class="fr-book-desc">Places historical sky observations in scientific context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Coming+of+age+in+the+Milky+Way+Timothy+Ferris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ For readers interested in Yemen's wider strange history, these episodes connect 
           <a href="https://www.amazon.com/s?k=The+Illustrated+A+Brief+History+of+Time+%2F+The+Universe+in+a+Nutshell+Stephen+Hawking&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Illustrated A Brief History of Time / The Universe in a Nutshell">The Illustrated A Brief History of Time / The Universe in a N...</a>
         </h4>
         <p class="fr-book-author">By Stephen Hawking</p>
-        
+
         <p class="fr-book-desc">First published 2002. Subjects: Quantum theory, Cosmology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Illustrated+A+Brief+History+of+Time+%2F+The+Universe+in+a+Nutshell+Stephen+Hawking&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ For readers interested in Yemen's wider strange history, these episodes connect 
           <a href="https://www.amazon.com/s?k=Yemen+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Yemen">Yemen</a>
         </h4>
         <p class="fr-book-author">By Tim MacKintosh-Smith, Tim MacIntosh-Smith</p>
-        
+
         <p class="fr-book-desc">First published 1998. Subjects: Travel writing, History, Travel, Yemen, ASIA.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Yemen+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

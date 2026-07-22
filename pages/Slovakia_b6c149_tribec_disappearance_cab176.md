@@ -384,47 +384,89 @@ Older Slovak folklore often grew over centuries around castles, caves or sacred 
 Whether viewed as a place of unexplained disappearances, a cautionary tale about unreliable sources or a remarkable case study in modern folklore, Tribeč remains one of Slovakia's clearest examples of how an ordinary landscape can become extraordinary in the public imagination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.litcentrum.sk/recenzia/o-zahade-v-pohori-tribec" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: litcentrum.sk">[litcentrum.sk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">litcentrum.sk</span><span class="citation-popover-title">Slovenské literárne centrum Recenzia</span><span class="citation-popover-snippet">Slovenské literárne centrumRecenzia - O záhade v pohorí Tribeč &#124; Slovenské literárne centrum...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell fr-section-shell-fallback">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">No matched book cards were available for Is Tribeč Really Slovakia&#x27;s Bermuda Triangle?, so this fallback keeps a direct Amazon reading path visible.</p>
-</div>
-<div class="fr-search-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Is Tribeč Really Slovakia&#x27;s Bermuda Triangle?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-search-card">
-<p class="fr-search-kicker">Topical books</p>
-<h4 class="fr-search-title">Tribeč Mountains guide</h4>
-<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Tribe%C4%8D+Mountains+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-</a>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Missing+411+David+Paulides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing 411 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12671806-M.jpg" alt="Cover for Missing 411" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Missing+411+David+Paulides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing 411">Missing 411</a>
+        </h4>
+        <p class="fr-book-author">By David Paulides</p>
 
-<article class="fr-search-card">
-<p class="fr-search-kicker">Related search</p>
-<h4 class="fr-search-title">Tribeč disappearances guide</h4>
-<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Tribe%C4%8D+disappearances+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-</a>
-</article>
+        <p class="fr-book-desc">Explores wilderness disappearance narratives similar to Tribeč claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Missing+411+David+Paulides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-search-card">
-<p class="fr-search-kicker">Related search</p>
-<h4 class="fr-search-title">Folklore Evolution guide</h4>
-<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Folklore+Evolution+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-</a>
-</article>
-</div>
-<div class="fr-section-footer">
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Unexplained! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/595571-M.jpg" alt="Cover for Unexplained!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unexplained!">Unexplained!</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
+
+        <p class="fr-book-desc">Provides balanced context for anomalous claims.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Trhlina+Jozef+Karika&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trhlina on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Trhlina+Jozef+Karika&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trhlina">Trhlina</a>
+        </h4>
+        <p class="fr-book-author">By Jozef Karika</p>
+
+        <p class="fr-book-desc">The defining fictional treatment of Slovakia&#x27;s &#x27;Bermuda Triangle&#x27;.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Trhlina+Jozef+Karika&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysteries of the Unexplained on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
+        </h4>
+        <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
+
+        <p class="fr-book-desc">Appeals to readers interested in unexplained disappearances.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Missing+411&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Missing 411</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Unexplained%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Unexplained!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trhlina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trhlina</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 ## Endnotes
@@ -543,90 +585,4 @@ Whether viewed as a place of unexplained disappearances, a cautionary tale about
    Link:<a href="https://veriarch.com/the-bennington-triangle" target="_blank" rel="noopener noreferrer nofollow">https://veriarch.com/the-bennington-triangle</a>  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The Bennington Triangle - What Really Happened in Vermont’s Vanishing ZoneJuly 4, 2025 — THE BENNINGTON TRIANGLE – WHEN MISSING RECORDS C...</p></details>
    Published: July 4, 2025
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Is Tribeč Really Slovakia&#x27;s Bermuda Triangle?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Missing+411+David+Paulides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Missing 411 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12671806-M.jpg" alt="Cover for Missing 411" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Missing+411+David+Paulides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Missing 411">Missing 411</a>
-        </h4>
-        <p class="fr-book-author">By David Paulides</p>
-        
-        <p class="fr-book-desc">Explores wilderness disappearance narratives similar to Tribeč claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Missing+411+David+Paulides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Unexplained! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/595571-M.jpg" alt="Cover for Unexplained!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unexplained!">Unexplained!</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
-        
-        <p class="fr-book-desc">Provides balanced context for anomalous claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Trhlina+Jozef+Karika&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Trhlina on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Trhlina+Jozef+Karika&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trhlina">Trhlina</a>
-        </h4>
-        <p class="fr-book-author">By Jozef Karika</p>
-        
-        <p class="fr-book-desc">The defining fictional treatment of Slovakia&#x27;s &#x27;Bermuda Triangle&#x27;.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Trhlina+Jozef+Karika&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysteries of the Unexplained on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
-        </h4>
-        <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
-        
-        <p class="fr-book-desc">Appeals to readers interested in unexplained disappearances.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Missing+411&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Missing 411</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Unexplained%21&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Unexplained!</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Trhlina&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Trhlina</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
-</section>
 

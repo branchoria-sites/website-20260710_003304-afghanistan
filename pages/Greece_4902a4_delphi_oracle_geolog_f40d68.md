@@ -343,7 +343,7 @@ For readers interested in Greece's strange history, Delphi represents a rare cas
           <a href="https://www.amazon.com/s?k=The+Greeks+and+the+irrational+E.+R.+Dodds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Greeks and the irrational">The Greeks and the irrational</a>
         </h4>
         <p class="fr-book-author">By E. R. Dodds</p>
-        
+
         <p class="fr-book-desc">Explains prophecy and altered states in Greek religion.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Greeks+and+the+irrational+E.+R.+Dodds&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -360,7 +360,7 @@ For readers interested in Greece's strange history, Delphi represents a rare cas
           <a href="https://www.amazon.com/s?k=The+Oracle+William+J.+Broad&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oracle">The Oracle</a>
         </h4>
         <p class="fr-book-author">By William J. Broad</p>
-        
+
         <p class="fr-book-desc">Directly examines the oracle, geology and gas hypothesis.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Oracle+William+J.+Broad&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ For readers interested in Greece's strange history, Delphi represents a rare cas
           <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+Athens+Plutarch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rise and fall of Athens">The rise and fall of Athens</a>
         </h4>
         <p class="fr-book-author">By Plutarch</p>
-        
+
         <p class="fr-book-desc">First published 1960. Subjects: Greece, biography, Athens (greece), history, Biography, Early works to 1800.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+Athens+Plutarch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ For readers interested in Greece's strange history, Delphi represents a rare cas
           <a href="https://www.amazon.com/s?k=Greek+Religion+Walter+Burkert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Greek Religion">Greek Religion</a>
         </h4>
         <p class="fr-book-author">By Walter Burkert, John Raffan</p>
-        
+
         <p class="fr-book-desc">Places Delphi within broader Greek religious practice.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Greek+Religion+Walter+Burkert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

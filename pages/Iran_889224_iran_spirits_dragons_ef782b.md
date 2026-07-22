@@ -361,7 +361,7 @@ Together they demonstrate that Iranian Forteana is not simply a catalogue of mon
           <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The hero with a thousand faces">The hero with a thousand faces</a>
         </h4>
         <p class="fr-book-author">By Joseph Campbell</p>
-        
+
         <p class="fr-book-desc">Helps interpret recurring monster and hero motifs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ Together they demonstrate that Iranian Forteana is not simply a catalogue of mon
           <a href="https://www.amazon.com/s?k=Persian+mythology+John+R.+Hinnells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Persian mythology">Persian mythology</a>
         </h4>
         <p class="fr-book-author">By John R. Hinnells</p>
-        
+
         <p class="fr-book-desc">Explains major supernatural beings and cosmology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Persian+mythology+John+R.+Hinnells&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ Together they demonstrate that Iranian Forteana is not simply a catalogue of mon
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
         </h4>
         <p class="fr-book-author">By Scott G. Bruce</p>
-        
+
         <p class="fr-book-desc">Places Iranian dragon traditions in wider context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ Together they demonstrate that Iranian Forteana is not simply a catalogue of mon
           <a href="https://www.amazon.com/s?k=Shahnameh+Ferdowsi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shahnameh">Shahnameh</a>
         </h4>
         <p class="fr-book-author">By Ferdowsi</p>
-        
+
         <p class="fr-book-desc">First published 1993. Subjects: POETRY / Middle Eastern, POETRY / Ancient, Classical &amp; Medieval, POETRY / Epic, Poetry (poetic works by o...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Shahnameh+Ferdowsi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

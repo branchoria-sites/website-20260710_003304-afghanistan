@@ -1296,7 +1296,7 @@ A grounded reading does not flatten these stories. It makes them sharper. The be
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the gods">Fingerprints of the gods</a>
         </h4>
         <p class="fr-book-author">By Graham Hancock</p>
-        
+
         <p class="fr-book-desc">Frequently referenced in discussions of South American mystery traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1313,7 +1313,7 @@ A grounded reading does not flatten these stories. It makes them sharper. The be
           <a href="https://www.amazon.com/s?k=The+map+that+changed+the+world+Simon+Winchester&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The map that changed the world">The map that changed the world</a>
         </h4>
         <p class="fr-book-author">By Simon Winchester</p>
-        
+
         <p class="fr-book-desc">Fits a broad strange-history approach grounded in real landscapes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+map+that+changed+the+world+Simon+Winchester&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1330,7 +1330,7 @@ A grounded reading does not flatten these stories. It makes them sharper. The be
           <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
         </h4>
         <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
-        
+
         <p class="fr-book-desc">Covers the type of mysteries featured across Ecuador.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1347,7 +1347,7 @@ A grounded reading does not flatten these stories. It makes them sharper. The be
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Ecuador+%26+the+Gal%C3%A1pagos+Islands+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Ecuador &amp; the Galápagos Islands">Lonely Planet Ecuador &amp; the Galápagos Islands</a>
         </h4>
         <p class="fr-book-author">By Lonely Planet</p>
-        
+
         <p class="fr-book-desc">Provides geographical and cultural context for many featured locations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Ecuador+%26+the+Gal%C3%A1pagos+Islands+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -339,7 +339,7 @@ The lasting appeal of Yoro’s fish rain comes from this unresolved tension. The
           <a href="https://www.amazon.com/s?k=The+encyclopedia+of+monsters+Jeff+Rovin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The encyclopedia of monsters">The encyclopedia of monsters</a>
         </h4>
         <p class="fr-book-author">By Jeff Rovin</p>
-        
+
         <p class="fr-book-desc">Useful companion for readers exploring unexplained phenomena.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+encyclopedia+of+monsters+Jeff+Rovin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -356,7 +356,7 @@ The lasting appeal of Yoro’s fish rain comes from this unresolved tension. The
           <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world of Lore">The world of Lore</a>
         </h4>
         <p class="fr-book-author">By Aaron Mahnke</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in mysterious folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ The lasting appeal of Yoro’s fish rain comes from this unresolved tension. The
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology Book">The Mythology Book</a>
         </h4>
         <p class="fr-book-author">By DK</p>
-        
+
         <p class="fr-book-desc">Broadens interest from one mystery to world folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ The lasting appeal of Yoro’s fish rain comes from this unresolved tension. The
           <a href="https://www.amazon.com/s?k=Monsters+of+Latin+America+David+Bowles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters of Latin America">Monsters of Latin America</a>
         </h4>
         <p class="fr-book-author">By David Bowles</p>
-        
+
         <p class="fr-book-desc">Provides wider Central American folklore context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Monsters+of+Latin+America+David+Bowles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

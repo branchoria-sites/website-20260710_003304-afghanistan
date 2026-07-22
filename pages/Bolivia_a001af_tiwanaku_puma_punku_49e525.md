@@ -345,7 +345,7 @@ For readers interested in Bolivia's stranger history, Tiwanaku and Puma Punku de
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the gods">Fingerprints of the gods</a>
         </h4>
         <p class="fr-book-author">By Graham Hancock</p>
-        
+
         <p class="fr-book-desc">Represents the fringe claims discussed and critiqued on the page.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -362,7 +362,7 @@ For readers interested in Bolivia's stranger history, Tiwanaku and Puma Punku de
           <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chariots of the gods?">Chariots of the gods?</a>
         </h4>
         <p class="fr-book-author">By Erich von Däniken</p>
-        
+
         <p class="fr-book-desc">Illustrates the popular claims contrasted with archaeology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ For readers interested in Bolivia's stranger history, Tiwanaku and Puma Punku de
           <a href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Incas+Sonia+Alconini&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oxford Handbook of the Incas">Oxford Handbook of the Incas</a>
         </h4>
         <p class="fr-book-author">By Sonia Alconini, R. Alan Covey</p>
-        
+
         <p class="fr-book-desc">Explains the broader Andean world that followed Tiwanaku.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Incas+Sonia+Alconini&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ For readers interested in Bolivia's stranger history, Tiwanaku and Puma Punku de
           <a href="https://www.amazon.com/s?k=The+Ancient+Andes+Terence+N.+D%27Altroy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ancient Andes">The Ancient Andes</a>
         </h4>
         <p class="fr-book-author">By Terence N. D&#x27;Altroy</p>
-        
+
         <p class="fr-book-desc">Provides authoritative context for Tiwanaku and related cultures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Ancient+Andes+Terence+N.+D%27Altroy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

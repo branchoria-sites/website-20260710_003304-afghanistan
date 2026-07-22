@@ -339,7 +339,7 @@ From a Fortean perspective, the fascination lies less in proving whether a super
           <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Bough">The Golden Bough</a>
         </h4>
         <p class="fr-book-author">By James George Frazer</p>
-        
+
         <p class="fr-book-desc">Useful for readers comparing folklore and religious ritual.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -356,7 +356,7 @@ From a Fortean perspective, the fascination lies less in proving whether a super
           <a href="https://www.amazon.com/s?k=The+Riviera+set+Mary+S.+Lovell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Riviera set">The Riviera set</a>
         </h4>
         <p class="fr-book-author">By Mary S. Lovell</p>
-        
+
         <p class="fr-book-desc">Explores the region surrounding Monaco.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Riviera+set+Mary+S.+Lovell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ From a Fortean perspective, the fascination lies less in proving whether a super
           <a href="https://www.amazon.com/s?k=A+history+of+Christianity+Diarmaid+MacCulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Christianity">A history of Christianity</a>
         </h4>
         <p class="fr-book-author">By Diarmaid MacCulloch</p>
-        
+
         <p class="fr-book-desc">Explains the wider Christian tradition behind saint cults.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Christianity+Diarmaid+MacCulloch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ From a Fortean perspective, the fascination lies less in proving whether a super
           <a href="https://www.amazon.com/s?k=The+Golden+Legend+of+Jacobus+De+Voragine+Jacobus+de+Voragine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Legend of Jacobus De Voragine">The Golden Legend of Jacobus De Voragine</a>
         </h4>
         <p class="fr-book-author">By Jacobus de Voragine</p>
-        
+
         <p class="fr-book-desc">First published 1948.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Golden+Legend+of+Jacobus+De+Voragine+Jacobus+de+Voragine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

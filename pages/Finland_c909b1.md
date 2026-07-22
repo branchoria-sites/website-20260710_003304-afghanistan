@@ -1330,7 +1330,7 @@ Finland’s weird-history record is therefore not a cabinet of random oddities. 
           <a href="https://www.amazon.com/s?k=The+Kalevala+Elias+Lonnrot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kalevala">The Kalevala</a>
         </h4>
         <p class="fr-book-author">By Elias Lonnrot</p>
-        
+
         <p class="fr-book-desc">Foundation of Finnish mythology and folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Kalevala+Elias+Lonnrot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1347,7 +1347,7 @@ Finland’s weird-history record is therefore not a cabinet of random oddities. 
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Finland+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Finland">Lonely Planet Finland</a>
         </h4>
         <p class="fr-book-author">By Lonely Planet, Barbara Woolsey et al.</p>
-        
+
         <p class="fr-book-desc">Introduces the landscapes behind Finland&#x27;s strange traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Finland+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1364,7 +1364,7 @@ Finland’s weird-history record is therefore not a cabinet of random oddities. 
           <a href="https://www.amazon.com/s?k=Culture+Smart%21+Finland+Terttu+Leney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Culture Smart! Finland">Culture Smart! Finland</a>
         </h4>
         <p class="fr-book-author">By Terttu Leney</p>
-        
+
         <p class="fr-book-desc">Explains Finnish beliefs and cultural context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Culture+Smart%21+Finland+Terttu+Leney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1381,7 +1381,7 @@ Finland’s weird-history record is therefore not a cabinet of random oddities. 
           <a href="https://www.amazon.com/s?k=Finnish+Folk+Belief%3A+A+Reader+Laura+Stark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Finnish Folk Belief: A Reader">Finnish Folk Belief: A Reader</a>
         </h4>
         <p class="fr-book-author">By Laura Stark</p>
-        
+
         <p class="fr-book-desc">Directly explores Finnish supernatural traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Finnish+Folk+Belief%3A+A+Reader+Laura+Stark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

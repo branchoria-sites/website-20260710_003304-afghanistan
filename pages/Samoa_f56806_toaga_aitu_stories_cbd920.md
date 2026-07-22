@@ -325,7 +325,7 @@ The enduring appeal of To'aga lies in this overlap between evidence and meaning.
           <a href="https://www.amazon.com/s?k=Coming+of+age+in+Samoa+Margaret+Mead&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Coming of age in Samoa">Coming of age in Samoa</a>
         </h4>
         <p class="fr-book-author">By Margaret Mead</p>
-        
+
         <p class="fr-book-desc">Provides cultural context for local traditions and beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Coming+of+age+in+Samoa+Margaret+Mead&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -342,7 +342,7 @@ The enduring appeal of To'aga lies in this overlap between evidence and meaning.
           <a href="https://www.amazon.com/s?k=The+Power+of+Myth+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Myth">The Power of Myth</a>
         </h4>
         <p class="fr-book-author">By Joseph Campbell</p>
-        
+
         <p class="fr-book-desc">Explains why places become attached to enduring stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Power+of+Myth+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -359,7 +359,7 @@ The enduring appeal of To'aga lies in this overlap between evidence and meaning.
           <a href="https://www.amazon.com/s?k=Oceanic+mythology+Roslyn+Poignant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oceanic mythology">Oceanic mythology</a>
         </h4>
         <p class="fr-book-author">By Roslyn Poignant</p>
-        
+
         <p class="fr-book-desc">Relates to Pacific supernatural traditions and sacred landscapes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Oceanic+mythology+Roslyn+Poignant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,7 +376,7 @@ The enduring appeal of To'aga lies in this overlap between evidence and meaning.
           <a href="https://www.amazon.com/s?k=Haunted+Places%3A+The+National+Directory+Dennis+William+Hauck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Places: The National Directory">Haunted Places: The National Directory</a>
         </h4>
         <p class="fr-book-author">By Dennis William Hauck</p>
-        
+
         <p class="fr-book-desc">Provides comparison for how places become associated with supernatural stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Places%3A+The+National+Directory+Dennis+William+Hauck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

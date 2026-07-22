@@ -1323,7 +1323,7 @@ Djibouti’s strongest strange material works because it sits at the edge of cat
           <a href="https://www.amazon.com/s?k=The+Sixth+Extinction+Elizabeth+Kolbert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sixth Extinction">The Sixth Extinction</a>
         </h4>
         <p class="fr-book-author">By Elizabeth Kolbert, Marcel Blanc</p>
-        
+
         <p class="fr-book-desc">Explores Earth&#x27;s changing environments and unusual ecosystems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Sixth+Extinction+Elizabeth+Kolbert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1340,7 +1340,7 @@ Djibouti’s strongest strange material works because it sits at the edge of cat
           <a href="https://www.amazon.com/s?k=The+Ends+of+the+World+Peter+Brannen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ends of the World">The Ends of the World</a>
         </h4>
         <p class="fr-book-author">By Peter Brannen</p>
-        
+
         <p class="fr-book-desc">Explains extreme geological processes relevant to rift landscapes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Ends+of+the+World+Peter+Brannen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1357,7 +1357,7 @@ Djibouti’s strongest strange material works because it sits at the edge of cat
           <a href="https://www.amazon.com/s?k=Origins+Lewis+Dartnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Origins">Origins</a>
         </h4>
         <p class="fr-book-author">By Lewis Dartnell</p>
-        
+
         <p class="fr-book-desc">First published 2019. Subjects: Human evolution, Human beings, origin, Human beings, Origin, Effect of environment on.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Origins+Lewis+Dartnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1374,7 +1374,7 @@ Djibouti’s strongest strange material works because it sits at the edge of cat
           <a href="https://www.amazon.com/s?k=Origins%3A+How+the+Earth+Made+Us+Lewis+Dartnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Origins: How the Earth Made Us">Origins: How the Earth Made Us</a>
         </h4>
         <p class="fr-book-author">By Lewis Dartnell</p>
-        
+
         <p class="fr-book-desc">Ideal background for Djibouti&#x27;s dramatic landscapes and legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Origins%3A+How+the+Earth+Made+Us+Lewis+Dartnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -1309,7 +1309,7 @@ The most honest summary is therefore also the most interesting one: Turkmenistan
           <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
         </h4>
         <p class="fr-book-author">By Peter Frankopan</p>
-        
+
         <p class="fr-book-desc">Places Turkmenistan within broader regional history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1326,7 +1326,7 @@ The most honest summary is therefore also the most interesting one: Turkmenistan
           <a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Atlas of Monsters">The Atlas of Monsters</a>
         </h4>
         <p class="fr-book-author">By Sandra Lawrence</p>
-        
+
         <p class="fr-book-desc">Fits the country&#x27;s folklore and strange-history theme.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1343,7 +1343,7 @@ The most honest summary is therefore also the most interesting one: Turkmenistan
           <a href="https://www.amazon.com/s?k=Sovietistan+Erika+Fatland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sovietistan">Sovietistan</a>
         </h4>
         <p class="fr-book-author">By Erika Fatland</p>
-        
+
         <p class="fr-book-desc">Excellent overview of Turkmenistan and Central Asia.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sovietistan+Erika+Fatland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1360,7 +1360,7 @@ The most honest summary is therefore also the most interesting one: Turkmenistan
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Central+Asia+Phrasebook+and+Dictionary+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Central Asia Phrasebook and Dictionary">Lonely Planet Central Asia Phrasebook and Dictionary</a>
         </h4>
         <p class="fr-book-author">By Lonely Planet</p>
-        
+
         <p class="fr-book-desc">First published 2019. Subjects: Asia, languages.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Central+Asia+Phrasebook+and+Dictionary+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

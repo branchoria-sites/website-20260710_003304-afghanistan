@@ -337,7 +337,7 @@ Bu Darya remains compelling because it represents the sea itself as something bo
           <a href="https://www.amazon.com/s?k=The+Sea+Around+Us+Rachel+Carson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sea Around Us">The Sea Around Us</a>
         </h4>
         <p class="fr-book-author">By Rachel Carson, Jeffrey S. Levinton</p>
-        
+
         <p class="fr-book-desc">Connects readers with the mysterious and powerful nature of seas.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Sea+Around+Us+Rachel+Carson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -354,7 +354,7 @@ Bu Darya remains compelling because it represents the sea itself as something bo
           <a href="https://www.amazon.com/s?k=Monsters+of+the+Sea+Richard+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters of the Sea">Monsters of the Sea</a>
         </h4>
         <p class="fr-book-author">By Richard Ellis</p>
-        
+
         <p class="fr-book-desc">Explores sea creature legends and folklore evolution.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Monsters+of+the+Sea+Richard+Ellis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ Bu Darya remains compelling because it represents the sea itself as something bo
           <a href="https://www.amazon.com/s?k=The+Oxford+companion+to+world+mythology+David+Adams+Leeming&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford companion to world mythology">The Oxford companion to world mythology</a>
         </h4>
         <p class="fr-book-author">By David Adams Leeming</p>
-        
+
         <p class="fr-book-desc">Provides comparative myth context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Oxford+companion+to+world+mythology+David+Adams+Leeming&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ Bu Darya remains compelling because it represents the sea itself as something bo
           <a href="https://www.amazon.com/s?k=The+Book+of+Sea+Monsters+Joseph+Nigg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Sea Monsters">The Book of Sea Monsters</a>
         </h4>
         <p class="fr-book-author">By Joseph Nigg</p>
-        
+
         <p class="fr-book-desc">Directly matches legendary sea creatures and maritime myths.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+Sea+Monsters+Joseph+Nigg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

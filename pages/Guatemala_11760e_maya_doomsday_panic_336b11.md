@@ -344,7 +344,7 @@ As a piece of modern Forteana, the Maya doomsday panic is therefore less a story
           <a href="https://www.amazon.com/s?k=Popol+Vuh+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popol Vuh">Popol Vuh</a>
         </h4>
         <p class="fr-book-author">By Dennis Tedlock</p>
-        
+
         <p class="fr-book-desc">Shows authentic Maya tradition rather than modern myths.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Popol+Vuh+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -361,7 +361,7 @@ As a piece of modern Forteana, the Maya doomsday panic is therefore less a story
           <a href="https://www.amazon.com/s?k=The+order+of+days+David+Stuart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The order of days">The order of days</a>
         </h4>
         <p class="fr-book-author">By David Stuart</p>
-        
+
         <p class="fr-book-desc">Directly addresses the 2012 calendar controversy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+order+of+days+David+Stuart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ As a piece of modern Forteana, the Maya doomsday panic is therefore less a story
           <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Guatemala+%26+Belize+Map+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Guatemala &amp; Belize Map">The Rough Guide to Guatemala &amp; Belize Map</a>
         </h4>
         <p class="fr-book-author">By Rough Guides</p>
-        
+
         <p class="fr-book-desc">First published 2003.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Guatemala+%26+Belize+Map+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ As a piece of modern Forteana, the Maya doomsday panic is therefore less a story
           <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Encyclopedia of Ghosts and Spirits">The Encyclopedia of Ghosts and Spirits</a>
         </h4>
         <p class="fr-book-author">By Rosemary Ellen Guiley</p>
-        
+
         <p class="fr-book-desc">First published 1999.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -1336,7 +1336,7 @@ That is why Namibia belongs naturally in a country-by-country Fortean project. I
           <a href="https://www.amazon.com/s?k=Skeleton+Coast+John+Henry+Marsh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skeleton Coast">Skeleton Coast</a>
         </h4>
         <p class="fr-book-author">By John Henry Marsh</p>
-        
+
         <p class="fr-book-desc">Introduces the country&#x27;s remarkable landscapes and mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Skeleton+Coast+John+Henry+Marsh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1353,7 +1353,7 @@ That is why Namibia belongs naturally in a country-by-country Fortean project. I
           <a href="https://www.amazon.com/s?k=The+sheltering+desert+Henno+Martin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The sheltering desert">The sheltering desert</a>
         </h4>
         <p class="fr-book-author">By Henno Martin</p>
-        
+
         <p class="fr-book-desc">Captures the isolation and atmosphere of Namibia.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+sheltering+desert+Henno+Martin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1370,7 +1370,7 @@ That is why Namibia belongs naturally in a country-by-country Fortean project. I
           <a href="https://www.amazon.com/s?k=Sasol+birds+of+Southern+Africa+Ian+Sinclair&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sasol birds of Southern Africa">Sasol birds of Southern Africa</a>
         </h4>
         <p class="fr-book-author">By Ian Sinclair, Phil Hockey et al.</p>
-        
+
         <p class="fr-book-desc">Supports exploration of Namibia&#x27;s unique wildlife.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sasol+birds+of+Southern+Africa+Ian+Sinclair&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1387,7 +1387,7 @@ That is why Namibia belongs naturally in a country-by-country Fortean project. I
           <a href="https://www.amazon.com/s?k=Namibia%2C+3rd+Bradt+Travel+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Namibia, 3rd">Namibia, 3rd</a>
         </h4>
         <p class="fr-book-author">By Bradt Travel Guides</p>
-        
+
         <p class="fr-book-desc">First published 2007. Subjects: Guidebooks, Namibia, description and travel.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Namibia%2C+3rd+Bradt+Travel+Guides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

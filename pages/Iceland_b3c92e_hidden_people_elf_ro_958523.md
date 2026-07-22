@@ -337,7 +337,7 @@ For readers interested in Iceland's stranger history, that is perhaps the most r
           <a href="https://www.amazon.com/s?k=Icelandic+folktales+and+legends+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Icelandic folktales and legends">Icelandic folktales and legends</a>
         </h4>
         <p class="fr-book-author">By Jacqueline Simpson</p>
-        
+
         <p class="fr-book-desc">Best English-language source on hidden people and elves.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Icelandic+folktales+and+legends+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -354,7 +354,7 @@ For readers interested in Iceland's stranger history, that is perhaps the most r
           <a href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The secret commonwealth of elves, fauns, and fairies">The secret commonwealth of elves, fauns, and fairies</a>
         </h4>
         <p class="fr-book-author">By Kirk, Robert</p>
-        
+
         <p class="fr-book-desc">Provides comparative context for elf traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+secret+commonwealth+of+elves%2C+fauns%2C+and+fairies+Kirk%2C+Robert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ For readers interested in Iceland's stranger history, that is perhaps the most r
           <a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Atlas of Monsters">The Atlas of Monsters</a>
         </h4>
         <p class="fr-book-author">By Sandra Lawrence</p>
-        
+
         <p class="fr-book-desc">Expands readers into related legendary beings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ For readers interested in Iceland's stranger history, that is perhaps the most r
           <a href="https://www.amazon.com/s?k=The+prose+Edda+of+Snorri+Sturluson+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The prose Edda of Snorri Sturluson">The prose Edda of Snorri Sturluson</a>
         </h4>
         <p class="fr-book-author">By Snorri Sturluson</p>
-        
+
         <p class="fr-book-desc">First published 1954. Subjects: Norse Mythology, Scalds and scaldic poetry.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+prose+Edda+of+Snorri+Sturluson+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

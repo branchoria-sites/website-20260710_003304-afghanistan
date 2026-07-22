@@ -1344,7 +1344,7 @@ That combination of deep historical tradition, immense geographic diversity and 
           <a href="https://www.amazon.com/s?k=Myths+and+legends+of+India+Veronica+Ions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and legends of India">Myths and legends of India</a>
         </h4>
         <p class="fr-book-author">By Veronica Ions</p>
-        
+
         <p class="fr-book-desc">Explains the cultural background behind many unusual stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Myths+and+legends+of+India+Veronica+Ions&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1361,7 +1361,7 @@ That combination of deep historical tradition, immense geographic diversity and 
           <a href="https://www.amazon.com/s?k=Element+Encyclopedia+of+Ghosts+and+Hauntings+Theresa+Cheung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Element Encyclopedia of Ghosts and Hauntings">Element Encyclopedia of Ghosts and Hauntings</a>
         </h4>
         <p class="fr-book-author">By Theresa Cheung</p>
-        
+
         <p class="fr-book-desc">Places Indian ghost traditions within global folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Element+Encyclopedia+of+Ghosts+and+Hauntings+Theresa+Cheung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1378,7 +1378,7 @@ That combination of deep historical tradition, immense geographic diversity and 
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology Book">The Mythology Book</a>
         </h4>
         <p class="fr-book-author">By DK</p>
-        
+
         <p class="fr-book-desc">Covers myth-making across cultures including South Asia.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1395,7 +1395,7 @@ That combination of deep historical tradition, immense geographic diversity and 
           <a href="https://www.amazon.com/s?k=The+Illustrated+Signs+and+Symbols+Sourcebook+Adele+Nozedar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Illustrated Signs and Symbols Sourcebook">The Illustrated Signs and Symbols Sourcebook</a>
         </h4>
         <p class="fr-book-author">By Adele Nozedar</p>
-        
+
         <p class="fr-book-desc">Provides broad context for myths, legends and strange traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Illustrated+Signs+and+Symbols+Sourcebook+Adele+Nozedar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

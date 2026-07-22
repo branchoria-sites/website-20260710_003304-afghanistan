@@ -362,7 +362,7 @@ Together, Mount Pilatus dragons and Alpine worm legends illustrate one of the de
           <a href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+%26+Caitlin+Matthews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Element Encyclopedia of Magical Creatures">The Element Encyclopedia of Magical Creatures</a>
         </h4>
         <p class="fr-book-author">By John &amp; Caitlin Matthews</p>
-        
+
         <p class="fr-book-desc">Includes dragons and European legendary creatures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+%26+Caitlin+Matthews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ Together, Mount Pilatus dragons and Alpine worm legends illustrate one of the de
           <a href="https://www.amazon.com/s?k=Still+in+Search+of+Prehistoric+Survivors+Karl+P.N.+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Still in Search of Prehistoric Survivors">Still in Search of Prehistoric Survivors</a>
         </h4>
         <p class="fr-book-author">By Karl P.N. Shuker, Roy P. Mackal et al.</p>
-        
+
         <p class="fr-book-desc">Discusses legendary Alpine creatures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Still+in+Search+of+Prehistoric+Survivors+Karl+P.N.+Shuker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ Together, Mount Pilatus dragons and Alpine worm legends illustrate one of the de
           <a href="https://www.amazon.com/s?k=The+Oxford+companion+to+world+mythology+David+Adams+Leeming&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford companion to world mythology">The Oxford companion to world mythology</a>
         </h4>
         <p class="fr-book-author">By David Adams Leeming</p>
-        
+
         <p class="fr-book-desc">Places Swiss dragon lore within world mythology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Oxford+companion+to+world+mythology+David+Adams+Leeming&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ Together, Mount Pilatus dragons and Alpine worm legends illustrate one of the de
           <a href="https://www.amazon.com/s?k=Mysterious+Creatures+George+M.+Eberhart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious Creatures">Mysterious Creatures</a>
         </h4>
         <p class="fr-book-author">By George M. Eberhart</p>
-        
+
         <p class="fr-book-desc">Provides context for Tatzelwurm traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mysterious+Creatures+George+M.+Eberhart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

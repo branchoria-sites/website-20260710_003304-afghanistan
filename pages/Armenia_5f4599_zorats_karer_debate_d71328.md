@@ -351,7 +351,7 @@ That balance explains its enduring appeal. Unlike many "ancient mystery" stories
 <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the gods">Fingerprints of the gods</a>
 </h4>
 <p class="fr-book-author">By Graham Hancock</p>
-        
+
 <p class="fr-book-desc">First published 1995. Subjects: Lost continents, World maps, Ancient Civilization, Discovery and exploration, Early works to 1800.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -368,7 +368,7 @@ That balance explains its enduring appeal. Unlike many "ancient mystery" stories
 <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
 </h4>
 <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
-        
+
 <p class="fr-book-desc">First published 1985.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ That balance explains its enduring appeal. Unlike many "ancient mystery" stories
 <a href="https://www.amazon.com/s?k=Armenia+Deirdre+Holding&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Armenia">Armenia</a>
 </h4>
 <p class="fr-book-author">By Deirdre Holding, Tom Allen</p>
-        
+
 <p class="fr-book-desc">First published 2019. Subjects: Armenia (republic), description and travel, Azerbaijan, description and travel.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Armenia+Deirdre+Holding&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ That balance explains its enduring appeal. Unlike many "ancient mystery" stories
 <a href="https://www.amazon.com/s?k=Megalith+Crowhurst+Newman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Megalith">Megalith</a>
 </h4>
 <p class="fr-book-author">By Crowhurst Newman, Francis Heath et al.</p>
-        
+
 <p class="fr-book-desc">First published 2018. Subjects: Megalithic monuments.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Megalith+Crowhurst+Newman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

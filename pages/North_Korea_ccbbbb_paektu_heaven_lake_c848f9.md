@@ -356,7 +356,7 @@ From a Fortean perspective, Mount Paektu is less important as a likely home for 
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
         </h4>
         <p class="fr-book-author">By Scott G. Bruce</p>
-        
+
         <p class="fr-book-desc">Explores dragon traditions comparable to Heaven Lake legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ From a Fortean perspective, Mount Paektu is less important as a likely home for 
           <a href="https://www.amazon.com/s?k=The+Impossible+State%2C+Updated+Edition+Victor+Cha&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Impossible State, Updated Edition">The Impossible State, Updated Edition</a>
         </h4>
         <p class="fr-book-author">By Victor Cha</p>
-        
+
         <p class="fr-book-desc">First published 2018. Subjects: Political culture, History, Politics and government, Foreign relations, Social conditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Impossible+State%2C+Updated+Edition+Victor+Cha&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ From a Fortean perspective, Mount Paektu is less important as a likely home for 
           <a href="https://www.amazon.com/s?k=Nothing+to+Envy+Barbara+Demick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nothing to Envy">Nothing to Envy</a>
         </h4>
         <p class="fr-book-author">By Barbara Demick</p>
-        
+
         <p class="fr-book-desc">Provides modern North Korean context for the mountain&#x27;s symbolism.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Nothing+to+Envy+Barbara+Demick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ From a Fortean perspective, Mount Paektu is less important as a likely home for 
           <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
         </h4>
         <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
-        
+
         <p class="fr-book-desc">Provides perspective on lake-monster traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

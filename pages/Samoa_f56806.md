@@ -1279,7 +1279,7 @@ For sceptics, these accounts offer examples of how human perception, storytellin
           <a href="https://www.amazon.com/s?k=Coming+of+age+in+Samoa+Margaret+Mead&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Coming of age in Samoa">Coming of age in Samoa</a>
         </h4>
         <p class="fr-book-author">By Margaret Mead</p>
-        
+
         <p class="fr-book-desc">Provides cultural context for Samoan traditions and society.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Coming+of+age+in+Samoa+Margaret+Mead&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1296,7 +1296,7 @@ For sceptics, these accounts offer examples of how human perception, storytellin
           <a href="https://www.amazon.com/s?k=The+Power+of+Myth+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Myth">The Power of Myth</a>
         </h4>
         <p class="fr-book-author">By Joseph Campbell</p>
-        
+
         <p class="fr-book-desc">Helps interpret myths, spirits and cultural narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Power+of+Myth+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1313,7 +1313,7 @@ For sceptics, these accounts offer examples of how human perception, storytellin
           <a href="https://www.amazon.com/s?k=Oceanic+mythology+Roslyn+Poignant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oceanic mythology">Oceanic mythology</a>
         </h4>
         <p class="fr-book-author">By Roslyn Poignant</p>
-        
+
         <p class="fr-book-desc">Covers Pacific myth traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Oceanic+mythology+Roslyn+Poignant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1330,7 +1330,7 @@ For sceptics, these accounts offer examples of how human perception, storytellin
           <a href="https://www.amazon.com/s?k=The+Samoa+Reader+Asofitu+G.+Leasiolagi+and+others&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Samoa Reader">The Samoa Reader</a>
         </h4>
         <p class="fr-book-author">By Asofitu G. Leasiolagi and others</p>
-        
+
         <p class="fr-book-desc">Explores Samoan history, identity and traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Samoa+Reader+Asofitu+G.+Leasiolagi+and+others&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

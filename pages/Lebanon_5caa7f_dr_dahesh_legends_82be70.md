@@ -333,7 +333,7 @@ His story therefore remains part of Lebanons unusual cultural history not becaus
           <a href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience+William+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Varieties of Religious Experience">The Varieties of Religious Experience</a>
         </h4>
         <p class="fr-book-author">By William James, Dr. William James et al.</p>
-        
+
         <p class="fr-book-desc">Explores religious experiences and personal accounts of extraordinary events.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience+William+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -350,7 +350,7 @@ His story therefore remains part of Lebanons unusual cultural history not becaus
           <a href="https://www.amazon.com/s?k=The+Power+of+Myth+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Myth">The Power of Myth</a>
         </h4>
         <p class="fr-book-author">By Joseph Campbell</p>
-        
+
         <p class="fr-book-desc">Helps explain how legends and belief systems develop.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Power+of+Myth+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -367,7 +367,7 @@ His story therefore remains part of Lebanons unusual cultural history not becaus
           <a href="https://www.amazon.com/s?k=The+occult+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The occult">The occult</a>
         </h4>
         <p class="fr-book-author">By Colin Wilson</p>
-        
+
         <p class="fr-book-desc">Places Dr Dahesh within the wider history of occult and mystical traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+occult+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ His story therefore remains part of Lebanons unusual cultural history not becaus
           <a href="https://www.amazon.com/s?k=The+Secret+Teachings+of+All+Ages+Manly+Palmer+Hall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Secret Teachings of All Ages">The Secret Teachings of All Ages</a>
         </h4>
         <p class="fr-book-author">By Manly Palmer Hall</p>
-        
+
         <p class="fr-book-desc">Covers esoteric ideas associated with mystical figures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Secret+Teachings+of+All+Ages+Manly+Palmer+Hall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

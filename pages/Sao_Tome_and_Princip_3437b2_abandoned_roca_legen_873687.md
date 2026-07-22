@@ -347,16 +347,16 @@ The abandoned plantations of So Tom and Prncipe are therefore best understood as
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invention+of+tradition+Eric+Hobsbawm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invention of tradition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9513682-M.jpg" alt="Cover for The Invention of tradition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atlas+Obscura+Joshua+Foer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atlas Obscura on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8413583-M.jpg" alt="Cover for Atlas Obscura" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invention+of+tradition+Eric+Hobsbawm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invention of tradition">The Invention of tradition</a>
+          <a href="https://www.amazon.com/s?k=Atlas+Obscura+Joshua+Foer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atlas Obscura">Atlas Obscura</a>
         </h4>
-        <p class="fr-book-author">By Eric Hobsbawm, Terence O. Ranger</p>
-        
-        <p class="fr-book-desc">Relevant to how ruins become places of legend.</p>
+        <p class="fr-book-author">By Joshua Foer, Dylan Thuras et al.</p>
+
+        <p class="fr-book-desc">Supports interest in unusual locations and hidden stories.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invention+of+tradition+Eric+Hobsbawm&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Atlas+Obscura+Joshua+Foer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -364,16 +364,16 @@ The abandoned plantations of So Tom and Prncipe are therefore best understood as
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Atlas+Obscura+Joshua+Foer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Atlas Obscura on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8413583-M.jpg" alt="Cover for Atlas Obscura" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invention+of+tradition+Eric+Hobsbawm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invention of tradition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9513682-M.jpg" alt="Cover for The Invention of tradition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Atlas+Obscura+Joshua+Foer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atlas Obscura">Atlas Obscura</a>
+          <a href="https://www.amazon.com/s?k=The+Invention+of+tradition+Eric+Hobsbawm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invention of tradition">The Invention of tradition</a>
         </h4>
-        <p class="fr-book-author">By Joshua Foer, Dylan Thuras et al.</p>
-        
-        <p class="fr-book-desc">Supports interest in unusual locations and hidden stories.</p>
+        <p class="fr-book-author">By Eric Hobsbawm, Terence O. Ranger</p>
+
+        <p class="fr-book-desc">Relevant to how ruins become places of legend.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Atlas+Obscura+Joshua+Foer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+Invention+of+tradition+Eric+Hobsbawm&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -387,7 +387,7 @@ The abandoned plantations of So Tom and Prncipe are therefore best understood as
           <a href="https://www.amazon.com/s?k=A+history+of+Africa+J.+D.+Fage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Africa">A history of Africa</a>
         </h4>
         <p class="fr-book-author">By J. D. Fage</p>
-        
+
         <p class="fr-book-desc">First published 1978. Subjects: History, Histoire, Juvenile literature, Africa, history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Africa+J.+D.+Fage&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ The abandoned plantations of So Tom and Prncipe are therefore best understood as
           <a href="https://www.amazon.com/s?k=Darker+Side+of+Travel+-+Theory+and+Practice+of+Dark+Tourism+Richard+And+Sharpley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Darker Side of Travel - Theory and Practice of Dark Tourism">Darker Side of Travel - Theory and Practice of Dark Tourism</a>
         </h4>
         <p class="fr-book-author">By Richard And Sharpley, Philip R. Stone</p>
-        
+
         <p class="fr-book-desc">First published 2009.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Darker+Side+of+Travel+-+Theory+and+Practice+of+Dark+Tourism+Richard+And+Sharpley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ The abandoned plantations of So Tom and Prncipe are therefore best understood as
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invention+of+tradition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invention of tradition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atlas+Obscura&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atlas Obscura</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of Africa</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Atlas+Obscura&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Atlas Obscura</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invention+of+tradition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invention of tradition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+history+of+Africa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A history of Africa</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

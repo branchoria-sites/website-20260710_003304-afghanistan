@@ -348,7 +348,7 @@ For readers interested in Forteana, the most valuable question is not whether th
 <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
 </h4>
 <p class="fr-book-author">By Jan Harold Brunvand</p>
-        
+
 <p class="fr-book-desc">First published 1981. Subjects: History and criticism, Legends, Urban folklore, Légendes, Folklore urbain.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -365,7 +365,7 @@ For readers interested in Forteana, the most valuable question is not whether th
 <a href="https://www.amazon.com/s?k=Popol+Vuh+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popol Vuh">Popol Vuh</a>
 </h4>
 <p class="fr-book-author">By Dennis Tedlock</p>
-        
+
 <p class="fr-book-desc">First published 1985. Subjects: Popol vuh, Quiché Indians, Quiché mythology, Religion, Maya literature.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Popol+Vuh+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ For readers interested in Forteana, the most valuable question is not whether th
 <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology Book">The Mythology Book</a>
 </h4>
 <p class="fr-book-author">By DK</p>
-        
+
 <p class="fr-book-desc">Places Cadejo and Sisimite within wider legendary traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ For readers interested in Forteana, the most valuable question is not whether th
 <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton+and+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science!">Abominable Science!</a>
 </h4>
 <p class="fr-book-author">By Daniel Loxton and Donald R. Prothero</p>
-        
+
 <p class="fr-book-desc">Useful for evaluating wild-man and mystery-beast claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Abominable+Science%21+Daniel+Loxton+and+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

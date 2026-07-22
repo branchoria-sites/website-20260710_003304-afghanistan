@@ -359,7 +359,7 @@ For readers interested in unusual folklore rather than sensational paranormal cl
           <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The hero with a thousand faces">The hero with a thousand faces</a>
         </h4>
         <p class="fr-book-author">By Joseph Campbell</p>
-        
+
         <p class="fr-book-desc">Provides interpretive tools for ancestor and spirit traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,7 +376,7 @@ For readers interested in unusual folklore rather than sensational paranormal cl
           <a href="https://www.amazon.com/s?k=The+masks+of+God+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The masks of God">The masks of God</a>
         </h4>
         <p class="fr-book-author">By Joseph Campbell</p>
-        
+
         <p class="fr-book-desc">Discusses beliefs about ancestors and the sacred.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+masks+of+God+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ For readers interested in unusual folklore rather than sensational paranormal cl
           <a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The happy isles of Oceania">The happy isles of Oceania</a>
         </h4>
         <p class="fr-book-author">By Paul Theroux</p>
-        
+
         <p class="fr-book-desc">Supplies regional historical and cultural background.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ For readers interested in unusual folklore rather than sensational paranormal cl
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+the+undead+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of the undead">The Penguin book of the undead</a>
         </h4>
         <p class="fr-book-author">By Scott G. Bruce</p>
-        
+
         <p class="fr-book-desc">Explores historical beliefs about the dead across cultures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+the+undead+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

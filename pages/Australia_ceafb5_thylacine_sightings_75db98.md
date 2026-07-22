@@ -369,7 +369,7 @@ The result is one of Australia's most poignant Fortean stories. It is not simply
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Unexplained Phenomena">The Mammoth Book of Unexplained Phenomena</a>
 </h4>
 <p class="fr-book-author">By Roy Bainton</p>
-        
+
 <p class="fr-book-desc">Places thylacine reports within wider mystery traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ The result is one of Australia's most poignant Fortean stories. It is not simply
 <a href="https://www.amazon.com/s?k=The+Last+Tasmanian+Tiger+Robert+Paddle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Last Tasmanian Tiger">The Last Tasmanian Tiger</a>
 </h4>
 <p class="fr-book-author">By Robert Paddle</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: Zoology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Last+Tasmanian+Tiger+Robert+Paddle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ The result is one of Australia's most poignant Fortean stories. It is not simply
 <a href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unexplained phenomena">Unexplained phenomena</a>
 </h4>
 <p class="fr-book-author">By John F. Michell, John Michell et al.</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: Curiosities and wonders, Reference works, Unexplained phenomena, Metaphysical Phenomena - General, Refere...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ The result is one of Australia's most poignant Fortean stories. It is not simply
 <a href="https://www.amazon.com/s?k=Tasmanian+Tiger+David+Owen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tasmanian Tiger">Tasmanian Tiger</a>
 </h4>
 <p class="fr-book-author">By David Owen</p>
-        
+
 <p class="fr-book-desc">First published 2004. Subjects: Thylacine, Extinct mammals, Rare mammals, Zoology, australia, tasmania, Extinct animals.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Tasmanian+Tiger+David+Owen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

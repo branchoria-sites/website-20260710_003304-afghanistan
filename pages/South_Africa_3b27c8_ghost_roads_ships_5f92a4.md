@@ -331,7 +331,7 @@ Perhaps most intriguingly, both legends leave room for multiple interpretations.
           <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
         </h4>
         <p class="fr-book-author">By Jan Harold Brunvand</p>
-        
+
         <p class="fr-book-desc">Explains the worldwide roadside ghost motif behind Uniondale stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -348,7 +348,7 @@ Perhaps most intriguingly, both legends leave room for multiple interpretations.
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
         </h4>
         <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-        
+
         <p class="fr-book-desc">Shows how ghost legends become rooted in landscapes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -365,7 +365,7 @@ Perhaps most intriguingly, both legends leave room for multiple interpretations.
           <a href="https://www.amazon.com/s?k=Castaways+of+the+Flying+Dutchman+Brian+Jacques&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Castaways of the Flying Dutchman">Castaways of the Flying Dutchman</a>
         </h4>
         <p class="fr-book-author">By Brian Jacques</p>
-        
+
         <p class="fr-book-desc">First published 2001. Subjects: Juvenile fiction, Fiction, Dogs, Heroes, Angels.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Castaways+of+the+Flying+Dutchman+Brian+Jacques&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ Perhaps most intriguingly, both legends leave room for multiple interpretations.
           <a href="https://www.amazon.com/s?k=African+myths+of+origin+Stephen+Paterson+Belcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African myths of origin">African myths of origin</a>
         </h4>
         <p class="fr-book-author">By Stephen Paterson Belcher</p>
-        
+
         <p class="fr-book-desc">First published 2005. Subjects: Tales, Mythology, Folklore, africa, African Mythology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+myths+of+origin+Stephen+Paterson+Belcher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

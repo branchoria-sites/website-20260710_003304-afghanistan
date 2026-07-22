@@ -338,7 +338,7 @@ Unlike many Fortean subjects, the central mystery is not whether the trees exist
           <a href="https://www.amazon.com/s?k=The+botany+of+desire+Michael+Pollan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The botany of desire">The botany of desire</a>
         </h4>
         <p class="fr-book-author">By Michael Pollan, Michael Pollan et al.</p>
-        
+
         <p class="fr-book-desc">Appeals to readers fascinated by remarkable plants.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+botany+of+desire+Michael+Pollan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -355,7 +355,7 @@ Unlike many Fortean subjects, the central mystery is not whether the trees exist
           <a href="https://www.amazon.com/s?k=The+Song+of+the+Dodo+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Song of the Dodo">The Song of the Dodo</a>
         </h4>
         <p class="fr-book-author">By David Quammen</p>
-        
+
         <p class="fr-book-desc">Explains why isolated islands evolve extraordinary species like Socotra&#x27;s flora.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Song+of+the+Dodo+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ Unlike many Fortean subjects, the central mystery is not whether the trees exist
           <a href="https://www.amazon.com/s?k=Yemen+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Yemen">Yemen</a>
         </h4>
         <p class="fr-book-author">By Tim MacKintosh-Smith, Tim MacIntosh-Smith</p>
-        
+
         <p class="fr-book-desc">First published 1998. Subjects: Travel writing, History, Travel, Yemen, ASIA.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Yemen+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ Unlike many Fortean subjects, the central mystery is not whether the trees exist
           <a href="https://www.amazon.com/s?k=Arabia+Felix%2C+the+Danish+expedition+of+1761-1767+Thorkild+Hansen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabia Felix, the Danish expedition of 1761-1767">Arabia Felix, the Danish expedition of 1761-1767</a>
         </h4>
         <p class="fr-book-author">By Thorkild Hansen</p>
-        
+
         <p class="fr-book-desc">First published 1964. Subjects: Description and travel.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Arabia+Felix%2C+the+Danish+expedition+of+1761-1767+Thorkild+Hansen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

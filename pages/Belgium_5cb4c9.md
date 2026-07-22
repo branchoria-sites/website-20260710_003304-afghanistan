@@ -1311,7 +1311,7 @@ That is Belgium’s real place in country-level Forteana. It is not the land whe
 <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
 </h4>
 <p class="fr-book-author">By Charles Fort</p>
-        
+
 <p class="fr-book-desc">Foundational collection of strange historical reports including anomalous phenomena.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1328,7 +1328,7 @@ That is Belgium’s real place in country-level Forteana. It is not the land whe
 <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
 </h4>
 <p class="fr-book-author">By Jan Harold Brunvand</p>
-        
+
 <p class="fr-book-desc">First published 1981. Subjects: History and criticism, Legends, Urban folklore, Légendes, Folklore urbain.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1345,7 +1345,7 @@ That is Belgium’s real place in country-level Forteana. It is not the land whe
 <a href="https://www.amazon.com/s?k=The+World%27s+Greatest+UFO+Mysteries+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World&#x27;s Greatest UFO Mysteries">The World&#x27;s Greatest UFO Mysteries</a>
 </h4>
 <p class="fr-book-author">By Jenny Randles</p>
-        
+
 <p class="fr-book-desc">Places Belgium&#x27;s famous UFO cases in wider context.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+World%27s+Greatest+UFO+Mysteries+Jenny+Randles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1362,7 +1362,7 @@ That is Belgium’s real place in country-level Forteana. It is not the land whe
 <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
 </h4>
 <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
-        
+
 <p class="fr-book-desc">First published 1985.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

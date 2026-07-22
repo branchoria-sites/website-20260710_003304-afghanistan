@@ -359,7 +359,7 @@ No independent evidence can confirm that a golden stool descended from the sky o
 <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Leopold&#x27;s ghost">King Leopold&#x27;s ghost</a>
 </h4>
 <p class="fr-book-author">By Adam Hochschild</p>
-        
+
 <p class="fr-book-desc">First published 1998. Subjects: Politics and government, Race relations, Forced labor, Human rights movements, Indigenous peoples.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,7 +376,7 @@ No independent evidence can confirm that a golden stool descended from the sky o
 <a href="https://www.amazon.com/s?k=African+myths+of+origin+Stephen+Paterson+Belcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African myths of origin">African myths of origin</a>
 </h4>
 <p class="fr-book-author">By Stephen Paterson Belcher</p>
-        
+
 <p class="fr-book-desc">First published 2005. Subjects: Tales, Mythology, Folklore, africa, African Mythology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=African+myths+of+origin+Stephen+Paterson+Belcher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ No independent evidence can confirm that a golden stool descended from the sky o
 <a href="https://www.amazon.com/s?k=The+golden+stool+Edwin+William+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The golden stool">The golden stool</a>
 </h4>
 <p class="fr-book-author">By Edwin William Smith</p>
-        
+
 <p class="fr-book-desc">First published 1926. Subjects: Politics and government, Civilization, Race relations, Economic conditions, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+golden+stool+Edwin+William+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ No independent evidence can confirm that a golden stool descended from the sky o
 <a href="https://www.amazon.com/s?k=The+Golden+Stool+of+Ashanti+Edwin+L.+Meyerowitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Stool of Ashanti">The Golden Stool of Ashanti</a>
 </h4>
 <p class="fr-book-author">By Edwin L. Meyerowitz</p>
-        
+
 <p class="fr-book-desc">Directly examines the Golden Stool and Asante tradition.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Golden+Stool+of+Ashanti+Edwin+L.+Meyerowitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

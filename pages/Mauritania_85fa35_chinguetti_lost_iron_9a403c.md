@@ -357,7 +357,7 @@ Whether Ripert witnessed an extraordinary geological rarity, made an honest obse
 <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space">Rocks from Space</a>
 </h4>
 <p class="fr-book-author">By O. Richard Norton</p>
-        
+
 <p class="fr-book-desc">Explains meteorites and famous discoveries.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -374,7 +374,7 @@ Whether Ripert witnessed an extraordinary geological rarity, made an honest obse
 <a href="https://www.amazon.com/s?k=The+map+that+changed+the+world+Simon+Winchester&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The map that changed the world">The map that changed the world</a>
 </h4>
 <p class="fr-book-author">By Simon Winchester</p>
-        
+
 <p class="fr-book-desc">First published 2001. Subjects: Geologists, Stratigraphic Geology, Biography, History, Geography.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+map+that+changed+the+world+Simon+Winchester&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ Whether Ripert witnessed an extraordinary geological rarity, made an honest obse
 <a href="https://www.amazon.com/s?k=Sahara+Michael+Palin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sahara">Sahara</a>
 </h4>
 <p class="fr-book-author">By Michael Palin</p>
-        
+
 <p class="fr-book-desc">First published 2002. Subjects: Travel, Description and travel, Pictorial works, Sahara Description and travel, Erlebnisbericht.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Sahara+Michael+Palin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ Whether Ripert witnessed an extraordinary geological rarity, made an honest obse
 <a href="https://www.amazon.com/s?k=Meteorite+Hunting+Geoffrey+Notkin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorite Hunting">Meteorite Hunting</a>
 </h4>
 <p class="fr-book-author">By Geoffrey Notkin, Nancy and Dr. Larry Lebofsky et al.</p>
-        
+
 <p class="fr-book-desc">First published 2011.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Meteorite+Hunting+Geoffrey+Notkin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

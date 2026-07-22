@@ -1602,7 +1602,7 @@ The most honest reading is neither credulous nor dismissive. Many Lithuanian str
           <a href="https://www.amazon.com/s?k=The+Balts+Marija+Alseikait%C4%97+Gimbutas&amp;i=stripbooks" target="_blank" rel="sponsored noopener noreferrer" title="The Balts">The Balts</a>
         </h4>
         <p class="fr-book-author">By Marija Alseikaitė Gimbutas</p>
-        
+
         <p class="fr-book-desc">Provides essential background for Lithuania&#x27;s folklore, sacred places and mythic traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Balts+Marija+Alseikait%C4%97+Gimbutas&amp;i=stripbooks" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

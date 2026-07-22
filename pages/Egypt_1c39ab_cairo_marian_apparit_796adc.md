@@ -363,7 +363,7 @@ Its enduring fascination lies in the fact that neither interpretation has fully 
           <a href="https://www.amazon.com/s?k=The+complete+gods+and+goddesses+of+ancient+Egypt+Richard+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The complete gods and goddesses of ancient Egypt">The complete gods and goddesses of ancient Egypt</a>
         </h4>
         <p class="fr-book-author">By Richard H. Wilkinson</p>
-        
+
         <p class="fr-book-desc">Provides wider religious context for Egypt.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+complete+gods+and+goddesses+of+ancient+Egypt+Richard+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ Its enduring fascination lies in the fact that neither interpretation has fully 
           <a href="https://www.amazon.com/s?k=The+Oxford+history+of+ancient+Egypt+Ian+Shaw&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford history of ancient Egypt">The Oxford history of ancient Egypt</a>
         </h4>
         <p class="fr-book-author">By Ian Shaw, Ian Shaw</p>
-        
+
         <p class="fr-book-desc">Adds historical background to Egypt&#x27;s religious landscape.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Oxford+history+of+ancient+Egypt+Ian+Shaw&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ Its enduring fascination lies in the fact that neither interpretation has fully 
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the gods">Fingerprints of the gods</a>
         </h4>
         <p class="fr-book-author">By Graham Hancock</p>
-        
+
         <p class="fr-book-desc">First published 1995. Subjects: Lost continents, World maps, Ancient Civilization, Discovery and exploration, Early works to 1800.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ Its enduring fascination lies in the fact that neither interpretation has fully 
           <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
         </h4>
         <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in famous unexplained public events.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

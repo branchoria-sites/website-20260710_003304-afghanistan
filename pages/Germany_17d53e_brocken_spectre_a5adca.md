@@ -339,7 +339,7 @@ For Fortean studies, it offers an important lesson. Not every uncanny report is 
           <a href="https://www.amazon.com/s?k=Weather+For+Dummies+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
         </h4>
         <p class="fr-book-author">By John D. Cox</p>
-        
+
         <p class="fr-book-desc">Explains atmospheric optics behind the Brocken spectre.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Weather+For+Dummies+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -356,7 +356,7 @@ For Fortean studies, it offers an important lesson. Not every uncanny report is 
           <a href="https://www.amazon.com/s?k=Faust+Johann+Wolfgang+von+Goethe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Faust">Faust</a>
         </h4>
         <p class="fr-book-author">By Johann Wolfgang von Goethe</p>
-        
+
         <p class="fr-book-desc">The Brocken and Walpurgis Night feature prominently in German literary imagination.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Faust+Johann+Wolfgang+von+Goethe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ For Fortean studies, it offers an important lesson. Not every uncanny report is 
           <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
         </h4>
         <p class="fr-book-author">By Gavin Pretor-Pinney</p>
-        
+
         <p class="fr-book-desc">Helps readers understand cloud phenomena and optical effects.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ For Fortean studies, it offers an important lesson. Not every uncanny report is 
           <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
         </h4>
         <p class="fr-book-author">By Jan Harold Brunvand</p>
-        
+
         <p class="fr-book-desc">Examines how extraordinary experiences become enduring legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

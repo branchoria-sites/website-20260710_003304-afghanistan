@@ -335,7 +335,7 @@ For readers interested in Finland's Fortean landscape, these traditions provide 
           <a href="https://www.amazon.com/s?k=The+Kalevala+Elias+Lonnrot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kalevala">The Kalevala</a>
         </h4>
         <p class="fr-book-author">By Elias Lonnrot</p>
-        
+
         <p class="fr-book-desc">Contains the mythic tradition behind Finnish sky lore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Kalevala+Elias+Lonnrot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -352,7 +352,7 @@ For readers interested in Finland's Fortean landscape, these traditions provide 
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Finland+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Finland">Lonely Planet Finland</a>
         </h4>
         <p class="fr-book-author">By Lonely Planet, Barbara Woolsey et al.</p>
-        
+
         <p class="fr-book-desc">Introduces regions associated with auroral folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Finland+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ For readers interested in Finland's Fortean landscape, these traditions provide 
           <a href="https://www.amazon.com/s?k=The+Northern+Lights+Lucy+Jago&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Northern Lights">The Northern Lights</a>
         </h4>
         <p class="fr-book-author">By Lucy Jago</p>
-        
+
         <p class="fr-book-desc">Explains the natural phenomenon behind Finnish folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Northern+Lights+Lucy+Jago&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ For readers interested in Finland's Fortean landscape, these traditions provide 
           <a href="https://www.amazon.com/s?k=Culture+Smart%21+Finland+Terttu+Leney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Culture Smart! Finland">Culture Smart! Finland</a>
         </h4>
         <p class="fr-book-author">By Terttu Leney</p>
-        
+
         <p class="fr-book-desc">Provides cultural background for traditional stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Culture+Smart%21+Finland+Terttu+Leney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

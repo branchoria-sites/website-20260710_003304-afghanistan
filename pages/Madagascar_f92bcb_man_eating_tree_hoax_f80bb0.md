@@ -352,7 +352,7 @@ For readers interested in Madagascar's wider strange history, the man-eating tre
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Promotes critical thinking about extraordinary claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ For readers interested in Madagascar's wider strange history, the man-eating tre
           <a href="https://www.amazon.com/s?k=The+book+of+barely+imagined+beings+Caspar+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The book of barely imagined beings">The book of barely imagined beings</a>
         </h4>
         <p class="fr-book-author">By Caspar Henderson</p>
-        
+
         <p class="fr-book-desc">Shows that real biology can rival invented monsters.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+book+of+barely+imagined+beings+Caspar+Henderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ For readers interested in Madagascar's wider strange history, the man-eating tre
           <a href="https://www.amazon.com/s?k=The+Eighth+Continent+Peter+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Eighth Continent">The Eighth Continent</a>
         </h4>
         <p class="fr-book-author">By Peter Tyson</p>
-        
+
         <p class="fr-book-desc">Provides the real natural history distorted by the hoax.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Eighth+Continent+Peter+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

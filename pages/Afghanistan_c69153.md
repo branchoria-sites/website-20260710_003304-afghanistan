@@ -1311,7 +1311,7 @@ This is why the strongest reading is neither credulous nor dismissive. Afghanist
           <a href="https://www.amazon.com/s?k=Afghanistan+A+Cultural+And+Political+History+Thomas+Barfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Afghanistan A Cultural And Political History">Afghanistan A Cultural And Political History</a>
         </h4>
         <p class="fr-book-author">By Thomas Barfield</p>
-        
+
         <p class="fr-book-desc">Provides cultural context for folklore and regional traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Afghanistan+A+Cultural+And+Political+History+Thomas+Barfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1328,7 +1328,7 @@ This is why the strongest reading is neither credulous nor dismissive. Afghanist
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
         </h4>
         <p class="fr-book-author">By Scott G. Bruce</p>
-        
+
         <p class="fr-book-desc">Places Afghan dragon legends within wider dragon traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1345,7 +1345,7 @@ This is why the strongest reading is neither credulous nor dismissive. Afghanist
           <a href="https://www.amazon.com/s?k=Myths+and+Legends+Philip+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and Legends">Myths and Legends</a>
         </h4>
         <p class="fr-book-author">By Philip Wilkinson</p>
-        
+
         <p class="fr-book-desc">Introduces global mythic themes useful for interpreting Afghan legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Myths+and+Legends+Philip+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1362,8 +1362,8 @@ This is why the strongest reading is neither credulous nor dismissive. Afghanist
           <a href="https://www.amazon.com/s?k=A+Short+Walk+in+the+Hindu+Kush+Eric+Newby+Eric+Newby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Short Walk in the Hindu Kush Eric Newby">A Short Walk in the Hindu Kush Eric Newby</a>
         </h4>
         <p class="fr-book-author">By Eric Newby</p>
-        
-        
+
+
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Short+Walk+in+the+Hindu+Kush+Eric+Newby+Eric+Newby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon

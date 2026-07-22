@@ -347,7 +347,7 @@ This is why Lake Chad’s monsters remain part of the region’s strange-history
           <a href="https://www.amazon.com/s?k=The+Power+of+Myth+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Myth">The Power of Myth</a>
         </h4>
         <p class="fr-book-author">By Joseph Campbell</p>
-        
+
         <p class="fr-book-desc">Explains cultural role of monster stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Power+of+Myth+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -364,7 +364,7 @@ This is why Lake Chad’s monsters remain part of the region’s strange-history
           <a href="https://www.amazon.com/s?k=The+beasts+that+hide+from+man+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The beasts that hide from man">The beasts that hide from man</a>
         </h4>
         <p class="fr-book-author">By Karl Shuker</p>
-        
+
         <p class="fr-book-desc">Matches lake monster themes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+beasts+that+hide+from+man+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ This is why Lake Chad’s monsters remain part of the region’s strange-history
           <a href="https://www.amazon.com/s?k=Secret+World+of+Weather+Tristan+Gooley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Secret World of Weather">Secret World of Weather</a>
         </h4>
         <p class="fr-book-author">By Tristan Gooley</p>
-        
+
         <p class="fr-book-desc">First published 2021. Subjects: Physics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Secret+World+of+Weather+Tristan+Gooley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ This is why Lake Chad’s monsters remain part of the region’s strange-history
           <a href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals+Bernard+Heuvelmans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On the Track of Unknown Animals">On the Track of Unknown Animals</a>
         </h4>
         <p class="fr-book-author">By Bernard Heuvelmans</p>
-        
+
         <p class="fr-book-desc">Covers mystery animals and reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals+Bernard+Heuvelmans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

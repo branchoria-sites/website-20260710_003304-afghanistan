@@ -350,7 +350,7 @@ That combination makes the Bachwezi tradition one of Uganda's most compelling ex
           <a href="https://www.amazon.com/s?k=The+Ghosts+of+Africa+William+Stevenson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ghosts of Africa">The Ghosts of Africa</a>
         </h4>
         <p class="fr-book-author">By William Stevenson</p>
-        
+
         <p class="fr-book-desc">Adds historical background for Uganda.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Ghosts+of+Africa+William+Stevenson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -367,7 +367,7 @@ That combination makes the Bachwezi tradition one of Uganda's most compelling ex
           <a href="https://www.amazon.com/s?k=African+myths+of+origin+Stephen+Paterson+Belcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African myths of origin">African myths of origin</a>
         </h4>
         <p class="fr-book-author">By Stephen Paterson Belcher</p>
-        
+
         <p class="fr-book-desc">Provides context for legendary rulers and origin traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+myths+of+origin+Stephen+Paterson+Belcher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ That combination makes the Bachwezi tradition one of Uganda's most compelling ex
           <a href="https://www.amazon.com/s?k=African+Civilizations+Graham+Connah&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Civilizations">African Civilizations</a>
         </h4>
         <p class="fr-book-author">By Graham Connah</p>
-        
+
         <p class="fr-book-desc">Strong background for ancient earthworks and early African states.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+Civilizations+Graham+Connah&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ That combination makes the Bachwezi tradition one of Uganda's most compelling ex
           <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The scramble for Africa, 1876-1912">The scramble for Africa, 1876-1912</a>
         </h4>
         <p class="fr-book-author">By Thomas Pakenham, Thomas Pakenham et al.</p>
-        
+
         <p class="fr-book-desc">First published 1990. Subjects: History, Colonies, Colonization, Colonización, Kolonisatie.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -350,7 +350,7 @@ That distinction is precisely why the episode remains one of Uzbekistan's finest
           <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
         </h4>
         <p class="fr-book-author">By Peter Frankopan</p>
-        
+
         <p class="fr-book-desc">Places Timur and Samarkand in wider historical context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -367,7 +367,7 @@ That distinction is precisely why the episode remains one of Uzbekistan's finest
           <a href="https://www.amazon.com/s?k=Tamerlane+Justin+Marozzi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tamerlane">Tamerlane</a>
         </h4>
         <p class="fr-book-author">By Justin Marozzi</p>
-        
+
         <p class="fr-book-desc">Directly supports the tomb and curse narrative.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Tamerlane+Justin+Marozzi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ That distinction is precisely why the episode remains one of Uzbekistan's finest
           <a href="https://www.amazon.com/s?k=Genghis+Khan+and+the+Making+of+the+Modern+World+Jack+Weatherford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Genghis Khan and the Making of the Modern World">Genghis Khan and the Making of the Modern World</a>
         </h4>
         <p class="fr-book-author">By Jack Weatherford</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in steppe conquerors and their legacy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Genghis+Khan+and+the+Making+of+the+Modern+World+Jack+Weatherford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ That distinction is precisely why the episode remains one of Uzbekistan's finest
           <a href="https://www.amazon.com/s?k=Lost+Enlightenment+Central+Asias+Golden+Age+From+The+Arab+Conquest+To+Tamerlane+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost Enlightenment Central Asias Golden Age From The Arab Conquest To Tamerlane">Lost Enlightenment Central Asias Golden Age From The Arab Con...</a>
         </h4>
         <p class="fr-book-author">By S. Frederick Starr</p>
-        
+
         <p class="fr-book-desc">First published 2013. Subjects: History, Civilization, Asia, central, history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lost+Enlightenment+Central+Asias+Golden+Age+From+The+Arab+Conquest+To+Tamerlane+S.+Frederick+Starr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -355,7 +355,7 @@ That unresolved tension explains why Port Royal remains one of the Caribbean's m
           <a href="https://www.amazon.com/s?k=Under+the+black+flag+David+Cordingly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Under the black flag">Under the black flag</a>
         </h4>
         <p class="fr-book-author">By David Cordingly</p>
-        
+
         <p class="fr-book-desc">Provides context for Port Royal&#x27;s reputation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Under+the+black+flag+David+Cordingly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ That unresolved tension explains why Port Royal remains one of the Caribbean's m
           <a href="https://www.amazon.com/s?k=Empire+of+Blue+Water+Stephan+Talty&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Empire of Blue Water">Empire of Blue Water</a>
         </h4>
         <p class="fr-book-author">By Stephan Talty</p>
-        
+
         <p class="fr-book-desc">Covers the Caribbean world surrounding Port Royal.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Empire+of+Blue+Water+Stephan+Talty&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ That unresolved tension explains why Port Royal remains one of the Caribbean's m
           <a href="https://www.amazon.com/s?k=Pirate+Hunters+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pirate Hunters">Pirate Hunters</a>
         </h4>
         <p class="fr-book-author">By Robert Kurson</p>
-        
+
         <p class="fr-book-desc">Explores underwater archaeology in the Caribbean.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Pirate+Hunters+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ That unresolved tension explains why Port Royal remains one of the Caribbean's m
           <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Jamaica+3+ROUGH+GUIDES&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Jamaica 3">The Rough Guide to Jamaica 3</a>
         </h4>
         <p class="fr-book-author">By ROUGH GUIDES</p>
-        
+
         <p class="fr-book-desc">First published 2003.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Jamaica+3+ROUGH+GUIDES&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

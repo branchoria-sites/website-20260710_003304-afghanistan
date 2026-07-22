@@ -343,7 +343,7 @@ Rather than competing with science, the myth survives as cultural memory. It rem
 <a href="https://www.amazon.com/s?k=The+Dictionary+of+Albanian+Religion%2C+Mythology+and+Folk+Culture+Robert+Elsie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dictionary of Albanian Religion, Mythology and Folk Culture">The Dictionary of Albanian Religion, Mythology and Folk Culture</a>
 </h4>
 <p class="fr-book-author">By Robert Elsie</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: Dictionaries, Social life and customs, Albania, Folklore, Religious life and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Dictionary+of+Albanian+Religion%2C+Mythology+and+Folk+Culture+Robert+Elsie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -360,7 +360,7 @@ Rather than competing with science, the myth survives as cultural memory. It rem
 <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
 </h4>
 <p class="fr-book-author">By Scott G. Bruce</p>
-        
+
 <p class="fr-book-desc">First published 2021. Subjects: Folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ Rather than competing with science, the myth survives as cultural memory. It rem
 <a href="https://www.amazon.com/s?k=Myths+and+Legends+Philip+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and Legends">Myths and Legends</a>
 </h4>
 <p class="fr-book-author">By Philip Wilkinson</p>
-        
+
 <p class="fr-book-desc">First published 2009. Subjects: Legends.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Myths+and+Legends+Philip+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ Rather than competing with science, the myth survives as cultural memory. It rem
 <a href="https://www.amazon.com/s?k=High+Albania+M.+Edith+Durham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="High Albania">High Albania</a>
 </h4>
 <p class="fr-book-author">By M. Edith Durham</p>
-        
+
 <p class="fr-book-desc">First published 1909.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=High+Albania+M.+Edith+Durham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

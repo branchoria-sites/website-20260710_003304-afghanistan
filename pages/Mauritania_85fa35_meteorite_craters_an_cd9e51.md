@@ -331,7 +331,7 @@ That combination gives these sites a lasting place in Mauritania's strange-histo
 <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space">Rocks from Space</a>
 </h4>
 <p class="fr-book-author">By O. Richard Norton</p>
-        
+
 <p class="fr-book-desc">Explains meteorites, impacts and identification.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -348,7 +348,7 @@ That combination gives these sites a lasting place in Mauritania's strange-histo
 <a href="https://www.amazon.com/s?k=Sahara+Michael+Palin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sahara">Sahara</a>
 </h4>
 <p class="fr-book-author">By Michael Palin</p>
-        
+
 <p class="fr-book-desc">First published 2002. Subjects: Travel, Description and travel, Pictorial works, Sahara Description and travel, Erlebnisbericht.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Sahara+Michael+Palin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -365,7 +365,7 @@ That combination gives these sites a lasting place in Mauritania's strange-histo
 <a href="https://www.amazon.com/s?k=Origins+Lewis+Dartnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Origins">Origins</a>
 </h4>
 <p class="fr-book-author">By Lewis Dartnell</p>
-        
+
 <p class="fr-book-desc">First published 2019. Subjects: Human evolution, Human beings, origin, Human beings, Origin, Effect of environment on.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Origins+Lewis+Dartnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ That combination gives these sites a lasting place in Mauritania's strange-histo
 <a href="https://www.amazon.com/s?k=Meteorite+Hunting+Geoffrey+Notkin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorite Hunting">Meteorite Hunting</a>
 </h4>
 <p class="fr-book-author">By Geoffrey Notkin, Nancy and Dr. Larry Lebofsky et al.</p>
-        
+
 <p class="fr-book-desc">First published 2011.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Meteorite+Hunting+Geoffrey+Notkin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

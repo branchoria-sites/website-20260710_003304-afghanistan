@@ -337,7 +337,7 @@ That combination explains the legend's remarkable endurance. It satisfies severa
           <a href="https://www.amazon.com/s?k=The+Golem+Gustav+Meyrink&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golem">The Golem</a>
         </h4>
         <p class="fr-book-author">By Gustav Meyrink</p>
-        
+
         <p class="fr-book-desc">The defining novel inspired by the Prague Golem legend.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Golem+Gustav+Meyrink&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -354,7 +354,7 @@ That combination explains the legend's remarkable endurance. It satisfies severa
           <a href="https://www.amazon.com/s?k=Golem+and+the+Jinni+Helene+Wecker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Golem and the Jinni">Golem and the Jinni</a>
         </h4>
         <p class="fr-book-author">By Helene Wecker</p>
-        
+
         <p class="fr-book-desc">Introduces the Golem tradition to a broad readership.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Golem+and+the+Jinni+Helene+Wecker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ That combination explains the legend's remarkable endurance. It satisfies severa
           <a href="https://www.amazon.com/s?k=The+Legends+of+the+Jews+Louis+Ginzberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Legends of the Jews">The Legends of the Jews</a>
         </h4>
         <p class="fr-book-author">By Louis Ginzberg</p>
-        
+
         <p class="fr-book-desc">Provides wider folklore context surrounding the Golem tradition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Legends+of+the+Jews+Louis+Ginzberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ That combination explains the legend's remarkable endurance. It satisfies severa
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
         </h4>
         <p class="fr-book-author">By Scott G. Bruce</p>
-        
+
         <p class="fr-book-desc">Expands into medieval and early modern monster traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

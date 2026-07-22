@@ -353,7 +353,7 @@ The hidden world beneath Gorée’s hills may belong to legend, but the idea beh
           <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The hero with a thousand faces">The hero with a thousand faces</a>
         </h4>
         <p class="fr-book-author">By Joseph Campbell</p>
-        
+
         <p class="fr-book-desc">Explains patterns behind legendary beings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +370,7 @@ The hidden world beneath Gorée’s hills may belong to legend, but the idea beh
           <a href="https://www.amazon.com/s?k=The+Book+of+Mythical+Beasts+and+Magical+Creatures+Stephen+Krensky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Mythical Beasts and Magical Creatures">The Book of Mythical Beasts and Magical Creatures</a>
         </h4>
         <p class="fr-book-author">By Stephen Krensky</p>
-        
+
         <p class="fr-book-desc">Directly matches mysterious creatures and hidden beings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+Mythical+Beasts+and+Magical+Creatures+Stephen+Krensky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ The hidden world beneath Gorée’s hills may belong to legend, but the idea beh
           <a href="https://www.amazon.com/s?k=The+fairy+mythology+Thomas+Keightley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fairy mythology">The fairy mythology</a>
         </h4>
         <p class="fr-book-author">By Thomas Keightley</p>
-        
+
         <p class="fr-book-desc">Historical connection through European retellings of Yumboes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fairy+mythology+Thomas+Keightley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ The hidden world beneath Gorée’s hills may belong to legend, but the idea beh
           <a href="https://www.amazon.com/s?k=African+folktales+Roger+D.+Abrahams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African folktales">African folktales</a>
         </h4>
         <p class="fr-book-author">By Roger D. Abrahams</p>
-        
+
         <p class="fr-book-desc">Provides African storytelling context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+folktales+Roger+D.+Abrahams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -1326,7 +1326,7 @@ Algeria’s Forteana therefore has a distinctive character. It is less a parade 
           <a href="https://www.amazon.com/s?k=The+world%27s+most+mysterious+places+R.+Lionel+Fanthorpe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world&#x27;s most mysterious places">The world&#x27;s most mysterious places</a>
         </h4>
         <p class="fr-book-author">By R. Lionel Fanthorpe</p>
-        
+
         <p class="fr-book-desc">Covers the style of mysteries and folklore that frame Algeria&#x27;s unusual traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world%27s+most+mysterious+places+R.+Lionel+Fanthorpe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1343,7 +1343,7 @@ Algeria’s Forteana therefore has a distinctive character. It is less a parade 
           <a href="https://www.amazon.com/s?k=The+Atlas+of+Atlases+Philip+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Atlas of Atlases">The Atlas of Atlases</a>
         </h4>
         <p class="fr-book-author">By Philip Parker</p>
-        
+
         <p class="fr-book-desc">Provides rich context for Algeria&#x27;s landscapes and historical setting behind many strange stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Atlas+of+Atlases+Philip+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1360,7 +1360,7 @@ Algeria’s Forteana therefore has a distinctive character. It is less a parade 
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the gods">Fingerprints of the gods</a>
         </h4>
         <p class="fr-book-author">By Graham Hancock</p>
-        
+
         <p class="fr-book-desc">Frequently intersects with discussions of ancient mysteries including Saharan archaeology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1377,7 +1377,7 @@ Algeria’s Forteana therefore has a distinctive character. It is less a parade 
           <a href="https://www.amazon.com/s?k=Sahara+Michael+Palin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sahara">Sahara</a>
         </h4>
         <p class="fr-book-author">By Michael Palin</p>
-        
+
         <p class="fr-book-desc">Explores the Sahara&#x27;s landscapes, cultures and history central to Algerian lore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sahara+Michael+Palin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

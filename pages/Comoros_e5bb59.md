@@ -1289,7 +1289,7 @@ For a small island nation, Comoros provides a reminder that strange history is n
           <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The hero with a thousand faces">The hero with a thousand faces</a>
         </h4>
         <p class="fr-book-author">By Joseph Campbell</p>
-        
+
         <p class="fr-book-desc">Useful for readers exploring legends and cultural storytelling.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1306,7 +1306,7 @@ For a small island nation, Comoros provides a reminder that strange history is n
           <a href="https://www.amazon.com/s?k=The+Sacred+and+The+Profane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sacred and The Profane">The Sacred and The Profane</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Explains how cultures give meaning to unusual places and experiences.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Sacred+and+The+Profane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1323,7 +1323,7 @@ For a small island nation, Comoros provides a reminder that strange history is n
           <a href="https://www.amazon.com/s?k=The+Hero+with+a+Thousand+Faces+%28Mythos+Books%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hero with a Thousand Faces (Mythos Books)">The Hero with a Thousand Faces (Mythos Books)</a>
         </h4>
         <p class="fr-book-author">By Unknown author</p>
-        
+
         <p class="fr-book-desc">Useful for readers exploring legends and cultural storytelling.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hero+with+a+Thousand+Faces+%28Mythos+Books%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1340,7 +1340,7 @@ For a small island nation, Comoros provides a reminder that strange history is n
           <a href="https://www.amazon.com/s?k=Volcanoes%3A+Fire+from+the+Earth+Maurice+Krafft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Volcanoes: Fire from the Earth">Volcanoes: Fire from the Earth</a>
         </h4>
         <p class="fr-book-author">By Maurice Krafft</p>
-        
+
         <p class="fr-book-desc">Connects with Comoros&#x27; volcanic landscape and Karthala.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Volcanoes%3A+Fire+from+the+Earth+Maurice+Krafft&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

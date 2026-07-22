@@ -353,7 +353,7 @@ The lasting importance of these stories is therefore not whether a person truly 
           <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Bough">The Golden Bough</a>
         </h4>
         <p class="fr-book-author">By James George Frazer</p>
-        
+
         <p class="fr-book-desc">A famous comparative mythology work useful for readers interested in magic, ritual and transformation stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +370,7 @@ The lasting importance of these stories is therefore not whether a person truly 
           <a href="https://www.amazon.com/s?k=The+Witchcraft+Reader+Darren+Oldridge&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Witchcraft Reader">The Witchcraft Reader</a>
         </h4>
         <p class="fr-book-author">By Darren Oldridge</p>
-        
+
         <p class="fr-book-desc">Helps readers understand accusations, supernatural claims and the social effects of belief systems.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Witchcraft+Reader+Darren+Oldridge&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ The lasting importance of these stories is therefore not whether a person truly 
           <a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The anthropology of religion, magic, and witchcraft">The anthropology of religion, magic, and witchcraft</a>
         </h4>
         <p class="fr-book-author">By Philip L. Stein, Rebecca Stein</p>
-        
+
         <p class="fr-book-desc">Explains how supernatural beliefs function socially and culturally.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ The lasting importance of these stories is therefore not whether a person truly 
           <a href="https://www.amazon.com/s?k=African+myths+of+origin+Stephen+Paterson+Belcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African myths of origin">African myths of origin</a>
         </h4>
         <p class="fr-book-author">By Stephen Paterson Belcher</p>
-        
+
         <p class="fr-book-desc">Connects transformation motifs with wider African storytelling traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+myths+of+origin+Stephen+Paterson+Belcher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

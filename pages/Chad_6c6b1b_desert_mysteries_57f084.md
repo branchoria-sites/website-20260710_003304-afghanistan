@@ -346,7 +346,7 @@ That uncertainty is what gives Chad’s Saharan landscapes their unusual charact
           <a href="https://www.amazon.com/s?k=The+Lost+City+of+the+Monkey+God+Douglas+Preston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lost City of the Monkey God">The Lost City of the Monkey God</a>
         </h4>
         <p class="fr-book-author">By Douglas Preston</p>
-        
+
         <p class="fr-book-desc">Appeals to exploration and lost-place readers.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lost+City+of+the+Monkey+God+Douglas+Preston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -363,7 +363,7 @@ That uncertainty is what gives Chad’s Saharan landscapes their unusual charact
           <a href="https://www.amazon.com/s?k=Desert+solitaire+Edward+Abbey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Desert solitaire">Desert solitaire</a>
         </h4>
         <p class="fr-book-author">By Edward Abbey</p>
-        
+
         <p class="fr-book-desc">Captures desert fascination.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Desert+solitaire+Edward+Abbey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ That uncertainty is what gives Chad’s Saharan landscapes their unusual charact
           <a href="https://www.amazon.com/s?k=Sahara+Michael+Palin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sahara">Sahara</a>
         </h4>
         <p class="fr-book-author">By Michael Palin</p>
-        
+
         <p class="fr-book-desc">Covers Sahara landscapes and human stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sahara+Michael+Palin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ That uncertainty is what gives Chad’s Saharan landscapes their unusual charact
           <a href="https://www.amazon.com/s?k=A+short+history+of+nearly+everything+Bill+Bryson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A short history of nearly everything">A short history of nearly everything</a>
         </h4>
         <p class="fr-book-author">By Bill Bryson</p>
-        
+
         <p class="fr-book-desc">First published 2003. Subjects: Science, Popular works, Ciencia, Obras populares, Science, popular works.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+short+history+of+nearly+everything+Bill+Bryson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -329,7 +329,7 @@ That combination of careful scientific understanding, documented historical chan
           <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+The+Caribbean+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to The Caribbean">The Rough Guide to The Caribbean</a>
         </h4>
         <p class="fr-book-author">By Rough Guides, Nicky Agate</p>
-        
+
         <p class="fr-book-desc">Includes practical coverage of Dominica and Morne Trois Pitons.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+The+Caribbean+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -346,7 +346,7 @@ That combination of careful scientific understanding, documented historical chan
           <a href="https://www.amazon.com/s?k=The+volcano+adventure+guide+Rosaly+M.+C.+Lopes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The volcano adventure guide">The volcano adventure guide</a>
         </h4>
         <p class="fr-book-author">By Rosaly M. C. Lopes</p>
-        
+
         <p class="fr-book-desc">Directly explains volcanic landscapes like Dominica&#x27;s Boiling Lake.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+volcano+adventure+guide+Rosaly+M.+C.+Lopes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -363,7 +363,7 @@ That combination of careful scientific understanding, documented historical chan
           <a href="https://www.amazon.com/s?k=Volcanoes+Francis%2C+Peter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Volcanoes">Volcanoes</a>
         </h4>
         <p class="fr-book-author">By Francis, Peter</p>
-        
+
         <p class="fr-book-desc">Explains hydrothermal systems and volcanic lakes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Volcanoes+Francis%2C+Peter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ That combination of careful scientific understanding, documented historical chan
           <a href="https://www.amazon.com/s?k=The+Ends+of+the+Earth+Robert+D.+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ends of the Earth">The Ends of the Earth</a>
         </h4>
         <p class="fr-book-author">By Robert D. Kaplan</p>
-        
+
         <p class="fr-book-desc">Celebrates dramatic global landscapes that echo places like Boiling Lake.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Ends+of+the+Earth+Robert+D.+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

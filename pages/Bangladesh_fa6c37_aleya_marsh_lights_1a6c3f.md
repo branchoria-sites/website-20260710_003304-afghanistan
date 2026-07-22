@@ -364,7 +364,7 @@ For students of Fortean history, Aleya illustrates an important pattern found ar
 <a href="https://www.amazon.com/s?k=The+Hungry+Tide+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hungry Tide">The Hungry Tide</a>
 </h4>
 <p class="fr-book-author">By Amitav Ghosh, Yaʻel Akhmon</p>
-        
+
 <p class="fr-book-desc">First published 2004. Subjects: Ecological disturbances, Tides, Fiction, Rural poor, Americans.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Hungry+Tide+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ For students of Fortean history, Aleya illustrates an important pattern found ar
 <a href="https://www.amazon.com/s?k=Folktales+from+India+A.+K.+Ramanujan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folktales from India">Folktales from India</a>
 </h4>
 <p class="fr-book-author">By A. K. Ramanujan</p>
-        
+
 <p class="fr-book-desc">First published 1991. Subjects: Tales, Oral tradition, Contes, Tradition orale, Mündliche Erzählung.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Folktales+from+India+A.+K.+Ramanujan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ For students of Fortean history, Aleya illustrates an important pattern found ar
 <a href="https://www.amazon.com/s?k=Land+of+two+rivers+Nitish+K.+Sengupta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Land of two rivers">Land of two rivers</a>
 </h4>
 <p class="fr-book-author">By Nitish K. Sengupta</p>
-        
+
 <p class="fr-book-desc">First published 2011. Subjects: History, Asia, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Land+of+two+rivers+Nitish+K.+Sengupta&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ For students of Fortean history, Aleya illustrates an important pattern found ar
 <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
 </h4>
 <p class="fr-book-author">By Scott G. Bruce</p>
-        
+
 <p class="fr-book-desc">First published 2021. Subjects: Folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

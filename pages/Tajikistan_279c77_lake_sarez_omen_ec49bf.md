@@ -350,7 +350,7 @@ In that sense, Lake Sarez is a living omen rather than a supernatural one. The e
           <a href="https://www.amazon.com/s?k=The+control+of+nature+John+McPhee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The control of nature">The control of nature</a>
         </h4>
         <p class="fr-book-author">By John McPhee</p>
-        
+
         <p class="fr-book-desc">Explores humanity&#x27;s relationship with geological threats.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+control+of+nature+John+McPhee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -367,7 +367,7 @@ In that sense, Lake Sarez is a living omen rather than a supernatural one. The e
           <a href="https://www.amazon.com/s?k=Annals+of+the+former+world+John+McPhee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Annals of the former world">Annals of the former world</a>
         </h4>
         <p class="fr-book-author">By John McPhee</p>
-        
+
         <p class="fr-book-desc">Deepens understanding of mountain geology and landscapes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Annals+of+the+former+world+John+McPhee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ In that sense, Lake Sarez is a living omen rather than a supernatural one. The e
           <a href="https://www.amazon.com/s?k=The+Great+Game+Peter+Hopkirk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Game">The Great Game</a>
         </h4>
         <p class="fr-book-author">By Peter Hopkirk</p>
-        
+
         <p class="fr-book-desc">Broadens the historical context of the Pamir region.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Great+Game+Peter+Hopkirk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ In that sense, Lake Sarez is a living omen rather than a supernatural one. The e
           <a href="https://www.amazon.com/s?k=Earthshock+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Earthshock">Earthshock</a>
         </h4>
         <p class="fr-book-author">By Andrew Robinson</p>
-        
+
         <p class="fr-book-desc">Explains the geological forces behind the lake&#x27;s creation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Earthshock+Andrew+Robinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

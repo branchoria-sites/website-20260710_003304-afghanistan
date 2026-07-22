@@ -333,7 +333,7 @@ That layered character explains why Beqa firewalking continues to fascinate. Its
           <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Bough">The Golden Bough</a>
         </h4>
         <p class="fr-book-author">By James George Frazer</p>
-        
+
         <p class="fr-book-desc">Discusses ritual practices and comparative traditions including firewalking themes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -350,7 +350,7 @@ That layered character explains why Beqa firewalking continues to fascinate. Its
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Fiji+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Fiji">Lonely Planet Fiji</a>
         </h4>
         <p class="fr-book-author">By Lonely Planet, Paul Clammer et al.</p>
-        
+
         <p class="fr-book-desc">Introduces Beqa Island and its famous firewalking tradition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Fiji+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -367,7 +367,7 @@ That layered character explains why Beqa firewalking continues to fascinate. Its
           <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Fiji+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Fiji">The Rough Guide to Fiji</a>
         </h4>
         <p class="fr-book-author">By Rough Guides</p>
-        
+
         <p class="fr-book-desc">Includes cultural context for Beqa and traditional ceremonies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Fiji+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ That layered character explains why Beqa firewalking continues to fascinate. Its
           <a href="https://www.amazon.com/s?k=Fiji%3A+A+History+Stewart+Firth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fiji: A History">Fiji: A History</a>
         </h4>
         <p class="fr-book-author">By Stewart Firth</p>
-        
+
         <p class="fr-book-desc">Explains the historical background of Fijian traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fiji%3A+A+History+Stewart+Firth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

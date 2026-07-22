@@ -1293,7 +1293,7 @@ The Philippines’ strange-history record is therefore less a catalogue of prove
           <a href="https://www.amazon.com/s?k=Philippine+Folk+Literature+Damiana+L.+Eugenio&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Philippine Folk Literature">Philippine Folk Literature</a>
         </h4>
         <p class="fr-book-author">By Damiana L. Eugenio</p>
-        
+
         <p class="fr-book-desc">Covers traditional stories behind many Philippine mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Philippine+Folk+Literature+Damiana+L.+Eugenio&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1310,7 +1310,7 @@ The Philippines’ strange-history record is therefore less a catalogue of prove
           <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Encyclopedia of Ghosts and Spirits">The Encyclopedia of Ghosts and Spirits</a>
         </h4>
         <p class="fr-book-author">By Rosemary Ellen Guiley</p>
-        
+
         <p class="fr-book-desc">Places Philippine supernatural traditions within global folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1327,7 +1327,7 @@ The Philippines’ strange-history record is therefore less a catalogue of prove
           <a href="https://www.amazon.com/s?k=Nick+Joaquin%27s+The+woman+who+had+two+navels+Nick+Joaquin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nick Joaquin&#x27;s The woman who had two navels">Nick Joaquin&#x27;s The woman who had two navels</a>
         </h4>
         <p class="fr-book-author">By Nick Joaquin</p>
-        
+
         <p class="fr-book-desc">First published 1961.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Nick+Joaquin%27s+The+woman+who+had+two+navels+Nick+Joaquin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

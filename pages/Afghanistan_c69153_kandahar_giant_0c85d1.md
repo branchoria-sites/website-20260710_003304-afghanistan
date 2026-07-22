@@ -359,7 +359,7 @@ Within Afghanistan's wider catalogue of strange traditions, the Kandahar Giant t
           <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
         </h4>
         <p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
-        
+
         <p class="fr-book-desc">Illustrates how extraordinary creature claims spread in modern culture.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,7 +376,7 @@ Within Afghanistan's wider catalogue of strange traditions, the Kandahar Giant t
           <a href="https://www.amazon.com/s?k=Afghanistan+A+Cultural+And+Political+History+Thomas+Barfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Afghanistan A Cultural And Political History">Afghanistan A Cultural And Political History</a>
         </h4>
         <p class="fr-book-author">By Thomas Barfield</p>
-        
+
         <p class="fr-book-desc">Grounds the wartime setting of the legend.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Afghanistan+A+Cultural+And+Political+History+Thomas+Barfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ Within Afghanistan's wider catalogue of strange traditions, the Kandahar Giant t
           <a href="https://www.amazon.com/s?k=United+States+of+Cryptids+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="United States of Cryptids">United States of Cryptids</a>
         </h4>
         <p class="fr-book-author">By J. W. Ocker</p>
-        
+
         <p class="fr-book-desc">Provides context for giant and cryptid folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=United+States+of+Cryptids+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,16 +404,16 @@ Within Afghanistan's wider catalogue of strange traditions, the Kandahar Giant t
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Abominable Science on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+places+in+between+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The places in between on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6768130-M.jpg" alt="Cover for The places in between" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
+          <a href="https://www.amazon.com/s?k=The+places+in+between+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The places in between">The places in between</a>
         </h4>
-        <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
-        
-        <p class="fr-book-desc">Helps readers assess stories such as the Kandahar Giant.</p>
+        <p class="fr-book-author">By Unknown author</p>
+
+        <p class="fr-book-desc">Provides authentic perspective on Afghanistan&#x27;s terrain.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+places+in+between+Unknown+author&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

@@ -1303,7 +1303,7 @@ That is why Bhutan matters in country-level Forteana. Its strange record is not 
           <a href="https://www.amazon.com/s?k=Beyond+the+sky+and+the+earth+Jamie+Zeppa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Beyond the sky and the earth">Beyond the sky and the earth</a>
         </h4>
         <p class="fr-book-author">By Jamie Zeppa</p>
-        
+
         <p class="fr-book-desc">Introduces everyday Bhutanese beliefs and culture.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Beyond+the+sky+and+the+earth+Jamie+Zeppa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1320,7 +1320,7 @@ That is why Bhutan matters in country-level Forteana. Its strange record is not 
           <a href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Snow Leopard">The Snow Leopard</a>
         </h4>
         <p class="fr-book-author">By Peter Matthiessen</p>
-        
+
         <p class="fr-book-desc">Captures Himalayan landscapes and spiritual atmosphere.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1337,7 +1337,7 @@ That is why Bhutan matters in country-level Forteana. Its strange record is not 
           <a href="https://www.amazon.com/s?k=Bhutan+Fran%C3%A7oise+Pommaret&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bhutan">Bhutan</a>
         </h4>
         <p class="fr-book-author">By Françoise Pommaret</p>
-        
+
         <p class="fr-book-desc">First published 1984. Subjects: Guidebooks, Description and travel.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bhutan+Fran%C3%A7oise+Pommaret&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1354,7 +1354,7 @@ That is why Bhutan matters in country-level Forteana. Its strange record is not 
           <a href="https://www.amazon.com/s?k=Bhutanese+tales+of+the+yeti+Kunzang+Choden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bhutanese tales of the yeti">Bhutanese tales of the yeti</a>
         </h4>
         <p class="fr-book-author">By Kunzang Choden</p>
-        
+
         <p class="fr-book-desc">Explores living migoi traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bhutanese+tales+of+the+yeti+Kunzang+Choden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

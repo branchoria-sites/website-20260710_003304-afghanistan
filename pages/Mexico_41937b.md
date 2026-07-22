@@ -1348,7 +1348,7 @@ Mexico’s weird-history record is strongest when treated as a living archive ra
           <a href="https://www.amazon.com/s?k=Gods+of+Jade+and+Shadow+Silvia+Moreno-Garcia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Gods of Jade and Shadow">Gods of Jade and Shadow</a>
         </h4>
         <p class="fr-book-author">By Silvia Moreno-Garcia</p>
-        
+
         <p class="fr-book-desc">Introduces readers to mythic themes behind strange-history traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Gods+of+Jade+and+Shadow+Silvia+Moreno-Garcia&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1365,7 +1365,7 @@ Mexico’s weird-history record is strongest when treated as a living archive ra
           <a href="https://www.amazon.com/s?k=The+Science+of+Discworld+Terry+Pratchett&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Science of Discworld">The Science of Discworld</a>
         </h4>
         <p class="fr-book-author">By Terry Pratchett, Ian Stewart et al.</p>
-        
+
         <p class="fr-book-desc">Supports scientific interpretations of unusual events.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Science+of+Discworld+Terry+Pratchett&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1382,7 +1382,7 @@ Mexico’s weird-history record is strongest when treated as a living archive ra
           <a href="https://www.amazon.com/s?k=The+world+atlas+of+mysteries+Francis+Hitching&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world atlas of mysteries">The world atlas of mysteries</a>
         </h4>
         <p class="fr-book-author">By Francis Hitching</p>
-        
+
         <p class="fr-book-desc">Places Mexican mysteries within a global framework.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world+atlas+of+mysteries+Francis+Hitching&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1399,7 +1399,7 @@ Mexico’s weird-history record is strongest when treated as a living archive ra
           <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+2+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Unexplained Phenomena 2">The Rough Guide to Unexplained Phenomena 2</a>
         </h4>
         <p class="fr-book-author">By Rough Guides</p>
-        
+
         <p class="fr-book-desc">First published 2007.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+2+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

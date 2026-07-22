@@ -340,7 +340,7 @@ For readers interested in Ghana's Fortean heritage, the lake demonstrates that "
 <a href="https://www.amazon.com/s?k=National+Geographic+Atlas+of+the+World+National+Geographic+Society+%28U.S.%29.+Cartographic+Division.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="National Geographic Atlas of the World">National Geographic Atlas of the World</a>
 </h4>
 <p class="fr-book-author">By National Geographic Society (U.S.). Cartographic Division.</p>
-        
+
 <p class="fr-book-desc">First published 1970. Subjects: Atlas, Atlases.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=National+Geographic+Atlas+of+the+World+National+Geographic+Society+%28U.S.%29.+Cartographic+Division.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -357,7 +357,7 @@ For readers interested in Ghana's Fortean heritage, the lake demonstrates that "
 <a href="https://www.amazon.com/s?k=The+Ends+of+the+Earth+Robert+D.+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ends of the Earth">The Ends of the Earth</a>
 </h4>
 <p class="fr-book-author">By Robert D. Kaplan</p>
-        
+
 <p class="fr-book-desc">First published 1996. Subjects: Description and travel, Travel, Journeys, Middle East, Descripción y viajes.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Ends+of+the+Earth+Robert+D.+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -374,7 +374,7 @@ For readers interested in Ghana's Fortean heritage, the lake demonstrates that "
 <a href="https://www.amazon.com/s?k=African+myths+of+origin+Stephen+Paterson+Belcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African myths of origin">African myths of origin</a>
 </h4>
 <p class="fr-book-author">By Stephen Paterson Belcher</p>
-        
+
 <p class="fr-book-desc">First published 2005. Subjects: Tales, Mythology, Folklore, africa, African Mythology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=African+myths+of+origin+Stephen+Paterson+Belcher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ For readers interested in Ghana's Fortean heritage, the lake demonstrates that "
 <a href="https://www.amazon.com/s?k=The+golden+stool+Edwin+William+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The golden stool">The golden stool</a>
 </h4>
 <p class="fr-book-author">By Edwin William Smith</p>
-        
+
 <p class="fr-book-desc">First published 1926. Subjects: Politics and government, Civilization, Race relations, Economic conditions, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+golden+stool+Edwin+William+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

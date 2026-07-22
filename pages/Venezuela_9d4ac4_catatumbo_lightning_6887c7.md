@@ -346,7 +346,7 @@ This makes Catatumbo Lightning an ideal example of how extraordinary natural eve
           <a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The AMS Weather Book">The AMS Weather Book</a>
         </h4>
         <p class="fr-book-author">By Jack Williams</p>
-        
+
         <p class="fr-book-desc">Explains atmospheric processes behind remarkable storms like Catatumbo lightning.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+AMS+Weather+Book+Jack+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -363,7 +363,7 @@ This makes Catatumbo Lightning an ideal example of how extraordinary natural eve
           <a href="https://www.amazon.com/s?k=The+man+who+caught+the+storm+Brantley+Hargrove&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The man who caught the storm">The man who caught the storm</a>
         </h4>
         <p class="fr-book-author">By Brantley Hargrove</p>
-        
+
         <p class="fr-book-desc">Explores the science and pursuit of severe storms.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+man+who+caught+the+storm+Brantley+Hargrove&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ This makes Catatumbo Lightning an ideal example of how extraordinary natural eve
           <a href="https://www.amazon.com/s?k=Storm+chaser+Warren+Faidley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Storm chaser">Storm chaser</a>
         </h4>
         <p class="fr-book-author">By Warren Faidley</p>
-        
+
         <p class="fr-book-desc">Focuses on dramatic thunderstorms and severe weather.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Storm+chaser+Warren+Faidley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -372,7 +372,7 @@ Yet the landscape retains its power because human perception has limits. Even kn
           <a href="https://www.amazon.com/s?k=Sahara+Michael+Palin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sahara">Sahara</a>
         </h4>
         <p class="fr-book-author">By Michael Palin</p>
-        
+
         <p class="fr-book-desc">Explains the environmental history behind Chott el Djerid.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sahara+Michael+Palin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ Yet the landscape retains its power because human perception has limits. Even kn
           <a href="https://www.amazon.com/s?k=The+Magic+of+Reality+Richard+Dawkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Magic of Reality">The Magic of Reality</a>
         </h4>
         <p class="fr-book-author">By Richard Dawkins, Dave McKean</p>
-        
+
         <p class="fr-book-desc">Explains natural phenomena that often inspire myths.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Magic+of+Reality+Richard+Dawkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ Yet the landscape retains its power because human perception has limits. Even kn
           <a href="https://www.amazon.com/s?k=Carthage+must+be+destroyed+Richard+Miles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Carthage must be destroyed">Carthage must be destroyed</a>
         </h4>
         <p class="fr-book-author">By Richard Miles</p>
-        
+
         <p class="fr-book-desc">Adds broader historical context for Tunisia.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Carthage+must+be+destroyed+Richard+Miles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,7 +423,7 @@ Yet the landscape retains its power because human perception has limits. Even kn
           <a href="https://www.amazon.com/s?k=Two+against+the+Sahara+Michael+Asher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Two against the Sahara">Two against the Sahara</a>
         </h4>
         <p class="fr-book-author">By Michael Asher</p>
-        
+
         <p class="fr-book-desc">First published 1988. Subjects: Description and travel, Travel, Sahara, description and travel, Voyages and travels, Journeys.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Two+against+the+Sahara+Michael+Asher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

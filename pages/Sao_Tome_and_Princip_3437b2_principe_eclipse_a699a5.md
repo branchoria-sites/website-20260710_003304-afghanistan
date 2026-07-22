@@ -319,7 +319,7 @@ For São Tomé and Príncipe, the eclipse remains a unique piece of scientific h
           <a href="https://www.amazon.com/s?k=The+Fabric+of+the+Cosmos+Brian+Greene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Fabric of the Cosmos">The Fabric of the Cosmos</a>
         </h4>
         <p class="fr-book-author">By Brian Greene</p>
-        
+
         <p class="fr-book-desc">Broadens the relativity theme into modern ideas about space and time.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Fabric+of+the+Cosmos+Brian+Greene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -336,7 +336,7 @@ For São Tomé and Príncipe, the eclipse remains a unique piece of scientific h
           <a href="https://www.amazon.com/s?k=Black+holes+and+time+warps+Kip+S.+Thorne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black holes and time warps">Black holes and time warps</a>
         </h4>
         <p class="fr-book-author">By Kip S. Thorne</p>
-        
+
         <p class="fr-book-desc">Explains Einstein&#x27;s gravity ideas and the wider story of relativity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Black+holes+and+time+warps+Kip+S.+Thorne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -353,7 +353,7 @@ For São Tomé and Príncipe, the eclipse remains a unique piece of scientific h
           <a href="https://www.amazon.com/s?k=A+history+of+Africa+J.+D.+Fage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Africa">A history of Africa</a>
         </h4>
         <p class="fr-book-author">By J. D. Fage</p>
-        
+
         <p class="fr-book-desc">First published 1978. Subjects: History, Histoire, Juvenile literature, Africa, history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Africa+J.+D.+Fage&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +370,7 @@ For São Tomé and Príncipe, the eclipse remains a unique piece of scientific h
           <a href="https://www.amazon.com/s?k=Einstein+Walter+Isaacson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Einstein">Einstein</a>
         </h4>
         <p class="fr-book-author">By Walter Isaacson</p>
-        
+
         <p class="fr-book-desc">First published 2007. Subjects: physics, relativity, scientific advancement, quantum mechanics, Friends and associates.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Einstein+Walter+Isaacson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -344,7 +344,7 @@ Cyprus’s unusual falls and strange skies therefore belong less to a catalogue 
           <a href="https://www.amazon.com/s?k=Weather+For+Dummies+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weather For Dummies">Weather For Dummies</a>
         </h4>
         <p class="fr-book-author">By John D. Cox</p>
-        
+
         <p class="fr-book-desc">Helps explain dramatic weather events behind strange sightings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Weather+For+Dummies+John+D.+Cox&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -361,7 +361,7 @@ Cyprus’s unusual falls and strange skies therefore belong less to a catalogue 
           <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
         </h4>
         <p class="fr-book-author">By Gavin Pretor-Pinney</p>
-        
+
         <p class="fr-book-desc">Explores unusual sky phenomena in an accessible way.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ Cyprus’s unusual falls and strange skies therefore belong less to a catalogue 
           <a href="https://www.amazon.com/s?k=The+Weather+Identification+Handbook+Storm+Dunlop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Identification Handbook">The Weather Identification Handbook</a>
         </h4>
         <p class="fr-book-author">By Storm Dunlop</p>
-        
+
         <p class="fr-book-desc">Explains unusual atmospheric effects and coloured skies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Weather+Identification+Handbook+Storm+Dunlop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ Cyprus’s unusual falls and strange skies therefore belong less to a catalogue 
           <a href="https://www.amazon.com/s?k=Meteorology+Today+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorology Today">Meteorology Today</a>
         </h4>
         <p class="fr-book-author">By C. Donald Ahrens</p>
-        
+
         <p class="fr-book-desc">Provides deeper explanation of atmospheric events.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Meteorology+Today+C.+Donald+Ahrens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

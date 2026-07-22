@@ -304,50 +304,6 @@ For Latvia, haunted places are therefore less about proving the existence of spi
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell fr-section-shell-fallback">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">No matched book cards were available for The Ghost Stories Behind Latvia&#x27;s Old Places, so this fallback keeps a direct Amazon reading path visible.</p>
-</div>
-<div class="fr-search-grid">
-
-<article class="fr-search-card">
-<p class="fr-search-kicker">Topical books</p>
-<h4 class="fr-search-title">Ēdole Castle ghost stories guide</h4>
-<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=%C4%92dole+Castle+ghost+stories+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-</a>
-</article>
-
-<article class="fr-search-card">
-<p class="fr-search-kicker">Related search</p>
-<h4 class="fr-search-title">Memory And Ghost Stories guide</h4>
-<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=Memory+And+Ghost+Stories+guide&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-</a>
-</article>
-
-<article class="fr-search-card">
-<p class="fr-search-kicker">Related search</p>
-<h4 class="fr-search-title">maritime history Latvia</h4>
-<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=maritime+history+Latvia&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
-        Search Amazon
-</a>
-</article>
-</div>
-<div class="fr-section-footer">
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
-</section>
-
-<section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
   <div class="fr-section-shell">
     <div class="fr-section-header">
       <div class="fr-section-heading">
@@ -365,7 +321,7 @@ For Latvia, haunted places are therefore less about proving the existence of spi
           <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Encyclopedia of Ghosts and Spirits">The Encyclopedia of Ghosts and Spirits</a>
         </h4>
         <p class="fr-book-author">By Rosemary Ellen Guiley</p>
-        
+
         <p class="fr-book-desc">Directly fits haunted buildings, ghost traditions and supernatural folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +338,7 @@ For Latvia, haunted places are therefore less about proving the existence of spi
           <a href="https://www.amazon.com/s?k=Haunted+Places%3A+The+National+Directory+Dennis+William+Hauck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted Places: The National Directory">Haunted Places: The National Directory</a>
         </h4>
         <p class="fr-book-author">By Dennis William Hauck</p>
-        
+
         <p class="fr-book-desc">Useful comparison point for Latvia&#x27;s haunted place traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+Places%3A+The+National+Directory+Dennis+William+Hauck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +355,7 @@ For Latvia, haunted places are therefore less about proving the existence of spi
           <a href="https://www.amazon.com/s?k=Ghosts+%3A+A+Natural+History+Roger+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts : A Natural History">Ghosts : A Natural History</a>
         </h4>
         <p class="fr-book-author">By Roger Clarke</p>
-        
+
         <p class="fr-book-desc">Explores why ghost stories develop around places and memories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghosts+%3A+A+Natural+History+Roger+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +372,7 @@ For Latvia, haunted places are therefore less about proving the existence of spi
           <a href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places+Jeff+Belanger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world&#x27;s most haunted places">The world&#x27;s most haunted places</a>
         </h4>
         <p class="fr-book-author">By Jeff Belanger</p>
-        
+
         <p class="fr-book-desc">Matches the abandoned sites and famous haunted locations theme.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places+Jeff+Belanger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -432,6 +388,8 @@ For Latvia, haunted places are therefore less about proving the existence of spi
     </div>
   </div>
 </section>
+
+
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
 <div class="fr-section-shell">

@@ -341,7 +341,7 @@ For Fortean readers, this makes Chuuk especially interesting. The enduring myste
           <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Bough">The Golden Bough</a>
         </h4>
         <p class="fr-book-author">By James George Frazer</p>
-        
+
         <p class="fr-book-desc">Covers beliefs about spirits, ritual and religion.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -358,7 +358,7 @@ For Fortean readers, this makes Chuuk especially interesting. The enduring myste
           <a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The anthropology of religion, magic, and witchcraft">The anthropology of religion, magic, and witchcraft</a>
         </h4>
         <p class="fr-book-author">By Philip L. Stein, Rebecca Stein</p>
-        
+
         <p class="fr-book-desc">Explains spirit possession traditions in cross-cultural context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -375,7 +375,7 @@ For Fortean readers, this makes Chuuk especially interesting. The enduring myste
           <a href="https://www.amazon.com/s?k=Collapse+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Collapse">Collapse</a>
         </h4>
         <p class="fr-book-author">By Jared Diamond</p>
-        
+
         <p class="fr-book-desc">First published 2004. Subjects: Sociology, Culturen, Environnement, Changement social, Verval (geschiedenis).</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Collapse+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ For Fortean readers, this makes Chuuk especially interesting. The enduring myste
           <a href="https://www.amazon.com/s?k=Vanished+Kingdoms+Norman+Jordan+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vanished Kingdoms">Vanished Kingdoms</a>
         </h4>
         <p class="fr-book-author">By Norman Jordan Davies</p>
-        
+
         <p class="fr-book-desc">First published 2011. Subjects: History, Politics and government, Europe - History, Europe - Politics and government, Gesellschaft.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Vanished+Kingdoms+Norman+Jordan+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

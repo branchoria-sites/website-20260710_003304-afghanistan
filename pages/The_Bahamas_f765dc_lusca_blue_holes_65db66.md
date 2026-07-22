@@ -383,7 +383,7 @@ The Lusca therefore occupies an unusual place in Bahamian folklore. It is almost
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Caribbean+Islands+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Caribbean Islands">Lonely Planet Caribbean Islands</a>
         </h4>
         <p class="fr-book-author">By Lonely Planet</p>
-        
+
         <p class="fr-book-desc">Useful regional travel and environmental context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Caribbean+Islands+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ The Lusca therefore occupies an unusual place in Bahamian folklore. It is almost
           <a href="https://www.amazon.com/s?k=Blue+mind+Wallace+J.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Blue mind">Blue mind</a>
         </h4>
         <p class="fr-book-author">By Wallace J. Nichols</p>
-        
+
         <p class="fr-book-desc">Enhances understanding of the human fascination with the sea.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Blue+mind+Wallace+J.+Nichols&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ The Lusca therefore occupies an unusual place in Bahamian folklore. It is almost
           <a href="https://www.amazon.com/s?k=The+world+atlas+of+mysteries+Francis+Hitching&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world atlas of mysteries">The world atlas of mysteries</a>
         </h4>
         <p class="fr-book-author">By Francis Hitching</p>
-        
+
         <p class="fr-book-desc">Includes legendary monsters and mysterious places.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world+atlas+of+mysteries+Francis+Hitching&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -434,7 +434,7 @@ The Lusca therefore occupies an unusual place in Bahamian folklore. It is almost
           <a href="https://www.amazon.com/s?k=Underworld+Susan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Underworld">Underworld</a>
         </h4>
         <p class="fr-book-author">By Susan Casey</p>
-        
+
         <p class="fr-book-desc">Strong fit for blue holes, underwater caves and marine mystery.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Underworld+Susan+Casey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

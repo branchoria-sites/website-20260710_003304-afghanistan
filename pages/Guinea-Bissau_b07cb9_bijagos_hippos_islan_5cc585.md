@@ -349,7 +349,7 @@ That combination makes the archipelago especially attractive to Fortean readers.
           <a href="https://www.amazon.com/s?k=The+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hidden Life of Trees">The Hidden Life of Trees</a>
         </h4>
         <p class="fr-book-author">By Peter Wohlleben</p>
-        
+
         <p class="fr-book-desc">Broadens the wildlife-and-landscape angle around unusual natural environments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -366,7 +366,7 @@ That combination makes the archipelago especially attractive to Fortean readers.
           <a href="https://www.amazon.com/s?k=The+Soul+of+an+Octopus+Sy+Montgomery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Soul of an Octopus">The Soul of an Octopus</a>
         </h4>
         <p class="fr-book-author">By Sy Montgomery</p>
-        
+
         <p class="fr-book-desc">Captures the wonder and intelligence-of-animals theme behind unusual wildlife stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Soul+of+an+Octopus+Sy+Montgomery&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ That combination makes the archipelago especially attractive to Fortean readers.
           <a href="https://www.amazon.com/s?k=The+Serengeti+rules+Sean+B.+Carroll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serengeti rules">The Serengeti rules</a>
         </h4>
         <p class="fr-book-author">By Sean B. Carroll</p>
-        
+
         <p class="fr-book-desc">Provides accessible ecological context for animal adaptation and conservation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Serengeti+rules+Sean+B.+Carroll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ That combination makes the archipelago especially attractive to Fortean readers.
           <a href="https://www.amazon.com/s?k=Wisdom+from+the+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wisdom from the Hidden Life of Trees">Wisdom from the Hidden Life of Trees</a>
         </h4>
         <p class="fr-book-author">By Peter Wohlleben, Jane Billinghurst</p>
-        
+
         <p class="fr-book-desc">First published 2024.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Wisdom+from+the+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

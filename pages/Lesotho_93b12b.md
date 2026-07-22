@@ -1275,7 +1275,7 @@ The country’s Forteana is therefore not a catalogue of proven supernatural eve
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Unexplained Phenomena">The Mammoth Book of Unexplained Phenomena</a>
         </h4>
         <p class="fr-book-author">By Roy Bainton</p>
-        
+
         <p class="fr-book-desc">Places Lesotho&#x27;s mysteries within a wider tradition of unexplained events.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1292,7 +1292,7 @@ The country’s Forteana is therefore not a catalogue of proven supernatural eve
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
         </h4>
         <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
         <p class="fr-book-desc">Explores careful investigation of unexplained aerial reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1309,7 +1309,7 @@ The country’s Forteana is therefore not a catalogue of proven supernatural eve
           <a href="https://www.amazon.com/s?k=The+Atlas+of+Atlases+Philip+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Atlas of Atlases">The Atlas of Atlases</a>
         </h4>
         <p class="fr-book-author">By Philip Parker</p>
-        
+
         <p class="fr-book-desc">Supports understanding of landscapes where unusual events occur.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Atlas+of+Atlases+Philip+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1326,7 +1326,7 @@ The country’s Forteana is therefore not a catalogue of proven supernatural eve
           <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+South+Africa%2C+Lesotho+%26+Eswatini+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to South Africa, Lesotho &amp; Eswatini">The Rough Guide to South Africa, Lesotho &amp; Eswatini</a>
         </h4>
         <p class="fr-book-author">By Rough Guides</p>
-        
+
         <p class="fr-book-desc">Provides cultural and landscape context for Lesotho&#x27;s unusual stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+South+Africa%2C+Lesotho+%26+Eswatini+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

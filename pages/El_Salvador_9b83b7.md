@@ -1310,7 +1310,7 @@ The result is a country-level Fortean profile that is less about proving monster
           <a href="https://www.amazon.com/s?k=Culture+and+Customs+of+El+Salvador+Katherine+D.+McCann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Culture and Customs of El Salvador">Culture and Customs of El Salvador</a>
         </h4>
         <p class="fr-book-author">By Katherine D. McCann</p>
-        
+
         <p class="fr-book-desc">Provides cultural background for folklore and traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Culture+and+Customs+of+El+Salvador+Katherine+D.+McCann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1327,7 +1327,7 @@ The result is a country-level Fortean profile that is less about proving monster
           <a href="https://www.amazon.com/s?k=Myths+and+Legends+of+Latin+America+Lewis+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and Legends of Latin America">Myths and Legends of Latin America</a>
         </h4>
         <p class="fr-book-author">By Lewis Spence</p>
-        
+
         <p class="fr-book-desc">Places Salvadoran folklore within wider regional traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Myths+and+Legends+of+Latin+America+Lewis+Spence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1344,7 +1344,7 @@ The result is a country-level Fortean profile that is less about proving monster
           <a href="https://www.amazon.com/s?k=Moon+Central+America+Joshua+Berman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Moon Central America">Moon Central America</a>
         </h4>
         <p class="fr-book-author">By Joshua Berman</p>
-        
+
         <p class="fr-book-desc">Covers landscapes tied to Salvadoran legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Moon+Central+America+Joshua+Berman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1361,7 +1361,7 @@ The result is a country-level Fortean profile that is less about proving monster
           <a href="https://www.amazon.com/s?k=The+Beast+Player+Jorge+Argueta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Beast Player">The Beast Player</a>
         </h4>
         <p class="fr-book-author">By Jorge Argueta</p>
-        
+
         <p class="fr-book-desc">Introduces Salvadoran cultural perspectives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Beast+Player+Jorge+Argueta&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -327,7 +327,7 @@ Instead, the site illustrates one of the recurring themes in Turkmenistan's stra
           <a href="https://www.amazon.com/s?k=Dinosaurs+Without+Bones+Anthony+J.+Martin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dinosaurs Without Bones">Dinosaurs Without Bones</a>
         </h4>
         <p class="fr-book-author">By Anthony J. Martin</p>
-        
+
         <p class="fr-book-desc">Explains fossil footprints and how they are interpreted.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Dinosaurs+Without+Bones+Anthony+J.+Martin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -344,7 +344,7 @@ Instead, the site illustrates one of the recurring themes in Turkmenistan's stra
           <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
         </h4>
         <p class="fr-book-author">By Peter Frankopan</p>
-        
+
         <p class="fr-book-desc">Explains the wider historical region.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -361,7 +361,7 @@ Instead, the site illustrates one of the recurring themes in Turkmenistan's stra
           <a href="https://www.amazon.com/s?k=The+Princeton+field+guide+to+dinosaurs+Gregory+S.+Paul&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Princeton field guide to dinosaurs">The Princeton field guide to dinosaurs</a>
         </h4>
         <p class="fr-book-author">By Gregory S. Paul</p>
-        
+
         <p class="fr-book-desc">Provides scientific background for Jurassic track makers.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Princeton+field+guide+to+dinosaurs+Gregory+S.+Paul&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ Instead, the site illustrates one of the recurring themes in Turkmenistan's stra
           <a href="https://www.amazon.com/s?k=Sovietistan+Erika+Fatland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sovietistan">Sovietistan</a>
         </h4>
         <p class="fr-book-author">By Erika Fatland</p>
-        
+
         <p class="fr-book-desc">Adds cultural and geographic context for Turkmenistan.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sovietistan+Erika+Fatland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

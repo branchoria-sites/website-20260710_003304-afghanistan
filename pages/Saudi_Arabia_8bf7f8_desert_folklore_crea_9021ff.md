@@ -329,7 +329,7 @@ The lasting appeal of Saudi desert folklore comes from that uncertainty. The des
           <a href="https://www.amazon.com/s?k=The+Book+of+Mythical+Beasts+and+Magical+Creatures+Stephen+Krensky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Mythical Beasts and Magical Creatures">The Book of Mythical Beasts and Magical Creatures</a>
         </h4>
         <p class="fr-book-author">By Stephen Krensky</p>
-        
+
         <p class="fr-book-desc">Covers creature folklore broadly.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+Mythical+Beasts+and+Magical+Creatures+Stephen+Krensky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -346,7 +346,7 @@ The lasting appeal of Saudi desert folklore comes from that uncertainty. The des
           <a href="https://www.amazon.com/s?k=The+Djinn+in+the+Nightingale%27s+Eye+A.+S.+Byatt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Djinn in the Nightingale&#x27;s Eye">The Djinn in the Nightingale&#x27;s Eye</a>
         </h4>
         <p class="fr-book-author">By A. S. Byatt</p>
-        
+
         <p class="fr-book-desc">Uses a famous Arabian supernatural concept.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Djinn+in+the+Nightingale%27s+Eye+A.+S.+Byatt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -363,7 +363,7 @@ The lasting appeal of Saudi desert folklore comes from that uncertainty. The des
           <a href="https://www.amazon.com/s?k=The+Arabian+Nights+Entertainments+%5B7+stories%5D+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arabian Nights Entertainments [7 stories]">The Arabian Nights Entertainments [7 stories]</a>
         </h4>
         <p class="fr-book-author">By Anonymous</p>
-        
+
         <p class="fr-book-desc">First published 1973.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Arabian+Nights+Entertainments+%5B7+stories%5D+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ The lasting appeal of Saudi desert folklore comes from that uncertainty. The des
           <a href="https://www.amazon.com/s?k=Folklore+Thomas+A.+Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folklore">Folklore</a>
         </h4>
         <p class="fr-book-author">By Thomas A. Green</p>
-        
+
         <p class="fr-book-desc">First published 1997. Subjects: Folklore, Encyclopedias.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Folklore+Thomas+A.+Green&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

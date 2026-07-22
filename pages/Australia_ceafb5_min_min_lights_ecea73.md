@@ -364,7 +364,7 @@ That combination of genuine observation, unusual atmospheric physics and generat
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Unexplained Phenomena">The Mammoth Book of Unexplained Phenomena</a>
 </h4>
 <p class="fr-book-author">By Roy Bainton</p>
-        
+
 <p class="fr-book-desc">Includes unexplained lights and similar mystery cases.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ That combination of genuine observation, unusual atmospheric physics and generat
 <a href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unexplained phenomena">Unexplained phenomena</a>
 </h4>
 <p class="fr-book-author">By John F. Michell, John Michell et al.</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: Curiosities and wonders, Reference works, Unexplained phenomena, Metaphysical Phenomena - General, Refere...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ That combination of genuine observation, unusual atmospheric physics and generat
 <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+Bob+Rickard+and+John+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Unexplained Phenomena">The Rough Guide to Unexplained Phenomena</a>
 </h4>
 <p class="fr-book-author">By Bob Rickard and John Michell</p>
-        
+
 <p class="fr-book-desc">Explores mysterious light phenomena and competing explanations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Unexplained+Phenomena+Bob+Rickard+and+John+Michell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ That combination of genuine observation, unusual atmospheric physics and generat
 <a href="https://www.amazon.com/s?k=The+Australian+Geographic+Book+of+the+Bush+Australian+Geographic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Australian Geographic Book of the Bush">The Australian Geographic Book of the Bush</a>
 </h4>
 <p class="fr-book-author">By Australian Geographic</p>
-        
+
 <p class="fr-book-desc">Helps explain outback conditions behind optical phenomena.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Australian+Geographic+Book+of+the+Bush+Australian+Geographic&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -1323,7 +1323,7 @@ The result is not a land of proven paranormal wonders. It is something more inte
 <a href="https://www.amazon.com/s?k=The+Riviera+set+Mary+S.+Lovell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Riviera set">The Riviera set</a>
 </h4>
 <p class="fr-book-author">By Mary S. Lovell</p>
-        
+
 <p class="fr-book-desc">First published 2016. Subjects: Rich people, Chateau de l&#x27;Horizon, History, Upper class, France, social life and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Riviera+set+Mary+S.+Lovell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1340,7 +1340,7 @@ The result is not a land of proven paranormal wonders. It is something more inte
 <a href="https://www.amazon.com/s?k=Blue+Latitudes+Tony+Horwitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Blue Latitudes">Blue Latitudes</a>
 </h4>
 <p class="fr-book-author">By Tony Horwitz</p>
-        
+
 <p class="fr-book-desc">First published 2002. Subjects: Ontdekkingsreizigers, Wereldreizen, Endeavour II (Ship), Voyages around the world, Travel.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Blue+Latitudes+Tony+Horwitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1357,7 +1357,7 @@ The result is not a land of proven paranormal wonders. It is something more inte
 <a href="https://www.amazon.com/s?k=The+Sea+Wolves+Lars+Brownworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sea Wolves">The Sea Wolves</a>
 </h4>
 <p class="fr-book-author">By Lars Brownworth, Joe Barrett</p>
-        
+
 <p class="fr-book-desc">First published 2014.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Sea+Wolves+Lars+Brownworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1374,7 +1374,7 @@ The result is not a land of proven paranormal wonders. It is something more inte
 <a href="https://www.amazon.com/s?k=Monaco+Quentin+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monaco">Monaco</a>
 </h4>
 <p class="fr-book-author">By Quentin Parker</p>
-        
+
 <p class="fr-book-desc">General background on Monaco.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Monaco+Quentin+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

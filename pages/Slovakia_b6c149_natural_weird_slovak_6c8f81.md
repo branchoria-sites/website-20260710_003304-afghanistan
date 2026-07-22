@@ -356,7 +356,7 @@ Rather than showing a conflict between science and folklore, these Slovak exampl
           <a href="https://www.amazon.com/s?k=The+Magic+of+Reality+Richard+Dawkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Magic of Reality">The Magic of Reality</a>
         </h4>
         <p class="fr-book-author">By Richard Dawkins, Dave McKean</p>
-        
+
         <p class="fr-book-desc">Explains natural phenomena that once inspired supernatural stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Magic+of+Reality+Richard+Dawkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ Rather than showing a conflict between science and folklore, these Slovak exampl
           <a href="https://www.amazon.com/s?k=Remarkable+creatures+Tracy+Chevalier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Remarkable creatures">Remarkable creatures</a>
         </h4>
         <p class="fr-book-author">By Tracy Chevalier</p>
-        
+
         <p class="fr-book-desc">Illustrates how extraordinary natural finds shaped belief and science.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Remarkable+creatures+Tracy+Chevalier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ Rather than showing a conflict between science and folklore, these Slovak exampl
           <a href="https://www.amazon.com/s?k=The+Dinosaur+Hunters+Deborah+Cadbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dinosaur Hunters">The Dinosaur Hunters</a>
         </h4>
         <p class="fr-book-author">By Deborah Cadbury</p>
-        
+
         <p class="fr-book-desc">Shows how ancient remains transformed popular understanding.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Dinosaur+Hunters+Deborah+Cadbury&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ Rather than showing a conflict between science and folklore, these Slovak exampl
           <a href="https://www.amazon.com/s?k=Dragonology+Ernest+Drake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dragonology">Dragonology</a>
         </h4>
         <p class="fr-book-author">By Ernest Drake, Dugald Steer et al.</p>
-        
+
         <p class="fr-book-desc">Connects with dragon legends inspired by fossil discoveries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Dragonology+Ernest+Drake&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

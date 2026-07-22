@@ -386,7 +386,7 @@ That lingering uncertainty explains why the Sea Monk remains Denmark's signature
           <a href="https://www.amazon.com/s?k=Monsters%3A+A+Bestiary+of+the+Bizarre+Christopher+Dell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters: A Bestiary of the Bizarre">Monsters: A Bestiary of the Bizarre</a>
         </h4>
         <p class="fr-book-author">By Christopher Dell</p>
-        
+
         <p class="fr-book-desc">First published 2001. Subjects: Monsters.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Monsters%3A+A+Bestiary+of+the+Bizarre+Christopher+Dell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ That lingering uncertainty explains why the Sea Monk remains Denmark's signature
           <a href="https://www.amazon.com/s?k=Scandinavian+folk+belief+and+legend+Reimund+Kvideland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scandinavian folk belief and legend">Scandinavian folk belief and legend</a>
         </h4>
         <p class="fr-book-author">By Reimund Kvideland, Henning K. Sehmsdorf</p>
-        
+
         <p class="fr-book-desc">First published 1988. Subjects: Legends, Folklore, Folklore, scandinavia.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Scandinavian+folk+belief+and+legend+Reimund+Kvideland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ That lingering uncertainty explains why the Sea Monk remains Denmark's signature
           <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
         </h4>
         <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
-        
+
         <p class="fr-book-desc">Explains how famous monster reports are investigated.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -437,7 +437,7 @@ That lingering uncertainty explains why the Sea Monk remains Denmark's signature
           <a href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places+Jeff+Belanger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world&#x27;s most haunted places">The world&#x27;s most haunted places</a>
         </h4>
         <p class="fr-book-author">By Jeff Belanger</p>
-        
+
         <p class="fr-book-desc">First published 2011. Subjects: Haunted places.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world%27s+most+haunted+places+Jeff+Belanger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

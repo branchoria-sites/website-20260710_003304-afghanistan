@@ -381,7 +381,7 @@ For readers interested in Iceland's wider strange-history landscape, these ghost
           <a href="https://www.amazon.com/s?k=Icelandic+folktales+and+legends+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Icelandic folktales and legends">Icelandic folktales and legends</a>
         </h4>
         <p class="fr-book-author">By Jacqueline Simpson</p>
-        
+
         <p class="fr-book-desc">Includes Icelandic ghost and supernatural traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Icelandic+folktales+and+legends+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ For readers interested in Iceland's wider strange-history landscape, these ghost
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
         </h4>
         <p class="fr-book-author">By Scott G. Bruce</p>
-        
+
         <p class="fr-book-desc">Explores medieval supernatural beliefs related to revenants.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ For readers interested in Iceland's wider strange-history landscape, these ghost
           <a href="https://www.amazon.com/s?k=The+Viking+Spirit+Daniel+McCoy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Viking Spirit">The Viking Spirit</a>
         </h4>
         <p class="fr-book-author">By Daniel McCoy</p>
-        
+
         <p class="fr-book-desc">Provides cultural context for Icelandic undead traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Viking+Spirit+Daniel+McCoy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -432,7 +432,7 @@ For readers interested in Iceland's wider strange-history landscape, these ghost
           <a href="https://www.amazon.com/s?k=Grettir%27s+Saga+and+The+Life+and+Death+of+Cormack+the+Skald+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Grettir&#x27;s Saga and The Life and Death of Cormack the Skald">Grettir&#x27;s Saga and The Life and Death of Cormack the Skald</a>
         </h4>
         <p class="fr-book-author">By Anonymous</p>
-        
+
         <p class="fr-book-desc">First published 2006.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Grettir%27s+Saga+and+The+Life+and+Death+of+Cormack+the+Skald+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

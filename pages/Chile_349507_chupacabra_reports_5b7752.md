@@ -347,7 +347,7 @@ The enduring appeal of the Chilean Chupacabra is therefore not only about whethe
           <a href="https://www.amazon.com/s?k=Tracking+the+Chupacabra+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tracking the Chupacabra">Tracking the Chupacabra</a>
         </h4>
         <p class="fr-book-author">By Benjamin Radford</p>
-        
+
         <p class="fr-book-desc">Examines Chupacabra reports and explanations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Tracking+the+Chupacabra+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -364,7 +364,7 @@ The enduring appeal of the Chilean Chupacabra is therefore not only about whethe
           <a href="https://www.amazon.com/s?k=Monster+of+God+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monster of God">Monster of God</a>
         </h4>
         <p class="fr-book-author">By David Quammen</p>
-        
+
         <p class="fr-book-desc">Explores human relationships with feared animals.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Monster+of+God+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ The enduring appeal of the Chilean Chupacabra is therefore not only about whethe
           <a href="https://www.amazon.com/s?k=The+beasts+that+hide+from+man+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The beasts that hide from man">The beasts that hide from man</a>
         </h4>
         <p class="fr-book-author">By Karl Shuker</p>
-        
+
         <p class="fr-book-desc">Broadens unknown animal interest.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+beasts+that+hide+from+man+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ The enduring appeal of the Chilean Chupacabra is therefore not only about whethe
           <a href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals+Bernard+Heuvelmans&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On the Track of Unknown Animals">On the Track of Unknown Animals</a>
         </h4>
         <p class="fr-book-author">By Bernard Heuvelmans</p>
-        
+
         <p class="fr-book-desc">Places Chupacabra within wider mystery animal traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=On+the+Track+of+Unknown+Animals+Bernard+Heuvelmans&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

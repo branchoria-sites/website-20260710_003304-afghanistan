@@ -325,7 +325,7 @@ That combination of public visibility, contested interpretation and enduring cul
           <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spirit Catches You and You Fall Down">The Spirit Catches You and You Fall Down</a>
         </h4>
         <p class="fr-book-author">By Anne Fadiman</p>
-        
+
         <p class="fr-book-desc">Helps readers understand spirit beliefs and possession cross-culturally.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -342,7 +342,7 @@ That combination of public visibility, contested interpretation and enduring cul
           <a href="https://www.amazon.com/s?k=Burmese+Days+George+Orwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Burmese Days">Burmese Days</a>
         </h4>
         <p class="fr-book-author">By George Orwell</p>
-        
+
         <p class="fr-book-desc">First published 1934. Subjects: Imperialismo, Fiction, Imperialism, Colonias, Social conditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Burmese+Days+George+Orwell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -359,7 +359,7 @@ That combination of public visibility, contested interpretation and enduring cul
           <a href="https://www.amazon.com/s?k=Rivers+of+flavor+Naomi+Duguid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rivers of flavor">Rivers of flavor</a>
         </h4>
         <p class="fr-book-author">By Naomi Duguid</p>
-        
+
         <p class="fr-book-desc">First published 2012. Subjects: Food, Social life and customs, Burmese Cooking, Cooking (Spices), Cooking, burmese.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Rivers+of+flavor+Naomi+Duguid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,7 +376,7 @@ That combination of public visibility, contested interpretation and enduring cul
           <a href="https://www.amazon.com/s?k=The+River+of+Lost+Footsteps%3A+Histories+of+Burma+Thant+Myint-U&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The River of Lost Footsteps: Histories of Burma">The River of Lost Footsteps: Histories of Burma</a>
         </h4>
         <p class="fr-book-author">By Thant Myint-U</p>
-        
+
         <p class="fr-book-desc">Explains the historical setting in which nat worship developed.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+River+of+Lost+Footsteps%3A+Histories+of+Burma+Thant+Myint-U&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

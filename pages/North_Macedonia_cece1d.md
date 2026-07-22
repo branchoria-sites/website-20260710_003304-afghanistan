@@ -1279,7 +1279,7 @@ For Fortean enthusiasts, North Macedonia offers a reminder that mysteries are no
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Classical+Myths+Jenny+March&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Classical Myths">The Penguin Book of Classical Myths</a>
         </h4>
         <p class="fr-book-author">By Jenny March</p>
-        
+
         <p class="fr-book-desc">Provides context for dragons, spirits and legendary beings found across European traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Classical+Myths+Jenny+March&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1296,7 +1296,7 @@ For Fortean enthusiasts, North Macedonia offers a reminder that mysteries are no
           <a href="https://www.amazon.com/s?k=A+dictionary+of+world+mythology+Cotterell%2C+Arthur.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A dictionary of world mythology">A dictionary of world mythology</a>
         </h4>
         <p class="fr-book-author">By Cotterell, Arthur.</p>
-        
+
         <p class="fr-book-desc">Allows comparison of Balkan legends with global myth patterns.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+dictionary+of+world+mythology+Cotterell%2C+Arthur.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1313,7 +1313,7 @@ For Fortean enthusiasts, North Macedonia offers a reminder that mysteries are no
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology Book">The Mythology Book</a>
         </h4>
         <p class="fr-book-author">By DK</p>
-        
+
         <p class="fr-book-desc">Broadly supports readers interested in legends and mysterious traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1330,7 +1330,7 @@ For Fortean enthusiasts, North Macedonia offers a reminder that mysteries are no
           <a href="https://www.amazon.com/s?k=The+Oxford+Dictionary+of+English+Folklore+Jacqueline+Simpson+and+Steve+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford Dictionary of English Folklore">The Oxford Dictionary of English Folklore</a>
         </h4>
         <p class="fr-book-author">By Jacqueline Simpson and Steve Roud</p>
-        
+
         <p class="fr-book-desc">Useful for exploring legends, supernatural beings and traditional beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Oxford+Dictionary+of+English+Folklore+Jacqueline+Simpson+and+Steve+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

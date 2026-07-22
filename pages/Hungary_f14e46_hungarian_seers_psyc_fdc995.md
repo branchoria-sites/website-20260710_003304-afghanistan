@@ -360,7 +360,7 @@ That combination of hope, cultural memory and unresolved mystery explains why th
 <a href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience+William+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Varieties of Religious Experience">The Varieties of Religious Experience</a>
 </h4>
 <p class="fr-book-author">By William James, Dr. William James et al.</p>
-        
+
 <p class="fr-book-desc">First published 1817. Subjects: Religious Psychology, Religion, Conversion, Experience (Religion), Philosophy and religion.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Varieties+of+Religious+Experience+William+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ That combination of hope, cultural memory and unresolved mystery explains why th
 <a href="https://www.amazon.com/s?k=Folktales+of+Hungary+Linda+De%CC%81gh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folktales of Hungary">Folktales of Hungary</a>
 </h4>
 <p class="fr-book-author">By Linda Dégh</p>
-        
+
 <p class="fr-book-desc">First published 1965. Subjects: Tales.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Folktales+of+Hungary+Linda+De%CC%81gh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ That combination of hope, cultural memory and unresolved mystery explains why th
 <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
 </h4>
 <p class="fr-book-author">By Scott G. Bruce</p>
-        
+
 <p class="fr-book-desc">First published 2021. Subjects: Folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ That combination of hope, cultural memory and unresolved mystery explains why th
 <a href="https://www.amazon.com/s?k=Shamanism+Willard+R.+Trask+Mircea+Eliade&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shamanism">Shamanism</a>
 </h4>
 <p class="fr-book-author">By Willard R. Trask Mircea Eliade</p>
-        
+
 <p class="fr-book-desc">First published 1964.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Shamanism+Willard+R.+Trask+Mircea+Eliade&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

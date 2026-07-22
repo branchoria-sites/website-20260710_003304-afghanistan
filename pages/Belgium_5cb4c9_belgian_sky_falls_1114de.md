@@ -343,7 +343,7 @@ Whether the frogs of Tournai actually descended from storm clouds or whether the
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
         </h4>
         <p class="fr-book-author">By Charles Fort</p>
-        
+
         <p class="fr-book-desc">Includes famous anomalous falls and unexplained weather reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -360,7 +360,7 @@ Whether the frogs of Tournai actually descended from storm clouds or whether the
           <a href="https://www.amazon.com/s?k=Lo%21+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lo!">Lo!</a>
         </h4>
         <p class="fr-book-author">By Charles Fort</p>
-        
+
         <p class="fr-book-desc">Expands on unusual natural phenomena.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lo%21+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ Whether the frogs of Tournai actually descended from storm clouds or whether the
           <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
         </h4>
         <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
-        
+
         <p class="fr-book-desc">Covers anomalous weather and unexplained events.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ Whether the frogs of Tournai actually descended from storm clouds or whether the
           <a href="https://www.amazon.com/s?k=The+Curious+World+of+Charles+Fort+Damon+Knight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Curious World of Charles Fort">The Curious World of Charles Fort</a>
         </h4>
         <p class="fr-book-author">By Damon Knight</p>
-        
+
         <p class="fr-book-desc">Explains why frog falls became famous Fortean cases.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Curious+World+of+Charles+Fort+Damon+Knight&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -337,7 +337,7 @@ Bulgasari therefore belongs to the strange-history landscape of [South Korea]({{
           <a href="https://www.amazon.com/s?k=The+Book+of+Mythical+Beasts+and+Magical+Creatures+Stephen+Krensky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Mythical Beasts and Magical Creatures">The Book of Mythical Beasts and Magical Creatures</a>
         </h4>
         <p class="fr-book-author">By Stephen Krensky</p>
-        
+
         <p class="fr-book-desc">Supports readers interested in monsters across world folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+Mythical+Beasts+and+Magical+Creatures+Stephen+Krensky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -354,7 +354,7 @@ Bulgasari therefore belongs to the strange-history landscape of [South Korea]({{
           <a href="https://www.amazon.com/s?k=Korean+folk+tales%3A+imps%2C+ghosts+and+fairies+Pang+Im&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Korean folk tales: imps, ghosts and fairies">Korean folk tales: imps, ghosts and fairies</a>
         </h4>
         <p class="fr-book-author">By Pang Im, James Scarth Gale et al.</p>
-        
+
         <p class="fr-book-desc">Directly supports Korean monsters, spirits, and traditional stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Korean+folk+tales%3A+imps%2C+ghosts+and+fairies+Pang+Im&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ Bulgasari therefore belongs to the strange-history landscape of [South Korea]({{
           <a href="https://www.amazon.com/s?k=Asian+mythologies+Yves+Bonnefoy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asian mythologies">Asian mythologies</a>
         </h4>
         <p class="fr-book-author">By Yves Bonnefoy</p>
-        
+
         <p class="fr-book-desc">Places Korean monster traditions within wider Asian mythology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Asian+mythologies+Yves+Bonnefoy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

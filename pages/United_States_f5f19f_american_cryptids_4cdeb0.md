@@ -390,7 +390,7 @@ This flexibility helps explain why cryptids remain such durable features of Amer
           <a href="https://www.amazon.com/s?k=American+monsters+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American monsters">American monsters</a>
         </h4>
         <p class="fr-book-author">By Linda S. Godfrey</p>
-        
+
         <p class="fr-book-desc">Profiles regional monster traditions across the United States.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=American+monsters+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ This flexibility helps explain why cryptids remain such durable features of Amer
           <a href="https://www.amazon.com/s?k=Weird+U.S.+Mark+Moran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weird U.S.">Weird U.S.</a>
         </h4>
         <p class="fr-book-author">By Mark Moran, Mark Sceurman</p>
-        
+
         <p class="fr-book-desc">Includes many famous monster and folklore locations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Weird+U.S.+Mark+Moran&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ This flexibility helps explain why cryptids remain such durable features of Amer
           <a href="https://www.amazon.com/s?k=United+States+of+Cryptids+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="United States of Cryptids">United States of Cryptids</a>
         </h4>
         <p class="fr-book-author">By J. W. Ocker</p>
-        
+
         <p class="fr-book-desc">Focuses on American cryptids linked to specific places.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=United+States+of+Cryptids+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,16 +435,16 @@ This flexibility helps explain why cryptids remain such durable features of Amer
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bigfoot+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bigfoot on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9256868-M.jpg" alt="Cover for Bigfoot" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bigfoot%21+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bigfoot! on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/478232-M.jpg" alt="Cover for Bigfoot!" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bigfoot+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bigfoot">Bigfoot</a>
+          <a href="https://www.amazon.com/s?k=Bigfoot%21+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bigfoot!">Bigfoot!</a>
         </h4>
-        <p class="fr-book-author">By Joshua Blu Buhs</p>
-        
-        <p class="fr-book-desc">First published 2009. Subjects: Sasquatch, History, New Age, Nonfiction, Science.</p>
+        <p class="fr-book-author">By Loren Coleman</p>
+
+        <p class="fr-book-desc">First published 2003. Subjects: Sasquatch, Cryptozoology.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bigfoot+Joshua+Blu+Buhs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Bigfoot%21+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

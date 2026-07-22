@@ -339,7 +339,7 @@ In this sense, Korean ghost legends belong to a wider record of South Korea’s 
           <a href="https://www.amazon.com/s?k=Ghost+Stories+of+an+Antiquary+Montague+Rhodes+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Stories of an Antiquary">Ghost Stories of an Antiquary</a>
         </h4>
         <p class="fr-book-author">By Montague Rhodes James</p>
-        
+
         <p class="fr-book-desc">Classic haunted-place reading companion.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghost+Stories+of+an+Antiquary+Montague+Rhodes+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -356,7 +356,7 @@ In this sense, Korean ghost legends belong to a wider record of South Korea’s 
           <a href="https://www.amazon.com/s?k=Korean+folk+tales%3A+imps%2C+ghosts+and+fairies+Pang+Im&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Korean folk tales: imps, ghosts and fairies">Korean folk tales: imps, ghosts and fairies</a>
         </h4>
         <p class="fr-book-author">By Pang Im, James Scarth Gale et al.</p>
-        
+
         <p class="fr-book-desc">Directly covers Korean spirits and traditional legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Korean+folk+tales%3A+imps%2C+ghosts+and+fairies+Pang+Im&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ In this sense, Korean ghost legends belong to a wider record of South Korea’s 
           <a href="https://www.amazon.com/s?k=The+Oxford+companion+to+world+mythology+David+Adams+Leeming&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford companion to world mythology">The Oxford companion to world mythology</a>
         </h4>
         <p class="fr-book-author">By David Adams Leeming</p>
-        
+
         <p class="fr-book-desc">Adds global folklore context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Oxford+companion+to+world+mythology+David+Adams+Leeming&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ In this sense, Korean ghost legends belong to a wider record of South Korea’s 
           <a href="https://www.amazon.com/s?k=The+Ghosts+of+the+Golden+Age%3A+Korean+Classic+Ghost+Stories+Kim+Young-ha&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ghosts of the Golden Age: Korean Classic Ghost Stories">The Ghosts of the Golden Age: Korean Classic Ghost Stories</a>
         </h4>
         <p class="fr-book-author">By Kim Young-ha</p>
-        
+
         <p class="fr-book-desc">Matches Korean ghost-story readers.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Ghosts+of+the+Golden+Age%3A+Korean+Classic+Ghost+Stories+Kim+Young-ha&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

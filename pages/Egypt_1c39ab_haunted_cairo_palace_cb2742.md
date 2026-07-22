@@ -379,7 +379,7 @@ Their importance lies elsewhere. They reveal how cities generate folklore from a
           <a href="https://www.amazon.com/s?k=CAIRO+THE+CITY+VICTORIOUS+Max+Rodenbeck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="CAIRO THE CITY VICTORIOUS">CAIRO THE CITY VICTORIOUS</a>
         </h4>
         <p class="fr-book-author">By Max Rodenbeck</p>
-        
+
         <p class="fr-book-desc">Explains the city&#x27;s history, architecture and social imagination.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=CAIRO+THE+CITY+VICTORIOUS+Max+Rodenbeck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ Their importance lies elsewhere. They reveal how cities generate folklore from a
           <a href="https://www.amazon.com/s?k=The+Egyptian+Book+of+the+dead+Raymond+Oliver+Faulkner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Egyptian Book of the dead">The Egyptian Book of the dead</a>
         </h4>
         <p class="fr-book-author">By Raymond Oliver Faulkner, Goelet, Ogden Jr et al.</p>
-        
+
         <p class="fr-book-desc">Background reading on Egyptian beliefs about death and the supernatural.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Egyptian+Book+of+the+dead+Raymond+Oliver+Faulkner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ Their importance lies elsewhere. They reveal how cities generate folklore from a
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Egipto+%28Spanish%29+2+%28Lonely+Planet+Egypt%29+Lonely+Planet+Publications&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Egipto (Spanish) 2 (Lonely Planet Egypt)">Lonely Planet Egipto (Spanish) 2 (Lonely Planet Egypt)</a>
         </h4>
         <p class="fr-book-author">By Lonely Planet Publications</p>
-        
+
         <p class="fr-book-desc">First published 2004.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Egipto+%28Spanish%29+2+%28Lonely+Planet+Egypt%29+Lonely+Planet+Publications&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -430,7 +430,7 @@ Their importance lies elsewhere. They reveal how cities generate folklore from a
           <a href="https://www.amazon.com/s?k=The+complete+gods+and+goddesses+of+ancient+Egypt+Richard+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The complete gods and goddesses of ancient Egypt">The complete gods and goddesses of ancient Egypt</a>
         </h4>
         <p class="fr-book-author">By Richard H. Wilkinson</p>
-        
+
         <p class="fr-book-desc">First published 2003. Subjects: Egyptian Goddesses, Egyptian Gods, Egyptian Mythology, Religion, Gods.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+complete+gods+and+goddesses+of+ancient+Egypt+Richard+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

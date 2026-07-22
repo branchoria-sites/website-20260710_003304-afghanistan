@@ -356,7 +356,7 @@ The result is an unusual kind of weird history. Instead of relying on sensationa
           <a href="https://www.amazon.com/s?k=The+Bible+unearthed+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Bible unearthed">The Bible unearthed</a>
         </h4>
         <p class="fr-book-author">By Israel Finkelstein, Neil Asher Silberman</p>
-        
+
         <p class="fr-book-desc">Useful background on the region&#x27;s ancient history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Bible+unearthed+Israel+Finkelstein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ The result is an unusual kind of weird history. Instead of relying on sensationa
           <a href="https://www.amazon.com/s?k=Lost+Cities+of+the+Ancient+World+Philip+Matyszak&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lost Cities of the Ancient World">Lost Cities of the Ancient World</a>
         </h4>
         <p class="fr-book-author">By Philip Matyszak</p>
-        
+
         <p class="fr-book-desc">Places Petra among the world&#x27;s great archaeological sites.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lost+Cities+of+the+Ancient+World+Philip+Matyszak&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ The result is an unusual kind of weird history. Instead of relying on sensationa
           <a href="https://www.amazon.com/s?k=Petra+Christian+Aug%C3%A9+and+Jean-Marie+Dentzer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Petra">Petra</a>
         </h4>
         <p class="fr-book-author">By Christian Augé and Jean-Marie Dentzer</p>
-        
+
         <p class="fr-book-desc">Directly explains Petra&#x27;s archaeology and landscape.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Petra+Christian+Aug%C3%A9+and+Jean-Marie+Dentzer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ The result is an unusual kind of weird history. Instead of relying on sensationa
           <a href="https://www.amazon.com/s?k=The+Holy+Land%3A+An+Oxford+Archaeological+Guide+Jerome+Murphy-O%27Connor&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Holy Land: An Oxford Archaeological Guide">The Holy Land: An Oxford Archaeological Guide</a>
         </h4>
         <p class="fr-book-author">By Jerome Murphy-O&#x27;Connor</p>
-        
+
         <p class="fr-book-desc">Provides archaeological context for Petra and southern Jordan.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Holy+Land%3A+An+Oxford+Archaeological+Guide+Jerome+Murphy-O%27Connor&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

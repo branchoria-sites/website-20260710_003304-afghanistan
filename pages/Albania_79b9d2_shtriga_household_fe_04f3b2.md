@@ -358,7 +358,7 @@ Within Albania's wider landscape of strange traditions, the shtriga stands along
           <a href="https://www.amazon.com/s?k=High+Albania+M.+Edith+Durham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="High Albania">High Albania</a>
         </h4>
         <p class="fr-book-author">By M. Edith Durham</p>
-        
+
         <p class="fr-book-desc">Records traditional Albanian beliefs observed in the field.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=High+Albania+M.+Edith+Durham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -375,7 +375,7 @@ Within Albania's wider landscape of strange traditions, the shtriga stands along
           <a href="https://www.amazon.com/s?k=The+Dictionary+of+Albanian+Religion%2C+Mythology+and+Folk+Culture+Robert+Elsie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dictionary of Albanian Religion, Mythology and Folk Culture">The Dictionary of Albanian Religion, Mythology and Folk Culture</a>
         </h4>
         <p class="fr-book-author">By Robert Elsie</p>
-        
+
         <p class="fr-book-desc">Directly covers Albanian supernatural beliefs including the shtriga.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Dictionary+of+Albanian+Religion%2C+Mythology+and+Folk+Culture+Robert+Elsie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ Within Albania's wider landscape of strange traditions, the shtriga stands along
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of witches">The Penguin book of witches</a>
         </h4>
         <p class="fr-book-author">By Katherine Howe</p>
-        
+
         <p class="fr-book-desc">Provides comparative witch beliefs relevant to the shtriga.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+witches+Katherine+Howe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,16 +403,16 @@ Within Albania's wider landscape of strange traditions, the shtriga stands along
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Myths+and+Legends+Philip+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Myths and Legends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10252483-M.jpg" alt="Cover for Myths and Legends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+vampire+Alan+Dundes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The vampire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6738309-M.jpg" alt="Cover for The vampire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Myths+and+Legends+Philip+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and Legends">Myths and Legends</a>
+          <a href="https://www.amazon.com/s?k=The+vampire+Alan+Dundes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vampire">The vampire</a>
         </h4>
-        <p class="fr-book-author">By Philip Wilkinson</p>
-        
-        <p class="fr-book-desc">Introduces broader folklore patterns behind household spirits.</p>
+        <p class="fr-book-author">By Alan Dundes</p>
+
+        <p class="fr-book-desc">Explores Balkan vampire lore closely related to shtriga beliefs.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Myths+and+Legends+Philip+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=The+vampire+Alan+Dundes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

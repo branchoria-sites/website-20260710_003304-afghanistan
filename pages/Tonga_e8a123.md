@@ -1328,7 +1328,7 @@ That is the country’s distinctive contribution to weird history: Tonga shows t
           <a href="https://www.amazon.com/s?k=Collapse+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Collapse">Collapse</a>
         </h4>
         <p class="fr-book-author">By Jared Diamond</p>
-        
+
         <p class="fr-book-desc">Includes discussion of Pacific societies and environmental change.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Collapse+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1345,7 +1345,7 @@ That is the country’s distinctive contribution to weird history: Tonga shows t
           <a href="https://www.amazon.com/s?k=Vikings+of+the+sunrise%2C+by+Peter+H.+Buck+%28Te+Rangi+Hiroa%29+...with+fifty-eight+illustrations+from+photographs+Peter+Henry+Buck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vikings of the sunrise, by Peter H. Buck (Te Rangi Hiroa) ...with fifty-eight illustrations from photographs">Vikings of the sunrise, by Peter H. Buck (Te Rangi Hiroa) ......</a>
         </h4>
         <p class="fr-book-author">By Peter Henry Buck, Paora Tapihana</p>
-        
+
         <p class="fr-book-desc">First published 1938. Subjects: Ethnology, Polynesians, World history, Australia, history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Vikings+of+the+sunrise%2C+by+Peter+H.+Buck+%28Te+Rangi+Hiroa%29+...with+fifty-eight+illustrations+from+photographs+Peter+Henry+Buck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1362,7 +1362,7 @@ That is the country’s distinctive contribution to weird history: Tonga shows t
           <a href="https://www.amazon.com/s?k=Kon-Tiki+Kon+Tiki+Across+the+Pacific+by+Raft+by+Thor+Heyerdahl+1950+Thor+Heyerdahl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kon-Tiki Kon Tiki Across the Pacific by Raft by Thor Heyerdahl 1950">Kon-Tiki Kon Tiki Across the Pacific by Raft by Thor Heyerdah...</a>
         </h4>
         <p class="fr-book-author">By Thor Heyerdahl</p>
-        
+
         <p class="fr-book-desc">First published 1950.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Kon-Tiki+Kon+Tiki+Across+the+Pacific+by+Raft+by+Thor+Heyerdahl+1950+Thor+Heyerdahl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1379,7 +1379,7 @@ That is the country’s distinctive contribution to weird history: Tonga shows t
           <a href="https://www.amazon.com/s?k=The+Supernatural+in+Tonga+E.+E.+V.+Collocott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Supernatural in Tonga">The Supernatural in Tonga</a>
         </h4>
         <p class="fr-book-author">By E. E. V. Collocott</p>
-        
+
         <p class="fr-book-desc">Foundational survey of Tongan supernatural traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Supernatural+in+Tonga+E.+E.+V.+Collocott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

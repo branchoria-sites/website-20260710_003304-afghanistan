@@ -326,7 +326,7 @@ Enilchek became Kyrgyzstan’s ghost town not because a confirmed haunting empti
           <a href="https://www.amazon.com/s?k=The+Lost+City+of+Z+David+Grann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lost City of Z">The Lost City of Z</a>
         </h4>
         <p class="fr-book-author">By David Grann, James Gray</p>
-        
+
         <p class="fr-book-desc">Appeals to readers drawn to remote places and unresolved stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lost+City+of+Z+David+Grann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -343,7 +343,7 @@ Enilchek became Kyrgyzstan’s ghost town not because a confirmed haunting empti
           <a href="https://www.amazon.com/s?k=Atlas+Obscura+Joshua+Foer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atlas Obscura">Atlas Obscura</a>
         </h4>
         <p class="fr-book-author">By Joshua Foer, Dylan Thuras et al.</p>
-        
+
         <p class="fr-book-desc">Covers unusual places and obscure destinations similar to Enilchek.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Atlas+Obscura+Joshua+Foer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -360,7 +360,7 @@ Enilchek became Kyrgyzstan’s ghost town not because a confirmed haunting empti
           <a href="https://www.amazon.com/s?k=Abandoned+Places+Henk+Van+Rensbergen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abandoned Places">Abandoned Places</a>
         </h4>
         <p class="fr-book-author">By Henk Van Rensbergen</p>
-        
+
         <p class="fr-book-desc">Strong match for readers fascinated by deserted buildings and forgotten towns.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Abandoned+Places+Henk+Van+Rensbergen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ Enilchek became Kyrgyzstan’s ghost town not because a confirmed haunting empti
           <a href="https://www.amazon.com/s?k=Abandoned+America+Matthew+Christopher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abandoned America">Abandoned America</a>
         </h4>
         <p class="fr-book-author">By Matthew Christopher</p>
-        
+
         <p class="fr-book-desc">Matches abandoned industrial landscapes and forgotten communities.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Abandoned+America+Matthew+Christopher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

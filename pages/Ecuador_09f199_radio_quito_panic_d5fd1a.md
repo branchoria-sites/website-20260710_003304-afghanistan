@@ -369,7 +369,7 @@ Within Ecuador's wider catalogue of strange history—which includes UFO traditi
           <a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The War of the Worlds">The War of the Worlds</a>
         </h4>
         <p class="fr-book-author">By H. G. Wells</p>
-        
+
         <p class="fr-book-desc">Inspired the Radio Quito broadcast.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+War+of+the+Worlds+H.+G.+Wells&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ Within Ecuador's wider catalogue of strange history—which includes UFO traditi
           <a href="https://www.amazon.com/s?k=Broadcast+Hysteria+A.+Brad+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Broadcast Hysteria">Broadcast Hysteria</a>
         </h4>
         <p class="fr-book-author">By A. Brad Schwartz</p>
-        
+
         <p class="fr-book-desc">Explains media panics closely related to Quito 1949.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Broadcast+Hysteria+A.+Brad+Schwartz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ Within Ecuador's wider catalogue of strange history—which includes UFO traditi
           <a href="https://www.amazon.com/s?k=The+invasion+from+Mars+Hadley+Cantril&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The invasion from Mars">The invasion from Mars</a>
         </h4>
         <p class="fr-book-author">By Hadley Cantril</p>
-        
+
         <p class="fr-book-desc">Foundational analysis of mass reaction to radio hoaxes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+invasion+from+Mars+Hadley+Cantril&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ Within Ecuador's wider catalogue of strange history—which includes UFO traditi
           <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
         </h4>
         <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in famous strange incidents.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

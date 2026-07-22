@@ -1314,7 +1314,7 @@ Nepal, then, is not merely “the country of the Yeti”. It is a place where th
           <a href="https://www.amazon.com/s?k=Into+Thin+Air+Jon+Krakauer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Into Thin Air">Into Thin Air</a>
         </h4>
         <p class="fr-book-author">By Jon Krakauer</p>
-        
+
         <p class="fr-book-desc">Provides Everest context tied to Nepal&#x27;s mountain folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Into+Thin+Air+Jon+Krakauer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1331,7 +1331,7 @@ Nepal, then, is not merely “the country of the Yeti”. It is a place where th
           <a href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Snow Leopard">The Snow Leopard</a>
         </h4>
         <p class="fr-book-author">By Peter Matthiessen</p>
-        
+
         <p class="fr-book-desc">Captures the spiritual and physical landscape of Nepal.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1348,7 +1348,7 @@ Nepal, then, is not merely “the country of the Yeti”. It is a place where th
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Nepal+12+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Nepal 12">Lonely Planet Nepal 12</a>
         </h4>
         <p class="fr-book-author">By Lonely Planet</p>
-        
+
         <p class="fr-book-desc">First published 2023.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Nepal+12+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1365,7 +1365,7 @@ Nepal, then, is not merely “the country of the Yeti”. It is a place where th
           <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
         </h4>
         <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
-        
+
         <p class="fr-book-desc">Covers the Yeti alongside other legendary creatures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

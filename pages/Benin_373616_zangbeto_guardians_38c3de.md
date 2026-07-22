@@ -349,16 +349,16 @@ These explanations are not equally persuasive to every audience, but together th
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African religions and philosophy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6379945-M.jpg" alt="Cover for African religions and philosophy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=African+religions+%26+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open African religions &amp; philosophy on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/275031-M.jpg" alt="Cover for African religions &amp; philosophy" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African religions and philosophy">African religions and philosophy</a>
+          <a href="https://www.amazon.com/s?k=African+religions+%26+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African religions &amp; philosophy">African religions &amp; philosophy</a>
         </h4>
         <p class="fr-book-author">By Mbiti, John S.</p>
-        
+
         <p class="fr-book-desc">Provides context for ritual guardians and masquerades.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=African+religions+and+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=African+religions+%26+philosophy+Mbiti%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -372,7 +372,7 @@ These explanations are not equally persuasive to every audience, but together th
           <a href="https://www.amazon.com/s?k=African+Art+And+Agency+In+The+Workshop+Sidney+Littlefield+Kasfir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African Art And Agency In The Workshop">African Art And Agency In The Workshop</a>
         </h4>
         <p class="fr-book-author">By Sidney Littlefield Kasfir</p>
-        
+
         <p class="fr-book-desc">Provides cultural context for ceremonial objects and performance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+Art+And+Agency+In+The+Workshop+Sidney+Littlefield+Kasfir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ These explanations are not equally persuasive to every audience, but together th
           <a href="https://www.amazon.com/s?k=Vodun+Timothy+R.+Landry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vodun">Vodun</a>
         </h4>
         <p class="fr-book-author">By Timothy R. Landry</p>
-        
+
         <p class="fr-book-desc">First published 2018. Subjects: Secrecy (psychology), Tourism, Ethnology, nigeria, Benin, Vodou.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Vodun+Timothy+R.+Landry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ These explanations are not equally persuasive to every audience, but together th
           <a href="https://www.amazon.com/s?k=Vodun%3A+Secrecy+and+the+Search+for+Divine+Power+Timothy+R.+Landry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vodun: Secrecy and the Search for Divine Power">Vodun: Secrecy and the Search for Divine Power</a>
         </h4>
         <p class="fr-book-author">By Timothy R. Landry</p>
-        
+
         <p class="fr-book-desc">Explains ritual authority and secrecy central to traditions like Zangbeto.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Vodun%3A+Secrecy+and+the+Search+for+Divine+Power+Timothy+R.+Landry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ These explanations are not equally persuasive to every audience, but together th
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+religions+and+philosophy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African religions and philosophy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Art+And+Agency+In+The+Workshop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Art And Agency In The Workshop</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Vodun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vodun</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+religions+%26+philosophy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African religions &amp; philosophy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+Art+And+Agency+In+The+Workshop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African Art And Agency In The Workshop</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Vodun&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vodun</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

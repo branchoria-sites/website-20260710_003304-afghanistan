@@ -378,7 +378,7 @@ For believers, Medjugorje demonstrates that profound religious experiences conti
 <a href="https://www.amazon.com/s?k=The+Case+for+Miracles+Lee+Strobel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case for Miracles">The Case for Miracles</a>
 </h4>
 <p class="fr-book-author">By Lee Strobel</p>
-        
+
 <p class="fr-book-desc">First published 2018. Subjects: Miracles, Supernatural.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Case+for+Miracles+Lee+Strobel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ For believers, Medjugorje demonstrates that profound religious experiences conti
 <a href="https://www.amazon.com/s?k=Medjugorje+the+Message+%28Christian+Classics%29+Wayne+Weible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Medjugorje the Message (Christian Classics)">Medjugorje the Message (Christian Classics)</a>
 </h4>
 <p class="fr-book-author">By Wayne Weible</p>
-        
+
 <p class="fr-book-desc">First published 2006. Subjects: Apparitions and miracles, Religious life and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Medjugorje+the+Message+%28Christian+Classics%29+Wayne+Weible&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ For believers, Medjugorje demonstrates that profound religious experiences conti
 <a href="https://www.amazon.com/s?k=Bosnia+%26+Herzegovina+Tim+Clancy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bosnia &amp; Herzegovina">Bosnia &amp; Herzegovina</a>
 </h4>
 <p class="fr-book-author">By Tim Clancy</p>
-        
+
 <p class="fr-book-desc">First published 2011. Subjects: Guidebooks, Balkan peninsula, history, Bosnia and hercegovina, description and travel.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bosnia+%26+Herzegovina+Tim+Clancy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ For believers, Medjugorje demonstrates that profound religious experiences conti
 <a href="https://www.amazon.com/s?k=Medjugorje%3A+The+Message+Wayne+Weible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Medjugorje: The Message">Medjugorje: The Message</a>
 </h4>
 <p class="fr-book-author">By Wayne Weible</p>
-        
+
 <p class="fr-book-desc">Introduces the reported apparitions and their devotional significance.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Medjugorje%3A+The+Message+Wayne+Weible&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

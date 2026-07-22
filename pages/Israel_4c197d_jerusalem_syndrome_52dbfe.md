@@ -377,7 +377,7 @@ Either way, the phenomenon demonstrates that a place need not contain ghosts, mo
           <a href="https://www.amazon.com/s?k=The+Man+Who+Mistook+His+Wife+for+a+Hat+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Man Who Mistook His Wife for a Hat">The Man Who Mistook His Wife for a Hat</a>
         </h4>
         <p class="fr-book-author">By Oliver Sacks</p>
-        
+
         <p class="fr-book-desc">Introduces unusual psychological conditions in an accessible way.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Man+Who+Mistook+His+Wife+for+a+Hat+Oliver+Sacks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ Either way, the phenomenon demonstrates that a place need not contain ghosts, mo
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Useful framework for evaluating extraordinary experiences.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ Either way, the phenomenon demonstrates that a place need not contain ghosts, mo
           <a href="https://www.amazon.com/s?k=The+Center+Cannot+Hold+Elyn+R.+Saks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Center Cannot Hold">The Center Cannot Hold</a>
         </h4>
         <p class="fr-book-author">By Elyn R. Saks</p>
-        
+
         <p class="fr-book-desc">Provides humane context for psychosis-related experiences.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Center+Cannot+Hold+Elyn+R.+Saks&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ Either way, the phenomenon demonstrates that a place need not contain ghosts, mo
           <a href="https://www.amazon.com/s?k=Jerusalem+Simon+Sebag-Montefiore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jerusalem">Jerusalem</a>
         </h4>
         <p class="fr-book-author">By Simon Sebag-Montefiore</p>
-        
+
         <p class="fr-book-desc">First published 2011. Subjects: History, New York Times bestseller, nyt:hardcover_political_books=2011-12-24, Middle East, General.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Jerusalem+Simon+Sebag-Montefiore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

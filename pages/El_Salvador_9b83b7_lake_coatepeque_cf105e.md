@@ -368,7 +368,7 @@ That combination makes Coatepeque especially memorable within the country's Fort
           <a href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+%26+Caitlin+Matthews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Element Encyclopedia of Magical Creatures">The Element Encyclopedia of Magical Creatures</a>
         </h4>
         <p class="fr-book-author">By John &amp; Caitlin Matthews</p>
-        
+
         <p class="fr-book-desc">Compares lake-spirit traditions worldwide.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+%26+Caitlin+Matthews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ That combination makes Coatepeque especially memorable within the country's Fort
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Central+America+Planning+Map+1+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Central America Planning Map 1">Lonely Planet Central America Planning Map 1</a>
         </h4>
         <p class="fr-book-author">By Lonely Planet</p>
-        
+
         <p class="fr-book-desc">First published 2019.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Central+America+Planning+Map+1+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ That combination makes Coatepeque especially memorable within the country's Fort
           <a href="https://www.amazon.com/s?k=Culture+and+Customs+of+El+Salvador+Katherine+D.+McCann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Culture and Customs of El Salvador">Culture and Customs of El Salvador</a>
         </h4>
         <p class="fr-book-author">By Katherine D. McCann</p>
-        
+
         <p class="fr-book-desc">Explains folklore linked to lakes and landscapes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Culture+and+Customs+of+El+Salvador+Katherine+D.+McCann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ That combination makes Coatepeque especially memorable within the country's Fort
           <a href="https://www.amazon.com/s?k=Myths+and+Legends+of+Latin+America+Lewis+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and Legends of Latin America">Myths and Legends of Latin America</a>
         </h4>
         <p class="fr-book-author">By Lewis Spence</p>
-        
+
         <p class="fr-book-desc">Includes regional traditions about spirits and water.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Myths+and+Legends+of+Latin+America+Lewis+Spence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

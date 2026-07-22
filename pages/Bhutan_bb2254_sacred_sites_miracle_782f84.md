@@ -347,7 +347,7 @@ That tension is precisely what gives these places their enduring Fortean appeal.
 <a href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Snow Leopard">The Snow Leopard</a>
 </h4>
 <p class="fr-book-author">By Peter Matthiessen</p>
-        
+
 <p class="fr-book-desc">First published 1978. Subjects: Description and travel, Biologists, American Authors, Natural history, Biography.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -364,7 +364,7 @@ That tension is precisely what gives these places their enduring Fortean appeal.
 <a href="https://www.amazon.com/s?k=Beyond+the+sky+and+the+earth+Jamie+Zeppa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Beyond the sky and the earth">Beyond the sky and the earth</a>
 </h4>
 <p class="fr-book-author">By Jamie Zeppa</p>
-        
+
 <p class="fr-book-desc">First published 1999. Subjects: Description and travel, Nonfiction, Travel, Bhutan, description and travel, Women travelers.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Beyond+the+sky+and+the+earth+Jamie+Zeppa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ That tension is precisely what gives these places their enduring Fortean appeal.
 <a href="https://www.amazon.com/s?k=The+Geography+of+Bliss+Eric+Weiner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Geography of Bliss">The Geography of Bliss</a>
 </h4>
 <p class="fr-book-author">By Eric Weiner</p>
-        
+
 <p class="fr-book-desc">First published 2008. Subjects: Travel, Voyages and travels, Nonfiction, Large type books, Happiness.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Geography+of+Bliss+Eric+Weiner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ That tension is precisely what gives these places their enduring Fortean appeal.
 <a href="https://www.amazon.com/s?k=Bhutan+Fran%C3%A7oise+Pommaret&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bhutan">Bhutan</a>
 </h4>
 <p class="fr-book-author">By Françoise Pommaret</p>
-        
+
 <p class="fr-book-desc">First published 1984. Subjects: Guidebooks, Description and travel.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bhutan+Fran%C3%A7oise+Pommaret&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

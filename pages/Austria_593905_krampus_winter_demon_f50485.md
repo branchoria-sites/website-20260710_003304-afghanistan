@@ -374,7 +374,7 @@ Within Austria's wider landscape of strange folklore, Krampus runs stand out bec
 <a href="https://www.amazon.com/s?k=The+Krampus+and+the+Old%2C+Dark+Christmas+Al+Ridenour&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Krampus and the Old, Dark Christmas">The Krampus and the Old, Dark Christmas</a>
 </h4>
 <p class="fr-book-author">By Al Ridenour</p>
-        
+
 <p class="fr-book-desc">First published 2016. Subjects: Witchcraft, Christmas, Folklore, Good and evil, Christmas in art.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Krampus+and+the+Old%2C+Dark+Christmas+Al+Ridenour&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ Within Austria's wider landscape of strange folklore, Krampus runs stand out bec
 <a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Atlas of Monsters">The Atlas of Monsters</a>
 </h4>
 <p class="fr-book-author">By Sandra Lawrence</p>
-        
+
 <p class="fr-book-desc">First published 2018.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ Within Austria's wider landscape of strange folklore, Krampus runs stand out bec
 <a href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unexplained phenomena">Unexplained phenomena</a>
 </h4>
 <p class="fr-book-author">By John F. Michell, John Michell et al.</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: Curiosities and wonders, Reference works, Unexplained phenomena, Metaphysical Phenomena - General, Refere...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ Within Austria's wider landscape of strange folklore, Krampus runs stand out bec
 <a href="https://www.amazon.com/s?k=Krampus+Gerald+Brom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Krampus">Krampus</a>
 </h4>
 <p class="fr-book-author">By Gerald Brom, Brom et al.</p>
-        
+
 <p class="fr-book-desc">First published 2012. Subjects: Good and evil, Vendetta, Fiction, Fiction, fantasy, general.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Krampus+Gerald+Brom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -1317,7 +1317,7 @@ That is the real value of Maldives Forteana: not proving that monsters prowl the
           <a href="https://www.amazon.com/s?k=The+world%27s+most+mysterious+places+R.+Lionel+Fanthorpe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world&#x27;s most mysterious places">The world&#x27;s most mysterious places</a>
         </h4>
         <p class="fr-book-author">By R. Lionel Fanthorpe</p>
-        
+
         <p class="fr-book-desc">Provides a gateway to unexplained traditions like those of the Maldives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world%27s+most+mysterious+places+R.+Lionel+Fanthorpe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1334,7 +1334,7 @@ That is the real value of Maldives Forteana: not proving that monsters prowl the
           <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Encyclopedia of Ghosts and Spirits">The Encyclopedia of Ghosts and Spirits</a>
         </h4>
         <p class="fr-book-author">By Rosemary Ellen Guiley</p>
-        
+
         <p class="fr-book-desc">Offers wider context for island ghost and spirit beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1351,7 +1351,7 @@ That is the real value of Maldives Forteana: not proving that monsters prowl the
           <a href="https://www.amazon.com/s?k=The+Travels+of+Ibn+Battuta+Ibn+Battuta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Travels of Ibn Battuta">The Travels of Ibn Battuta</a>
         </h4>
         <p class="fr-book-author">By Ibn Battuta</p>
-        
+
         <p class="fr-book-desc">First published 2004. Subjects: Ibn batuta, 1304-1377, Asia, description and travel, Early works to 1800, Description and travel, Voyages...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Travels+of+Ibn+Battuta+Ibn+Battuta&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1368,7 +1368,7 @@ That is the real value of Maldives Forteana: not proving that monsters prowl the
           <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
         </h4>
         <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
-        
+
         <p class="fr-book-desc">Covers many categories of unexplained phenomena relevant to the topic.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

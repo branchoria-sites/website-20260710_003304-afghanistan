@@ -354,7 +354,7 @@ That combination of tangible place and uncertain explanation gives Syrian jinn-h
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Encourages critical evaluation of supernatural reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ That combination of tangible place and uncertain explanation gives Syrian jinn-h
           <a href="https://www.amazon.com/s?k=Legends+of+the+fire+spirits+Robert+W.+Lebling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Legends of the fire spirits">Legends of the fire spirits</a>
         </h4>
         <p class="fr-book-author">By Robert W. Lebling</p>
-        
+
         <p class="fr-book-desc">Directly addresses folklore surrounding jinn and haunted places.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Legends+of+the+fire+spirits+Robert+W.+Lebling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ That combination of tangible place and uncertain explanation gives Syrian jinn-h
           <a href="https://www.amazon.com/s?k=The+Syrian+Goddess+Lucian+of+Samosata&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Syrian Goddess">The Syrian Goddess</a>
         </h4>
         <p class="fr-book-author">By Lucian of Samosata</p>
-        
+
         <p class="fr-book-desc">First published 1913. Subjects: Religion, Cults, Cultes, Traductions anglaises (vieil anglais), Littérature grecque.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Syrian+Goddess+Lucian+of+Samosata&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ That combination of tangible place and uncertain explanation gives Syrian jinn-h
           <a href="https://www.amazon.com/s?k=Oxford+History+of+the+Ancient+near+East+Karen+Radner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oxford History of the Ancient near East">Oxford History of the Ancient near East</a>
         </h4>
         <p class="fr-book-author">By Karen Radner, Nadine Moeller et al.</p>
-        
+
         <p class="fr-book-desc">First published 2020. Subjects: Africa, history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Oxford+History+of+the+Ancient+near+East+Karen+Radner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

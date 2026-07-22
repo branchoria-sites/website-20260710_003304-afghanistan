@@ -339,7 +339,7 @@ That combination of genuine geological danger and enduring symbolic storytelling
           <a href="https://www.amazon.com/s?k=The+Power+of+Myth+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Myth">The Power of Myth</a>
         </h4>
         <p class="fr-book-author">By Joseph Campbell</p>
-        
+
         <p class="fr-book-desc">Helps interpret landscape myths such as sleeping giants.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Power+of+Myth+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -356,7 +356,7 @@ That combination of genuine geological danger and enduring symbolic storytelling
           <a href="https://www.amazon.com/s?k=Krakatoa+Simon+Winchester&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Krakatoa">Krakatoa</a>
         </h4>
         <p class="fr-book-author">By Simon Winchester</p>
-        
+
         <p class="fr-book-desc">Shows how eruptions become cultural memories and narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Krakatoa+Simon+Winchester&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ That combination of genuine geological danger and enduring symbolic storytelling
           <a href="https://www.amazon.com/s?k=Volcanoes+Francis%2C+Peter&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Volcanoes">Volcanoes</a>
         </h4>
         <p class="fr-book-author">By Francis, Peter</p>
-        
+
         <p class="fr-book-desc">Provides scientific grounding for volcanic folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Volcanoes+Francis%2C+Peter&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ That combination of genuine geological danger and enduring symbolic storytelling
           <a href="https://www.amazon.com/s?k=Volcanoes+and+the+earth%27s+interior+Robert+W.+Decker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Volcanoes and the earth&#x27;s interior">Volcanoes and the earth&#x27;s interior</a>
         </h4>
         <p class="fr-book-author">By Robert W. Decker, Barbara Decker</p>
-        
+
         <p class="fr-book-desc">First published 1982. Subjects: Internal structure, Volcanoes, Earthquakes &amp; Volcanoes, Nature, Earth.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Volcanoes+and+the+earth%27s+interior+Robert+W.+Decker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

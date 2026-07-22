@@ -1308,7 +1308,7 @@ The strongest way to read Yemen’s Forteana is therefore not as a claim that th
           <a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Looming Tower">The Looming Tower</a>
         </h4>
         <p class="fr-book-author">By Lawrence Wright</p>
-        
+
         <p class="fr-book-desc">Includes significant material on Yemen&#x27;s modern history and landscape.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Looming+Tower+Lawrence+Wright&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1325,7 +1325,7 @@ The strongest way to read Yemen’s Forteana is therefore not as a claim that th
           <a href="https://www.amazon.com/s?k=The+Arabs%3A+A+History+Eugene+L.+Rogan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arabs: A History">The Arabs: A History</a>
         </h4>
         <p class="fr-book-author">By Eugene L. Rogan</p>
-        
+
         <p class="fr-book-desc">Provides broader regional context for Yemen&#x27;s traditions and history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Arabs%3A+A+History+Eugene+L.+Rogan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1342,7 +1342,7 @@ The strongest way to read Yemen’s Forteana is therefore not as a claim that th
           <a href="https://www.amazon.com/s?k=Yemen+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Yemen">Yemen</a>
         </h4>
         <p class="fr-book-author">By Tim MacKintosh-Smith, Tim MacIntosh-Smith</p>
-        
+
         <p class="fr-book-desc">First published 1998. Subjects: Travel writing, History, Travel, Yemen, ASIA.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Yemen+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1359,7 +1359,7 @@ The strongest way to read Yemen’s Forteana is therefore not as a claim that th
           <a href="https://www.amazon.com/s?k=Arabia+Felix%2C+the+Danish+expedition+of+1761-1767+Thorkild+Hansen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabia Felix, the Danish expedition of 1761-1767">Arabia Felix, the Danish expedition of 1761-1767</a>
         </h4>
         <p class="fr-book-author">By Thorkild Hansen</p>
-        
+
         <p class="fr-book-desc">First published 1964. Subjects: Description and travel.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Arabia+Felix%2C+the+Danish+expedition+of+1761-1767+Thorkild+Hansen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

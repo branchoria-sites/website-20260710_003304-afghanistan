@@ -349,7 +349,7 @@ For Estonia's wider tradition of strange sky stories, Kaali acts as an anchor. I
           <a href="https://www.amazon.com/s?k=Rain+of+iron+and+ice+Lewis%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rain of iron and ice">Rain of iron and ice</a>
         </h4>
         <p class="fr-book-author">By Lewis, John S.</p>
-        
+
         <p class="fr-book-desc">Explains meteorite impacts like Kaali while engaging general readers.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Rain+of+iron+and+ice+Lewis%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -366,7 +366,7 @@ For Estonia's wider tradition of strange sky stories, Kaali acts as an anchor. I
           <a href="https://www.amazon.com/s?k=Coming+of+age+in+the+Milky+Way+Timothy+Ferris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Coming of age in the Milky Way">Coming of age in the Milky Way</a>
         </h4>
         <p class="fr-book-author">By Timothy Ferris</p>
-        
+
         <p class="fr-book-desc">Adds scientific perspective to sky events inspiring myth.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Coming+of+age+in+the+Milky+Way+Timothy+Ferris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ For Estonia's wider tradition of strange sky stories, Kaali acts as an anchor. I
           <a href="https://www.amazon.com/s?k=The+Baltic+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Baltic">The Baltic</a>
         </h4>
         <p class="fr-book-author">By Alan Warwick Palmer</p>
-        
+
         <p class="fr-book-desc">Places Kaali within Estonia&#x27;s historical development.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Baltic+Alan+Warwick+Palmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ For Estonia's wider tradition of strange sky stories, Kaali acts as an anchor. I
           <a href="https://www.amazon.com/s?k=The+Book+of+Symbols+Archive+for+Research+in+Archetypal+Symbolism.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Symbols">The Book of Symbols</a>
         </h4>
         <p class="fr-book-author">By Archive for Research in Archetypal Symbolism.</p>
-        
+
         <p class="fr-book-desc">Explores symbolic interpretations of celestial events.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+Symbols+Archive+for+Research+in+Archetypal+Symbolism.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

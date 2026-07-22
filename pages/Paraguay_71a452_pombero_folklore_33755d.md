@@ -313,7 +313,7 @@ For Paraguay’s wider strange-history landscape, the Pombero is significant bec
 <a href="https://www.amazon.com/s?k=Latin+American+Folktales+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Latin American Folktales">Latin American Folktales</a>
 </h4>
 <p class="fr-book-author">By John Bierhorst</p>
-        
+
 <p class="fr-book-desc">First published 2001. Subjects: Hispanic Americans, Folklore, Latin Americans, Indians, Tales.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Latin+American+Folktales+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -330,7 +330,7 @@ For Paraguay’s wider strange-history landscape, the Pombero is significant bec
 <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world of Lore">The world of Lore</a>
 </h4>
 <p class="fr-book-author">By Aaron Mahnke</p>
-        
+
 <p class="fr-book-desc">First published 2017. Subjects: Ghosts, Haunted places.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -347,7 +347,7 @@ For Paraguay’s wider strange-history landscape, the Pombero is significant bec
 <a href="https://www.amazon.com/s?k=Mythology+Edith+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mythology">Mythology</a>
 </h4>
 <p class="fr-book-author">By Edith Hamilton</p>
-        
+
 <p class="fr-book-desc">First published 1940. Subjects: Manuel, Mythologie, Mythologie classique, creation myths, Golden Fleece.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mythology+Edith+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -364,7 +364,7 @@ For Paraguay’s wider strange-history landscape, the Pombero is significant bec
 <a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Imaginary Beings">The Book of Imaginary Beings</a>
 </h4>
 <p class="fr-book-author">By Jorge Luis Borges</p>
-        
+
 <p class="fr-book-desc">Explores mythical beings from many traditions, including Latin America.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

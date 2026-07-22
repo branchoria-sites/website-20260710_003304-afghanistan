@@ -367,7 +367,7 @@ Within Vietnam's wider landscape of uncanny history, Ghost Tape Number Ten stand
           <a href="https://www.amazon.com/s?k=Ghosts+of+War+in+Vietnam+Heonik+Kwon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts of War in Vietnam">Ghosts of War in Vietnam</a>
         </h4>
         <p class="fr-book-author">By Heonik Kwon</p>
-        
+
         <p class="fr-book-desc">Explains the cultural beliefs exploited by Operation Wandering Soul.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghosts+of+War+in+Vietnam+Heonik+Kwon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ Within Vietnam's wider landscape of uncanny history, Ghost Tape Number Ten stand
           <a href="https://www.amazon.com/s?k=Vietnam%2C+a+history+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vietnam, a history">Vietnam, a history</a>
         </h4>
         <p class="fr-book-author">By Stanley Karnow</p>
-        
+
         <p class="fr-book-desc">Places the Ghost Tape within the broader conflict.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Vietnam%2C+a+history+Stanley+Karnow&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ Within Vietnam's wider landscape of uncanny history, Ghost Tape Number Ten stand
           <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world of Lore">The world of Lore</a>
         </h4>
         <p class="fr-book-author">By Aaron Mahnke</p>
-        
+
         <p class="fr-book-desc">Explores the cultural power of supernatural belief.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

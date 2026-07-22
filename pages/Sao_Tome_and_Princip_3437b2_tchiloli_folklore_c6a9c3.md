@@ -339,7 +339,7 @@ The lasting appeal of Tchiloli comes from this mixture of certainty and mystery.
           <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The hero with a thousand faces">The hero with a thousand faces</a>
         </h4>
         <p class="fr-book-author">By Joseph Campbell</p>
-        
+
         <p class="fr-book-desc">Connects storytelling, myth structures, and cultural traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -356,7 +356,7 @@ The lasting appeal of Tchiloli comes from this mixture of certainty and mystery.
           <a href="https://www.amazon.com/s?k=The+Power+of+Myth+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Myth">The Power of Myth</a>
         </h4>
         <p class="fr-book-author">By Joseph Campbell</p>
-        
+
         <p class="fr-book-desc">Relevant to ritual, symbolism, and enduring stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Power+of+Myth+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ The lasting appeal of Tchiloli comes from this mixture of certainty and mystery.
           <a href="https://www.amazon.com/s?k=The+Invention+of+tradition+Eric+Hobsbawm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invention of tradition">The Invention of tradition</a>
         </h4>
         <p class="fr-book-author">By Eric Hobsbawm, Terence O. Ranger</p>
-        
+
         <p class="fr-book-desc">Explains how communities preserve and reshape inherited traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Invention+of+tradition+Eric+Hobsbawm&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ The lasting appeal of Tchiloli comes from this mixture of certainty and mystery.
           <a href="https://www.amazon.com/s?k=Atlas+Obscura+Joshua+Foer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atlas Obscura">Atlas Obscura</a>
         </h4>
         <p class="fr-book-author">By Joshua Foer, Dylan Thuras et al.</p>
-        
+
         <p class="fr-book-desc">Appeals to readers seeking strange cultural traditions and places.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Atlas+Obscura+Joshua+Foer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

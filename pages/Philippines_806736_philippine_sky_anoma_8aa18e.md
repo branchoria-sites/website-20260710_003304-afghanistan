@@ -349,7 +349,7 @@ Philippine aurora reports and weather anomalies therefore belong to a wider hist
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Matches the theme of explaining mysterious reports through evidence and science.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -366,7 +366,7 @@ Philippine aurora reports and weather anomalies therefore belong to a wider hist
           <a href="https://www.amazon.com/s?k=The+Atmosphere+Frederick+Lutgens&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Atmosphere">The Atmosphere</a>
         </h4>
         <p class="fr-book-author">By Frederick Lutgens, Redina Herman et al.</p>
-        
+
         <p class="fr-book-desc">Directly covers atmospheric science behind storms, lights, and weather anomalies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Atmosphere+Frederick+Lutgens&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ Philippine aurora reports and weather anomalies therefore belong to a wider hist
           <a href="https://www.amazon.com/s?k=Field+Guide+to+the+Atmosphere+John+A.+Day&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Field Guide to the Atmosphere">Field Guide to the Atmosphere</a>
         </h4>
         <p class="fr-book-author">By John A. Day, Vincent J. Schaefer</p>
-        
+
         <p class="fr-book-desc">Supports readers interested in identifying unusual sky phenomena.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Field+Guide+to+the+Atmosphere+John+A.+Day&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ Philippine aurora reports and weather anomalies therefore belong to a wider hist
           <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Encyclopedia of Ghosts and Spirits">The Encyclopedia of Ghosts and Spirits</a>
         </h4>
         <p class="fr-book-author">By Rosemary Ellen Guiley</p>
-        
+
         <p class="fr-book-desc">First published 1999.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -1313,7 +1313,7 @@ The unresolved part is cultural rather than supernatural. Syria’s strange repo
           <a href="https://www.amazon.com/s?k=A+history+of+the+Arab+peoples+Albert+Habib+Hourani&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of the Arab peoples">A history of the Arab peoples</a>
         </h4>
         <p class="fr-book-author">By Albert Habib Hourani, Albert Hourani et al.</p>
-        
+
         <p class="fr-book-desc">Provides broad historical context for Syria and the Levant.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+the+Arab+peoples+Albert+Habib+Hourani&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1330,7 +1330,7 @@ The unresolved part is cultural rather than supernatural. Syria’s strange repo
           <a href="https://www.amazon.com/s?k=The+Syrian+Goddess+Lucian+of+Samosata&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Syrian Goddess">The Syrian Goddess</a>
         </h4>
         <p class="fr-book-author">By Lucian of Samosata</p>
-        
+
         <p class="fr-book-desc">Primary source for several famous Syrian marvel traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Syrian+Goddess+Lucian+of+Samosata&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1347,7 +1347,7 @@ The unresolved part is cultural rather than supernatural. Syria’s strange repo
           <a href="https://www.amazon.com/s?k=Destiny+disrupted+Mir+Tamim+Ansary&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Destiny disrupted">Destiny disrupted</a>
         </h4>
         <p class="fr-book-author">By Mir Tamim Ansary, Tamim Ansary</p>
-        
+
         <p class="fr-book-desc">Helps explain the wider cultural background of Syrian traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Destiny+disrupted+Mir+Tamim+Ansary&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1364,7 +1364,7 @@ The unresolved part is cultural rather than supernatural. Syria’s strange repo
           <a href="https://www.amazon.com/s?k=Oxford+History+of+the+Ancient+near+East+Karen+Radner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oxford History of the Ancient near East">Oxford History of the Ancient near East</a>
         </h4>
         <p class="fr-book-author">By Karen Radner, Nadine Moeller et al.</p>
-        
+
         <p class="fr-book-desc">Covers the deep historical setting behind many Syrian traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Oxford+History+of+the+Ancient+near+East+Karen+Radner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

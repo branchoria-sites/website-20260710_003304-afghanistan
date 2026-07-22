@@ -340,7 +340,7 @@ For North Macedonia’s wider strange-history landscape, these traditions are si
           <a href="https://www.amazon.com/s?k=Vampires%2C+burial%2C+and+death+Paul+Barber&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vampires, burial, and death">Vampires, burial, and death</a>
         </h4>
         <p class="fr-book-author">By Paul Barber</p>
-        
+
         <p class="fr-book-desc">Examines how vampire traditions developed from cultural interpretations of death.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Vampires%2C+burial%2C+and+death+Paul+Barber&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -357,7 +357,7 @@ For North Macedonia’s wider strange-history landscape, these traditions are si
           <a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The fairy-faith in Celtic countries">The fairy-faith in Celtic countries</a>
         </h4>
         <p class="fr-book-author">By W. Y. Evans-Wentz</p>
-        
+
         <p class="fr-book-desc">Useful comparison for European traditions of spirits and hidden beings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+fairy-faith+in+Celtic+countries+W.+Y.+Evans-Wentz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -374,7 +374,7 @@ For North Macedonia’s wider strange-history landscape, these traditions are si
           <a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The anthropology of religion, magic, and witchcraft">The anthropology of religion, magic, and witchcraft</a>
         </h4>
         <p class="fr-book-author">By Philip L. Stein, Rebecca Stein</p>
-        
+
         <p class="fr-book-desc">Explains why communities preserve supernatural explanations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ For North Macedonia’s wider strange-history landscape, these traditions are si
           <a href="https://www.amazon.com/s?k=The+vampire+Alan+Dundes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vampire">The vampire</a>
         </h4>
         <p class="fr-book-author">By Alan Dundes</p>
-        
+
         <p class="fr-book-desc">Directly connects to Balkan vampire traditions and supernatural beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+vampire+Alan+Dundes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

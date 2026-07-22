@@ -349,7 +349,7 @@ Rather than asking whether these traditions "prove" the supernatural, the more r
           <a href="https://www.amazon.com/s?k=Legends+of+the+fire+spirits+Robert+W.+Lebling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Legends of the fire spirits">Legends of the fire spirits</a>
         </h4>
         <p class="fr-book-author">By Robert W. Lebling</p>
-        
+
         <p class="fr-book-desc">Directly explores jinn traditions across the Islamic world, including North Africa.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Legends+of+the+fire+spirits+Robert+W.+Lebling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -366,7 +366,7 @@ Rather than asking whether these traditions "prove" the supernatural, the more r
           <a href="https://www.amazon.com/s?k=Magic+and+Divination+in+Early+Islam+%28The+Formation+of+the+Classical+Islamic+World%29+Emilie+Savage-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Magic and Divination in Early Islam (The Formation of the Classical Islamic World)">Magic and Divination in Early Islam (The Formation of the Cla...</a>
         </h4>
         <p class="fr-book-author">By Emilie Savage-Smith</p>
-        
+
         <p class="fr-book-desc">First published 2004. Subjects: Magic, Occultism, Divination, Islamic empire, history, Islam.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Magic+and+Divination+in+Early+Islam+%28The+Formation+of+the+Classical+Islamic+World%29+Emilie+Savage-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ Rather than asking whether these traditions "prove" the supernatural, the more r
           <a href="https://www.amazon.com/s?k=Carthage+must+be+destroyed+Richard+Miles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Carthage must be destroyed">Carthage must be destroyed</a>
         </h4>
         <p class="fr-book-author">By Richard Miles</p>
-        
+
         <p class="fr-book-desc">First published 2010. Subjects: History, Hannibal, 247 b.c-182 b.c., Carthage (extinct city), Rome, history, Rome, history, republic, 510...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Carthage+must+be+destroyed+Richard+Miles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ Rather than asking whether these traditions "prove" the supernatural, the more r
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology Book">The Mythology Book</a>
         </h4>
         <p class="fr-book-author">By DK</p>
-        
+
         <p class="fr-book-desc">Places spirit traditions within a global mythology framework.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

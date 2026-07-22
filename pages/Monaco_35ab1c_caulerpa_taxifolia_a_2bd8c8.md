@@ -335,7 +335,7 @@ It is therefore an unusually modern form of Forteana: a case where the "monster"
           <a href="https://www.amazon.com/s?k=The+world+is+blue+Sylvia+A.+Earle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world is blue">The world is blue</a>
         </h4>
         <p class="fr-book-author">By Sylvia A. Earle</p>
-        
+
         <p class="fr-book-desc">Provides context for Mediterranean marine ecology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world+is+blue+Sylvia+A.+Earle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -352,7 +352,7 @@ It is therefore an unusually modern form of Forteana: a case where the "monster"
           <a href="https://www.amazon.com/s?k=The+new+wild+Fred+Pearce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The new wild">The new wild</a>
         </h4>
         <p class="fr-book-author">By Fred Pearce</p>
-        
+
         <p class="fr-book-desc">Discusses changing ecosystems and introduced species.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+new+wild+Fred+Pearce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ It is therefore an unusually modern form of Forteana: a case where the "monster"
           <a href="https://www.amazon.com/s?k=The+Riviera+set+Mary+S.+Lovell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Riviera set">The Riviera set</a>
         </h4>
         <p class="fr-book-author">By Mary S. Lovell</p>
-        
+
         <p class="fr-book-desc">Adds wider Riviera context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Riviera+set+Mary+S.+Lovell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,18 +381,18 @@ It is therefore an unusually modern form of Forteana: a case where the "monster"
 
     <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=Invasive+Species+What+Everyone+Needs+to+Know+Daniel+Simberloff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Invasive Species
-            
+
                 What Everyone Needs to Know on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7850160-M.jpg" alt="Cover for Invasive Species
-            
+
                 What Everyone Needs to Know" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
           <a href="https://www.amazon.com/s?k=Invasive+Species+What+Everyone+Needs+to+Know+Daniel+Simberloff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Invasive Species
-            
+
                 What Everyone Needs to Know">Invasive Species What Everyone Needs to Know</a>
         </h4>
         <p class="fr-book-author">By Daniel Simberloff</p>
-        
+
         <p class="fr-book-desc">First published 2013. Subjects: Plants, Conservation biology, Evolution, Introduced organisms, Evolution (Biology).</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Invasive+Species+What+Everyone+Needs+to+Know+Daniel+Simberloff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

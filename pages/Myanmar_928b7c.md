@@ -1322,7 +1322,7 @@ The best sceptical reading does not flatten the material into “mere superstiti
 <a href="https://www.amazon.com/s?k=Burmese+Days+George+Orwell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Burmese Days">Burmese Days</a>
 </h4>
 <p class="fr-book-author">By George Orwell</p>
-        
+
 <p class="fr-book-desc">First published 1934. Subjects: Imperialismo, Fiction, Imperialism, Colonias, Social conditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Burmese+Days+George+Orwell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1339,7 +1339,7 @@ The best sceptical reading does not flatten the material into “mere superstiti
 <a href="https://www.amazon.com/s?k=The+Glass+Palace+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Glass Palace">The Glass Palace</a>
 </h4>
 <p class="fr-book-author">By Amitav Ghosh</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: Fiction, History, Historical fiction, Love stories, Domestic fiction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Glass+Palace+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1356,7 +1356,7 @@ The best sceptical reading does not flatten the material into “mere superstiti
 <a href="https://www.amazon.com/s?k=From+the+land+of+green+ghosts+Pascal+Khoo+Thwe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From the land of green ghosts">From the land of green ghosts</a>
 </h4>
 <p class="fr-book-author">By Pascal Khoo Thwe</p>
-        
+
 <p class="fr-book-desc">First published 2002. Subjects: Padaung (Burmese people), Guerrillas, Biography, History, Nationalitätenpolitik.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=From+the+land+of+green+ghosts+Pascal+Khoo+Thwe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1373,7 +1373,7 @@ The best sceptical reading does not flatten the material into “mere superstiti
 <a href="https://www.amazon.com/s?k=Rivers+of+flavor+Naomi+Duguid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rivers of flavor">Rivers of flavor</a>
 </h4>
 <p class="fr-book-author">By Naomi Duguid</p>
-        
+
 <p class="fr-book-desc">First published 2012. Subjects: Food, Social life and customs, Burmese Cooking, Cooking (Spices), Cooking, burmese.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Rivers+of+flavor+Naomi+Duguid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

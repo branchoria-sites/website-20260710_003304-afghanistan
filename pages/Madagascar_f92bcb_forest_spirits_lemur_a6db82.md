@@ -329,7 +329,7 @@ Together these traditions capture a distinctive feature of Madagascar's weird hi
           <a href="https://www.amazon.com/s?k=Lemurs+of+Madagascar+Russell+A.+Mittermeier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lemurs of Madagascar">Lemurs of Madagascar</a>
         </h4>
         <p class="fr-book-author">By Russell A. Mittermeier</p>
-        
+
         <p class="fr-book-desc">Covers the aye-aye and other lemurs behind Malagasy beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lemurs+of+Madagascar+Russell+A.+Mittermeier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -346,27 +346,10 @@ Together these traditions capture a distinctive feature of Madagascar's weird hi
           <a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The anthropology of religion, magic, and witchcraft">The anthropology of religion, magic, and witchcraft</a>
         </h4>
         <p class="fr-book-author">By Philip L. Stein, Rebecca Stein</p>
-        
+
         <p class="fr-book-desc">Provides context for spirit traditions, taboo and belief.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Eighth+Continent+Peter+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Eighth Continent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/236475-M.jpg" alt="Cover for The Eighth Continent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Eighth+Continent+Peter+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Eighth Continent">The Eighth Continent</a>
-        </h4>
-        <p class="fr-book-author">By Peter Tyson</p>
-        
-        <p class="fr-book-desc">Explores Malagasy culture alongside wildlife.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Eighth+Continent+Peter+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -380,8 +363,8 @@ Together these traditions capture a distinctive feature of Madagascar's weird hi
           <a href="https://www.amazon.com/s?k=The+Book+of+Y%C5%8Dkai+Michael+Dylan+Foster&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Yōkai">The Book of Yōkai</a>
         </h4>
         <p class="fr-book-author">By Michael Dylan Foster</p>
-        
-        <p class="fr-book-desc">First published 2015. Subjects: Yōkai (Japanese folklore), Folklore (Japan), Mythical Animals, Folklore, Spirits.</p>
+
+        <p class="fr-book-desc">Useful comparative folklore reading for understanding how cultures transform fears and places into stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+Y%C5%8Dkai+Michael+Dylan+Foster&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
@@ -389,9 +372,26 @@ Together these traditions capture a distinctive feature of Madagascar's weird hi
         </div>
       </div>
     </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Eighth+Continent+Peter+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Eighth Continent on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/236475-M.jpg" alt="Cover for The Eighth Continent" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Eighth+Continent+Peter+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Eighth Continent">The Eighth Continent</a>
+        </h4>
+        <p class="fr-book-author">By Peter Tyson</p>
+
+        <p class="fr-book-desc">Explores Malagasy culture alongside wildlife.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Eighth+Continent+Peter+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lemurs+of+Madagascar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lemurs of Madagascar</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The anthropology of religion, magic, and witchcraft</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Eighth+Continent&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Eighth Continent</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lemurs+of+Madagascar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lemurs of Madagascar</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The anthropology of religion, magic, and witchcraft</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Y%C5%8Dkai&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Yōkai</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

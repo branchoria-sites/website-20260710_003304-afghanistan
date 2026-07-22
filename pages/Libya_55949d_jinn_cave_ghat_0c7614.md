@@ -355,7 +355,7 @@ Within Libya's wider catalogue of unusual places, the Jinn Cave stands as an exa
           <a href="https://www.amazon.com/s?k=Arabian+sands+Wilfred+Thesiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabian sands">Arabian sands</a>
         </h4>
         <p class="fr-book-author">By Wilfred Thesiger</p>
-        
+
         <p class="fr-book-desc">Provides cultural and environmental context for desert beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Arabian+sands+Wilfred+Thesiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ Within Libya's wider catalogue of unusual places, the Jinn Cave stands as an exa
           <a href="https://www.amazon.com/s?k=Sahara+Michael+Palin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sahara">Sahara</a>
         </h4>
         <p class="fr-book-author">By Michael Palin</p>
-        
+
         <p class="fr-book-desc">Captures the atmosphere and cultures of the Sahara surrounding Libyan folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sahara+Michael+Palin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ Within Libya's wider catalogue of unusual places, the Jinn Cave stands as an exa
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
         </h4>
         <p class="fr-book-author">By Scott G. Bruce</p>
-        
+
         <p class="fr-book-desc">Places regional supernatural traditions within broader folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ Within Libya's wider catalogue of unusual places, the Jinn Cave stands as an exa
           <a href="https://www.amazon.com/s?k=Legends+of+the+fire+spirits+Robert+W.+Lebling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Legends of the fire spirits">Legends of the fire spirits</a>
         </h4>
         <p class="fr-book-author">By Robert W. Lebling</p>
-        
+
         <p class="fr-book-desc">Directly explores jinn beliefs across North Africa and the Arab world.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Legends+of+the+fire+spirits+Robert+W.+Lebling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

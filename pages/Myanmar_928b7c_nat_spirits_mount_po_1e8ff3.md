@@ -382,7 +382,7 @@ From a Fortean perspective, that is what makes Mount Popa exceptional. Its myste
 <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spirit Catches You and You Fall Down">The Spirit Catches You and You Fall Down</a>
 </h4>
 <p class="fr-book-author">By Anne Fadiman</p>
-        
+
 <p class="fr-book-desc">First published 1997. Subjects: Asian Americans, Attitude, Attitude of Health Personnel, Child, Communication.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ From a Fortean perspective, that is what makes Mount Popa exceptional. Its myste
 <a href="https://www.amazon.com/s?k=The+Glass+Palace+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Glass Palace">The Glass Palace</a>
 </h4>
 <p class="fr-book-author">By Amitav Ghosh</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: Fiction, History, Historical fiction, Love stories, Domestic fiction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Glass+Palace+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ From a Fortean perspective, that is what makes Mount Popa exceptional. Its myste
 <a href="https://www.amazon.com/s?k=From+the+land+of+green+ghosts+Pascal+Khoo+Thwe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From the land of green ghosts">From the land of green ghosts</a>
 </h4>
 <p class="fr-book-author">By Pascal Khoo Thwe</p>
-        
+
 <p class="fr-book-desc">First published 2002. Subjects: Padaung (Burmese people), Guerrillas, Biography, History, Nationalitätenpolitik.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=From+the+land+of+green+ghosts+Pascal+Khoo+Thwe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -433,7 +433,7 @@ From a Fortean perspective, that is what makes Mount Popa exceptional. Its myste
 <a href="https://www.amazon.com/s?k=Rivers+of+flavor+Naomi+Duguid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rivers of flavor">Rivers of flavor</a>
 </h4>
 <p class="fr-book-author">By Naomi Duguid</p>
-        
+
 <p class="fr-book-desc">First published 2012. Subjects: Food, Social life and customs, Burmese Cooking, Cooking (Spices), Cooking, burmese.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Rivers+of+flavor+Naomi+Duguid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

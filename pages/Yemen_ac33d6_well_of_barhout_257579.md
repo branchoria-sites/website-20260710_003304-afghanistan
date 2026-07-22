@@ -355,7 +355,7 @@ That combination makes the Well of Barhout one of Yemen's defining strange place
           <a href="https://www.amazon.com/s?k=The+Arabs%3A+A+History+Eugene+L.+Rogan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Arabs: A History">The Arabs: A History</a>
         </h4>
         <p class="fr-book-author">By Eugene L. Rogan</p>
-        
+
         <p class="fr-book-desc">First published 2011. Subjects: Petroleum industry and trade, Arab nationalism, Islam and politics, Imperialism, History.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Arabs%3A+A+History+Eugene+L.+Rogan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ That combination makes the Well of Barhout one of Yemen's defining strange place
           <a href="https://www.amazon.com/s?k=Yemen+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Yemen">Yemen</a>
         </h4>
         <p class="fr-book-author">By Tim MacKintosh-Smith, Tim MacIntosh-Smith</p>
-        
+
         <p class="fr-book-desc">First published 1998. Subjects: Travel writing, History, Travel, Yemen, ASIA.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Yemen+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ That combination makes the Well of Barhout one of Yemen's defining strange place
           <a href="https://www.amazon.com/s?k=Arabia+Felix%2C+the+Danish+expedition+of+1761-1767+Thorkild+Hansen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabia Felix, the Danish expedition of 1761-1767">Arabia Felix, the Danish expedition of 1761-1767</a>
         </h4>
         <p class="fr-book-author">By Thorkild Hansen</p>
-        
+
         <p class="fr-book-desc">First published 1964. Subjects: Description and travel.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Arabia+Felix%2C+the+Danish+expedition+of+1761-1767+Thorkild+Hansen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ That combination makes the Well of Barhout one of Yemen's defining strange place
           <a href="https://www.amazon.com/s?k=World+Beneath+Richard+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="World Beneath">World Beneath</a>
         </h4>
         <p class="fr-book-author">By Richard Smith</p>
-        
+
         <p class="fr-book-desc">Explains the science and exploration of dramatic underground environments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=World+Beneath+Richard+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

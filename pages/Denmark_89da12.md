@@ -1306,7 +1306,7 @@ The common thread is not “Denmark is paranormal”. It is that Danish strange 
           <a href="https://www.amazon.com/s?k=Scandinavian+folk+belief+and+legend+Reimund+Kvideland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Scandinavian folk belief and legend">Scandinavian folk belief and legend</a>
         </h4>
         <p class="fr-book-author">By Reimund Kvideland, Henning K. Sehmsdorf</p>
-        
+
         <p class="fr-book-desc">Directly explores Scandinavian legends, beliefs and oral traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Scandinavian+folk+belief+and+legend+Reimund+Kvideland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1323,7 +1323,7 @@ The common thread is not “Denmark is paranormal”. It is that Danish strange 
           <a href="https://www.amazon.com/s?k=Monsters%3A+A+Bestiary+of+the+Bizarre+Christopher+Dell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters: A Bestiary of the Bizarre">Monsters: A Bestiary of the Bizarre</a>
         </h4>
         <p class="fr-book-author">By Christopher Dell</p>
-        
+
         <p class="fr-book-desc">Broad survey of legendary beings fitting the site&#x27;s wider theme.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Monsters%3A+A+Bestiary+of+the+Bizarre+Christopher+Dell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1340,7 +1340,7 @@ The common thread is not “Denmark is paranormal”. It is that Danish strange 
           <a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Imaginary Beings">The Book of Imaginary Beings</a>
         </h4>
         <p class="fr-book-author">By Jorge Luis Borges</p>
-        
+
         <p class="fr-book-desc">Provides broad context for legendary creatures and strange traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1357,7 +1357,7 @@ The common thread is not “Denmark is paranormal”. It is that Danish strange 
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Norse+Myths+Kevin+Crossley-Holland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Norse Myths">The Penguin Book of Norse Myths</a>
         </h4>
         <p class="fr-book-author">By Kevin Crossley-Holland</p>
-        
+
         <p class="fr-book-desc">Covers the mythic background underpinning much Danish folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Norse+Myths+Kevin+Crossley-Holland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

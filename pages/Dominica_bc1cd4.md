@@ -1307,7 +1307,7 @@ Dominica’s Forteana therefore has a clear centre of gravity. It is not a count
           <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
         </h4>
         <p class="fr-book-author">By Wade Davis</p>
-        
+
         <p class="fr-book-desc">Explores Caribbean spiritual traditions that complement Dominica&#x27;s folklore and uncanny culture.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1324,7 +1324,7 @@ Dominica’s Forteana therefore has a clear centre of gravity. It is not a count
           <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+The+Caribbean+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to The Caribbean">The Rough Guide to The Caribbean</a>
         </h4>
         <p class="fr-book-author">By Rough Guides, Nicky Agate</p>
-        
+
         <p class="fr-book-desc">Provides context for Dominica&#x27;s landscape, history and culture.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+The+Caribbean+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1341,7 +1341,7 @@ Dominica’s Forteana therefore has a clear centre of gravity. It is not a count
           <a href="https://www.amazon.com/s?k=Over+the+Edge+of+the+World+Laurence+Bergreen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Over the Edge of the World">Over the Edge of the World</a>
         </h4>
         <p class="fr-book-author">By Laurence Bergreen</p>
-        
+
         <p class="fr-book-desc">Helps place early Caribbean exploration and island history into wider context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Over+the+Edge+of+the+World+Laurence+Bergreen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1358,7 +1358,7 @@ Dominica’s Forteana therefore has a clear centre of gravity. It is not a count
           <a href="https://www.amazon.com/s?k=The+island+at+the+center+of+the+world+Russell+Shorto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The island at the center of the world">The island at the center of the world</a>
         </h4>
         <p class="fr-book-author">By Russell Shorto</p>
-        
+
         <p class="fr-book-desc">Provides broader colonial Caribbean context behind many surviving traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+island+at+the+center+of+the+world+Russell+Shorto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

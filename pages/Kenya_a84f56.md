@@ -1318,7 +1318,7 @@ The most honest conclusion is also the most interesting one: Kenya’s strange r
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Kenya+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Kenya">Lonely Planet Kenya</a>
         </h4>
         <p class="fr-book-author">By Lonely Planet, Anthony Ham et al.</p>
-        
+
         <p class="fr-book-desc">Explains the landscapes behind many of the featured mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Kenya+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1335,7 +1335,7 @@ The most honest conclusion is also the most interesting one: Kenya’s strange r
           <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world of Lore">The world of Lore</a>
         </h4>
         <p class="fr-book-author">By Aaron Mahnke</p>
-        
+
         <p class="fr-book-desc">Matches Kenya&#x27;s blend of folklore, monsters and legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1352,7 +1352,7 @@ The most honest conclusion is also the most interesting one: Kenya’s strange r
           <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
         </h4>
         <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
-        
+
         <p class="fr-book-desc">Covers many categories reflected across Kenya&#x27;s strange history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1369,7 +1369,7 @@ The most honest conclusion is also the most interesting one: Kenya’s strange r
           <a href="https://www.amazon.com/s?k=The+Ghost+and+the+Darkness+John+Henry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ghost and the Darkness">The Ghost and the Darkness</a>
         </h4>
         <p class="fr-book-author">By John Henry Patterson</p>
-        
+
         <p class="fr-book-desc">Provides context for Kenya&#x27;s legendary wildlife narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Ghost+and+the+Darkness+John+Henry+Patterson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

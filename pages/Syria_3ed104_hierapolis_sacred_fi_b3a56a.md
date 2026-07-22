@@ -339,7 +339,7 @@ The Hierapolis traditions also preserve an unusually early example of a witness 
           <a href="https://www.amazon.com/s?k=The+Syrian+Goddess+Lucian+of+Samosata&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Syrian Goddess">The Syrian Goddess</a>
         </h4>
         <p class="fr-book-author">By Lucian of Samosata</p>
-        
+
         <p class="fr-book-desc">Primary account of Hierapolis, Atargatis and the sacred fish.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Syrian+Goddess+Lucian+of+Samosata&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -356,7 +356,7 @@ The Hierapolis traditions also preserve an unusually early example of a witness 
           <a href="https://www.amazon.com/s?k=A+History+of+the+Ancient+Near+East+Marc+Van+De+Mieroop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of the Ancient Near East">A History of the Ancient Near East</a>
         </h4>
         <p class="fr-book-author">By Marc Van De Mieroop</p>
-        
+
         <p class="fr-book-desc">Supplies historical background for Hierapolis.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+History+of+the+Ancient+Near+East+Marc+Van+De+Mieroop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ The Hierapolis traditions also preserve an unusually early example of a witness 
           <a href="https://www.amazon.com/s?k=Religions+of+the+Ancient+Near+East+Daniel+C.+Snell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Religions of the Ancient Near East">Religions of the Ancient Near East</a>
         </h4>
         <p class="fr-book-author">By Daniel C. Snell</p>
-        
+
         <p class="fr-book-desc">Explains regional religious traditions including sacred animals.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Religions+of+the+Ancient+Near+East+Daniel+C.+Snell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ The Hierapolis traditions also preserve an unusually early example of a witness 
           <a href="https://www.amazon.com/s?k=The+histories+of+Herodotus+Herodotus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The histories of Herodotus">The histories of Herodotus</a>
         </h4>
         <p class="fr-book-author">By Herodotus</p>
-        
+
         <p class="fr-book-desc">First published 1899. Subjects: Ancient History, History, Histoire ancienne, open_syllabus_project.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+histories+of+Herodotus+Herodotus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

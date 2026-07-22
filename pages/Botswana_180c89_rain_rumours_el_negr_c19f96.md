@@ -346,7 +346,7 @@ The result is one of Botswana's best-documented examples of living Forteana: a m
 <a href="https://www.amazon.com/s?k=The+Lost+World+of+the+Kalahari+Laurens+van+der+Post&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lost World of the Kalahari">The Lost World of the Kalahari</a>
 </h4>
 <p class="fr-book-author">By Laurens van der Post</p>
-        
+
 <p class="fr-book-desc">First published 1958. Subjects: San (African people), Description and travel, Kalahari Desert, Vander Post, Laurens - Prose &amp; Criticism,...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Lost+World+of+the+Kalahari+Laurens+van+der+Post&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -363,7 +363,7 @@ The result is one of Botswana's best-documented examples of living Forteana: a m
 <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the gods">Fingerprints of the gods</a>
 </h4>
 <p class="fr-book-author">By Graham Hancock</p>
-        
+
 <p class="fr-book-desc">First published 1995. Subjects: Lost continents, World maps, Ancient Civilization, Discovery and exploration, Early works to 1800.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ The result is one of Botswana's best-documented examples of living Forteana: a m
 <a href="https://www.amazon.com/s?k=African+folktales+Roger+D.+Abrahams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African folktales">African folktales</a>
 </h4>
 <p class="fr-book-author">By Roger D. Abrahams</p>
-        
+
 <p class="fr-book-desc">First published 1983. Subjects: Africa, Sub-Saharan, Tales, Customs and Folklore, Volkserzählung, Folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=African+folktales+Roger+D.+Abrahams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ The result is one of Botswana's best-documented examples of living Forteana: a m
 <a href="https://www.amazon.com/s?k=The+World+of+the+Kalahari+Bushman+Laurens+van+der+Post&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World of the Kalahari Bushman">The World of the Kalahari Bushman</a>
 </h4>
 <p class="fr-book-author">By Laurens van der Post</p>
-        
+
 <p class="fr-book-desc">Offers background on beliefs surrounding nature and survival.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+World+of+the+Kalahari+Bushman+Laurens+van+der+Post&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

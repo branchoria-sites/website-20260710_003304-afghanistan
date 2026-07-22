@@ -1311,7 +1311,7 @@ The result is a strange-history profile with two strong cautions. First, not eve
           <a href="https://www.amazon.com/s?k=The+Pacific+Simon+Winchester&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pacific">The Pacific</a>
         </h4>
         <p class="fr-book-author">By Simon Winchester</p>
-        
+
         <p class="fr-book-desc">Covers the wider historical backdrop shaping the Marshall Islands.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Pacific+Simon+Winchester&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1328,7 +1328,7 @@ The result is a strange-history profile with two strong cautions. First, not eve
           <a href="https://www.amazon.com/s?k=Sea+People+Christina+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sea People">Sea People</a>
         </h4>
         <p class="fr-book-author">By Christina Thompson</p>
-        
+
         <p class="fr-book-desc">Places Marshallese culture and navigation within the wider Pacific.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sea+People+Christina+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1345,7 +1345,7 @@ The result is a strange-history profile with two strong cautions. First, not eve
           <a href="https://www.amazon.com/s?k=Before+the+fallout+Diana+Preston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Before the fallout">Before the fallout</a>
         </h4>
         <p class="fr-book-author">By Diana Preston</p>
-        
+
         <p class="fr-book-desc">Provides broader context for the islands&#x27; nuclear legacy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Before+the+fallout+Diana+Preston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1362,7 +1362,7 @@ The result is a strange-history profile with two strong cautions. First, not eve
           <a href="https://www.amazon.com/s?k=On+the+origin+of+tepees+Jonnie+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On the origin of tepees">On the origin of tepees</a>
         </h4>
         <p class="fr-book-author">By Jonnie Hughes</p>
-        
+
         <p class="fr-book-desc">Supports discussion of folklore and traditional beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=On+the+origin+of+tepees+Jonnie+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -402,7 +402,7 @@ Within Singapore's wider Fortean landscape, the fish rain occupies a distinctive
 <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
 </h4>
 <p class="fr-book-author">By Charles Fort</p>
-        
+
 <p class="fr-book-desc">Animal rains are one of Charles Fort&#x27;s defining subjects.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+by+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ Within Singapore's wider Fortean landscape, the fish rain occupies a distinctive
 <a href="https://www.amazon.com/s?k=Lonely+Planet+Singapore+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Singapore">Lonely Planet Singapore</a>
 </h4>
 <p class="fr-book-author">By Lonely Planet, Ria de Jong</p>
-        
+
 <p class="fr-book-desc">First published 2018. Subjects: Singapore, description and travel.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Lonely+Planet+Singapore+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +436,7 @@ Within Singapore's wider Fortean landscape, the fish rain occupies a distinctive
 <a href="https://www.amazon.com/s?k=The+Weather+Experiment+Peter+Moore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Experiment">The Weather Experiment</a>
 </h4>
 <p class="fr-book-author">By Peter Moore</p>
-        
+
 <p class="fr-book-desc">First published 2015. Subjects: Weather forecasting.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Weather+Experiment+Peter+Moore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -453,7 +453,7 @@ Within Singapore's wider Fortean landscape, the fish rain occupies a distinctive
 <a href="https://www.amazon.com/s?k=Singapore+Mark+Ravinder+Frost&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Singapore">Singapore</a>
 </h4>
 <p class="fr-book-author">By Mark Ravinder Frost</p>
-        
+
 <p class="fr-book-desc">First published 2009. Subjects: Biography, History, Singapore, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Singapore+Mark+Ravinder+Frost&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

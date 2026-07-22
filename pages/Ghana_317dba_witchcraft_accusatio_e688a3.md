@@ -351,7 +351,7 @@ For anyone exploring Ghana's stranger traditions, this subject stands apart from
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Encourages evidence-based thinking about extraordinary claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -368,7 +368,7 @@ For anyone exploring Ghana's stranger traditions, this subject stands apart from
           <a href="https://www.amazon.com/s?k=African+myths+of+origin+Stephen+Paterson+Belcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African myths of origin">African myths of origin</a>
         </h4>
         <p class="fr-book-author">By Stephen Paterson Belcher</p>
-        
+
         <p class="fr-book-desc">Explains cultural traditions surrounding supernatural belief.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+myths+of+origin+Stephen+Paterson+Belcher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ For anyone exploring Ghana's stranger traditions, this subject stands apart from
           <a href="https://www.amazon.com/s?k=The+Ends+of+the+Earth+Robert+D.+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ends of the Earth">The Ends of the Earth</a>
         </h4>
         <p class="fr-book-author">By Robert D. Kaplan</p>
-        
+
         <p class="fr-book-desc">First published 1996. Subjects: Description and travel, Travel, Journeys, Middle East, Descripción y viajes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Ends+of+the+Earth+Robert+D.+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ For anyone exploring Ghana's stranger traditions, this subject stands apart from
           <a href="https://www.amazon.com/s?k=Witchcraft%2C+Oracles+and+Magic+Among+the+Azande+E.+E.+Evans-Pritchard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witchcraft, Oracles and Magic Among the Azande">Witchcraft, Oracles and Magic Among the Azande</a>
         </h4>
         <p class="fr-book-author">By E. E. Evans-Pritchard</p>
-        
+
         <p class="fr-book-desc">Essential reading on African witchcraft beliefs and social dynamics.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Witchcraft%2C+Oracles+and+Magic+Among+the+Azande+E.+E.+Evans-Pritchard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

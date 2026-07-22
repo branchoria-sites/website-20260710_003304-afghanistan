@@ -335,7 +335,7 @@ That does not make the story uninteresting. On the contrary, it illustrates an i
           <a href="https://www.amazon.com/s?k=Cryptozoology+A+to+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cryptozoology A to Z">Cryptozoology A to Z</a>
         </h4>
         <p class="fr-book-author">By Loren Coleman, Jerome Clark</p>
-        
+
         <p class="fr-book-desc">Includes lesser-known African cryptid traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cryptozoology+A+to+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -352,7 +352,7 @@ That does not make the story uninteresting. On the contrary, it illustrates an i
           <a href="https://www.amazon.com/s?k=The+beasts+that+hide+from+man+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The beasts that hide from man">The beasts that hide from man</a>
         </h4>
         <p class="fr-book-author">By Karl Shuker</p>
-        
+
         <p class="fr-book-desc">Surveys reports of alleged unknown animals worldwide.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+beasts+that+hide+from+man+Karl+Shuker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ That does not make the story uninteresting. On the contrary, it illustrates an i
           <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
         </h4>
         <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
-        
+
         <p class="fr-book-desc">Explains why famous cryptid evidence often fails under scrutiny.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ That does not make the story uninteresting. On the contrary, it illustrates an i
           <a href="https://www.amazon.com/s?k=The+Cryptozoologicon+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cryptozoologicon">The Cryptozoologicon</a>
         </h4>
         <p class="fr-book-author">By Darren Naish</p>
-        
+
         <p class="fr-book-desc">Places Kasai Rex within wider monster folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Cryptozoologicon+Darren+Naish&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

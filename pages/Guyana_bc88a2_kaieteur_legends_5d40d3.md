@@ -333,7 +333,7 @@ In that sense, Kaieteur is a reminder that landscapes can be mysterious without 
           <a href="https://www.amazon.com/s?k=Braiding+Sweetgrass+Robin+Wall+Kimmerer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Braiding Sweetgrass">Braiding Sweetgrass</a>
         </h4>
         <p class="fr-book-author">By Robin Wall Kimmerer</p>
-        
+
         <p class="fr-book-desc">Relates to sacred landscapes and Indigenous relationships with nature.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Braiding+Sweetgrass+Robin+Wall+Kimmerer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -350,7 +350,7 @@ In that sense, Kaieteur is a reminder that landscapes can be mysterious without 
           <a href="https://www.amazon.com/s?k=The+Lost+City+of+Z+David+Grann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lost City of Z">The Lost City of Z</a>
         </h4>
         <p class="fr-book-author">By David Grann, James Gray</p>
-        
+
         <p class="fr-book-desc">Connects with rainforest exploration and South American discovery stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lost+City+of+Z+David+Grann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -367,7 +367,7 @@ In that sense, Kaieteur is a reminder that landscapes can be mysterious without 
           <a href="https://www.amazon.com/s?k=The+Invention+of+Nature+Andrea+Wulf&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invention of Nature">The Invention of Nature</a>
         </h4>
         <p class="fr-book-author">By Andrea Wulf</p>
-        
+
         <p class="fr-book-desc">Adds historical context for how people interpret landscapes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Invention+of+Nature+Andrea+Wulf&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ In that sense, Kaieteur is a reminder that landscapes can be mysterious without 
           <a href="https://www.amazon.com/s?k=American+Gods+Neil+Gaiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Gods">American Gods</a>
         </h4>
         <p class="fr-book-author">By Neil Gaiman</p>
-        
+
         <p class="fr-book-desc">First published 2001. Subjects: science fiction, fantasy fiction, Americana, fantasy, mythology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=American+Gods+Neil+Gaiman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

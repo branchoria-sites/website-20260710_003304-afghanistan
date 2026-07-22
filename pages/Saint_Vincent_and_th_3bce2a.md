@@ -1285,7 +1285,7 @@ Saint Vincent and the Grenadines therefore belongs less to the tradition of famo
           <a href="https://www.amazon.com/s?k=The+Oxford+book+of+Caribbean+short+stories+Stewart+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford book of Caribbean short stories">The Oxford book of Caribbean short stories</a>
         </h4>
         <p class="fr-book-author">By Stewart Brown, John Wickham</p>
-        
+
         <p class="fr-book-desc">Shows how island memories and unusual experiences appear in storytelling.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Oxford+book+of+Caribbean+short+stories+Stewart+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1302,7 +1302,7 @@ Saint Vincent and the Grenadines therefore belongs less to the tradition of famo
           <a href="https://www.amazon.com/s?k=The+Black+Atlantic+Paul+Gilroy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Atlantic">The Black Atlantic</a>
         </h4>
         <p class="fr-book-author">By Paul Gilroy</p>
-        
+
         <p class="fr-book-desc">Provides context for African diaspora traditions influencing Caribbean beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Black+Atlantic+Paul+Gilroy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1319,7 +1319,7 @@ Saint Vincent and the Grenadines therefore belongs less to the tradition of famo
           <a href="https://www.amazon.com/s?k=Caribbean+Folk+Tales+Lydia+Cabrera&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caribbean Folk Tales">Caribbean Folk Tales</a>
         </h4>
         <p class="fr-book-author">By Lydia Cabrera</p>
-        
+
         <p class="fr-book-desc">Explores the folklore traditions that underpin spirits, warnings and supernatural narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Caribbean+Folk+Tales+Lydia+Cabrera&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

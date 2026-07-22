@@ -1488,7 +1488,7 @@ The country’s Fortean landscape is strongest where fact and folklore overlap. 
           <a href="https://www.amazon.com/s?k=The+encyclopedia+of+monsters+Jeff+Rovin&amp;i=stripbooks" target="_blank" rel="sponsored noopener noreferrer" title="The encyclopedia of monsters">The encyclopedia of monsters</a>
         </h4>
         <p class="fr-book-author">By Jeff Rovin</p>
-        
+
         <p class="fr-book-desc">Provides context for Central American legends and unexplained traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+encyclopedia+of+monsters+Jeff+Rovin&amp;i=stripbooks" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1505,7 +1505,7 @@ The country’s Fortean landscape is strongest where fact and folklore overlap. 
           <a href="https://www.amazon.com/s?k=Monsters+of+Latin+America+David+Bowles&amp;i=stripbooks" target="_blank" rel="sponsored noopener noreferrer" title="Monsters of Latin America">Monsters of Latin America</a>
         </h4>
         <p class="fr-book-author">By David Bowles</p>
-        
+
         <p class="fr-book-desc">Includes legendary beings from across Latin America.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Monsters+of+Latin+America+David+Bowles&amp;i=stripbooks" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1522,7 +1522,7 @@ The country’s Fortean landscape is strongest where fact and folklore overlap. 
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology Book">The Mythology Book</a>
         </h4>
         <p class="fr-book-author">By DK</p>
-        
+
         <p class="fr-book-desc">Places regional myths within wider world folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1539,7 +1539,7 @@ The country’s Fortean landscape is strongest where fact and folklore overlap. 
           <a href="https://www.amazon.com/s?k=Honduras%3A+A+Cultural+History+Melissa+Graham&amp;i=stripbooks" target="_blank" rel="sponsored noopener noreferrer" title="Honduras: A Cultural History">Honduras: A Cultural History</a>
         </h4>
         <p class="fr-book-author">By Melissa Graham</p>
-        
+
         <p class="fr-book-desc">Explains historical and cultural background behind folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Honduras%3A+A+Cultural+History+Melissa+Graham&amp;i=stripbooks" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

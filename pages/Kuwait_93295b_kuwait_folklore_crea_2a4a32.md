@@ -331,7 +331,7 @@ The enduring appeal of these creatures comes from the balance between the imagin
           <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The hero with a thousand faces">The hero with a thousand faces</a>
         </h4>
         <p class="fr-book-author">By Joseph Campbell</p>
-        
+
         <p class="fr-book-desc">Explains recurring creature and legend patterns across cultures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -348,7 +348,7 @@ The enduring appeal of these creatures comes from the balance between the imagin
           <a href="https://www.amazon.com/s?k=The+encyclopedia+of+monsters+Jeff+Rovin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The encyclopedia of monsters">The encyclopedia of monsters</a>
         </h4>
         <p class="fr-book-author">By Jeff Rovin</p>
-        
+
         <p class="fr-book-desc">Closest commercial match for folklore creatures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+encyclopedia+of+monsters+Jeff+Rovin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -365,7 +365,7 @@ The enduring appeal of these creatures comes from the balance between the imagin
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Classical+Myths+Jenny+March&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Classical Myths">The Penguin Book of Classical Myths</a>
         </h4>
         <p class="fr-book-author">By Jenny March</p>
-        
+
         <p class="fr-book-desc">Provides wider context for legendary beings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Classical+Myths+Jenny+March&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ The enduring appeal of these creatures comes from the balance between the imagin
           <a href="https://www.amazon.com/s?k=The+Oxford+companion+to+fairy+tales+Jack+Zipes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford companion to fairy tales">The Oxford companion to fairy tales</a>
         </h4>
         <p class="fr-book-author">By Jack Zipes</p>
-        
+
         <p class="fr-book-desc">Supports analysis of oral storytelling traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Oxford+companion+to+fairy+tales+Jack+Zipes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

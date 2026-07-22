@@ -335,7 +335,7 @@ For readers interested in Fortean history, these tales occupy an intriguing midd
           <a href="https://www.amazon.com/s?k=The+Sea+Around+Us+Rachel+Carson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sea Around Us">The Sea Around Us</a>
         </h4>
         <p class="fr-book-author">By Rachel Carson, Jeffrey S. Levinton</p>
-        
+
         <p class="fr-book-desc">Adds real marine context behind ocean storytelling.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Sea+Around+Us+Rachel+Carson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -352,7 +352,7 @@ For readers interested in Fortean history, these tales occupy an intriguing midd
           <a href="https://www.amazon.com/s?k=The+Power+of+Myth+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Myth">The Power of Myth</a>
         </h4>
         <p class="fr-book-author">By Joseph Campbell</p>
-        
+
         <p class="fr-book-desc">First published 1988. Subjects: Long Now Manual for Civilization, Campbell, Joseph, -- 1904- -- Interviews, Religion historians, Intervie...</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Power+of+Myth+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ For readers interested in Fortean history, these tales occupy an intriguing midd
           <a href="https://www.amazon.com/s?k=The+Book+of+Mythical+Beasts+and+Magical+Creatures+Stephen+Krensky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Mythical Beasts and Magical Creatures">The Book of Mythical Beasts and Magical Creatures</a>
         </h4>
         <p class="fr-book-author">By Stephen Krensky</p>
-        
+
         <p class="fr-book-desc">First published 2020. Subjects: Bilderbuch, Nachschlagewerk, Lexikon, Fabelwesen, Fantasy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+Mythical+Beasts+and+Magical+Creatures+Stephen+Krensky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ For readers interested in Fortean history, these tales occupy an intriguing midd
           <a href="https://www.amazon.com/s?k=The+island+at+the+center+of+the+world+Russell+Shorto&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The island at the center of the world">The island at the center of the world</a>
         </h4>
         <p class="fr-book-author">By Russell Shorto</p>
-        
+
         <p class="fr-book-desc">First published 2004. Subjects: History, Dutch Americans, Politics and government, Biography, Nonfiction.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+island+at+the+center+of+the+world+Russell+Shorto&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

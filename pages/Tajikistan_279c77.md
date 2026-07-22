@@ -1314,7 +1314,7 @@ The most responsible conclusion is also the most interesting one. Tajikistan doe
           <a href="https://www.amazon.com/s?k=The+Great+Game+Peter+Hopkirk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Great Game">The Great Game</a>
         </h4>
         <p class="fr-book-author">By Peter Hopkirk</p>
-        
+
         <p class="fr-book-desc">Provides historical context for the Pamirs and Central Asia.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Great+Game+Peter+Hopkirk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1331,7 +1331,7 @@ The most responsible conclusion is also the most interesting one. Tajikistan doe
           <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
         </h4>
         <p class="fr-book-author">By Peter Frankopan</p>
-        
+
         <p class="fr-book-desc">Places Tajikistan within wider Eurasian history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1348,7 +1348,7 @@ The most responsible conclusion is also the most interesting one. Tajikistan doe
           <a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Central Asia">Central Asia</a>
         </h4>
         <p class="fr-book-author">By Adeeb Khalid</p>
-        
+
         <p class="fr-book-desc">Explains the region behind Tajikistan&#x27;s folklore and history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Central+Asia+Adeeb+Khalid&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1365,7 +1365,7 @@ The most responsible conclusion is also the most interesting one. Tajikistan doe
           <a href="https://www.amazon.com/s?k=The+Pamirs+Robert+Middleton+and+Huw+Thomas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pamirs">The Pamirs</a>
         </h4>
         <p class="fr-book-author">By Robert Middleton and Huw Thomas</p>
-        
+
         <p class="fr-book-desc">Introduces landscapes central to Tajikistan&#x27;s strange history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Pamirs+Robert+Middleton+and+Huw+Thomas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

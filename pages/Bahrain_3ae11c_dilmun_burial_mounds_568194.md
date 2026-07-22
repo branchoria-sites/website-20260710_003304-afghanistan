@@ -337,7 +337,7 @@ That combination gives the Dilmun burial mounds enduring cultural power. They ar
           <a href="https://www.amazon.com/s?k=Dilmun+and+its+Gulf+neighbours+Harriet+E.+W.+Crawford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dilmun and its Gulf neighbours">Dilmun and its Gulf neighbours</a>
         </h4>
         <p class="fr-book-author">By Harriet E. W. Crawford</p>
-        
+
         <p class="fr-book-desc">Directly explains the civilisation behind Bahrain&#x27;s burial mounds.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Dilmun+and+its+Gulf+neighbours+Harriet+E.+W.+Crawford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -354,7 +354,7 @@ That combination gives the Dilmun burial mounds enduring cultural power. They ar
           <a href="https://www.amazon.com/s?k=Arabian+sands+Wilfred+Thesiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabian sands">Arabian sands</a>
         </h4>
         <p class="fr-book-author">By Wilfred Thesiger</p>
-        
+
         <p class="fr-book-desc">Adds historical and cultural context to Bahrain and the Gulf.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Arabian+sands+Wilfred+Thesiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ That combination gives the Dilmun burial mounds enduring cultural power. They ar
           <a href="https://www.amazon.com/s?k=The+Archaeology+of+Bahrain+Steffen+Laursen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Archaeology of Bahrain">The Archaeology of Bahrain</a>
         </h4>
         <p class="fr-book-author">By Steffen Laursen</p>
-        
+
         <p class="fr-book-desc">Focused treatment of Bahrain&#x27;s archaeological landscapes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Archaeology+of+Bahrain+Steffen+Laursen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ That combination gives the Dilmun burial mounds enduring cultural power. They ar
           <a href="https://www.amazon.com/s?k=Arabian+Mythology+Geoffrey+Ashe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabian Mythology">Arabian Mythology</a>
         </h4>
         <p class="fr-book-author">By Geoffrey Ashe</p>
-        
+
         <p class="fr-book-desc">Explores regional beliefs including spirits and supernatural traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Arabian+Mythology+Geoffrey+Ashe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -351,7 +351,7 @@ The enduring appeal of these stories comes from that uncertainty. Before investi
           <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
         </h4>
         <p class="fr-book-author">By Gavin Pretor-Pinney</p>
-        
+
         <p class="fr-book-desc">Connects everyday sky observations with scientific explanations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -368,7 +368,7 @@ The enduring appeal of these stories comes from that uncertainty. Before investi
           <a href="https://www.amazon.com/s?k=The+weather+book+Williams%2C+Jack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The weather book">The weather book</a>
         </h4>
         <p class="fr-book-author">By Williams, Jack</p>
-        
+
         <p class="fr-book-desc">Explains atmospheric processes behind unusual storms and rare weather events.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+weather+book+Williams%2C+Jack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ The enduring appeal of these stories comes from that uncertainty. Before investi
           <a href="https://www.amazon.com/s?k=The+weather+detective+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The weather detective">The weather detective</a>
         </h4>
         <p class="fr-book-author">By Peter Wohlleben</p>
-        
+
         <p class="fr-book-desc">Fits the page&#x27;s investigation of strange-looking but natural events.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+weather+detective+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ The enduring appeal of these stories comes from that uncertainty. Before investi
           <a href="https://www.amazon.com/s?k=Secret+World+of+Weather+Tristan+Gooley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Secret World of Weather">Secret World of Weather</a>
         </h4>
         <p class="fr-book-author">By Tristan Gooley</p>
-        
+
         <p class="fr-book-desc">Helps explain how ordinary natural phenomena can appear mysterious.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Secret+World+of+Weather+Tristan+Gooley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

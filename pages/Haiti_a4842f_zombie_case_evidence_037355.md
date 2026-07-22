@@ -353,7 +353,7 @@ Haitis zombie reports remain significant not because they prove a horror legend,
           <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
         </h4>
         <p class="fr-book-author">By Wade Davis</p>
-        
+
         <p class="fr-book-desc">Discusses famous cases including scientific theories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +370,7 @@ Haitis zombie reports remain significant not because they prove a horror legend,
           <a href="https://www.amazon.com/s?k=Tell+my+horse+Zora+Neale+Hurston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tell my horse">Tell my horse</a>
         </h4>
         <p class="fr-book-author">By Zora Neale Hurston</p>
-        
+
         <p class="fr-book-desc">Contains firsthand accounts relevant to zombie traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Tell+my+horse+Zora+Neale+Hurston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ Haitis zombie reports remain significant not because they prove a horror legend,
           <a href="https://www.amazon.com/s?k=The+Haitian+vodou+handbook+Kenaz+Filan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Haitian vodou handbook">The Haitian vodou handbook</a>
         </h4>
         <p class="fr-book-author">By Kenaz Filan</p>
-        
+
         <p class="fr-book-desc">Helps readers understand beliefs connected with zombie reports.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Haitian+vodou+handbook+Kenaz+Filan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ Haitis zombie reports remain significant not because they prove a horror legend,
           <a href="https://www.amazon.com/s?k=The+Magic+Island+%28The+Armchair+Traveller+Series%29+W.+B.+Seabrook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Magic Island (The Armchair Traveller Series)">The Magic Island (The Armchair Traveller Series)</a>
         </h4>
         <p class="fr-book-author">By W. B. Seabrook</p>
-        
+
         <p class="fr-book-desc">First published 1989. Subjects: Fiction, general.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Magic+Island+%28The+Armchair+Traveller+Series%29+W.+B.+Seabrook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

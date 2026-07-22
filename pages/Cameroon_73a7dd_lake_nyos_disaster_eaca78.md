@@ -339,7 +339,7 @@ For Cameroon’s wider strange-history record, Lake Nyos is significant because 
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-        
+
 <p class="fr-book-desc">Explores how apparent mysteries can be explained through science.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -356,7 +356,7 @@ For Cameroon’s wider strange-history record, Lake Nyos is significant because 
 <a href="https://www.amazon.com/s?k=The+Ends+of+the+World+by+Peter+Brannen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ends of the World">The Ends of the World</a>
 </h4>
 <p class="fr-book-author">By Peter Brannen</p>
-        
+
 <p class="fr-book-desc">Connects geological events with catastrophic consequences.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Ends+of+the+World+by+Peter+Brannen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ For Cameroon’s wider strange-history record, Lake Nyos is significant because 
 <a href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hot Zone">The Hot Zone</a>
 </h4>
 <p class="fr-book-author">By Richard Preston, Richard Preston et al.</p>
-        
+
 <p class="fr-book-desc">First published 1994. Subjects: Ebola virus disease, Molecular virology, Primates as laboratory animals, Epidemias, Ebolavirus.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,8 +390,8 @@ For Cameroon’s wider strange-history record, Lake Nyos is significant because 
 <a href="https://www.amazon.com/s?k=SIX+DEGREES%3A+OUR+FUTURE+ON+A+HOTTER+PLANET+Mark+Lynas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="SIX DEGREES: OUR FUTURE ON A HOTTER PLANET">SIX DEGREES: OUR FUTURE ON A HOTTER PLANET</a>
 </h4>
 <p class="fr-book-author">By Mark Lynas</p>
-        
-        
+
+
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=SIX+DEGREES%3A+OUR+FUTURE+ON+A+HOTTER+PLANET+Mark+Lynas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon

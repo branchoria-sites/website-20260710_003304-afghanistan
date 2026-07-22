@@ -1324,7 +1324,7 @@ That is why the country’s most memorable Fortean material is not a single mons
           <a href="https://www.amazon.com/s?k=The+Hungry+Tide+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hungry Tide">The Hungry Tide</a>
         </h4>
         <p class="fr-book-author">By Amitav Ghosh, Yaʻel Akhmon</p>
-        
+
         <p class="fr-book-desc">Evokes the Sundarbans, rivers and folklore-rich landscapes central to Bangladesh.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hungry+Tide+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1341,7 +1341,7 @@ That is why the country’s most memorable Fortean material is not a single mons
           <a href="https://www.amazon.com/s?k=Folktales+from+India+A.+K.+Ramanujan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folktales from India">Folktales from India</a>
         </h4>
         <p class="fr-book-author">By A. K. Ramanujan</p>
-        
+
         <p class="fr-book-desc">Includes Bengali traditions within the wider South Asian storytelling world.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Folktales+from+India+A.+K.+Ramanujan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1358,7 +1358,7 @@ That is why the country’s most memorable Fortean material is not a single mons
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
         </h4>
         <p class="fr-book-author">By Scott G. Bruce</p>
-        
+
         <p class="fr-book-desc">Appeals to readers exploring legendary creatures and myths.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1375,7 +1375,7 @@ That is why the country’s most memorable Fortean material is not a single mons
           <a href="https://www.amazon.com/s?k=Land+of+two+rivers+Nitish+K.+Sengupta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Land of two rivers">Land of two rivers</a>
         </h4>
         <p class="fr-book-author">By Nitish K. Sengupta</p>
-        
+
         <p class="fr-book-desc">Provides historical context for Bangladesh&#x27;s folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Land+of+two+rivers+Nitish+K.+Sengupta&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

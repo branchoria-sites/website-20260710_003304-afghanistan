@@ -1320,7 +1320,7 @@ That is the heart of Libya’s weird-history record. The best stories are not th
           <a href="https://www.amazon.com/s?k=Sahara+Michael+Palin&amp;i=stripbooks" target="_blank" rel="sponsored noopener noreferrer" title="Sahara">Sahara</a>
         </h4>
         <p class="fr-book-author">By Michael Palin</p>
-        
+
         <p class="fr-book-desc">Explores the Sahara&#x27;s landscapes, peoples and enduring mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sahara+Michael+Palin&amp;i=stripbooks" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

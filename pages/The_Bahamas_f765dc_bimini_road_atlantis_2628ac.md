@@ -380,7 +380,7 @@ Today, the overwhelming view among geologists and archaeologists is that Bimini 
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the gods">Fingerprints of the gods</a>
         </h4>
         <p class="fr-book-author">By Graham Hancock</p>
-        
+
         <p class="fr-book-desc">Popularizes alternative ancient civilization theories including Atlantis themes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ Today, the overwhelming view among geologists and archaeologists is that Bimini 
           <a href="https://www.amazon.com/s?k=Atlantis+-+The+Antediluvian+World+Ignatius+Donnelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atlantis - The Antediluvian World">Atlantis - The Antediluvian World</a>
         </h4>
         <p class="fr-book-author">By Ignatius Donnelly</p>
-        
+
         <p class="fr-book-desc">Central historical text behind many Atlantis discussions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Atlantis+-+The+Antediluvian+World+Ignatius+Donnelly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ Today, the overwhelming view among geologists and archaeologists is that Bimini 
           <a href="https://www.amazon.com/s?k=The+world+atlas+of+mysteries+Francis+Hitching&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world atlas of mysteries">The world atlas of mysteries</a>
         </h4>
         <p class="fr-book-author">By Francis Hitching</p>
-        
+
         <p class="fr-book-desc">Places Atlantis traditions within global mystery lore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world+atlas+of+mysteries+Francis+Hitching&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -431,7 +431,7 @@ Today, the overwhelming view among geologists and archaeologists is that Bimini 
           <a href="https://www.amazon.com/s?k=Underworld+Susan+Casey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Underworld">Underworld</a>
         </h4>
         <p class="fr-book-author">By Susan Casey</p>
-        
+
         <p class="fr-book-desc">Provides compelling context for underwater landscapes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Underworld+Susan+Casey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

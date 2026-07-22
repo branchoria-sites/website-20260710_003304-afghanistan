@@ -335,7 +335,7 @@ Samoan spirit stories therefore remain part of the country’s strange-history r
           <a href="https://www.amazon.com/s?k=Coming+of+age+in+Samoa+Margaret+Mead&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Coming of age in Samoa">Coming of age in Samoa</a>
         </h4>
         <p class="fr-book-author">By Margaret Mead</p>
-        
+
         <p class="fr-book-desc">Provides cultural background for Samoan beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Coming+of+age+in+Samoa+Margaret+Mead&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -352,7 +352,7 @@ Samoan spirit stories therefore remain part of the country’s strange-history r
           <a href="https://www.amazon.com/s?k=The+Power+of+Myth+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Myth">The Power of Myth</a>
         </h4>
         <p class="fr-book-author">By Joseph Campbell</p>
-        
+
         <p class="fr-book-desc">Explains how myths preserve cultural meaning.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Power+of+Myth+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ Samoan spirit stories therefore remain part of the country’s strange-history r
           <a href="https://www.amazon.com/s?k=Oceanic+mythology+Roslyn+Poignant&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oceanic mythology">Oceanic mythology</a>
         </h4>
         <p class="fr-book-author">By Roslyn Poignant</p>
-        
+
         <p class="fr-book-desc">Explores Pacific supernatural traditions and stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Oceanic+mythology+Roslyn+Poignant&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ Samoan spirit stories therefore remain part of the country’s strange-history r
           <a href="https://www.amazon.com/s?k=Myths+and+Legends+of+the+Pacific+John+White&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and Legends of the Pacific">Myths and Legends of the Pacific</a>
         </h4>
         <p class="fr-book-author">By John White</p>
-        
+
         <p class="fr-book-desc">Supports understanding of Pacific spirit stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Myths+and+Legends+of+the+Pacific+John+White&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

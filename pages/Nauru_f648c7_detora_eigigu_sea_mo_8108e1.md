@@ -364,7 +364,7 @@ Because the surviving corpus of traditional Nauruan mythology is relatively smal
           <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The hero with a thousand faces">The hero with a thousand faces</a>
         </h4>
         <p class="fr-book-author">By Joseph Campbell</p>
-        
+
         <p class="fr-book-desc">Useful for understanding transformation and sky-world myths.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ Because the surviving corpus of traditional Nauruan mythology is relatively smal
           <a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The happy isles of Oceania">The happy isles of Oceania</a>
         </h4>
         <p class="fr-book-author">By Paul Theroux</p>
-        
+
         <p class="fr-book-desc">Places Nauru within the wider Pacific setting.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ Because the surviving corpus of traditional Nauruan mythology is relatively smal
           <a href="https://www.amazon.com/s?k=We%2C+the+navigators+David+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We, the navigators">We, the navigators</a>
         </h4>
         <p class="fr-book-author">By David Lewis, Derek Oulton</p>
-        
+
         <p class="fr-book-desc">Illuminates the maritime worldview behind Nauruan sea myths.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=We%2C+the+navigators+David+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ Because the surviving corpus of traditional Nauruan mythology is relatively smal
           <a href="https://www.amazon.com/s?k=The+Penguin+Historical+Atlas+of+the+Pacific+%28Hist+Atlas%29+Colin+McEvedy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Historical Atlas of the Pacific (Hist Atlas)">The Penguin Historical Atlas of the Pacific (Hist Atlas)</a>
         </h4>
         <p class="fr-book-author">By Colin McEvedy</p>
-        
+
         <p class="fr-book-desc">First published 1998. Subjects: Pacific area, history, Historical geography.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Historical+Atlas+of+the+Pacific+%28Hist+Atlas%29+Colin+McEvedy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

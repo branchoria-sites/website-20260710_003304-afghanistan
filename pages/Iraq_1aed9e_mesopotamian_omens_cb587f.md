@@ -387,7 +387,7 @@ Within Iraq's wider strange-history landscape, Mesopotamian omens and protective
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Offers a modern framework for evaluating ancient extraordinary claims.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ Within Iraq's wider strange-history landscape, Mesopotamian omens and protective
           <a href="https://www.amazon.com/s?k=Myths+from+Mesopotamia+Stephanie+Dalley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths from Mesopotamia">Myths from Mesopotamia</a>
         </h4>
         <p class="fr-book-author">By Stephanie Dalley</p>
-        
+
         <p class="fr-book-desc">Explains the mythological world behind omen traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Myths+from+Mesopotamia+Stephanie+Dalley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ Within Iraq's wider strange-history landscape, Mesopotamian omens and protective
           <a href="https://www.amazon.com/s?k=The+Epic+of+Gilgamesh+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Epic of Gilgamesh">The Epic of Gilgamesh</a>
         </h4>
         <p class="fr-book-author">By Anonymous, Andrew George</p>
-        
+
         <p class="fr-book-desc">Introduces the worldview of ancient Mesopotamia.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Epic+of+Gilgamesh+Anonymous&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -438,7 +438,7 @@ Within Iraq's wider strange-history landscape, Mesopotamian omens and protective
           <a href="https://www.amazon.com/s?k=The+Babylonian+World+Gwendolyn+Leick&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Babylonian World">The Babylonian World</a>
         </h4>
         <p class="fr-book-author">By Gwendolyn Leick</p>
-        
+
         <p class="fr-book-desc">Provides cultural context for divination and omens.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Babylonian+World+Gwendolyn+Leick&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

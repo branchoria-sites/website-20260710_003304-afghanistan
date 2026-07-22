@@ -376,7 +376,7 @@ At the same time, the case illustrates the limits of eyewitness evidence. Honest
 <a href="https://www.amazon.com/s?k=Irish+fairy+and+folk+tales+William+Butler+Yeats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Irish fairy and folk tales">Irish fairy and folk tales</a>
 </h4>
 <p class="fr-book-author">By William Butler Yeats</p>
-        
+
 <p class="fr-book-desc">First published 1800. Subjects: Fairy tales, Folklore, Tales, Juvenile literature, Irish Folk literature.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Irish+fairy+and+folk+tales+William+Butler+Yeats&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ At the same time, the case illustrates the limits of eyewitness evidence. Honest
 <a href="https://www.amazon.com/s?k=Meeting+the+Other+Crowd+Carolyn+Eve+Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meeting the Other Crowd">Meeting the Other Crowd</a>
 </h4>
 <p class="fr-book-author">By Carolyn Eve Green, Eddie Lenihan</p>
-        
+
 <p class="fr-book-desc">First published 2004. Subjects: Fairies, Fairy tales, Folklore, ireland, Mythology, celtic.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Meeting+the+Other+Crowd+Carolyn+Eve+Green&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ At the same time, the case illustrates the limits of eyewitness evidence. Honest
 <a href="https://www.amazon.com/s?k=Knock+Eugene+Hynes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Knock">Knock</a>
 </h4>
 <p class="fr-book-author">By Eugene Hynes</p>
-        
+
 <p class="fr-book-desc">First published 2008. Subjects: Catholics, Apparitions and miracles, Religious life and customs, Social conditions, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Knock+Eugene+Hynes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ At the same time, the case illustrates the limits of eyewitness evidence. Honest
 <a href="https://www.amazon.com/s?k=The+lore+of+Ireland+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of Ireland">The lore of Ireland</a>
 </h4>
 <p class="fr-book-author">By Dáithí Ó hÓgáin</p>
-        
+
 <p class="fr-book-desc">First published 2006. Subjects: Legends, Encyclopedias, Celtic Mythology, Folklore, Ireland, social life and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+lore+of+Ireland+D%C3%A1ith%C3%AD+%C3%93+h%C3%93g%C3%A1in&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

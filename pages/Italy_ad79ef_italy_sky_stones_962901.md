@@ -360,7 +360,7 @@ For readers interested in Italy's stranger history, the lesson is memorable. The
           <a href="https://www.amazon.com/s?k=Rocks+from+Space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space">Rocks from Space</a>
         </h4>
         <p class="fr-book-author">By O. Richard Norton</p>
-        
+
         <p class="fr-book-desc">Explains how meteorites became accepted scientific evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Rocks+from+Space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ For readers interested in Italy's stranger history, the lesson is memorable. The
           <a href="https://www.amazon.com/s?k=Meteorites+Caroline+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites">Meteorites</a>
         </h4>
         <p class="fr-book-author">By Caroline Smith, Sara Russell et al.</p>
-        
+
         <p class="fr-book-desc">Covers meteorite identification and history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Meteorites+Caroline+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ For readers interested in Italy's stranger history, the lesson is memorable. The
           <a href="https://www.amazon.com/s?k=Cosmic+Debris+John+G.+Burke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmic Debris">Cosmic Debris</a>
         </h4>
         <p class="fr-book-author">By John G. Burke</p>
-        
+
         <p class="fr-book-desc">Places the Siena event within scientific history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cosmic+Debris+John+G.+Burke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ For readers interested in Italy's stranger history, the lesson is memorable. The
           <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
         </h4>
         <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
-        
+
         <p class="fr-book-desc">Contrasts unexplained reports with cases later explained by science.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -395,7 +395,7 @@ That uncertainty is precisely why the Paasselkä Devils continue to fascinate. T
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Finland+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Finland">Lonely Planet Finland</a>
         </h4>
         <p class="fr-book-author">By Lonely Planet, Barbara Woolsey et al.</p>
-        
+
         <p class="fr-book-desc">Introduces eastern Finland and its landscapes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Finland+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ That uncertainty is precisely why the Paasselkä Devils continue to fascinate. T
           <a href="https://www.amazon.com/s?k=The+Kalevala+Elias+Lonnrot&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Kalevala">The Kalevala</a>
         </h4>
         <p class="fr-book-author">By Elias Lonnrot</p>
-        
+
         <p class="fr-book-desc">Provides mythological context for supernatural landscape traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Kalevala+Elias+Lonnrot&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ That uncertainty is precisely why the Paasselkä Devils continue to fascinate. T
           <a href="https://www.amazon.com/s?k=Earth+lights+revelation+Paul+Devereux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Earth lights revelation">Earth lights revelation</a>
         </h4>
         <p class="fr-book-author">By Paul Devereux</p>
-        
+
         <p class="fr-book-desc">First published 1989. Subjects: Unidentified flying objects.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Earth+lights+revelation+Paul+Devereux&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -446,7 +446,7 @@ That uncertainty is precisely why the Paasselkä Devils continue to fascinate. T
           <a href="https://www.amazon.com/s?k=Finnish+Folk+Belief%3A+A+Reader+Laura+Stark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Finnish Folk Belief: A Reader">Finnish Folk Belief: A Reader</a>
         </h4>
         <p class="fr-book-author">By Laura Stark</p>
-        
+
         <p class="fr-book-desc">Directly supports understanding of Finnish mystery-light traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Finnish+Folk+Belief%3A+A+Reader+Laura+Stark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

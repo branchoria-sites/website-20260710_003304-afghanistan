@@ -354,7 +354,7 @@ That is why the movement continues to attract attention from historians, anthrop
           <a href="https://www.amazon.com/s?k=Cargo+cult+Lamont+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cargo cult">Cargo cult</a>
         </h4>
         <p class="fr-book-author">By Lamont Lindstrom</p>
-        
+
         <p class="fr-book-desc">Directly addresses John Frum and related movements.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cargo+cult+Lamont+Lindstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ That is why the movement continues to attract attention from historians, anthrop
           <a href="https://www.amazon.com/s?k=The+trumpet+shall+sound+Peter+Worsley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The trumpet shall sound">The trumpet shall sound</a>
         </h4>
         <p class="fr-book-author">By Peter Worsley, PETER WORSLEY et al.</p>
-        
+
         <p class="fr-book-desc">Foundational work covering cargo cult phenomena.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+trumpet+shall+sound+Peter+Worsley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ That is why the movement continues to attract attention from historians, anthrop
           <a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The happy isles of Oceania">The happy isles of Oceania</a>
         </h4>
         <p class="fr-book-author">By Paul Theroux</p>
-        
+
         <p class="fr-book-desc">Introduces readers to Pacific cultures including Vanuatu.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ That is why the movement continues to attract attention from historians, anthrop
           <a href="https://www.amazon.com/s?k=The+world+until+yesterday+Jared+M.+Diamond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world until yesterday">The world until yesterday</a>
         </h4>
         <p class="fr-book-author">By Jared M. Diamond, Efrén del Valle Peñamil</p>
-        
+
         <p class="fr-book-desc">Provides context for traditional societies and cultural change.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world+until+yesterday+Jared+M.+Diamond&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

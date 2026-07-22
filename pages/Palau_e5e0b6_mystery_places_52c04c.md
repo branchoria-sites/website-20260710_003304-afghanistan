@@ -337,7 +337,7 @@ Palau’s landscapes feel like lost worlds because, in a sense, they are worlds 
           <a href="https://www.amazon.com/s?k=A+short+history+of+nearly+everything+Bill+Bryson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A short history of nearly everything">A short history of nearly everything</a>
         </h4>
         <p class="fr-book-author">By Bill Bryson</p>
-        
+
         <p class="fr-book-desc">Matches curiosity about geological and natural wonders behind mysterious landscapes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+short+history+of+nearly+everything+Bill+Bryson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -354,7 +354,7 @@ Palau’s landscapes feel like lost worlds because, in a sense, they are worlds 
           <a href="https://www.amazon.com/s?k=The+Sixth+Extinction+Elizabeth+Kolbert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sixth Extinction">The Sixth Extinction</a>
         </h4>
         <p class="fr-book-author">By Elizabeth Kolbert, Marcel Blanc</p>
-        
+
         <p class="fr-book-desc">Connects readers interested in unusual ecosystems and biodiversity.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Sixth+Extinction+Elizabeth+Kolbert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ Palau’s landscapes feel like lost worlds because, in a sense, they are worlds 
           <a href="https://www.amazon.com/s?k=The+Lost+World+Arthur+Conan+Doyle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lost World">The Lost World</a>
         </h4>
         <p class="fr-book-author">By Arthur Conan Doyle</p>
-        
+
         <p class="fr-book-desc">Fits the adventure and unexplored-landscape appeal.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lost+World+Arthur+Conan+Doyle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ Palau’s landscapes feel like lost worlds because, in a sense, they are worlds 
           <a href="https://www.amazon.com/s?k=Wisdom+from+the+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wisdom from the Hidden Life of Trees">Wisdom from the Hidden Life of Trees</a>
         </h4>
         <p class="fr-book-author">By Peter Wohlleben, Jane Billinghurst</p>
-        
+
         <p class="fr-book-desc">First published 2024.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Wisdom+from+the+Hidden+Life+of+Trees+Peter+Wohlleben&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

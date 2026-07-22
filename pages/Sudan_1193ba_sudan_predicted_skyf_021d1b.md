@@ -351,7 +351,7 @@ For local witnesses, the fireball was an unforgettable spectacle crossing the de
           <a href="https://www.amazon.com/s?k=Cosmos+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cosmos">Cosmos</a>
         </h4>
         <p class="fr-book-author">By Carl Sagan</p>
-        
+
         <p class="fr-book-desc">Broadens understanding of the science behind remarkable sky events.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cosmos+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -368,7 +368,7 @@ For local witnesses, the fireball was an unforgettable spectacle crossing the de
           <a href="https://www.amazon.com/s?k=Death+from+the+skies%21+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Death from the skies!">Death from the skies!</a>
         </h4>
         <p class="fr-book-author">By Philip C. Plait</p>
-        
+
         <p class="fr-book-desc">Discusses asteroid impacts and related astronomical hazards.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Death+from+the+skies%21+Philip+C.+Plait&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ For local witnesses, the fireball was an unforgettable spectacle crossing the de
           <a href="https://www.amazon.com/s?k=The+planet+factory+Elizabeth+Tasker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The planet factory">The planet factory</a>
         </h4>
         <p class="fr-book-author">By Elizabeth Tasker</p>
-        
+
         <p class="fr-book-desc">Provides context for how planetary science predicts celestial events.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+planet+factory+Elizabeth+Tasker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ For local witnesses, the fireball was an unforgettable spectacle crossing the de
           <a href="https://www.amazon.com/s?k=Asteroids+Michael+K.+Shepard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Asteroids">Asteroids</a>
         </h4>
         <p class="fr-book-author">By Michael K. Shepard</p>
-        
+
         <p class="fr-book-desc">First published 2015. Subjects: Asteroids, Popular works, Astronomy, Astronomy, popular works, Solar system.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Asteroids+Michael+K.+Shepard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

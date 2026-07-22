@@ -339,7 +339,7 @@ Believers may continue to regard these beings as genuine supernatural entities, 
           <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Encyclopedia of Ghosts and Spirits">The Encyclopedia of Ghosts and Spirits</a>
         </h4>
         <p class="fr-book-author">By Rosemary Ellen Guiley</p>
-        
+
         <p class="fr-book-desc">Helps compare Malaysian ghost figures with global traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -356,7 +356,7 @@ Believers may continue to regard these beings as genuine supernatural entities, 
           <a href="https://www.amazon.com/s?k=Malay+magic+Walter+William+Skeat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Malay magic">Malay magic</a>
         </h4>
         <p class="fr-book-author">By Walter William Skeat</p>
-        
+
         <p class="fr-book-desc">Essential source on Malay supernatural beliefs and folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Malay+magic+Walter+William+Skeat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ Believers may continue to regard these beings as genuine supernatural entities, 
           <a href="https://www.amazon.com/s?k=Spirits%2C+Fairies%2C+Leprechauns%2C+and+Goblins+Carol+Rose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spirits, Fairies, Leprechauns, and Goblins">Spirits, Fairies, Leprechauns, and Goblins</a>
         </h4>
         <p class="fr-book-author">By Carol Rose</p>
-        
+
         <p class="fr-book-desc">Covers supernatural beings across many cultures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Spirits%2C+Fairies%2C+Leprechauns%2C+and+Goblins+Carol+Rose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ Believers may continue to regard these beings as genuine supernatural entities, 
           <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
         </h4>
         <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
-        
+
         <p class="fr-book-desc">Introduces readers to paranormal traditions from around the world.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

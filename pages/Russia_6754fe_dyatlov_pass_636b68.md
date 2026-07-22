@@ -360,7 +360,7 @@ Today, Dyatlov Pass remains culturally important not because it proves a paranor
           <a href="https://www.amazon.com/s?k=Into+Thin+Air+Jon+Krakauer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Into Thin Air">Into Thin Air</a>
         </h4>
         <p class="fr-book-author">By Jon Krakauer</p>
-        
+
         <p class="fr-book-desc">Shares themes of extreme conditions, survival, and fatal expeditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Into+Thin+Air+Jon+Krakauer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ Today, Dyatlov Pass remains culturally important not because it proves a paranor
           <a href="https://www.amazon.com/s?k=The+Cold+Vanish+Jon+Billman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cold Vanish">The Cold Vanish</a>
         </h4>
         <p class="fr-book-author">By Jon Billman</p>
-        
+
         <p class="fr-book-desc">Connects with readers interested in unexplained outdoor tragedies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Cold+Vanish+Jon+Billman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ Today, Dyatlov Pass remains culturally important not because it proves a paranor
           <a href="https://www.amazon.com/s?k=Dead+Mountain+Donnie+Eichar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dead Mountain">Dead Mountain</a>
         </h4>
         <p class="fr-book-author">By Donnie Eichar</p>
-        
+
         <p class="fr-book-desc">Directly covers the expedition, evidence, investigations, and competing explanations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Dead+Mountain+Donnie+Eichar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ Today, Dyatlov Pass remains culturally important not because it proves a paranor
           <a href="https://www.amazon.com/s?k=The+white+spider+Heinrich+Harrer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The white spider">The white spider</a>
         </h4>
         <p class="fr-book-author">By Heinrich Harrer</p>
-        
+
         <p class="fr-book-desc">A classic account of dangerous mountain climbing and human endurance.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+white+spider+Heinrich+Harrer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

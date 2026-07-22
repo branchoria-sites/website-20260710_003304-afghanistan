@@ -321,7 +321,7 @@ Palau’s ghost traditions therefore belong in the country’s strange-history r
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Ghost+Stories+Michael+Newton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Ghost Stories">The Penguin Book of Ghost Stories</a>
         </h4>
         <p class="fr-book-author">By Michael Newton, Michael Newton et al.</p>
-        
+
         <p class="fr-book-desc">Connects with ghost traditions while keeping cultural context broad.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Ghost+Stories+Michael+Newton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -338,7 +338,7 @@ Palau’s ghost traditions therefore belong in the country’s strange-history r
           <a href="https://www.amazon.com/s?k=The+Anthropology+of+Religion+Fiona+Bowie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Anthropology of Religion">The Anthropology of Religion</a>
         </h4>
         <p class="fr-book-author">By Fiona Bowie</p>
-        
+
         <p class="fr-book-desc">Directly supports understanding spirits, ancestors, and sacred traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Anthropology+of+Religion+Fiona+Bowie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -355,7 +355,7 @@ Palau’s ghost traditions therefore belong in the country’s strange-history r
           <a href="https://www.amazon.com/s?k=Ghosts+%3A+A+Natural+History+Roger+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts : A Natural History">Ghosts : A Natural History</a>
         </h4>
         <p class="fr-book-author">By Roger Clarke</p>
-        
+
         <p class="fr-book-desc">Useful for readers interested in ghost stories and cultural beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghosts+%3A+A+Natural+History+Roger+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ Palau’s ghost traditions therefore belong in the country’s strange-history r
           <a href="https://www.amazon.com/s?k=the+anthropology+of+religion+an+introduction+Fiona+Bowie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="the anthropology of religion an introduction">the anthropology of religion an introduction</a>
         </h4>
         <p class="fr-book-author">By Fiona Bowie</p>
-        
+
         <p class="fr-book-desc">First published 2006.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=the+anthropology+of+religion+an+introduction+Fiona+Bowie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -1540,7 +1540,7 @@ The result is a country-level weird-history record that rewards restraint. Some 
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Fiji+Lonely+Planet&amp;i=stripbooks" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Fiji">Lonely Planet Fiji</a>
         </h4>
         <p class="fr-book-author">By Lonely Planet, Paul Clammer et al.</p>
-        
+
         <p class="fr-book-desc">Covers places connected with many of Fiji&#x27;s unusual traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Fiji+Lonely+Planet&amp;i=stripbooks" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

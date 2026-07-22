@@ -1303,7 +1303,7 @@ The result is a country whose weird history is not dominated by one famous monst
           <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The hero with a thousand faces">The hero with a thousand faces</a>
         </h4>
         <p class="fr-book-author">By Joseph Campbell</p>
-        
+
         <p class="fr-book-desc">Explores recurring legendary themes found in Georgian folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1320,7 +1320,7 @@ The result is a country whose weird history is not dominated by one famous monst
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Georgia%2C+Armenia+%26+Azerbaijan+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Georgia, Armenia &amp; Azerbaijan">Lonely Planet Georgia, Armenia &amp; Azerbaijan</a>
         </h4>
         <p class="fr-book-author">By Lonely Planet, Tom Masters et al.</p>
-        
+
         <p class="fr-book-desc">Places Georgian folklore within its wider Caucasus context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Georgia%2C+Armenia+%26+Azerbaijan+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1337,7 +1337,7 @@ The result is a country whose weird history is not dominated by one famous monst
           <a href="https://www.amazon.com/s?k=Mythos+Stephen+Fry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mythos">Mythos</a>
         </h4>
         <p class="fr-book-author">By Stephen Fry</p>
-        
+
         <p class="fr-book-desc">Useful comparative reading for Caucasus mythic traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mythos+Stephen+Fry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1354,7 +1354,7 @@ The result is a country whose weird history is not dominated by one famous monst
           <a href="https://www.amazon.com/s?k=Georgian+folk+tales+Marjory+Wardrop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Georgian folk tales">Georgian folk tales</a>
         </h4>
         <p class="fr-book-author">By Marjory Wardrop</p>
-        
+
         <p class="fr-book-desc">Introduces many of Georgia&#x27;s enduring legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Georgian+folk+tales+Marjory+Wardrop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

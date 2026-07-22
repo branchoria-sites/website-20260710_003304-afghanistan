@@ -343,7 +343,7 @@ The enduring mystery of Laos’s haunted landscapes is therefore not only whethe
           <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Bough">The Golden Bough</a>
         </h4>
         <p class="fr-book-author">By James George Frazer</p>
-        
+
         <p class="fr-book-desc">Explains relationships between spirits, customs and societies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -360,7 +360,7 @@ The enduring mystery of Laos’s haunted landscapes is therefore not only whethe
           <a href="https://www.amazon.com/s?k=Ghosts+%3A+A+Natural+History+Roger+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts : A Natural History">Ghosts : A Natural History</a>
         </h4>
         <p class="fr-book-author">By Roger Clarke</p>
-        
+
         <p class="fr-book-desc">Directly explores ghost beliefs and cultural interpretations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghosts+%3A+A+Natural+History+Roger+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ The enduring mystery of Laos’s haunted landscapes is therefore not only whethe
           <a href="https://www.amazon.com/s?k=The+Anthropology+of+Religion+Fiona+Bowie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Anthropology of Religion">The Anthropology of Religion</a>
         </h4>
         <p class="fr-book-author">By Fiona Bowie</p>
-        
+
         <p class="fr-book-desc">Provides context for spirit traditions beyond simple ghost stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Anthropology+of+Religion+Fiona+Bowie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,16 +388,16 @@ The enduring mystery of Laos’s haunted landscapes is therefore not only whethe
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=the+anthropology+of+religion+an+introduction+Fiona+Bowie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open the anthropology of religion an introduction on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Southeast+Asia+Keat+Gin+Ooi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Southeast Asia on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13302563-M.jpg" alt="Cover for Southeast Asia" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=the+anthropology+of+religion+an+introduction+Fiona+Bowie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="the anthropology of religion an introduction">the anthropology of religion an introduction</a>
+          <a href="https://www.amazon.com/s?k=Southeast+Asia+Keat+Gin+Ooi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Southeast Asia">Southeast Asia</a>
         </h4>
-        <p class="fr-book-author">By Fiona Bowie</p>
-        
-        <p class="fr-book-desc">First published 2006.</p>
+        <p class="fr-book-author">By Keat Gin Ooi</p>
+
+        <p class="fr-book-desc">Adds historical context for Lao beliefs.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=the+anthropology+of+religion+an+introduction+Fiona+Bowie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Southeast+Asia+Keat+Gin+Ooi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

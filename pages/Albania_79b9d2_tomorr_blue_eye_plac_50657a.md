@@ -359,7 +359,7 @@ Together they illustrate an important pattern in Albanian Forteana. The country'
           <a href="https://www.amazon.com/s?k=The+Dictionary+of+Albanian+Religion%2C+Mythology+and+Folk+Culture+Robert+Elsie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dictionary of Albanian Religion, Mythology and Folk Culture">The Dictionary of Albanian Religion, Mythology and Folk Culture</a>
         </h4>
         <p class="fr-book-author">By Robert Elsie</p>
-        
+
         <p class="fr-book-desc">Explains sacred mountains and local mythology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Dictionary+of+Albanian+Religion%2C+Mythology+and+Folk+Culture+Robert+Elsie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,7 +376,7 @@ Together they illustrate an important pattern in Albanian Forteana. The country'
           <a href="https://www.amazon.com/s?k=The+Old+Ways+Robert+Macfarlane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Old Ways">The Old Ways</a>
         </h4>
         <p class="fr-book-author">By Robert Macfarlane, Robin Sachs</p>
-        
+
         <p class="fr-book-desc">Explores how landscapes accumulate meaning and story.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Old+Ways+Robert+Macfarlane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ Together they illustrate an important pattern in Albanian Forteana. The country'
           <a href="https://www.amazon.com/s?k=High+Albania+M.+Edith+Durham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="High Albania">High Albania</a>
         </h4>
         <p class="fr-book-author">By M. Edith Durham</p>
-        
+
         <p class="fr-book-desc">Captures Albania&#x27;s landscapes and traditional beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=High+Albania+M.+Edith+Durham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ Together they illustrate an important pattern in Albanian Forteana. The country'
           <a href="https://www.amazon.com/s?k=Myths+and+Legends+Philip+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and Legends">Myths and Legends</a>
         </h4>
         <p class="fr-book-author">By Philip Wilkinson</p>
-        
+
         <p class="fr-book-desc">Provides wider context for sacred landscapes and folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Myths+and+Legends+Philip+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

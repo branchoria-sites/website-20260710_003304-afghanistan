@@ -354,7 +354,7 @@ Both readings help explain why the traditions have endured. Unlike many Fortean 
           <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The hero with a thousand faces">The hero with a thousand faces</a>
         </h4>
         <p class="fr-book-author">By Joseph Campbell</p>
-        
+
         <p class="fr-book-desc">Useful for understanding sacred serpent motifs across cultures.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ Both readings help explain why the traditions have endured. Unlike many Fortean 
           <a href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Snow Leopard">The Snow Leopard</a>
         </h4>
         <p class="fr-book-author">By Peter Matthiessen</p>
-        
+
         <p class="fr-book-desc">Provides cultural and environmental context for Nepal.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ Both readings help explain why the traditions have endured. Unlike many Fortean 
           <a href="https://www.amazon.com/s?k=The+masks+of+God+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The masks of God">The masks of God</a>
         </h4>
         <p class="fr-book-author">By Joseph Campbell</p>
-        
+
         <p class="fr-book-desc">Explores Asian religious traditions related to Nepal.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+masks+of+God+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ Both readings help explain why the traditions have endured. Unlike many Fortean 
           <a href="https://www.amazon.com/s?k=Myths+and+Symbols+in+Indian+Art+and+Civilization+%28Works+by+Heinrich+Zimmer%29+Heinrich+Robert+Zimmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and Symbols in Indian Art and Civilization (Works by Heinrich Zimmer)">Myths and Symbols in Indian Art and Civilization (Works by He...</a>
         </h4>
         <p class="fr-book-author">By Heinrich Robert Zimmer</p>
-        
+
         <p class="fr-book-desc">First published 2017. Subjects: Symbolism in art, Art, indic.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Myths+and+Symbols+in+Indian+Art+and+Civilization+%28Works+by+Heinrich+Zimmer%29+Heinrich+Robert+Zimmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

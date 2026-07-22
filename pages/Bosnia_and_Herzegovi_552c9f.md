@@ -1343,7 +1343,7 @@ The strongest conclusion is neither “Bosnia is full of proven paranormal event
           <a href="https://www.amazon.com/s?k=The+Power+of+Myth+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Myth">The Power of Myth</a>
         </h4>
         <p class="fr-book-author">By Joseph Campbell</p>
-        
+
         <p class="fr-book-desc">Explores why supernatural traditions endure.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Power+of+Myth+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1360,7 +1360,7 @@ The strongest conclusion is neither “Bosnia is full of proven paranormal event
           <a href="https://www.amazon.com/s?k=Bosnian+Chronicle+Ivo+Andri%C4%87&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bosnian Chronicle">Bosnian Chronicle</a>
         </h4>
         <p class="fr-book-author">By Ivo Andrić</p>
-        
+
         <p class="fr-book-desc">Captures the historical atmosphere of Bosnia.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bosnian+Chronicle+Ivo+Andri%C4%87&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1377,7 +1377,7 @@ The strongest conclusion is neither “Bosnia is full of proven paranormal event
           <a href="https://www.amazon.com/s?k=Bosnia+%26+Herzegovina+Tim+Clancy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bosnia &amp; Herzegovina">Bosnia &amp; Herzegovina</a>
         </h4>
         <p class="fr-book-author">By Tim Clancy</p>
-        
+
         <p class="fr-book-desc">First published 2011. Subjects: Guidebooks, Balkan peninsula, history, Bosnia and hercegovina, description and travel.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bosnia+%26+Herzegovina+Tim+Clancy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1394,7 +1394,7 @@ The strongest conclusion is neither “Bosnia is full of proven paranormal event
           <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chariots of the gods?">Chariots of the gods?</a>
         </h4>
         <p class="fr-book-author">By Erich von Däniken</p>
-        
+
         <p class="fr-book-desc">Relevant to pseudoarchaeological themes discussed across Bosnia.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

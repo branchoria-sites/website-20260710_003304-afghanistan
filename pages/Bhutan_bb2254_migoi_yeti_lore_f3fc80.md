@@ -356,7 +356,7 @@ That layered identity explains why the migoi has endured while many other crypti
 <a href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Snow Leopard">The Snow Leopard</a>
 </h4>
 <p class="fr-book-author">By Peter Matthiessen</p>
-        
+
 <p class="fr-book-desc">First published 1978. Subjects: Description and travel, Biologists, American Authors, Natural history, Biography.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -373,7 +373,7 @@ That layered identity explains why the migoi has endured while many other crypti
 <a href="https://www.amazon.com/s?k=Bigfoot%21+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bigfoot!">Bigfoot!</a>
 </h4>
 <p class="fr-book-author">By Loren Coleman</p>
-        
+
 <p class="fr-book-desc">First published 2003. Subjects: Sasquatch, Cryptozoology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bigfoot%21+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -390,7 +390,7 @@ That layered identity explains why the migoi has endured while many other crypti
 <a href="https://www.amazon.com/s?k=Bhutanese+tales+of+the+yeti+Kunzang+Choden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bhutanese tales of the yeti">Bhutanese tales of the yeti</a>
 </h4>
 <p class="fr-book-author">By Kunzang Choden</p>
-        
+
 <p class="fr-book-desc">First published 1997. Subjects: Legends, Folklore, Yeti, Tales.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bhutanese+tales+of+the+yeti+Kunzang+Choden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ That layered identity explains why the migoi has endured while many other crypti
 <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
 </h4>
 <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
-        
+
 <p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

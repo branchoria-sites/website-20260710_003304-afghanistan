@@ -1283,7 +1283,7 @@ That is why Mongolia belongs so naturally in country-level Forteana. Its mysteri
 <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
 </h4>
 <p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
-        
+
 <p class="fr-book-desc">Explores the intersection of folklore, mystery and investigation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1300,7 +1300,7 @@ That is why Mongolia belongs so naturally in country-level Forteana. Its mysteri
 <a href="https://www.amazon.com/s?k=The+Beast+of+Boggy+Creek+Lyle+Blackburn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Beast of Boggy Creek">The Beast of Boggy Creek</a>
 </h4>
 <p class="fr-book-author">By Lyle Blackburn</p>
-        
+
 <p class="fr-book-desc">First published 2012.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Beast+of+Boggy+Creek+Lyle+Blackburn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1317,7 +1317,7 @@ That is why Mongolia belongs so naturally in country-level Forteana. Its mysteri
 <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world of Lore">The world of Lore</a>
 </h4>
 <p class="fr-book-author">By Aaron Mahnke</p>
-        
+
 <p class="fr-book-desc">First published 2017. Subjects: Ghosts, Haunted places.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1334,7 +1334,7 @@ That is why Mongolia belongs so naturally in country-level Forteana. Its mysteri
 <a href="https://www.amazon.com/s?k=Monsters+John+Michael+Greer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters">Monsters</a>
 </h4>
 <p class="fr-book-author">By John Michael Greer</p>
-        
+
 <p class="fr-book-desc">First published 2001. Subjects: Monsters, Magic, Angels, Supernatural.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Monsters+John+Michael+Greer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

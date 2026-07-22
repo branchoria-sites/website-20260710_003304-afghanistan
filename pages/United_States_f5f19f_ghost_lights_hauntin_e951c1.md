@@ -354,7 +354,7 @@ Their lasting significance lies less in proving ghosts than in showing how commu
           <a href="https://www.amazon.com/s?k=Weird+U.S.+Mark+Moran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weird U.S.">Weird U.S.</a>
         </h4>
         <p class="fr-book-author">By Mark Moran, Mark Sceurman</p>
-        
+
         <p class="fr-book-desc">Includes ghost lights, hauntings and regional legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Weird+U.S.+Mark+Moran&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ Their lasting significance lies less in proving ghosts than in showing how commu
           <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
         </h4>
         <p class="fr-book-author">By Jan Harold Brunvand</p>
-        
+
         <p class="fr-book-desc">Explains how recurring supernatural stories persist.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ Their lasting significance lies less in proving ghosts than in showing how commu
           <a href="https://www.amazon.com/s?k=Haunted+America+Norman%2C+Michael&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Haunted America">Haunted America</a>
         </h4>
         <p class="fr-book-author">By Norman, Michael, Beth Scott</p>
-        
+
         <p class="fr-book-desc">Surveys famous hauntings and enduring supernatural traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Haunted+America+Norman%2C+Michael&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ Their lasting significance lies less in proving ghosts than in showing how commu
           <a href="https://www.amazon.com/s?k=The+Bell+Witch+Brent+Monahan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Bell Witch">The Bell Witch</a>
         </h4>
         <p class="fr-book-author">By Brent Monahan</p>
-        
+
         <p class="fr-book-desc">Covers one of the page&#x27;s central case studies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Bell+Witch+Brent+Monahan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

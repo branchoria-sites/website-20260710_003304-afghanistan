@@ -354,7 +354,7 @@ Seen through the lens of Fortean history, Moldovas vampire folklore is therefore
 <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Bough">The Golden Bough</a>
 </h4>
 <p class="fr-book-author">By James George Frazer</p>
-        
+
 <p class="fr-book-desc">First published 1890. Subjects: Mythology, Magic, Superstition, Religion, Primitive Religion.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ Seen through the lens of Fortean history, Moldovas vampire folklore is therefore
 <a href="https://www.amazon.com/s?k=The+vampire+Alan+Dundes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vampire">The vampire</a>
 </h4>
 <p class="fr-book-author">By Alan Dundes</p>
-        
+
 <p class="fr-book-desc">First published 1998. Subjects: Volkscultuur, Vampir, Vampires, Pathologie, Vampiers.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+vampire+Alan+Dundes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ Seen through the lens of Fortean history, Moldovas vampire folklore is therefore
 <a href="https://www.amazon.com/s?k=The+Vampire+Book+J.+Gordon+Melton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Vampire Book">The Vampire Book</a>
 </h4>
 <p class="fr-book-author">By J. Gordon Melton</p>
-        
+
 <p class="fr-book-desc">First published 1994. Subjects: Encyclopedias, Vampires, Dictionaries, Vampiers, Encyclopedieën (vorm).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Vampire+Book+J.+Gordon+Melton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ Seen through the lens of Fortean history, Moldovas vampire folklore is therefore
 <a href="https://www.amazon.com/s?k=The+encyclopedia+of+spirits+Judika+Illes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The encyclopedia of spirits">The encyclopedia of spirits</a>
 </h4>
 <p class="fr-book-author">By Judika Illes</p>
-        
+
 <p class="fr-book-desc">First published 2009. Subjects: Supernatural, Spirits, Encyclopedias, Spirituality, Magic.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+encyclopedia+of+spirits+Judika+Illes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -335,7 +335,7 @@ Poland’s folklore beasts and haunted landscapes remain compelling because they
           <a href="https://www.amazon.com/s?k=The+Oxford+companion+to+fairy+tales+Jack+Zipes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford companion to fairy tales">The Oxford companion to fairy tales</a>
         </h4>
         <p class="fr-book-author">By Jack Zipes</p>
-        
+
         <p class="fr-book-desc">Covers legendary creatures and storytelling traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Oxford+companion+to+fairy+tales+Jack+Zipes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -352,7 +352,7 @@ Poland’s folklore beasts and haunted landscapes remain compelling because they
           <a href="https://www.amazon.com/s?k=The+encyclopedia+of+monsters+Jeff+Rovin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The encyclopedia of monsters">The encyclopedia of monsters</a>
         </h4>
         <p class="fr-book-author">By Jeff Rovin</p>
-        
+
         <p class="fr-book-desc">Directly fits creatures and supernatural folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+encyclopedia+of+monsters+Jeff+Rovin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ Poland’s folklore beasts and haunted landscapes remain compelling because they
           <a href="https://www.amazon.com/s?k=The+dictionary+of+mythology+J.+A.+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The dictionary of mythology">The dictionary of mythology</a>
         </h4>
         <p class="fr-book-author">By J. A. Coleman</p>
-        
+
         <p class="fr-book-desc">Useful for monster and legend context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+dictionary+of+mythology+J.+A.+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ Poland’s folklore beasts and haunted landscapes remain compelling because they
           <a href="https://www.amazon.com/s?k=Ghostland%3A+An+American+History+in+Haunted+Places+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland: An American History in Haunted Places">Ghostland: An American History in Haunted Places</a>
         </h4>
         <p class="fr-book-author">By Colin Dickey</p>
-        
+
         <p class="fr-book-desc">Shows how haunted-place stories develop culturally.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Ghostland%3A+An+American+History+in+Haunted+Places+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -338,7 +338,7 @@ The 1543 fog therefore occupies a distinctive place in San Marino’s strange-hi
           <a href="https://www.amazon.com/s?k=The+book+of+general+ignorance+John+Mitchinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The book of general ignorance">The book of general ignorance</a>
         </h4>
         <p class="fr-book-author">By John Mitchinson, John Lloyd</p>
-        
+
         <p class="fr-book-desc">Explains how surprising historical stories become accepted knowledge.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+book+of+general+ignorance+John+Mitchinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -355,7 +355,7 @@ The 1543 fog therefore occupies a distinctive place in San Marino’s strange-hi
           <a href="https://www.amazon.com/s?k=A+Distant+Mirror+Barbara+Tuchman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Distant Mirror">A Distant Mirror</a>
         </h4>
         <p class="fr-book-author">By Barbara Tuchman</p>
-        
+
         <p class="fr-book-desc">Useful for readers interested in European historical crises and legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Distant+Mirror+Barbara+Tuchman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ The 1543 fog therefore occupies a distinctive place in San Marino’s strange-hi
           <a href="https://www.amazon.com/s?k=Europe+%3A+a+history+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Europe : a history">Europe : a history</a>
         </h4>
         <p class="fr-book-author">By Norman Davies</p>
-        
+
         <p class="fr-book-desc">First published 1996. Subjects: History, Europe, history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Europe+%3A+a+history+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ The 1543 fog therefore occupies a distinctive place in San Marino’s strange-hi
           <a href="https://www.amazon.com/s?k=MIRACLES+%3A+A+PRELIMINARY+STUDY+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="MIRACLES : A PRELIMINARY STUDY">MIRACLES : A PRELIMINARY STUDY</a>
         </h4>
         <p class="fr-book-author">By C. S. Lewis</p>
-        
+
         <p class="fr-book-desc">Connects with the interpretation of weather events as divine intervention.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=MIRACLES+%3A+A+PRELIMINARY+STUDY+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

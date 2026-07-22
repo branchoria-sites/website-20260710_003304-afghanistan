@@ -1299,7 +1299,7 @@ The most honest conclusion is also the most interesting one: United States Forte
           <a href="https://www.amazon.com/s?k=Weird+U.S.+Mark+Moran&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Weird U.S.">Weird U.S.</a>
         </h4>
         <p class="fr-book-author">By Mark Moran, Mark Sceurman</p>
-        
+
         <p class="fr-book-desc">Covers haunted places, legends, monsters and odd history across America.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Weird+U.S.+Mark+Moran&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1316,7 +1316,7 @@ The most honest conclusion is also the most interesting one: United States Forte
           <a href="https://www.amazon.com/s?k=American+monsters+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American monsters">American monsters</a>
         </h4>
         <p class="fr-book-author">By Linda S. Godfrey</p>
-        
+
         <p class="fr-book-desc">Explores legendary creatures from across the United States.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=American+monsters+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1333,7 +1333,7 @@ The most honest conclusion is also the most interesting one: United States Forte
           <a href="https://www.amazon.com/s?k=United+States+of+Cryptids+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="United States of Cryptids">United States of Cryptids</a>
         </h4>
         <p class="fr-book-author">By J. W. Ocker</p>
-        
+
         <p class="fr-book-desc">Broad survey matching the page&#x27;s nationwide Fortean scope.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=United+States+of+Cryptids+J.+W.+Ocker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1350,7 +1350,7 @@ The most honest conclusion is also the most interesting one: United States Forte
           <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
         </h4>
         <p class="fr-book-author">By Jan Harold Brunvand</p>
-        
+
         <p class="fr-book-desc">Explains how modern legends develop and spread.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

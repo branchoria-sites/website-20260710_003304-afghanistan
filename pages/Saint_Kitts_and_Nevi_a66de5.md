@@ -1297,7 +1297,7 @@ In that sense, the mysteries of Saint Kitts and Nevis are cultural mysteries as 
           <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Jacobins">The Black Jacobins</a>
         </h4>
         <p class="fr-book-author">By C. L. R. James</p>
-        
+
         <p class="fr-book-desc">Helps readers understand the historical forces behind Caribbean culture and memory.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Black+Jacobins+C.+L.+R.+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

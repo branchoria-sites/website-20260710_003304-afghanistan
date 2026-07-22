@@ -1296,7 +1296,7 @@ That balance between tangible history and imaginative storytelling gives Bahrain
           <a href="https://www.amazon.com/s?k=Dilmun+and+its+Gulf+neighbours+Harriet+E.+W.+Crawford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dilmun and its Gulf neighbours">Dilmun and its Gulf neighbours</a>
         </h4>
         <p class="fr-book-author">By Harriet E. W. Crawford</p>
-        
+
         <p class="fr-book-desc">Explains the civilisation, archaeology and historical background behind Bahrain&#x27;s mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Dilmun+and+its+Gulf+neighbours+Harriet+E.+W.+Crawford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1313,7 +1313,7 @@ That balance between tangible history and imaginative storytelling gives Bahrain
           <a href="https://www.amazon.com/s?k=Arabian+sands+Wilfred+Thesiger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabian sands">Arabian sands</a>
         </h4>
         <p class="fr-book-author">By Wilfred Thesiger</p>
-        
+
         <p class="fr-book-desc">Provides rich cultural and environmental context for the Arabian Gulf.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Arabian+sands+Wilfred+Thesiger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1330,7 +1330,7 @@ That balance between tangible history and imaginative storytelling gives Bahrain
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
         </h4>
         <p class="fr-book-author">By Scott G. Bruce</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in legendary creatures and folklore generally.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1347,7 +1347,7 @@ That balance between tangible history and imaginative storytelling gives Bahrain
           <a href="https://www.amazon.com/s?k=Arabian+Mythology+Geoffrey+Ashe&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabian Mythology">Arabian Mythology</a>
         </h4>
         <p class="fr-book-author">By Geoffrey Ashe</p>
-        
+
         <p class="fr-book-desc">Covers myths, spirits and legendary traditions from the Arab world.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Arabian+Mythology+Geoffrey+Ashe&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

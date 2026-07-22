@@ -363,7 +363,7 @@ The fairy circles may never acquire the simple, single-cause explanation that ma
           <a href="https://www.amazon.com/s?k=The+Selfish+Gene+Richard+Dawkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Selfish Gene">The Selfish Gene</a>
         </h4>
         <p class="fr-book-author">By Richard Dawkins</p>
-        
+
         <p class="fr-book-desc">Introduces evolutionary thinking relevant to natural pattern formation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Selfish+Gene+Richard+Dawkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ The fairy circles may never acquire the simple, single-cause explanation that ma
           <a href="https://www.amazon.com/s?k=Entangled+Life+Merlin+Sheldrake&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Entangled Life">Entangled Life</a>
         </h4>
         <p class="fr-book-author">By Merlin Sheldrake</p>
-        
+
         <p class="fr-book-desc">Explores ecological systems and emergent natural processes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Entangled+Life+Merlin+Sheldrake&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ The fairy circles may never acquire the simple, single-cause explanation that ma
           <a href="https://www.amazon.com/s?k=Skeleton+Coast+John+Henry+Marsh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skeleton Coast">Skeleton Coast</a>
         </h4>
         <p class="fr-book-author">By John Henry Marsh</p>
-        
+
         <p class="fr-book-desc">Places fairy circles within the country&#x27;s unusual environments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Skeleton+Coast+John+Henry+Marsh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ The fairy circles may never acquire the simple, single-cause explanation that ma
           <a href="https://www.amazon.com/s?k=Namibia%2C+3rd+Bradt+Travel+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Namibia, 3rd">Namibia, 3rd</a>
         </h4>
         <p class="fr-book-author">By Bradt Travel Guides</p>
-        
+
         <p class="fr-book-desc">First published 2007. Subjects: Guidebooks, Namibia, description and travel.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Namibia%2C+3rd+Bradt+Travel+Guides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

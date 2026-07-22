@@ -337,7 +337,7 @@ That combination explains the story's lasting appeal. It preserves the sense of 
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
         </h4>
         <p class="fr-book-author">By Charles Fort</p>
-        
+
         <p class="fr-book-desc">Famously discusses anomalous falls including animal rain.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -354,7 +354,7 @@ That combination explains the story's lasting appeal. It preserves the sense of 
           <a href="https://www.amazon.com/s?k=The+Weather+Handbook+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Handbook">The Weather Handbook</a>
         </h4>
         <p class="fr-book-author">By Alan Watts</p>
-        
+
         <p class="fr-book-desc">Explains atmospheric processes behind unusual rainfall events.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Weather+Handbook+Alan+Watts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ That combination explains the story's lasting appeal. It preserves the sense of 
           <a href="https://www.amazon.com/s?k=Storm+in+a+Teacup+Helen+Czerski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Storm in a Teacup">Storm in a Teacup</a>
         </h4>
         <p class="fr-book-author">By Helen Czerski</p>
-        
+
         <p class="fr-book-desc">Introduces weather and water physics in an engaging way.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Storm+in+a+Teacup+Helen+Czerski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ That combination explains the story's lasting appeal. It preserves the sense of 
           <a href="https://www.amazon.com/s?k=The+book+of+barely+imagined+beings+Caspar+Henderson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The book of barely imagined beings">The book of barely imagined beings</a>
         </h4>
         <p class="fr-book-author">By Caspar Henderson</p>
-        
+
         <p class="fr-book-desc">Complements stories where unusual nature inspires wonder.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+book+of+barely+imagined+beings+Caspar+Henderson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

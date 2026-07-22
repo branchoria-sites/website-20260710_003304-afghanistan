@@ -388,7 +388,7 @@ That balance between documented remembrance and imaginative retelling explains w
 <a href="https://www.amazon.com/s?k=The+Pied+Piper+of+Hamelin+Robert+Browning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pied Piper of Hamelin">The Pied Piper of Hamelin</a>
 </h4>
 <p class="fr-book-author">By Robert Browning, Ladybird Books Staff et al.</p>
-        
+
 <p class="fr-book-desc">First published 1888. Subjects: Legends, Folklore, Pied Piper of Hamelin (Legendary character), Fairy tales, Children&#x27;s fiction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Pied+Piper+of+Hamelin+Robert+Browning&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ That balance between documented remembrance and imaginative retelling explains w
 <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
 </h4>
 <p class="fr-book-author">By Jan Harold Brunvand</p>
-        
+
 <p class="fr-book-desc">First published 1981. Subjects: History and criticism, Legends, Urban folklore, Légendes, Folklore urbain.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ That balance between documented remembrance and imaginative retelling explains w
 <a href="https://www.amazon.com/s?k=Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries">Mysteries</a>
 </h4>
 <p class="fr-book-author">By Colin Wilson</p>
-        
+
 <p class="fr-book-desc">First published 1978. Subjects: Occultism, Parapsychology, Supernatural, Curiosities and wonders.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -439,7 +439,7 @@ That balance between documented remembrance and imaginative retelling explains w
 <a href="https://www.amazon.com/s?k=Fairy+tales+Gebr%C3%BCder+Grimm+%5BBrothers+Grimm%5D&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fairy tales">Fairy tales</a>
 </h4>
 <p class="fr-book-author">By Gebrüder Grimm [Brothers Grimm], Wilhelm Grimm</p>
-        
+
 <p class="fr-book-desc">First published 1800. Subjects: Allemagne, Tales, Fairy tales, Folklore, Contes.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Fairy+tales+Gebr%C3%BCder+Grimm+%5BBrothers+Grimm%5D&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

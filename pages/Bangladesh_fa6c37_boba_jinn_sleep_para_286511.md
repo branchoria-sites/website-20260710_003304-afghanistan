@@ -381,7 +381,7 @@ The mystery therefore survives not because science has failed to describe the ph
           <a href="https://www.amazon.com/s?k=The+terror+that+comes+in+the+night+David+J.+Hufford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The terror that comes in the night">The terror that comes in the night</a>
         </h4>
         <p class="fr-book-author">By David J. Hufford</p>
-        
+
         <p class="fr-book-desc">Explores worldwide night-visitor and sleep-paralysis traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+terror+that+comes+in+the+night+David+J.+Hufford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ The mystery therefore survives not because science has failed to describe the ph
           <a href="https://www.amazon.com/s?k=Why+We+Sleep+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why We Sleep">Why We Sleep</a>
         </h4>
         <p class="fr-book-author">By Matthew Walker</p>
-        
+
         <p class="fr-book-desc">Explains the neuroscience of sleep and related phenomena.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Why+We+Sleep+Matthew+Walker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ The mystery therefore survives not because science has failed to describe the ph
           <a href="https://www.amazon.com/s?k=Sleep+paralysis+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sleep paralysis">Sleep paralysis</a>
         </h4>
         <p class="fr-book-author">By Shelley R. Adler</p>
-        
+
         <p class="fr-book-desc">Directly examines the phenomenon behind Boba experiences.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sleep+paralysis+Shelley+R.+Adler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -432,7 +432,7 @@ The mystery therefore survives not because science has failed to describe the ph
           <a href="https://www.amazon.com/s?k=The+Hungry+Tide+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hungry Tide">The Hungry Tide</a>
         </h4>
         <p class="fr-book-author">By Amitav Ghosh, Yaʻel Akhmon</p>
-        
+
         <p class="fr-book-desc">First published 2004. Subjects: Ecological disturbances, Tides, Fiction, Rural poor, Americans.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hungry+Tide+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

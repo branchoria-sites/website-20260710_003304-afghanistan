@@ -1314,7 +1314,7 @@ The third rule is to respect uncertainty without exaggerating it. Some claims ar
           <a href="https://www.amazon.com/s?k=Popol+Vuh+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Popol Vuh">Popol Vuh</a>
         </h4>
         <p class="fr-book-author">By Dennis Tedlock</p>
-        
+
         <p class="fr-book-desc">Foundational Maya mythology underlying many Guatemalan traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Popol+Vuh+Dennis+Tedlock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1331,7 +1331,7 @@ The third rule is to respect uncertainty without exaggerating it. Some claims ar
           <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Encyclopedia of Ghosts and Spirits">The Encyclopedia of Ghosts and Spirits</a>
         </h4>
         <p class="fr-book-author">By Rosemary Ellen Guiley</p>
-        
+
         <p class="fr-book-desc">Places Guatemalan legends within wider ghost folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1348,7 +1348,7 @@ The third rule is to respect uncertainty without exaggerating it. Some claims ar
           <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Guatemala+%26+Belize+Map+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Guatemala &amp; Belize Map">The Rough Guide to Guatemala &amp; Belize Map</a>
         </h4>
         <p class="fr-book-author">By Rough Guides</p>
-        
+
         <p class="fr-book-desc">First published 2003.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Guatemala+%26+Belize+Map+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1365,7 +1365,7 @@ The third rule is to respect uncertainty without exaggerating it. Some claims ar
           <a href="https://www.amazon.com/s?k=The+Maya+Michael+D.+Coe+and+Stephen+Houston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Maya">The Maya</a>
         </h4>
         <p class="fr-book-author">By Michael D. Coe and Stephen Houston</p>
-        
+
         <p class="fr-book-desc">Provides essential context for Guatemala&#x27;s history, archaeology and mythology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Maya+Michael+D.+Coe+and+Stephen+Houston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

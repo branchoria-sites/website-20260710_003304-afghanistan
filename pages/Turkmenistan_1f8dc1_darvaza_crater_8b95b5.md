@@ -352,7 +352,7 @@ For Turkmenistan, the "Door to Hell" has become an accidental national icon. Int
           <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
         </h4>
         <p class="fr-book-author">By Peter Frankopan</p>
-        
+
         <p class="fr-book-desc">Provides historical setting for Central Asia.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ For Turkmenistan, the "Door to Hell" has become an accidental national icon. Int
           <a href="https://www.amazon.com/s?k=Sovietistan+Erika+Fatland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sovietistan">Sovietistan</a>
         </h4>
         <p class="fr-book-author">By Erika Fatland</p>
-        
+
         <p class="fr-book-desc">Includes memorable coverage of Turkmenistan and its iconic landscapes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sovietistan+Erika+Fatland&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ For Turkmenistan, the "Door to Hell" has become an accidental national icon. Int
           <a href="https://www.amazon.com/s?k=The+Ends+of+the+Earth+Robert+D.+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ends of the Earth">The Ends of the Earth</a>
         </h4>
         <p class="fr-book-author">By Robert D. Kaplan</p>
-        
+
         <p class="fr-book-desc">Provides context for remote landscapes and frontiers.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Ends+of+the+Earth+Robert+D.+Kaplan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ For Turkmenistan, the "Door to Hell" has become an accidental national icon. Int
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Central+Asia+Phrasebook+and+Dictionary+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Central Asia Phrasebook and Dictionary">Lonely Planet Central Asia Phrasebook and Dictionary</a>
         </h4>
         <p class="fr-book-author">By Lonely Planet</p>
-        
+
         <p class="fr-book-desc">First published 2019. Subjects: Asia, languages.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Lonely+Planet+Central+Asia+Phrasebook+and+Dictionary+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

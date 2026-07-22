@@ -321,7 +321,7 @@ For readers interested in Andorra's Fortean landscape, the site is significant n
           <a href="https://www.amazon.com/s?k=The+Mind+in+the+Cave+J.+David+Lewis-Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mind in the Cave">The Mind in the Cave</a>
         </h4>
         <p class="fr-book-author">By J. David Lewis-Williams</p>
-        
+
         <p class="fr-book-desc">Explains prehistoric imagery and ritual interpretation relevant to carved rocks.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mind+in+the+Cave+J.+David+Lewis-Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -338,7 +338,7 @@ For readers interested in Andorra's Fortean landscape, the site is significant n
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the gods">Fingerprints of the gods</a>
         </h4>
         <p class="fr-book-author">By Graham Hancock</p>
-        
+
         <p class="fr-book-desc">Represents speculative interpretations often contrasted with archaeology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -355,7 +355,7 @@ For readers interested in Andorra's Fortean landscape, the site is significant n
           <a href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Archaeology+and+Anthropology+of+Rock+Art+Bruno+David&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oxford Handbook of the Archaeology and Anthropology of Rock Art">Oxford Handbook of the Archaeology and Anthropology of Rock Art</a>
         </h4>
         <p class="fr-book-author">By Bruno David, Ian J. McNiven</p>
-        
+
         <p class="fr-book-desc">Provides global context for prehistoric rock art like Roc de les Bruixes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Archaeology+and+Anthropology+of+Rock+Art+Bruno+David&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ For readers interested in Andorra's Fortean landscape, the site is significant n
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The witch">The witch</a>
         </h4>
         <p class="fr-book-author">By Ronald Hutton</p>
-        
+
         <p class="fr-book-desc">Explains why ancient sites became associated with witches.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+witch+Ronald+Hutton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

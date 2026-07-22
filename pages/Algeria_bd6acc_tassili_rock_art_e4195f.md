@@ -369,7 +369,7 @@ That continuing conversation explains Tassili's lasting appeal. It is not a case
           <a href="https://www.amazon.com/s?k=The+Mind+in+the+Cave+J.+David+Lewis-Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mind in the Cave">The Mind in the Cave</a>
         </h4>
         <p class="fr-book-author">By J. David Lewis-Williams</p>
-        
+
         <p class="fr-book-desc">Explains prehistoric cave and rock art using archaeological evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mind+in+the+Cave+J.+David+Lewis-Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ That continuing conversation explains Tassili's lasting appeal. It is not a case
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the gods">Fingerprints of the gods</a>
         </h4>
         <p class="fr-book-author">By Graham Hancock</p>
-        
+
         <p class="fr-book-desc">Frequently linked to debates over prehistoric civilizations and rock art.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ That continuing conversation explains Tassili's lasting appeal. It is not a case
           <a href="https://www.amazon.com/s?k=The+Sign+and+the+Seal+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sign and the Seal">The Sign and the Seal</a>
         </h4>
         <p class="fr-book-author">By Graham Hancock</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in ancient mysteries while encouraging comparison with evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Sign+and+the+Seal+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -420,7 +420,7 @@ That continuing conversation explains Tassili's lasting appeal. It is not a case
           <a href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Archaeology+and+Anthropology+of+Rock+Art+Bruno+David&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Oxford Handbook of the Archaeology and Anthropology of Rock Art">Oxford Handbook of the Archaeology and Anthropology of Rock Art</a>
         </h4>
         <p class="fr-book-author">By Bruno David, Ian J. McNiven</p>
-        
+
         <p class="fr-book-desc">Places Tassili within the wider study of world rock art.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Oxford+Handbook+of+the+Archaeology+and+Anthropology+of+Rock+Art+Bruno+David&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

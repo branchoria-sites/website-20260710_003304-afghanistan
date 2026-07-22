@@ -416,7 +416,7 @@ That persistence explains why sacred landscapes continue to occupy such an impor
           <a href="https://www.amazon.com/s?k=The+Balts+Marija+Alseikait%C4%97+Gimbutas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Balts">The Balts</a>
         </h4>
         <p class="fr-book-author">By Marija Alseikaitė Gimbutas</p>
-        
+
         <p class="fr-book-desc">Explains sacred groves, landscapes and pre-Christian beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Balts+Marija+Alseikait%C4%97+Gimbutas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -433,7 +433,7 @@ That persistence explains why sacred landscapes continue to occupy such an impor
           <a href="https://www.amazon.com/s?k=The+Old+Ways+Robert+Macfarlane&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Old Ways">The Old Ways</a>
         </h4>
         <p class="fr-book-author">By Robert Macfarlane, Robin Sachs</p>
-        
+
         <p class="fr-book-desc">Explores how landscape preserves memory and tradition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Old+Ways+Robert+Macfarlane&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -450,7 +450,7 @@ That persistence explains why sacred landscapes continue to occupy such an impor
           <a href="https://www.amazon.com/s?k=The+spirit+of+the+liturgy+Joseph+Ratzinger&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The spirit of the liturgy">The spirit of the liturgy</a>
         </h4>
         <p class="fr-book-author">By Joseph Ratzinger</p>
-        
+
         <p class="fr-book-desc">First published 2000. Subjects: Catholic Church, Doctrines, Liturgy, Catholic church, liturgy, Roman catholicism.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+spirit+of+the+liturgy+Joseph+Ratzinger&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -467,7 +467,7 @@ That persistence explains why sacred landscapes continue to occupy such an impor
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
         </h4>
         <p class="fr-book-author">By Scott G. Bruce</p>
-        
+
         <p class="fr-book-desc">First published 2021. Subjects: Folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

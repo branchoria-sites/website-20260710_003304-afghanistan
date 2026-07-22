@@ -360,7 +360,7 @@ In that sense, Hoan Kiem's sacred turtle is neither simply myth nor merely zoolo
 <a href="https://www.amazon.com/s?k=The+Sixth+Extinction+Elizabeth+Kolbert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sixth Extinction">The Sixth Extinction</a>
 </h4>
 <p class="fr-book-author">By Elizabeth Kolbert, Marcel Blanc</p>
-        
+
 <p class="fr-book-desc">First published 2014. Subjects: Extinction (Biology), Mass extinctions, Environmental disasters, SCIENCE / Environmental Science, SCIENCE...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Sixth+Extinction+Elizabeth+Kolbert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ In that sense, Hoan Kiem's sacred turtle is neither simply myth nor merely zoolo
 <a href="https://www.amazon.com/s?k=Last+Chance+to+See+Douglas+Adams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Last Chance to See">Last Chance to See</a>
 </h4>
 <p class="fr-book-author">By Douglas Adams, Mark Carwardine</p>
-        
+
 <p class="fr-book-desc">First published 1990. Subjects: Travel, Endangered species, Journeys, Rare animals, New York Times reviewed.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Last+Chance+to+See+Douglas+Adams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ In that sense, Hoan Kiem's sacred turtle is neither simply myth nor merely zoolo
 <a href="https://www.amazon.com/s?k=Ghosts+of+War+in+Vietnam+Heonik+Kwon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghosts of War in Vietnam">Ghosts of War in Vietnam</a>
 </h4>
 <p class="fr-book-author">By Heonik Kwon</p>
-        
+
 <p class="fr-book-desc">First published 2008. Subjects: History, Nonfiction, Vietnam war, 1961-1975, social aspects, Ghosts, Social psychology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ghosts+of+War+in+Vietnam+Heonik+Kwon&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ In that sense, Hoan Kiem's sacred turtle is neither simply myth nor merely zoolo
 <a href="https://www.amazon.com/s?k=Vietnam+Bill+Hayton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vietnam">Vietnam</a>
 </h4>
 <p class="fr-book-author">By Bill Hayton</p>
-        
+
 <p class="fr-book-desc">First published 2010. Subjects: Politics and government, Social change, Economic conditions, Social conditions, Đảng cộng sản Việt Nam.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Vietnam+Bill+Hayton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

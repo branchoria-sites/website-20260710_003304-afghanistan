@@ -1338,7 +1338,7 @@ That mixture is what makes Ethiopia so important in country-level Forteana. The 
           <a href="https://www.amazon.com/s?k=A+history+of+Ethiopia+Harold+G.+Marcus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Ethiopia">A history of Ethiopia</a>
         </h4>
         <p class="fr-book-author">By Harold G. Marcus</p>
-        
+
         <p class="fr-book-desc">Places legendary material in historical context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Ethiopia+Harold+G.+Marcus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1355,7 +1355,7 @@ That mixture is what makes Ethiopia so important in country-level Forteana. The 
           <a href="https://www.amazon.com/s?k=The+Ethiopians+Pankhurst%2C+Richard.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ethiopians">The Ethiopians</a>
         </h4>
         <p class="fr-book-author">By Pankhurst, Richard.</p>
-        
+
         <p class="fr-book-desc">Comprehensive background for Ethiopia&#x27;s sacred and historical traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Ethiopians+Pankhurst%2C+Richard.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1372,7 +1372,7 @@ That mixture is what makes Ethiopia so important in country-level Forteana. The 
           <a href="https://www.amazon.com/s?k=The+Sign+and+the+Seal+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sign and the Seal">The Sign and the Seal</a>
         </h4>
         <p class="fr-book-author">By Graham Hancock</p>
-        
+
         <p class="fr-book-desc">Introduces the Ark tradition and Ethiopian historical mysteries.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Sign+and+the+Seal+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

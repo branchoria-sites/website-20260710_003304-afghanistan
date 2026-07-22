@@ -1344,7 +1344,7 @@ The most honest conclusion is also the most interesting one. Italy does not offe
           <a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Atlas of Monsters">The Atlas of Monsters</a>
         </h4>
         <p class="fr-book-author">By Sandra Lawrence</p>
-        
+
         <p class="fr-book-desc">Covers the kind of folklore and unexplained stories featured across Italy.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1361,7 +1361,7 @@ The most honest conclusion is also the most interesting one. Italy does not offe
           <a href="https://www.amazon.com/s?k=The+Oxford+Companion+to+Italian+Food+Gillian+Riley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford Companion to Italian Food">The Oxford Companion to Italian Food</a>
         </h4>
         <p class="fr-book-author">By Gillian Riley</p>
-        
+
         <p class="fr-book-desc">Broadens interest in Italian culture connected with local traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Oxford+Companion+to+Italian+Food+Gillian+Riley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1378,7 +1378,7 @@ The most honest conclusion is also the most interesting one. Italy does not offe
           <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
         </h4>
         <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
-        
+
         <p class="fr-book-desc">Provides context for many categories of anomalous claims discussed.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1395,7 +1395,7 @@ The most honest conclusion is also the most interesting one. Italy does not offe
           <a href="https://www.amazon.com/s?k=Italian+folktales+Italo+Calvino&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Italian folktales">Italian folktales</a>
         </h4>
         <p class="fr-book-author">By Italo Calvino</p>
-        
+
         <p class="fr-book-desc">Introduces the folklore background behind many Italian legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Italian+folktales+Italo+Calvino&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

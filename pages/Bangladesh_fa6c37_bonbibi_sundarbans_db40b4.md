@@ -354,7 +354,7 @@ For believers, Bonbibi is a living protector whose intervention still shapes dai
 <a href="https://www.amazon.com/s?k=The+Hungry+Tide+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hungry Tide">The Hungry Tide</a>
 </h4>
 <p class="fr-book-author">By Amitav Ghosh, Yaʻel Akhmon</p>
-        
+
 <p class="fr-book-desc">First published 2004. Subjects: Ecological disturbances, Tides, Fiction, Rural poor, Americans.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Hungry+Tide+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ For believers, Bonbibi is a living protector whose intervention still shapes dai
 <a href="https://www.amazon.com/s?k=Folktales+from+India+A.+K.+Ramanujan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folktales from India">Folktales from India</a>
 </h4>
 <p class="fr-book-author">By A. K. Ramanujan</p>
-        
+
 <p class="fr-book-desc">First published 1991. Subjects: Tales, Oral tradition, Contes, Tradition orale, Mündliche Erzählung.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Folktales+from+India+A.+K.+Ramanujan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ For believers, Bonbibi is a living protector whose intervention still shapes dai
 <a href="https://www.amazon.com/s?k=Land+of+two+rivers+Nitish+K.+Sengupta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Land of two rivers">Land of two rivers</a>
 </h4>
 <p class="fr-book-author">By Nitish K. Sengupta</p>
-        
+
 <p class="fr-book-desc">First published 2011. Subjects: History, Asia, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Land+of+two+rivers+Nitish+K.+Sengupta&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ For believers, Bonbibi is a living protector whose intervention still shapes dai
 <a href="https://www.amazon.com/s?k=Bonbibi%3A+Bridging+Worlds+Annu+Jalais&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bonbibi: Bridging Worlds">Bonbibi: Bridging Worlds</a>
 </h4>
 <p class="fr-book-author">By Annu Jalais</p>
-        
+
 <p class="fr-book-desc">Directly explores the guardian deity and local beliefs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bonbibi%3A+Bridging+Worlds+Annu+Jalais&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

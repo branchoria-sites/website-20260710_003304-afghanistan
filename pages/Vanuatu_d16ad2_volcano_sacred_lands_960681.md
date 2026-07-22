@@ -343,7 +343,7 @@ That balance is especially important in Vanuatu. Much of the country's strange h
           <a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The happy isles of Oceania">The happy isles of Oceania</a>
         </h4>
         <p class="fr-book-author">By Paul Theroux</p>
-        
+
         <p class="fr-book-desc">Captures the atmosphere of Pacific island environments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+happy+isles+of+Oceania+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -360,7 +360,7 @@ That balance is especially important in Vanuatu. Much of the country's strange h
           <a href="https://www.amazon.com/s?k=The+world+until+yesterday+Jared+M.+Diamond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world until yesterday">The world until yesterday</a>
         </h4>
         <p class="fr-book-author">By Jared M. Diamond, Efrén del Valle Peñamil</p>
-        
+
         <p class="fr-book-desc">Adds context for customary relationships with dramatic landscapes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+world+until+yesterday+Jared+M.+Diamond&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ That balance is especially important in Vanuatu. Much of the country's strange h
           <a href="https://www.amazon.com/s?k=Volcano+James+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Volcano">Volcano</a>
         </h4>
         <p class="fr-book-author">By James Hamilton</p>
-        
+
         <p class="fr-book-desc">Explains the natural phenomena behind sacred volcanic landscapes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Volcano+James+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ That balance is especially important in Vanuatu. Much of the country's strange h
           <a href="https://www.amazon.com/s?k=Volcanoes+and+the+earth%27s+interior+Robert+W.+Decker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Volcanoes and the earth&#x27;s interior">Volcanoes and the earth&#x27;s interior</a>
         </h4>
         <p class="fr-book-author">By Robert W. Decker, Barbara Decker</p>
-        
+
         <p class="fr-book-desc">First published 1982. Subjects: Internal structure, Volcanoes, Earthquakes &amp; Volcanoes, Nature, Earth.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Volcanoes+and+the+earth%27s+interior+Robert+W.+Decker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

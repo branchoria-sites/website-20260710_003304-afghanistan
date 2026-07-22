@@ -1336,7 +1336,7 @@ Luxembourg’s weird-history record is therefore best read with two instincts at
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
         </h4>
         <p class="fr-book-author">By Scott G. Bruce</p>
-        
+
         <p class="fr-book-desc">Introduces legendary creatures comparable to Luxembourg folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1353,7 +1353,7 @@ Luxembourg’s weird-history record is therefore best read with two instincts at
           <a href="https://www.amazon.com/s?k=Fairy+and+folk+tales+of+Ireland+William+Butler+Yeats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fairy and folk tales of Ireland">Fairy and folk tales of Ireland</a>
         </h4>
         <p class="fr-book-author">By William Butler Yeats</p>
-        
+
         <p class="fr-book-desc">Useful comparison for Celtic and western European folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fairy+and+folk+tales+of+Ireland+William+Butler+Yeats&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1370,7 +1370,7 @@ Luxembourg’s weird-history record is therefore best read with two instincts at
           <a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Imaginary Beings">The Book of Imaginary Beings</a>
         </h4>
         <p class="fr-book-author">By Jorge Luis Borges</p>
-        
+
         <p class="fr-book-desc">Explores mythic beings relevant to readers of folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1387,7 +1387,7 @@ Luxembourg’s weird-history record is therefore best read with two instincts at
           <a href="https://www.amazon.com/s?k=The+Atlas+of+Legendary+Lands+Malcolm+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Atlas of Legendary Lands">The Atlas of Legendary Lands</a>
         </h4>
         <p class="fr-book-author">By Malcolm Smith</p>
-        
+
         <p class="fr-book-desc">Matches the site&#x27;s landscape-based folklore theme.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Atlas+of+Legendary+Lands+Malcolm+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

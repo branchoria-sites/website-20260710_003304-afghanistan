@@ -359,7 +359,7 @@ At the same time, many individual cases remain impossible to verify because the 
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
         </h4>
         <p class="fr-book-author">By Charles Fort</p>
-        
+
         <p class="fr-book-desc">Famous for collecting reports of strange falls from the sky.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,7 +376,7 @@ At the same time, many individual cases remain impossible to verify because the 
           <a href="https://www.amazon.com/s?k=The+Greeks+and+the+irrational+E.+R.+Dodds&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Greeks and the irrational">The Greeks and the irrational</a>
         </h4>
         <p class="fr-book-author">By E. R. Dodds</p>
-        
+
         <p class="fr-book-desc">Provides cultural context for unusual reports in Greek tradition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Greeks+and+the+irrational+E.+R.+Dodds&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ At the same time, many individual cases remain impossible to verify because the 
           <a href="https://www.amazon.com/s?k=Mythos+Stephen+Fry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mythos">Mythos</a>
         </h4>
         <p class="fr-book-author">By Stephen Fry</p>
-        
+
         <p class="fr-book-desc">Covers mythic traditions surrounding the Greek heavens.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mythos+Stephen+Fry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ At the same time, many individual cases remain impossible to verify because the 
           <a href="https://www.amazon.com/s?k=The+weather+book+Williams%2C+Jack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The weather book">The weather book</a>
         </h4>
         <p class="fr-book-author">By Williams, Jack</p>
-        
+
         <p class="fr-book-desc">Explains storms and unusual atmospheric phenomena.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+weather+book+Williams%2C+Jack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

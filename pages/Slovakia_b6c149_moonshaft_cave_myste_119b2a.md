@@ -382,7 +382,7 @@ For that reason the Moonshaft continues to attract interest from cavers, histori
           <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
         </h4>
         <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
-        
+
         <p class="fr-book-desc">Fits readers interested in unresolved mysteries like the Moonshaft.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ For that reason the Moonshaft continues to attract interest from cavers, histori
           <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Guide to the Superstitions of Britain and Ireland">The Penguin Guide to the Superstitions of Britain and Ireland</a>
         </h4>
         <p class="fr-book-author">By Stephen Roud</p>
-        
+
         <p class="fr-book-desc">First published 2006. Subjects: Nonfiction, Reference, Superstition, Dictionaries, History.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Guide+to+the+Superstitions+of+Britain+and+Ireland+Stephen+Roud&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ For that reason the Moonshaft continues to attract interest from cavers, histori
           <a href="https://www.amazon.com/s?k=World+Beneath+Richard+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="World Beneath">World Beneath</a>
         </h4>
         <p class="fr-book-author">By Richard Smith</p>
-        
+
         <p class="fr-book-desc">Extends curiosity about inaccessible environments.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=World+Beneath+Richard+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -433,7 +433,7 @@ For that reason the Moonshaft continues to attract interest from cavers, histori
           <a href="https://www.amazon.com/s?k=Underground%3A+Travels+Beneath+the+Earth+Will+Hunt&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Underground: Travels Beneath the Earth">Underground: Travels Beneath the Earth</a>
         </h4>
         <p class="fr-book-author">By Will Hunt</p>
-        
+
         <p class="fr-book-desc">Examines caves, underground mysteries and human fascination with the subterranean.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Underground%3A+Travels+Beneath+the+Earth+Will+Hunt&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

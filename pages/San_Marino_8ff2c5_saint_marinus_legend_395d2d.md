@@ -327,7 +327,7 @@ The founding of San Marino therefore remains one of the country’s most intrigu
           <a href="https://www.amazon.com/s?k=The+Invention+of+tradition+Eric+Hobsbawm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invention of tradition">The Invention of tradition</a>
         </h4>
         <p class="fr-book-author">By Eric Hobsbawm, Terence O. Ranger</p>
-        
+
         <p class="fr-book-desc">Directly addresses how founding legends and national stories are constructed.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Invention+of+tradition+Eric+Hobsbawm&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -344,7 +344,7 @@ The founding of San Marino therefore remains one of the country’s most intrigu
           <a href="https://www.amazon.com/s?k=The+book+of+general+ignorance+John+Mitchinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The book of general ignorance">The book of general ignorance</a>
         </h4>
         <p class="fr-book-author">By John Mitchinson, John Lloyd</p>
-        
+
         <p class="fr-book-desc">Supports exploration of uncertain historical claims and myths.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+book+of+general+ignorance+John+Mitchinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -361,7 +361,7 @@ The founding of San Marino therefore remains one of the country’s most intrigu
           <a href="https://www.amazon.com/s?k=Europe+%3A+a+history+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Europe : a history">Europe : a history</a>
         </h4>
         <p class="fr-book-author">By Norman Davies</p>
-        
+
         <p class="fr-book-desc">Provides context for San Marino&#x27;s origins and survival.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Europe+%3A+a+history+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ The founding of San Marino therefore remains one of the country’s most intrigu
           <a href="https://www.amazon.com/s?k=A+history+of+Christianity+Diarmaid+MacCulloch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Christianity">A history of Christianity</a>
         </h4>
         <p class="fr-book-author">By Diarmaid MacCulloch</p>
-        
+
         <p class="fr-book-desc">Provides background for early Christian traditions and saint legends.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Christianity+Diarmaid+MacCulloch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

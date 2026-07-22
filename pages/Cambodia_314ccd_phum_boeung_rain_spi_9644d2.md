@@ -344,7 +344,7 @@ In Cambodia's wider record of unusual beliefs and traditions, Phum Boeung theref
           <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spirit Catches You and You Fall Down">The Spirit Catches You and You Fall Down</a>
         </h4>
         <p class="fr-book-author">By Anne Fadiman</p>
-        
+
         <p class="fr-book-desc">Explores tensions between cultural beliefs and modern explanations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -361,7 +361,7 @@ In Cambodia's wider record of unusual beliefs and traditions, Phum Boeung theref
           <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Bough">The Golden Bough</a>
         </h4>
         <p class="fr-book-author">By James George Frazer</p>
-        
+
         <p class="fr-book-desc">Provides comparative background on rituals, spirits and human responses to nature.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ In Cambodia's wider record of unusual beliefs and traditions, Phum Boeung theref
           <a href="https://www.amazon.com/s?k=The+Anthropology+of+Religion+Fiona+Bowie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Anthropology of Religion">The Anthropology of Religion</a>
         </h4>
         <p class="fr-book-author">By Fiona Bowie</p>
-        
+
         <p class="fr-book-desc">Explains religious beliefs, ritual and supernatural traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Anthropology+of+Religion+Fiona+Bowie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ In Cambodia's wider record of unusual beliefs and traditions, Phum Boeung theref
           <a href="https://www.amazon.com/s?k=A+history+of+Cambodia+David+P.+Chandler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A history of Cambodia">A history of Cambodia</a>
         </h4>
         <p class="fr-book-author">By David P. Chandler</p>
-        
+
         <p class="fr-book-desc">First published 1983. Subjects: History, Cambodia, history, Cambodia, Histoire, Geschichte.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+history+of+Cambodia+David+P.+Chandler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

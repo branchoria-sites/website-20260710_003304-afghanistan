@@ -367,7 +367,7 @@ For readers interested in North Korean Forteana, the episode is valuable not bec
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-        
+
 <p class="fr-book-desc">Useful for evaluating sensational media stories and mistranslations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ For readers interested in North Korean Forteana, the episode is valuable not bec
 <a href="https://www.amazon.com/s?k=The+cleanest+race+B.+R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The cleanest race">The cleanest race</a>
 </h4>
 <p class="fr-book-author">By B. R. Myers</p>
-        
+
 <p class="fr-book-desc">First published 2010. Subjects: North Korean Propaganda, Social aspects, Korean National characteristics, Social conditions, Nationalism.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+cleanest+race+B.+R.+Myers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ For readers interested in North Korean Forteana, the episode is valuable not bec
 <a href="https://www.amazon.com/s?k=The+Impossible+State%2C+Updated+Edition+Victor+Cha&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Impossible State, Updated Edition">The Impossible State, Updated Edition</a>
 </h4>
 <p class="fr-book-author">By Victor Cha</p>
-        
+
 <p class="fr-book-desc">First published 2018. Subjects: Political culture, History, Politics and government, Foreign relations, Social conditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Impossible+State%2C+Updated+Edition+Victor+Cha&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ For readers interested in North Korean Forteana, the episode is valuable not bec
 <a href="https://www.amazon.com/s?k=Nothing+to+envy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Nothing to envy">Nothing to envy</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-        
+
 <p class="fr-book-desc">Provides cultural context for understanding North Korean reporting.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Nothing+to+envy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -379,7 +379,7 @@ That distinction does not make the stories less significant. On the contrary, th
           <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The hero with a thousand faces">The hero with a thousand faces</a>
         </h4>
         <p class="fr-book-author">By Joseph Campbell</p>
-        
+
         <p class="fr-book-desc">Useful for readers exploring recurring folklore motifs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ That distinction does not make the stories less significant. On the contrary, th
           <a href="https://www.amazon.com/s?k=Sea+People+Christina+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sea People">Sea People</a>
         </h4>
         <p class="fr-book-author">By Christina Thompson</p>
-        
+
         <p class="fr-book-desc">Provides cultural context for oral traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Sea+People+Christina+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ That distinction does not make the stories less significant. On the contrary, th
           <a href="https://www.amazon.com/s?k=The+Pacific+Simon+Winchester&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pacific">The Pacific</a>
         </h4>
         <p class="fr-book-author">By Simon Winchester</p>
-        
+
         <p class="fr-book-desc">First published 1991. Subjects: Pacific ocean, description and travel, Social conditions, History.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Pacific+Simon+Winchester&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -430,7 +430,7 @@ That distinction does not make the stories less significant. On the contrary, th
           <a href="https://www.amazon.com/s?k=Dr.+Bruno+Bettelheim+Reads+%22the+Struggle+for+Meaning%22+and+%22Hansel+and+Gretel%22+from+the+Uses+of+Enchantment+Bruno+Bettelheim&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dr. Bruno Bettelheim Reads &quot;the Struggle for Meaning&quot; and &quot;Hansel and Gretel&quot; from the Uses of Enchantment">Dr. Bruno Bettelheim Reads &quot;the Struggle for Meaning&quot; and &quot;Ha...</a>
         </h4>
         <p class="fr-book-author">By Bruno Bettelheim</p>
-        
+
         <p class="fr-book-desc">First published 1985.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Dr.+Bruno+Bettelheim+Reads+%22the+Struggle+for+Meaning%22+and+%22Hansel+and+Gretel%22+from+the+Uses+of+Enchantment+Bruno+Bettelheim&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

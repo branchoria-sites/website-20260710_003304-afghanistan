@@ -1315,7 +1315,7 @@ DR Congo’s Forteana, at its best, is therefore not a cabinet of disconnected o
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="King Leopold&#x27;s ghost">King Leopold&#x27;s ghost</a>
         </h4>
         <p class="fr-book-author">By Adam Hochschild</p>
-        
+
         <p class="fr-book-desc">Explains colonial history behind many enduring Congo narratives.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=King+Leopold%27s+ghost+Adam+Hochschild&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1332,7 +1332,7 @@ DR Congo’s Forteana, at its best, is therefore not a cabinet of disconnected o
           <a href="https://www.amazon.com/s?k=Cryptozoology+A+to+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cryptozoology A to Z">Cryptozoology A to Z</a>
         </h4>
         <p class="fr-book-author">By Loren Coleman, Jerome Clark</p>
-        
+
         <p class="fr-book-desc">Includes major Congo cryptid traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cryptozoology+A+to+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1349,7 +1349,7 @@ DR Congo’s Forteana, at its best, is therefore not a cabinet of disconnected o
           <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
         </h4>
         <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
-        
+
         <p class="fr-book-desc">Examines cryptid claims using scientific evidence.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1366,7 +1366,7 @@ DR Congo’s Forteana, at its best, is therefore not a cabinet of disconnected o
           <a href="https://www.amazon.com/s?k=In+the+Heart+of+the+Congo+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In the Heart of the Congo">In the Heart of the Congo</a>
         </h4>
         <p class="fr-book-author">By Martin Meredith</p>
-        
+
         <p class="fr-book-desc">Provides essential context for Congo&#x27;s landscape and history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=In+the+Heart+of+the+Congo+Martin+Meredith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

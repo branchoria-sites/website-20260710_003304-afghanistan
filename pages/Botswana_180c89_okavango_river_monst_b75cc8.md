@@ -357,7 +357,7 @@ For Botswana's wider strange-history tradition, the Dikongoro occupies an intere
           <a href="https://www.amazon.com/s?k=The+Lost+World+of+the+Kalahari+Laurens+van+der+Post&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lost World of the Kalahari">The Lost World of the Kalahari</a>
         </h4>
         <p class="fr-book-author">By Laurens van der Post</p>
-        
+
         <p class="fr-book-desc">Provides environmental context for regional traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Lost+World+of+the+Kalahari+Laurens+van+der+Post&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -374,7 +374,7 @@ For Botswana's wider strange-history tradition, the Dikongoro occupies an intere
           <a href="https://www.amazon.com/s?k=African+folktales+Roger+D.+Abrahams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African folktales">African folktales</a>
         </h4>
         <p class="fr-book-author">By Roger D. Abrahams</p>
-        
+
         <p class="fr-book-desc">Places river-monster stories in a wider oral tradition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+folktales+Roger+D.+Abrahams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ For Botswana's wider strange-history tradition, the Dikongoro occupies an intere
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the gods">Fingerprints of the gods</a>
         </h4>
         <p class="fr-book-author">By Graham Hancock</p>
-        
+
         <p class="fr-book-desc">First published 1995. Subjects: Lost continents, World maps, Ancient Civilization, Discovery and exploration, Early works to 1800.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ For Botswana's wider strange-history tradition, the Dikongoro occupies an intere
           <a href="https://www.amazon.com/s?k=Okavango%3A+Africa%27s+Last+Eden+Steve+Boyes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Okavango: Africa&#x27;s Last Eden">Okavango: Africa&#x27;s Last Eden</a>
         </h4>
         <p class="fr-book-author">By Steve Boyes</p>
-        
+
         <p class="fr-book-desc">Explains the river system behind monster traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Okavango%3A+Africa%27s+Last+Eden+Steve+Boyes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -351,7 +351,7 @@ That makes it valuable both to meteorite researchers and to readers interested i
           <a href="https://www.amazon.com/s?k=Rocks+from+Space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space">Rocks from Space</a>
         </h4>
         <p class="fr-book-author">By O. Richard Norton</p>
-        
+
         <p class="fr-book-desc">Accessible explanation of meteorite discoveries and classification.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Rocks+from+Space+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -368,7 +368,7 @@ That makes it valuable both to meteorite researchers and to readers interested i
           <a href="https://www.amazon.com/s?k=Meteorites+Caroline+Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites">Meteorites</a>
         </h4>
         <p class="fr-book-author">By Caroline Smith, Sara Russell et al.</p>
-        
+
         <p class="fr-book-desc">Explains how meteorites are identified and studied.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Meteorites+Caroline+Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ That makes it valuable both to meteorite researchers and to readers interested i
           <a href="https://www.amazon.com/s?k=Rain+of+iron+and+ice+Lewis%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rain of iron and ice">Rain of iron and ice</a>
         </h4>
         <p class="fr-book-author">By Lewis, John S.</p>
-        
+
         <p class="fr-book-desc">Explores how meteorite falls entered historical records.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Rain+of+iron+and+ice+Lewis%2C+John+S.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ That makes it valuable both to meteorite researchers and to readers interested i
           <a href="https://www.amazon.com/s?k=METEORITES%3A+A+PETROLOGIC%2C+CHEMICAL+AND+ISOTOPIC+SYNTHESIS+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="METEORITES: A PETROLOGIC, CHEMICAL AND ISOTOPIC SYNTHESIS">METEORITES: A PETROLOGIC, CHEMICAL AND ISOTOPIC SYNTHESIS</a>
         </h4>
         <p class="fr-book-author">By Robert Hutchison</p>
-        
+
         <p class="fr-book-desc">Directly supports understanding of H5 chondrites and documented falls.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=METEORITES%3A+A+PETROLOGIC%2C+CHEMICAL+AND+ISOTOPIC+SYNTHESIS+Robert+Hutchison&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

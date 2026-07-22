@@ -347,7 +347,7 @@ Singapore's horror folklore therefore represents less a catalogue of paranormal 
           <a href="https://www.amazon.com/s?k=Spirits%2C+Fairies%2C+Leprechauns%2C+and+Goblins+Carol+Rose&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spirits, Fairies, Leprechauns, and Goblins">Spirits, Fairies, Leprechauns, and Goblins</a>
         </h4>
         <p class="fr-book-author">By Carol Rose</p>
-        
+
         <p class="fr-book-desc">Provides global context for supernatural beings and folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Spirits%2C+Fairies%2C+Leprechauns%2C+and+Goblins+Carol+Rose&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -364,7 +364,7 @@ Singapore's horror folklore therefore represents less a catalogue of paranormal 
           <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Encyclopedia of Ghosts and Spirits">The Encyclopedia of Ghosts and Spirits</a>
         </h4>
         <p class="fr-book-author">By Rosemary Ellen Guiley</p>
-        
+
         <p class="fr-book-desc">Covers Southeast Asian supernatural figures including the pontianak and related folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ Singapore's horror folklore therefore represents less a catalogue of paranormal 
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Ghost+Stories+Michael+Newton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Ghost Stories">The Penguin Book of Ghost Stories</a>
         </h4>
         <p class="fr-book-author">By Michael Newton, Michael Newton et al.</p>
-        
+
         <p class="fr-book-desc">Explores how ghost traditions became popular literature and entertainment.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Ghost+Stories+Michael+Newton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ Singapore's horror folklore therefore represents less a catalogue of paranormal 
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+True+Hauntings+Peter+H%C3%B8eg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of True Hauntings">The Mammoth Book of True Hauntings</a>
         </h4>
         <p class="fr-book-author">By Peter Høeg</p>
-        
+
         <p class="fr-book-desc">Broadens readers into documented hauntings and supernatural traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+True+Hauntings+Peter+H%C3%B8eg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

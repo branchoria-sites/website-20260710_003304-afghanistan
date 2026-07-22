@@ -364,7 +364,7 @@ For students of Forteana, Somali jinn traditions therefore illustrate a recurrin
           <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Spirit Catches You and You Fall Down">The Spirit Catches You and You Fall Down</a>
         </h4>
         <p class="fr-book-author">By Anne Fadiman</p>
-        
+
         <p class="fr-book-desc">Illustrates how spiritual and medical explanations of illness coexist.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Spirit+Catches+You+and+You+Fall+Down+Anne+Fadiman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ For students of Forteana, Somali jinn traditions therefore illustrate a recurrin
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+the+undead+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of the undead">The Penguin book of the undead</a>
         </h4>
         <p class="fr-book-author">By Scott G. Bruce</p>
-        
+
         <p class="fr-book-desc">Broadens interest in global supernatural traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+book+of+the+undead+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ For students of Forteana, Somali jinn traditions therefore illustrate a recurrin
           <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Bough">The Golden Bough</a>
         </h4>
         <p class="fr-book-author">By James George Frazer</p>
-        
+
         <p class="fr-book-desc">First published 1890. Subjects: Mythology, Magic, Superstition, Religion, Primitive Religion.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ For students of Forteana, Somali jinn traditions therefore illustrate a recurrin
           <a href="https://www.amazon.com/s?k=Myths+and+symbols+in+pagan+Europe+Hilda+Roderick+Ellis+Davidson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and symbols in pagan Europe">Myths and symbols in pagan Europe</a>
         </h4>
         <p class="fr-book-author">By Hilda Roderick Ellis Davidson</p>
-        
+
         <p class="fr-book-desc">First published 1988. Subjects: Norse Mythology, Celtic Mythology, Religion, Celts, Mythology, Norse.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Myths+and+symbols+in+pagan+Europe+Hilda+Roderick+Ellis+Davidson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

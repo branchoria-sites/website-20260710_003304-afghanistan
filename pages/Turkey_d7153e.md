@@ -1342,7 +1342,7 @@ Taken together, Turkey’s weird-history record is not a sideshow to its “real
 <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Turkey+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Turkey">The Rough Guide to Turkey</a>
 </h4>
 <p class="fr-book-author">By Rough Guides</p>
-        
+
 <p class="fr-book-desc">First published 2003. Subjects: Guidebooks.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Turkey+Rough+Guides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1359,7 +1359,7 @@ Taken together, Turkey’s weird-history record is not a sideshow to its “real
 <a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Atlas of Monsters">The Atlas of Monsters</a>
 </h4>
 <p class="fr-book-author">By Sandra Lawrence</p>
-        
+
 <p class="fr-book-desc">First published 2018.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1376,7 +1376,7 @@ Taken together, Turkey’s weird-history record is not a sideshow to its “real
 <a href="https://www.amazon.com/s?k=The+field+guide+to+lake+monsters%2C+sea+serpents+and+other+mystery+denizens+of+the+deep+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The field guide to lake monsters, sea serpents and other mystery denizens of the deep">The field guide to lake monsters, sea serpents and other myst...</a>
 </h4>
 <p class="fr-book-author">By Loren Coleman, Patrick Huyghe et al.</p>
-        
+
 <p class="fr-book-desc">First published 2003. Subjects: Marine animals, Sea monsters, Folklore, Animals, folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+field+guide+to+lake+monsters%2C+sea+serpents+and+other+mystery+denizens+of+the+deep+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1393,8 +1393,8 @@ Taken together, Turkey’s weird-history record is not a sideshow to its “real
 <a href="https://www.amazon.com/s?k=TURKEY%3A+A+MODERN+HISTORY+Erik+Jan+Zu%CC%88rcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="TURKEY: A MODERN HISTORY">TURKEY: A MODERN HISTORY</a>
 </h4>
 <p class="fr-book-author">By Erik Jan Zürcher</p>
-        
-        
+
+
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=TURKEY%3A+A+MODERN+HISTORY+Erik+Jan+Zu%CC%88rcher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon

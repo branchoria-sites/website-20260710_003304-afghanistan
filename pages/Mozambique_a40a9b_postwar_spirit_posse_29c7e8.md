@@ -358,7 +358,7 @@ This evidence-aware approach makes Mozambique's post-war spirit traditions espec
           <a href="https://www.amazon.com/s?k=The+Body+Keeps+the+Score+Bessel+van+der+Kolk&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Body Keeps the Score">The Body Keeps the Score</a>
         </h4>
         <p class="fr-book-author">By Bessel van der Kolk</p>
-        
+
         <p class="fr-book-desc">Helps readers understand trauma and memory behind postwar spirit beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Body+Keeps+the+Score+Bessel+van+der+Kolk&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -375,7 +375,7 @@ This evidence-aware approach makes Mozambique's post-war spirit traditions espec
           <a href="https://www.amazon.com/s?k=African+myths+of+origin+Stephen+Paterson+Belcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African myths of origin">African myths of origin</a>
         </h4>
         <p class="fr-book-author">By Stephen Paterson Belcher</p>
-        
+
         <p class="fr-book-desc">Introduces regional beliefs about spirits and ancestors.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=African+myths+of+origin+Stephen+Paterson+Belcher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ This evidence-aware approach makes Mozambique's post-war spirit traditions espec
           <a href="https://www.amazon.com/s?k=In+an+antique+land+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In an antique land">In an antique land</a>
         </h4>
         <p class="fr-book-author">By Amitav Ghosh</p>
-        
+
         <p class="fr-book-desc">Demonstrates how history, culture and belief intertwine.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=In+an+antique+land+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ This evidence-aware approach makes Mozambique's post-war spirit traditions espec
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology Book">The Mythology Book</a>
         </h4>
         <p class="fr-book-author">By DK</p>
-        
+
         <p class="fr-book-desc">Provides broader context for spirit traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

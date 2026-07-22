@@ -362,7 +362,7 @@ Yet the Yeti continues to occupy a distinctive place in Nepal's strange history 
           <a href="https://www.amazon.com/s?k=Into+Thin+Air+Jon+Krakauer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Into Thin Air">Into Thin Air</a>
         </h4>
         <p class="fr-book-author">By Jon Krakauer</p>
-        
+
         <p class="fr-book-desc">Provides mountaineering context behind expedition folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Into+Thin+Air+Jon+Krakauer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ Yet the Yeti continues to occupy a distinctive place in Nepal's strange history 
           <a href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Snow Leopard">The Snow Leopard</a>
         </h4>
         <p class="fr-book-author">By Peter Matthiessen</p>
-        
+
         <p class="fr-book-desc">Captures the landscapes where Yeti traditions emerged.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Snow+Leopard+Peter+Matthiessen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ Yet the Yeti continues to occupy a distinctive place in Nepal's strange history 
           <a href="https://www.amazon.com/s?k=Bigfoot%21+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bigfoot!">Bigfoot!</a>
         </h4>
         <p class="fr-book-author">By Loren Coleman</p>
-        
+
         <p class="fr-book-desc">Includes discussion of wild-man traditions including the Yeti.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Bigfoot%21+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ Yet the Yeti continues to occupy a distinctive place in Nepal's strange history 
           <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
         </h4>
         <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
-        
+
         <p class="fr-book-desc">Examines Yeti evidence and scientific explanations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

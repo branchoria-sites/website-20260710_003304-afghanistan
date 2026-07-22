@@ -1294,7 +1294,7 @@ The common thread is not “Zambia is full of unexplained things”. It is more 
           <a href="https://www.amazon.com/s?k=Dark+star+safari+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dark star safari">Dark star safari</a>
         </h4>
         <p class="fr-book-author">By Paul Theroux</p>
-        
+
         <p class="fr-book-desc">Offers engaging perspectives on travel through southern Africa.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Dark+star+safari+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1311,7 +1311,7 @@ The common thread is not “Zambia is full of unexplained things”. It is more 
           <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The scramble for Africa, 1876-1912">The scramble for Africa, 1876-1912</a>
         </h4>
         <p class="fr-book-author">By Thomas Pakenham, Thomas Pakenham et al.</p>
-        
+
         <p class="fr-book-desc">First published 1990. Subjects: History, Colonies, Colonization, Colonización, Kolonisatie.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+1876-1912+Thomas+Pakenham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1328,7 +1328,7 @@ The common thread is not “Zambia is full of unexplained things”. It is more 
           <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+Thomas+Pakenham%2C+Thomas+Pakenham+et+al.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The scramble for Africa,">The scramble for Africa,</a>
         </h4>
         <p class="fr-book-author">By Thomas Pakenham, Thomas Pakenham et al.</p>
-        
+
         <p class="fr-book-desc">Explains colonial forces that shaped Zambia&#x27;s modern history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+scramble+for+Africa%2C+Thomas+Pakenham%2C+Thomas+Pakenham+et+al.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1345,7 +1345,7 @@ The common thread is not “Zambia is full of unexplained things”. It is more 
           <a href="https://www.amazon.com/s?k=Africa+Richard+Dowden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Africa">Africa</a>
         </h4>
         <p class="fr-book-author">By Richard Dowden</p>
-        
+
         <p class="fr-book-desc">First published 2008. Subjects: Social life and customs, Manners and customs, Civilization, History, Africa, social life and customs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Africa+Richard+Dowden&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

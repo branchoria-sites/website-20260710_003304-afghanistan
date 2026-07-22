@@ -327,7 +327,7 @@ In the end, Kanas is less a story of a proven lake beast than a case study in ho
           <a href="https://www.amazon.com/s?k=Cryptozoology+A+to+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Cryptozoology A to Z">Cryptozoology A to Z</a>
         </h4>
         <p class="fr-book-author">By Loren Coleman, Jerome Clark</p>
-        
+
         <p class="fr-book-desc">Places Kanas Lake within global mystery-animal traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Cryptozoology+A+to+Z+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -344,7 +344,7 @@ In the end, Kanas is less a story of a proven lake beast than a case study in ho
           <a href="https://www.amazon.com/s?k=Monsters+of+the+Sea+Richard+Ellis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters of the Sea">Monsters of the Sea</a>
         </h4>
         <p class="fr-book-author">By Richard Ellis</p>
-        
+
         <p class="fr-book-desc">Explores large aquatic animals and legendary sightings.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Monsters+of+the+Sea+Richard+Ellis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -361,7 +361,7 @@ In the end, Kanas is less a story of a proven lake beast than a case study in ho
           <a href="https://www.amazon.com/s?k=The+Loch+Ness+monster+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Loch Ness monster">The Loch Ness monster</a>
         </h4>
         <p class="fr-book-author">By Steuart Campbell</p>
-        
+
         <p class="fr-book-desc">Useful comparison for evaluating evidence and legend formation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Loch+Ness+monster+Steuart+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ In the end, Kanas is less a story of a proven lake beast than a case study in ho
           <a href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+and+Other+Unexplained+Mysteries+Roy+P.+Mackal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Loch Ness Monster and Other Unexplained Mysteries">The Loch Ness Monster and Other Unexplained Mysteries</a>
         </h4>
         <p class="fr-book-author">By Roy P. Mackal</p>
-        
+
         <p class="fr-book-desc">Provides comparison with famous unexplained lake creature investigations.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Loch+Ness+Monster+and+Other+Unexplained+Mysteries+Roy+P.+Mackal&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

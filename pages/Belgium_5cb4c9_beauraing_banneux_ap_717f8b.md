@@ -331,7 +331,7 @@ For students of Forteana, the supernatural question is only part of the story. B
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of the Damned">The Book of the Damned</a>
         </h4>
         <p class="fr-book-author">By Charles Fort</p>
-        
+
         <p class="fr-book-desc">Supports the site&#x27;s broader Fortean focus.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Book+of+the+Damned+Charles+Fort&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -348,7 +348,7 @@ For students of Forteana, the supernatural question is only part of the story. B
           <a href="https://www.amazon.com/s?k=Meetings+with+Mary+Janice+T.+Connell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meetings with Mary">Meetings with Mary</a>
         </h4>
         <p class="fr-book-author">By Janice T. Connell</p>
-        
+
         <p class="fr-book-desc">Covers major apparition traditions and pilgrimage.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Meetings+with+Mary+Janice+T.+Connell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -365,7 +365,7 @@ For students of Forteana, the supernatural question is only part of the story. B
           <a href="https://www.amazon.com/s?k=The+Oxford+dictionary+of+saints+David+Hugh+Farmer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford dictionary of saints">The Oxford dictionary of saints</a>
         </h4>
         <p class="fr-book-author">By David Hugh Farmer</p>
-        
+
         <p class="fr-book-desc">Useful background on Catholic devotional tradition.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Oxford+dictionary+of+saints+David+Hugh+Farmer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ For students of Forteana, the supernatural question is only part of the story. B
           <a href="https://www.amazon.com/s?k=The+World%27s+Greatest+UFO+Mysteries+Nigel+Blundell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World&#x27;s Greatest UFO Mysteries">The World&#x27;s Greatest UFO Mysteries</a>
         </h4>
         <p class="fr-book-author">By Nigel Blundell, Roger Boar</p>
-        
+
         <p class="fr-book-desc">Fits readers exploring Belgium&#x27;s wider strange history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+World%27s+Greatest+UFO+Mysteries+Nigel+Blundell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

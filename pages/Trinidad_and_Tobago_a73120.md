@@ -1324,7 +1324,7 @@ For readers of strange-but-grounded material, the country’s Forteana is theref
           <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of the Caribbean">A Brief History of the Caribbean</a>
         </h4>
         <p class="fr-book-author">By Jan Rogozinski</p>
-        
+
         <p class="fr-book-desc">Provides historical context behind regional folklore.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1341,7 +1341,7 @@ For readers of strange-but-grounded material, the country’s Forteana is theref
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Ghost+Stories+Michael+Newton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Ghost Stories">The Penguin Book of Ghost Stories</a>
         </h4>
         <p class="fr-book-author">By Michael Newton, Michael Newton et al.</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in folklore and supernatural traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Ghost+Stories+Michael+Newton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1358,7 +1358,7 @@ For readers of strange-but-grounded material, the country’s Forteana is theref
           <a href="https://www.amazon.com/s?k=Trinidad+Noir+Lisa+Allen-Agostini+%28Editor%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Trinidad Noir">Trinidad Noir</a>
         </h4>
         <p class="fr-book-author">By Lisa Allen-Agostini (Editor), Jeanne Mason (Editor) et al.</p>
-        
+
         <p class="fr-book-desc">Captures the atmosphere, landscapes and cultural backdrop of Trinidad.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Trinidad+Noir+Lisa+Allen-Agostini+%28Editor%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1375,7 +1375,7 @@ For readers of strange-but-grounded material, the country’s Forteana is theref
           <a href="https://www.amazon.com/s?k=Jumbies+Tracey+Baptiste&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jumbies">Jumbies</a>
         </h4>
         <p class="fr-book-author">By Tracey Baptiste</p>
-        
+
         <p class="fr-book-desc">First published 2015.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Jumbies+Tracey+Baptiste&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

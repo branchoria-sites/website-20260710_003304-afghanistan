@@ -378,7 +378,7 @@ For Sri Lanka's catalogue of strange history, the episode is memorable not becau
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-        
+
 <p class="fr-book-desc">Helps readers evaluate extraordinary explanations for unusual events.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ For Sri Lanka's catalogue of strange history, the episode is memorable not becau
 <a href="https://www.amazon.com/s?k=Rare+Earth%3A+Why+Complex+Life+is+Uncommon+in+the+Universe+Peter+D.+Ward&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rare Earth: Why Complex Life is Uncommon in the Universe">Rare Earth: Why Complex Life is Uncommon in the Universe</a>
 </h4>
 <p class="fr-book-author">By Peter D. Ward, Donald Brownlee</p>
-        
+
 <p class="fr-book-desc">First published 2007. Subjects: Life on other planets, Exobiology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Rare+Earth%3A+Why+Complex+Life+is+Uncommon+in+the+Universe+Peter+D.+Ward&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ For Sri Lanka's catalogue of strange history, the episode is memorable not becau
 <a href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unexplained phenomena">Unexplained phenomena</a>
 </h4>
 <p class="fr-book-author">By John F. Michell, John Michell et al.</p>
-        
+
 <p class="fr-book-desc">First published 2000. Subjects: Curiosities and wonders, Reference works, Unexplained phenomena, Metaphysical Phenomena - General, Refere...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Unexplained+phenomena+John+F.+Michell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,8 +429,8 @@ For Sri Lanka's catalogue of strange history, the episode is memorable not becau
 <a href="https://www.amazon.com/s?k=Astrobiology%3A+A+Very+Short+Introduction+David+C.+Catling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Astrobiology: A Very Short Introduction">Astrobiology: A Very Short Introduction</a>
 </h4>
 <p class="fr-book-author">By David C. Catling</p>
-        
-        
+
+
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Astrobiology%3A+A+Very+Short+Introduction+David+C.+Catling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon

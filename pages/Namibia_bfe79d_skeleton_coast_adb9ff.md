@@ -364,7 +364,7 @@ That distinction makes the Skeleton Coast unusual within Namibia's strange histo
           <a href="https://www.amazon.com/s?k=Skeleton+Coast+John+Henry+Marsh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skeleton Coast">Skeleton Coast</a>
         </h4>
         <p class="fr-book-author">By John Henry Marsh</p>
-        
+
         <p class="fr-book-desc">Focused on the history, wildlife and atmosphere of the Skeleton Coast.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Skeleton+Coast+John+Henry+Marsh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +381,7 @@ That distinction makes the Skeleton Coast unusual within Namibia's strange histo
           <a href="https://www.amazon.com/s?k=Endurance+Alfred+Lansing&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Endurance">Endurance</a>
         </h4>
         <p class="fr-book-author">By Alfred Lansing, Elena Grau</p>
-        
+
         <p class="fr-book-desc">Appeals to readers fascinated by maritime disaster and survival.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Endurance+Alfred+Lansing&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ That distinction makes the Skeleton Coast unusual within Namibia's strange histo
           <a href="https://www.amazon.com/s?k=The+sheltering+desert+Henno+Martin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The sheltering desert">The sheltering desert</a>
         </h4>
         <p class="fr-book-author">By Henno Martin</p>
-        
+
         <p class="fr-book-desc">Evokes the harsh Namib environment behind the coast&#x27;s reputation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+sheltering+desert+Henno+Martin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ That distinction makes the Skeleton Coast unusual within Namibia's strange histo
           <a href="https://www.amazon.com/s?k=Namibia%2C+3rd+Bradt+Travel+Guides&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Namibia, 3rd">Namibia, 3rd</a>
         </h4>
         <p class="fr-book-author">By Bradt Travel Guides</p>
-        
+
         <p class="fr-book-desc">First published 2007. Subjects: Guidebooks, Namibia, description and travel.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Namibia%2C+3rd+Bradt+Travel+Guides&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

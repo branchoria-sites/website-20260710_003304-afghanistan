@@ -381,7 +381,7 @@ Within Montenegro's wider landscape of strange traditions, Ostrog represents the
           <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The hero with a thousand faces">The hero with a thousand faces</a>
         </h4>
         <p class="fr-book-author">By Joseph Campbell</p>
-        
+
         <p class="fr-book-desc">Helps interpret pilgrimage narratives and sacred stories.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -398,7 +398,7 @@ Within Montenegro's wider landscape of strange traditions, Ostrog represents the
           <a href="https://www.amazon.com/s?k=Miracles+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Miracles">Miracles</a>
         </h4>
         <p class="fr-book-author">By C. S. Lewis</p>
-        
+
         <p class="fr-book-desc">Examines miracle belief from a theological perspective.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Miracles+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -415,7 +415,7 @@ Within Montenegro's wider landscape of strange traditions, Ostrog represents the
           <a href="https://www.amazon.com/s?k=The+Case+for+Miracles+Lee+Strobel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Case for Miracles">The Case for Miracles</a>
         </h4>
         <p class="fr-book-author">By Lee Strobel</p>
-        
+
         <p class="fr-book-desc">Explores claims of modern miracles and healing.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Case+for+Miracles+Lee+Strobel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -432,7 +432,7 @@ Within Montenegro's wider landscape of strange traditions, Ostrog represents the
           <a href="https://www.amazon.com/s?k=Black+Lamb+and+Grey+Falcon+Rebecca+West&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black Lamb and Grey Falcon">Black Lamb and Grey Falcon</a>
         </h4>
         <p class="fr-book-author">By Rebecca West</p>
-        
+
         <p class="fr-book-desc">Provides historical and religious context for the region.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Black+Lamb+and+Grey+Falcon+Rebecca+West&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

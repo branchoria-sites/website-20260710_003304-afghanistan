@@ -335,7 +335,7 @@ Seen through the lens of Forteana, the curse is therefore valuable not because i
           <a href="https://www.amazon.com/s?k=The+Complete+Tutankhamun+Nicholas+Reeves&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Tutankhamun">The Complete Tutankhamun</a>
         </h4>
         <p class="fr-book-author">By Nicholas Reeves</p>
-        
+
         <p class="fr-book-desc">Provides authoritative context for the tomb and its discovery.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Complete+Tutankhamun+Nicholas+Reeves&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -352,7 +352,7 @@ Seen through the lens of Forteana, the curse is therefore valuable not because i
           <a href="https://www.amazon.com/s?k=The+murder+of+Tutankhamen+Bob+Brier&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The murder of Tutankhamen">The murder of Tutankhamen</a>
         </h4>
         <p class="fr-book-author">By Bob Brier</p>
-        
+
         <p class="fr-book-desc">Examines myths and evidence surrounding Tutankhamun.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+murder+of+Tutankhamen+Bob+Brier&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ Seen through the lens of Forteana, the curse is therefore valuable not because i
           <a href="https://www.amazon.com/s?k=The+complete+gods+and+goddesses+of+ancient+Egypt+Richard+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The complete gods and goddesses of ancient Egypt">The complete gods and goddesses of ancient Egypt</a>
         </h4>
         <p class="fr-book-author">By Richard H. Wilkinson</p>
-        
+
         <p class="fr-book-desc">Explains beliefs behind tombs and funerary practices.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+complete+gods+and+goddesses+of+ancient+Egypt+Richard+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ Seen through the lens of Forteana, the curse is therefore valuable not because i
           <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The rise and fall of ancient Egypt">The rise and fall of ancient Egypt</a>
         </h4>
         <p class="fr-book-author">By Toby A. H. Wilkinson</p>
-        
+
         <p class="fr-book-desc">Places Tutankhamun within broader Egyptian history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+rise+and+fall+of+ancient+Egypt+Toby+A.+H.+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

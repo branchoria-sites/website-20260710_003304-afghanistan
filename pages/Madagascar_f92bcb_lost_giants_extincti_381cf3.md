@@ -334,7 +334,7 @@ That uncertainty is precisely what gives the subject its enduring appeal. Madaga
           <a href="https://www.amazon.com/s?k=The+Sixth+Extinction+Elizabeth+Kolbert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sixth Extinction">The Sixth Extinction</a>
         </h4>
         <p class="fr-book-author">By Elizabeth Kolbert, Marcel Blanc</p>
-        
+
         <p class="fr-book-desc">Places Madagascar&#x27;s vanished giants into the wider extinction story.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Sixth+Extinction+Elizabeth+Kolbert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -351,7 +351,7 @@ That uncertainty is precisely what gives the subject its enduring appeal. Madaga
           <a href="https://www.amazon.com/s?k=The+Song+of+the+Dodo+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Song of the Dodo">The Song of the Dodo</a>
         </h4>
         <p class="fr-book-author">By David Quammen</p>
-        
+
         <p class="fr-book-desc">Explains island evolution and species loss.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Song+of+the+Dodo+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -368,7 +368,7 @@ That uncertainty is precisely what gives the subject its enduring appeal. Madaga
           <a href="https://www.amazon.com/s?k=The+Eighth+Continent+Peter+Tyson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Eighth Continent">The Eighth Continent</a>
         </h4>
         <p class="fr-book-author">By Peter Tyson</p>
-        
+
         <p class="fr-book-desc">Discusses extinct fauna and the island&#x27;s remarkable history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Eighth+Continent+Peter+Tyson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ That uncertainty is precisely what gives the subject its enduring appeal. Madaga
           <a href="https://www.amazon.com/s?k=Wonderful+Life+the+Burgess+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Wonderful Life the Burgess">Wonderful Life the Burgess</a>
         </h4>
         <p class="fr-book-author">By Stephen Jay Gould</p>
-        
+
         <p class="fr-book-desc">First published 1988. Subjects: Life, British Columbia, Invertebrate fossils, Paleontology, Burgess Shale.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Wonderful+Life+the+Burgess+Stephen+Jay+Gould&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

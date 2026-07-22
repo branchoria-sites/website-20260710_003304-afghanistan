@@ -1309,7 +1309,7 @@ That is why Germany’s strange-history record has such staying power. Its best 
 <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
 </h4>
 <p class="fr-book-author">By Jan Harold Brunvand</p>
-        
+
 <p class="fr-book-desc">First published 1981. Subjects: History and criticism, Legends, Urban folklore, Légendes, Folklore urbain.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1326,7 +1326,7 @@ That is why Germany’s strange-history record has such staying power. Its best 
 <a href="https://www.amazon.com/s?k=Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries">Mysteries</a>
 </h4>
 <p class="fr-book-author">By Colin Wilson</p>
-        
+
 <p class="fr-book-desc">First published 1978. Subjects: Occultism, Parapsychology, Supernatural, Curiosities and wonders.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1343,7 +1343,7 @@ That is why Germany’s strange-history record has such staying power. Its best 
 <a href="https://www.amazon.com/s?k=Fairy+tales+Gebr%C3%BCder+Grimm+%5BBrothers+Grimm%5D&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fairy tales">Fairy tales</a>
 </h4>
 <p class="fr-book-author">By Gebrüder Grimm [Brothers Grimm], Wilhelm Grimm</p>
-        
+
 <p class="fr-book-desc">First published 1800. Subjects: Allemagne, Tales, Fairy tales, Folklore, Contes.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Fairy+tales+Gebr%C3%BCder+Grimm+%5BBrothers+Grimm%5D&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1360,7 +1360,7 @@ That is why Germany’s strange-history record has such staying power. Its best 
 <a href="https://www.amazon.com/s?k=The+Complete+Grimm%27s+Fairy+Tales+Jacob+Grimm+and+Wilhelm+Grimm&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Complete Grimm&#x27;s Fairy Tales">The Complete Grimm&#x27;s Fairy Tales</a>
 </h4>
 <p class="fr-book-author">By Jacob Grimm and Wilhelm Grimm</p>
-        
+
 <p class="fr-book-desc">German folklore is central to the country&#x27;s enduring strange traditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Complete+Grimm%27s+Fairy+Tales+Jacob+Grimm+and+Wilhelm+Grimm&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -365,7 +365,7 @@ The "Pacific Stonehenge" debate therefore serves as a reminder that remarkable a
           <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The hero with a thousand faces">The hero with a thousand faces</a>
         </h4>
         <p class="fr-book-author">By Joseph Campbell</p>
-        
+
         <p class="fr-book-desc">Provides context for Maui myths and heroic traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ The "Pacific Stonehenge" debate therefore serves as a reminder that remarkable a
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the gods">Fingerprints of the gods</a>
         </h4>
         <p class="fr-book-author">By Graham Hancock</p>
-        
+
         <p class="fr-book-desc">Represents popular speculative interpretations readers often compare against archaeology.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ The "Pacific Stonehenge" debate therefore serves as a reminder that remarkable a
           <a href="https://www.amazon.com/s?k=Vikings+of+the+sunrise%2C+by+Peter+H.+Buck+%28Te+Rangi+Hiroa%29+...with+fifty-eight+illustrations+from+photographs+Peter+Henry+Buck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vikings of the sunrise, by Peter H. Buck (Te Rangi Hiroa) ...with fifty-eight illustrations from photographs">Vikings of the sunrise, by Peter H. Buck (Te Rangi Hiroa) ......</a>
         </h4>
         <p class="fr-book-author">By Peter Henry Buck, Paora Tapihana</p>
-        
+
         <p class="fr-book-desc">First published 1938. Subjects: Ethnology, Polynesians, World history, Australia, history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Vikings+of+the+sunrise%2C+by+Peter+H.+Buck+%28Te+Rangi+Hiroa%29+...with+fifty-eight+illustrations+from+photographs+Peter+Henry+Buck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ The "Pacific Stonehenge" debate therefore serves as a reminder that remarkable a
           <a href="https://www.amazon.com/s?k=Kon-Tiki+Kon+Tiki+Across+the+Pacific+by+Raft+by+Thor+Heyerdahl+1950+Thor+Heyerdahl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kon-Tiki Kon Tiki Across the Pacific by Raft by Thor Heyerdahl 1950">Kon-Tiki Kon Tiki Across the Pacific by Raft by Thor Heyerdah...</a>
         </h4>
         <p class="fr-book-author">By Thor Heyerdahl</p>
-        
+
         <p class="fr-book-desc">First published 1950.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Kon-Tiki+Kon+Tiki+Across+the+Pacific+by+Raft+by+Thor+Heyerdahl+1950+Thor+Heyerdahl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

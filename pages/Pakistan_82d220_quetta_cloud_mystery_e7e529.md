@@ -393,7 +393,7 @@ The lesson of the Quetta sky is not that mysteries disappear when science provid
           <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Cloudspotter&#x27;s Guide">The Cloudspotter&#x27;s Guide</a>
         </h4>
         <p class="fr-book-author">By Gavin Pretor-Pinney</p>
-        
+
         <p class="fr-book-desc">Directly explains unusual cloud formations like lenticular clouds.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Cloudspotter%27s+Guide+Gavin+Pretor-Pinney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ The lesson of the Quetta sky is not that mysteries disappear when science provid
           <a href="https://www.amazon.com/s?k=The+Weather+Makers+Tim+Flannery&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Makers">The Weather Makers</a>
         </h4>
         <p class="fr-book-author">By Tim Flannery</p>
-        
+
         <p class="fr-book-desc">Provides wider atmospheric context.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Weather+Makers+Tim+Flannery&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ The lesson of the Quetta sky is not that mysteries disappear when science provid
           <a href="https://www.amazon.com/s?k=The+weather+book+Williams%2C+Jack&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The weather book">The weather book</a>
         </h4>
         <p class="fr-book-author">By Williams, Jack</p>
-        
+
         <p class="fr-book-desc">Explains atmospheric phenomena behind strange skies.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+weather+book+Williams%2C+Jack&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

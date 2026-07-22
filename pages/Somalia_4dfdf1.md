@@ -1297,7 +1297,7 @@ That is why Somalia belongs in country-level Forteana. Its best cases are not ab
 <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Bough">The Golden Bough</a>
 </h4>
 <p class="fr-book-author">By James George Frazer</p>
-        
+
 <p class="fr-book-desc">First published 1890. Subjects: Mythology, Magic, Superstition, Religion, Primitive Religion.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1314,7 +1314,7 @@ That is why Somalia belongs in country-level Forteana. Its best cases are not ab
 <a href="https://www.amazon.com/s?k=Myths+and+symbols+in+pagan+Europe+Hilda+Roderick+Ellis+Davidson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and symbols in pagan Europe">Myths and symbols in pagan Europe</a>
 </h4>
 <p class="fr-book-author">By Hilda Roderick Ellis Davidson</p>
-        
+
 <p class="fr-book-desc">First published 1988. Subjects: Norse Mythology, Celtic Mythology, Religion, Celts, Mythology, Norse.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Myths+and+symbols+in+pagan+Europe+Hilda+Roderick+Ellis+Davidson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1331,7 +1331,7 @@ That is why Somalia belongs in country-level Forteana. Its best cases are not ab
 <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lore of the land">The lore of the land</a>
 </h4>
 <p class="fr-book-author">By Jennifer Westwood, Jacqueline Simpson</p>
-        
+
 <p class="fr-book-desc">First published 2005. Subjects: Tales, Legends, British Mythology, Legends, great britain.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+lore+of+the+land+Jennifer+Westwood&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1348,7 +1348,7 @@ That is why Somalia belongs in country-level Forteana. Its best cases are not ab
 <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology Book">The Mythology Book</a>
 </h4>
 <p class="fr-book-author">By DK</p>
-        
+
 <p class="fr-book-desc">Introduces mythic and folkloric themes relevant to Somali stories.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -366,7 +366,7 @@ Within Uzbekistan's broader catalogue of strange places—from legendary curses 
           <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Silk Roads">The Silk Roads</a>
         </h4>
         <p class="fr-book-author">By Peter Frankopan</p>
-        
+
         <p class="fr-book-desc">Places the Aral region within Central Asian history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Silk+Roads+Peter+Frankopan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ Within Uzbekistan's broader catalogue of strange places—from legendary curses 
           <a href="https://www.amazon.com/s?k=Shadow+of+the+Silk+Road+Colin+Thubron&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shadow of the Silk Road">Shadow of the Silk Road</a>
         </h4>
         <p class="fr-book-author">By Colin Thubron</p>
-        
+
         <p class="fr-book-desc">Covers landscapes transformed by history across Central Asia.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Shadow+of+the+Silk+Road+Colin+Thubron&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ Within Uzbekistan's broader catalogue of strange places—from legendary curses 
           <a href="https://www.amazon.com/s?k=The+Last+Resort+Douglas+Rogers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Last Resort">The Last Resort</a>
         </h4>
         <p class="fr-book-author">By Douglas Rogers</p>
-        
+
         <p class="fr-book-desc">Provides accessible context for Central Asian environmental history.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Last+Resort+Douglas+Rogers&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ Within Uzbekistan's broader catalogue of strange places—from legendary curses 
           <a href="https://www.amazon.com/s?k=Chernobyl+History+of+a+Tragedy+By+Serhii+Plokhy+%26+Midnight+in+Chernobyl+By+Adam+Higginbotham+2+Books+Collection+Set+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chernobyl History of a Tragedy By Serhii Plokhy &amp; Midnight in Chernobyl By Adam Higginbotham 2 Books Collection Set">Chernobyl History of a Tragedy By Serhii Plokhy &amp; Midnight in...</a>
         </h4>
         <p class="fr-book-author">By Serhii Plokhy, Adam Higginbotham et al.</p>
-        
+
         <p class="fr-book-desc">First published 2020.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Chernobyl+History+of+a+Tragedy+By+Serhii+Plokhy+%26+Midnight+in+Chernobyl+By+Adam+Higginbotham+2+Books+Collection+Set+Serhii+Plokhy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

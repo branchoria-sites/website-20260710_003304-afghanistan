@@ -1319,7 +1319,7 @@ That is why Thailand is such a strong country-level Fortean case. The strangenes
           <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
         </h4>
         <p class="fr-book-author">By Wade Davis</p>
-        
+
         <p class="fr-book-desc">Appeals to readers interested in folklore versus explanation.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1336,7 +1336,7 @@ That is why Thailand is such a strong country-level Fortean case. The strangenes
           <a href="https://www.amazon.com/s?k=Very+Thai+Philip+Cornwel-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Very Thai">Very Thai</a>
         </h4>
         <p class="fr-book-author">By Philip Cornwel-Smith</p>
-        
+
         <p class="fr-book-desc">Excellent overview of modern Thai traditions, symbols and beliefs.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Very+Thai+Philip+Cornwel-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1353,7 +1353,7 @@ That is why Thailand is such a strong country-level Fortean case. The strangenes
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
         </h4>
         <p class="fr-book-author">By Scott G. Bruce</p>
-        
+
         <p class="fr-book-desc">Supports broader interest in legendary creatures including naga traditions.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1370,7 +1370,7 @@ That is why Thailand is such a strong country-level Fortean case. The strangenes
           <a href="https://www.amazon.com/s?k=Thai+Folktales+P.+V.+Khin+Maung+Gyi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thai Folktales">Thai Folktales</a>
         </h4>
         <p class="fr-book-author">By P. V. Khin Maung Gyi</p>
-        
+
         <p class="fr-book-desc">Introduces many traditional Thai legends and supernatural themes.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Thai+Folktales+P.+V.+Khin+Maung+Gyi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

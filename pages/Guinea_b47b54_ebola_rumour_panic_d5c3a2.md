@@ -336,7 +336,7 @@ Rather than revealing supernatural forces, the rumours reveal something equally 
           <a href="https://www.amazon.com/s?k=Spillover+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spillover">Spillover</a>
         </h4>
         <p class="fr-book-author">By David Quammen</p>
-        
+
         <p class="fr-book-desc">Explains zoonotic disease emergence including Ebola.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Spillover+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -353,7 +353,7 @@ Rather than revealing supernatural forces, the rumours reveal something equally 
           <a href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hot Zone">The Hot Zone</a>
         </h4>
         <p class="fr-book-author">By Richard Preston, Richard Preston et al.</p>
-        
+
         <p class="fr-book-desc">Introduces Ebola and why outbreaks inspire fear.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Hot+Zone+Richard+Preston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +370,7 @@ Rather than revealing supernatural forces, the rumours reveal something equally 
           <a href="https://www.amazon.com/s?k=Crisis+in+the+Red+Zone+Preston%2C+Richard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Crisis in the Red Zone">Crisis in the Red Zone</a>
         </h4>
         <p class="fr-book-author">By Preston, Richard</p>
-        
+
         <p class="fr-book-desc">Covers the West African Ebola epidemic in detail.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=Crisis+in+the+Red+Zone+Preston%2C+Richard&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +387,7 @@ Rather than revealing supernatural forces, the rumours reveal something equally 
           <a href="https://www.amazon.com/s?k=The+Demon+Under+the+Microscope+Thomas+Hager&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon Under the Microscope">The Demon Under the Microscope</a>
         </h4>
         <p class="fr-book-author">By Thomas Hager</p>
-        
+
         <p class="fr-book-desc">Adds perspective on infectious disease responses.</p>
         <div class="fr-book-actions">
           <a href="https://www.amazon.com/s?k=The+Demon+Under+the+Microscope+Thomas+Hager&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
