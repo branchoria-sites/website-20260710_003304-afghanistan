@@ -1342,16 +1342,16 @@ That makes Senegal an important part of the wider study of strange phenomena. It
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Folklore+Thomas+A.+Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Folklore on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1625416-M.jpg" alt="Cover for Folklore" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Folklore%3A+An+Encyclopedia+of+Beliefs%2C+Customs%2C+Tales%2C+Music%2C+and+Art+Thomas+A.+Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Folklore: An Encyclopedia of Beliefs, Customs, Tales, Music, and Art on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1625416-M.jpg" alt="Cover for Folklore: An Encyclopedia of Beliefs, Customs, Tales, Music, and Art" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Folklore+Thomas+A.+Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folklore">Folklore</a>
+          <a href="https://www.amazon.com/s?k=Folklore%3A+An+Encyclopedia+of+Beliefs%2C+Customs%2C+Tales%2C+Music%2C+and+Art+Thomas+A.+Green&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folklore: An Encyclopedia of Beliefs, Customs, Tales, Music, and Art">Folklore: An Encyclopedia of Beliefs, Customs, Tales, Music,...</a>
         </h4>
         <p class="fr-book-author">By Thomas A. Green</p>
 
-        <p class="fr-book-desc">First published 1997. Subjects: Folklore, Encyclopedias.</p>
+        <p class="fr-book-desc">Supports cultural interpretation of legends.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Folklore+Thomas+A.+Green&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Folklore%3A+An+Encyclopedia+of+Beliefs%2C+Customs%2C+Tales%2C+Music%2C+and+Art+Thomas+A.+Green&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

@@ -1331,16 +1331,16 @@ That is why Bhutan matters in country-level Forteana. Its strange record is not 
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bhutan+Fran%C3%A7oise+Pommaret&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bhutan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1052710-M.jpg" alt="Cover for Bhutan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bhutan%3A+A+Kingdom+in+the+Himalayas+Fran%C3%A7oise+Pommaret&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bhutan: A Kingdom in the Himalayas on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1052710-M.jpg" alt="Cover for Bhutan: A Kingdom in the Himalayas" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bhutan+Fran%C3%A7oise+Pommaret&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bhutan">Bhutan</a>
+          <a href="https://www.amazon.com/s?k=Bhutan%3A+A+Kingdom+in+the+Himalayas+Fran%C3%A7oise+Pommaret&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bhutan: A Kingdom in the Himalayas">Bhutan: A Kingdom in the Himalayas</a>
         </h4>
         <p class="fr-book-author">By Françoise Pommaret</p>
 
-        <p class="fr-book-desc">First published 1984. Subjects: Guidebooks, Description and travel.</p>
+        <p class="fr-book-desc">Covers Bhutanese culture, religion and sacred geography.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bhutan+Fran%C3%A7oise+Pommaret&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Bhutan%3A+A+Kingdom+in+the+Himalayas+Fran%C3%A7oise+Pommaret&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1365,7 +1365,7 @@ That is why Bhutan matters in country-level Forteana. Its strange record is not 
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Beyond+the+sky+and+the+earth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Beyond the sky and the earth</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Snow+Leopard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Snow Leopard</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bhutan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bhutan</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Beyond+the+sky+and+the+earth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Beyond the sky and the earth</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Snow+Leopard&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Snow Leopard</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bhutan%3A+A+Kingdom+in+the+Himalayas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bhutan: A Kingdom in the Himalayas</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

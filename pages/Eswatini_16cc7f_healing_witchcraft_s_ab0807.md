@@ -407,16 +407,16 @@ That tension explains why this topic belongs within Eswatini's wider catalogue o
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Snakes+Harry+W.+Greene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Snakes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/326839-M.jpg" alt="Cover for Snakes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Snakes%3A+The+Evolution+of+Mystery+in+Nature+Harry+W.+Greene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Snakes: The Evolution of Mystery in Nature on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/326839-M.jpg" alt="Cover for Snakes: The Evolution of Mystery in Nature" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Snakes+Harry+W.+Greene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Snakes">Snakes</a>
+          <a href="https://www.amazon.com/s?k=Snakes%3A+The+Evolution+of+Mystery+in+Nature+Harry+W.+Greene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Snakes: The Evolution of Mystery in Nature">Snakes: The Evolution of Mystery in Nature</a>
         </h4>
         <p class="fr-book-author">By Harry W. Greene</p>
 
-        <p class="fr-book-desc">First published 1997. Subjects: Snakes.</p>
+        <p class="fr-book-desc">Adds scientific context to culturally significant snakes.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Snakes+Harry+W.+Greene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Snakes%3A+The+Evolution+of+Mystery+in+Nature+Harry+W.+Greene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

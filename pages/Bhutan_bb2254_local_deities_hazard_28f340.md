@@ -453,16 +453,16 @@ Modern disaster science explains the mechanics of flash floods, landslides and h
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bhutan+Fran%C3%A7oise+Pommaret&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bhutan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1052710-M.jpg" alt="Cover for Bhutan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bhutan%3A+A+Kingdom+in+the+Himalayas+Fran%C3%A7oise+Pommaret&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bhutan: A Kingdom in the Himalayas on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1052710-M.jpg" alt="Cover for Bhutan: A Kingdom in the Himalayas" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bhutan+Fran%C3%A7oise+Pommaret&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bhutan">Bhutan</a>
+          <a href="https://www.amazon.com/s?k=Bhutan%3A+A+Kingdom+in+the+Himalayas+Fran%C3%A7oise+Pommaret&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bhutan: A Kingdom in the Himalayas">Bhutan: A Kingdom in the Himalayas</a>
         </h4>
         <p class="fr-book-author">By Françoise Pommaret</p>
 
-        <p class="fr-book-desc">First published 1984. Subjects: Guidebooks, Description and travel.</p>
+        <p class="fr-book-desc">Explains sacred landscapes and territorial beliefs.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bhutan+Fran%C3%A7oise+Pommaret&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Bhutan%3A+A+Kingdom+in+the+Himalayas+Fran%C3%A7oise+Pommaret&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

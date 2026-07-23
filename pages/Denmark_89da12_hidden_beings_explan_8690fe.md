@@ -418,16 +418,16 @@ That practical role helps explain their longevity. Even after science replaced t
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Fairies+Morgan+Daimler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fairies on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Fairies%3A+A+Guide+to+the+Celtic+Fair+Folk+Morgan+Daimler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fairies: A Guide to the Celtic Fair Folk on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fairies+Morgan+Daimler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fairies">Fairies</a>
+          <a href="https://www.amazon.com/s?k=Fairies%3A+A+Guide+to+the+Celtic+Fair+Folk+Morgan+Daimler&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fairies: A Guide to the Celtic Fair Folk">Fairies: A Guide to the Celtic Fair Folk</a>
         </h4>
         <p class="fr-book-author">By Morgan Daimler</p>
 
-        <p class="fr-book-desc">First published 2017. Subjects: Fairies, Celtic Mythology, Celts, folklore.</p>
+        <p class="fr-book-desc">Useful comparative reading on hidden beings and folklore.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fairies+Morgan+Daimler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Fairies%3A+A+Guide+to+the+Celtic+Fair+Folk+Morgan+Daimler&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

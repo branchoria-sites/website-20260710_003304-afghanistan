@@ -406,16 +406,16 @@ Together they demonstrate that Iranian Forteana is not simply a catalogue of mon
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Shahnameh+Ferdowsi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Shahnameh on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1676680-M.jpg" alt="Cover for Shahnameh" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Shahnameh%3A+The+Persian+Book+of+Kings+Ferdowsi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Shahnameh: The Persian Book of Kings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1676680-M.jpg" alt="Cover for Shahnameh: The Persian Book of Kings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Shahnameh+Ferdowsi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shahnameh">Shahnameh</a>
+          <a href="https://www.amazon.com/s?k=Shahnameh%3A+The+Persian+Book+of+Kings+Ferdowsi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Shahnameh: The Persian Book of Kings">Shahnameh: The Persian Book of Kings</a>
         </h4>
         <p class="fr-book-author">By Ferdowsi</p>
 
-        <p class="fr-book-desc">First published 1993. Subjects: POETRY / Middle Eastern, POETRY / Ancient, Classical &amp; Medieval, POETRY / Epic, Poetry (poetic works by o...</p>
+        <p class="fr-book-desc">Primary literary source for dragons, heroes and mythic creatures.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Shahnameh+Ferdowsi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Shahnameh%3A+The+Persian+Book+of+Kings+Ferdowsi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>

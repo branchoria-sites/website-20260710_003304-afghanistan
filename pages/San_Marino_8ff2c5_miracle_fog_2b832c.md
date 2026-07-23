@@ -332,6 +332,23 @@ The 1543 fog therefore occupies a distinctive place in San Marino’s strange-hi
     <div class="fr-books-grid">
 
     <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=MIRACLES+%3A+A+PRELIMINARY+STUDY+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open MIRACLES : A PRELIMINARY STUDY on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9184514-M.jpg" alt="Cover for MIRACLES : A PRELIMINARY STUDY" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=MIRACLES+%3A+A+PRELIMINARY+STUDY+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="MIRACLES : A PRELIMINARY STUDY">MIRACLES : A PRELIMINARY STUDY</a>
+        </h4>
+        <p class="fr-book-author">By C. S. Lewis</p>
+
+        <p class="fr-book-desc">Connects with the interpretation of weather events as divine intervention.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=MIRACLES+%3A+A+PRELIMINARY+STUDY+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
       <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+book+of+general+ignorance+John+Mitchinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The book of general ignorance on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1165344-M.jpg" alt="Cover for The book of general ignorance" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
@@ -349,16 +366,16 @@ The 1543 fog therefore occupies a distinctive place in San Marino’s strange-hi
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Distant+Mirror+Barbara+Tuchman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Distant Mirror on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5071195-M.jpg" alt="Cover for A Distant Mirror" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Distant+Mirror%3A+The+Calamitous+14th+Century+Barbara+Tuchman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Distant Mirror: The Calamitous 14th Century on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5071195-M.jpg" alt="Cover for A Distant Mirror: The Calamitous 14th Century" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Distant+Mirror+Barbara+Tuchman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Distant Mirror">A Distant Mirror</a>
+          <a href="https://www.amazon.com/s?k=A+Distant+Mirror%3A+The+Calamitous+14th+Century+Barbara+Tuchman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Distant Mirror: The Calamitous 14th Century">A Distant Mirror: The Calamitous 14th Century</a>
         </h4>
         <p class="fr-book-author">By Barbara Tuchman</p>
 
         <p class="fr-book-desc">Useful for readers interested in European historical crises and legends.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Distant+Mirror+Barbara+Tuchman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=A+Distant+Mirror%3A+The+Calamitous+14th+Century+Barbara+Tuchman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -381,26 +398,9 @@ The 1543 fog therefore occupies a distinctive place in San Marino’s strange-hi
         </div>
       </div>
     </article>
-
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=MIRACLES+%3A+A+PRELIMINARY+STUDY+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open MIRACLES : A PRELIMINARY STUDY on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=MIRACLES+%3A+A+PRELIMINARY+STUDY+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="MIRACLES : A PRELIMINARY STUDY">MIRACLES : A PRELIMINARY STUDY</a>
-        </h4>
-        <p class="fr-book-author">By C. S. Lewis</p>
-
-        <p class="fr-book-desc">Connects with the interpretation of weather events as divine intervention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=MIRACLES+%3A+A+PRELIMINARY+STUDY+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+book+of+general+ignorance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The book of general ignorance</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Distant+Mirror&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Distant Mirror</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Europe+%3A+a+history&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Europe : a history</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=MIRACLES+%3A+A+PRELIMINARY+STUDY&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">MIRACLES : A PRELIMINARY STUDY</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+book+of+general+ignorance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The book of general ignorance</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Distant+Mirror%3A+The+Calamitous+14th+Century&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Distant Mirror: The Calamitous 14th Century</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

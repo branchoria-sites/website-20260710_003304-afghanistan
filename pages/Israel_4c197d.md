@@ -1370,16 +1370,16 @@ That mixture is exactly why Israel is such a rich country-level Fortean subject.
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=From+Time+Immemorial+Joan+Peters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open From Time Immemorial on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/727138-M.jpg" alt="Cover for From Time Immemorial" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Jerusalem%3A+The+Biography+Simon+Sebag-Montefiore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jerusalem: The Biography on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6941204-M.jpg" alt="Cover for Jerusalem: The Biography" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=From+Time+Immemorial+Joan+Peters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From Time Immemorial">From Time Immemorial</a>
+          <a href="https://www.amazon.com/s?k=Jerusalem%3A+The+Biography+Simon+Sebag-Montefiore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jerusalem: The Biography">Jerusalem: The Biography</a>
         </h4>
-        <p class="fr-book-author">By Joan Peters</p>
+        <p class="fr-book-author">By Simon Sebag-Montefiore</p>
 
-        <p class="fr-book-desc">Provides historical context for the region.</p>
+        <p class="fr-book-desc">Explains why Jerusalem generates enduring extraordinary stories.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=From+Time+Immemorial+Joan+Peters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Jerusalem%3A+The+Biography+Simon+Sebag-Montefiore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1387,16 +1387,16 @@ That mixture is exactly why Israel is such a rich country-level Fortean subject.
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Jerusalem+Simon+Sebag-Montefiore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jerusalem on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6941204-M.jpg" alt="Cover for Jerusalem" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=From+Time+Immemorial%3A+The+Origins+of+the+Arab-Jewish+Conflict+over+Palestine+Joan+Peters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open From Time Immemorial: The Origins of the Arab-Jewish Conflict over Palestine on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/727138-M.jpg" alt="Cover for From Time Immemorial: The Origins of the Arab-Jewish Conflict over Palestine" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Jerusalem+Simon+Sebag-Montefiore&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jerusalem">Jerusalem</a>
+          <a href="https://www.amazon.com/s?k=From+Time+Immemorial%3A+The+Origins+of+the+Arab-Jewish+Conflict+over+Palestine+Joan+Peters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="From Time Immemorial: The Origins of the Arab-Jewish Conflict over Palestine">From Time Immemorial: The Origins of the Arab-Jewish Conflict...</a>
         </h4>
-        <p class="fr-book-author">By Simon Sebag-Montefiore</p>
+        <p class="fr-book-author">By Joan Peters</p>
 
-        <p class="fr-book-desc">First published 2011. Subjects: History, New York Times bestseller, nyt:hardcover_political_books=2011-12-24, Middle East, General.</p>
+        <p class="fr-book-desc">Provides historical context for the region.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Jerusalem+Simon+Sebag-Montefiore&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=From+Time+Immemorial%3A+The+Origins+of+the+Arab-Jewish+Conflict+over+Palestine+Joan+Peters&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -1404,7 +1404,7 @@ That mixture is exactly why Israel is such a rich country-level Fortean subject.
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Source&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Source</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Bible+unearthed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Bible unearthed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=From+Time+Immemorial&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">From Time Immemorial</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Source&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Source</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Bible+unearthed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Bible unearthed</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Jerusalem+biography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Jerusalem biography</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

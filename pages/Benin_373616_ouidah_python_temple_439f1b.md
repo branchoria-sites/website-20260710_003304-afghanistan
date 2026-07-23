@@ -391,16 +391,16 @@ For outsiders, the temple can seem uncanny because it overturns familiar expecta
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Snakes+Harry+W.+Greene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Snakes on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/326839-M.jpg" alt="Cover for Snakes" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Vodun%3A+Secrecy+and+the+Search+for+Divine+Power+Timothy+R.+Landry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vodun: Secrecy and the Search for Divine Power on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8823162-M.jpg" alt="Cover for Vodun: Secrecy and the Search for Divine Power" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Snakes+Harry+W.+Greene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Snakes">Snakes</a>
+          <a href="https://www.amazon.com/s?k=Vodun%3A+Secrecy+and+the+Search+for+Divine+Power+Timothy+R.+Landry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vodun: Secrecy and the Search for Divine Power">Vodun: Secrecy and the Search for Divine Power</a>
         </h4>
-        <p class="fr-book-author">By Harry W. Greene</p>
+        <p class="fr-book-author">By Timothy R. Landry</p>
 
-        <p class="fr-book-desc">First published 1997. Subjects: Snakes.</p>
+        <p class="fr-book-desc">Provides context for sacred serpents and ritual life in Benin.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Snakes+Harry+W.+Greene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Vodun%3A+Secrecy+and+the+Search+for+Divine+Power+Timothy+R.+Landry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -408,16 +408,16 @@ For outsiders, the temple can seem uncanny because it overturns familiar expecta
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Vodun+Timothy+R.+Landry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vodun on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8823162-M.jpg" alt="Cover for Vodun" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Snakes%3A+The+Evolution+of+Mystery+in+Nature+Harry+W.+Greene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Snakes: The Evolution of Mystery in Nature on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/326839-M.jpg" alt="Cover for Snakes: The Evolution of Mystery in Nature" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Vodun+Timothy+R.+Landry&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vodun">Vodun</a>
+          <a href="https://www.amazon.com/s?k=Snakes%3A+The+Evolution+of+Mystery+in+Nature+Harry+W.+Greene&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Snakes: The Evolution of Mystery in Nature">Snakes: The Evolution of Mystery in Nature</a>
         </h4>
-        <p class="fr-book-author">By Timothy R. Landry</p>
+        <p class="fr-book-author">By Harry W. Greene</p>
 
-        <p class="fr-book-desc">First published 2018. Subjects: Secrecy (psychology), Tourism, Ethnology, nigeria, Benin, Vodou.</p>
+        <p class="fr-book-desc">Adds biological context to reverence for pythons.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Vodun+Timothy+R.+Landry&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=Snakes%3A+The+Evolution+of+Mystery+in+Nature+Harry+W.+Greene&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -425,7 +425,7 @@ For outsiders, the temple can seem uncanny because it overturns familiar expecta
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+religions+%26+philosophy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African religions &amp; philosophy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Serpent and the Rainbow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Snakes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Snakes</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=African+religions+%26+philosophy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">African religions &amp; philosophy</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Serpent and the Rainbow</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Vodun%3A+Secrecy+and+the+Search+for+Divine+Power&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vodun: Secrecy and the Search for Divine Power</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>
