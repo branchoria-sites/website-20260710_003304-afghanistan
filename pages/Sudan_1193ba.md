@@ -210,12 +210,12 @@ hero_summary: Sudan’s strange-history record is not a neat cabinet of “monst
 layout: default
 permalink: /what-makes-sudans-strange-history-so/
 nav_short_title: What Makes Sudan's Strange History So Unusual?
-title: What Makes Sudan's Strange History So Unusual?
+title: "Inside the Weird History of Sudan"
 title_full: What Makes Sudan's Strange History So Unusual?
 display_title_short: What Makes Sudan's Strange History So Unusual?
-display_title: What Makes Sudan's Strange History So Unusual?
+display_title: "Inside the Weird History of Sudan"
 heading_title: What Makes Sudan's Strange History So Unusual?
-page_heading_title: What Makes Sudan's Strange History So Unusual?
+page_heading_title: "Inside the Weird History of Sudan"
 source_count: 230
 infographic_count: 3
 page_website_name: Sudan Strange

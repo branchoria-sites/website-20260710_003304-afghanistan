@@ -210,12 +210,12 @@ hero_summary: Jamaica’s strange-history record is strongest where folklore, sl
 layout: default
 permalink: /what-makes-jamaicas-strange-history-so/
 nav_short_title: What Makes Jamaica's Strange History So Powerful?
-title: What Makes Jamaica's Strange History So Powerful?
+title: "Where Folklore Meets the Unexplained in Jamaica"
 title_full: What Makes Jamaica's Strange History So Powerful?
 display_title_short: What Makes Jamaica's Strange History So Powerful?
-display_title: What Makes Jamaica's Strange History So Powerful?
+display_title: "Where Folklore Meets the Unexplained in Jamaica"
 heading_title: What Makes Jamaica's Strange History So Powerful?
-page_heading_title: What Makes Jamaica's Strange History So Powerful?
+page_heading_title: "Where Folklore Meets the Unexplained in Jamaica"
 source_count: 223
 infographic_count: 3
 page_website_name: Jamaica Weird

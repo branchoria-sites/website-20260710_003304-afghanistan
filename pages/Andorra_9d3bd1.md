@@ -1282,8 +1282,7 @@ The fair conclusion is modest: Andorra has reported sky-strangeness, but no wide
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/LNiEkfB6QSg" title="In Search Of Alien Artefacts | Meteorite Men | Curious?: Science And Engineering" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=LNiEkfB6QSg" target="_blank" rel="noopener noreferrer">In Search Of Alien Artefacts | Meteorite Men | Curious?: Science And Engineering</a></p><p class="youtube-embed-meta">Channel: Curious? Science and Engineering</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=LNiEkfB6QSg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=LNiEkfB6QSg">Open on YouTube</a></p></div></div></div>
 
-## What sceptics and believers are really arguing about
-
+## Competing readings of Andorra's strange stories
 The Andorran material rarely leaves us with a simple yes-or-no puzzle. Most cases are about interpretation.
 
 A sceptical reading sees the witch legends as moral tales and social history. Engolasters becomes a warning story about charity and forbidden watching. Roc de les Bruixes becomes archaeology wrapped in demonic folklore. Meritxell becomes a local version of a widespread Marian “found image” legend. UFO reports become likely mixtures of meteors, aircraft, planets, weather, misperception and sparse documentation.

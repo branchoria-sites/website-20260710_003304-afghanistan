@@ -1308,8 +1308,7 @@ At the same time, visionary experiences remain culturally important for many com
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RcePxHyJeJI" title="India’s Real Desert Light Mystery Explained | Rann of Kutch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RcePxHyJeJI" target="_blank" rel="noopener noreferrer">India’s Real Desert Light Mystery Explained | Rann of Kutch</a></p><p class="youtube-embed-meta">Channel: Harsh Vikas</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RcePxHyJeJI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RcePxHyJeJI">Open on YouTube</a></p></div></div></div>
 
-## Why these stories endure
-
+## India's strange stories in folklore and cultural memory
 India's strange traditions survive because they satisfy different needs for different audiences.
 
 Some preserve local history. Others reinforce cultural identity, entertain visitors or express respect for dangerous landscapes. Modern social media has accelerated the spread of rumours, but the underlying mechanisms remain remarkably similar to those found in centuries-old folklore.

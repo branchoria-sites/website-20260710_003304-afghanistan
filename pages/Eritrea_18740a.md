@@ -210,12 +210,12 @@ hero_summary: Eritrea is not a country with a large, well-documented public cata
 layout: default
 permalink: /what-makes-eritreas-strange-history-so/
 nav_short_title: What Makes Eritrea's Strange History So Elusive?
-title: What Makes Eritrea's Strange History So Elusive?
+title: "Where Folklore Meets the Unexplained in Eritrea"
 title_full: What Makes Eritrea's Strange History So Elusive?
 display_title_short: What Makes Eritrea's Strange History So Elusive?
-display_title: What Makes Eritrea's Strange History So Elusive?
+display_title: "Where Folklore Meets the Unexplained in Eritrea"
 heading_title: What Makes Eritrea's Strange History So Elusive?
-page_heading_title: What Makes Eritrea's Strange History So Elusive?
+page_heading_title: "Where Folklore Meets the Unexplained in Eritrea"
 source_count: 136
 infographic_count: 3
 page_website_name: Eritrea Weird
@@ -1298,8 +1298,7 @@ Forteana often thrives in places where history feels visibly out of joint. Asmar
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Un4R4BBgnO4" title="ERITREA - ERITREAN HISTORY - PART 1" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Un4R4BBgnO4" target="_blank" rel="noopener noreferrer">ERITREA - ERITREAN HISTORY - PART 1</a></p><p class="youtube-embed-meta">Channel: squeky11</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Un4R4BBgnO4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Un4R4BBgnO4">Open on YouTube</a></p></div></div></div>
 
-## What sceptics and believers are really arguing about
-
+## Where interpretations of Eritrea's strange stories divide
 The Eritrean material is best understood as a spectrum rather than a contest between “true” and “fake”.
 
 At one end are natural events that can look uncanny: drought-breaking storms, volcanic ash clouds, earthquake swarms, unusual marine-animal sightings, or nocturnal wildlife. The right tools here are meteorology, geology, zoology and good local reporting. Nabro’s eruption, dugongs in the Red Sea and Eritrea’s volatile rainfall all belong mainly in this category.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://volcano.si.edu/showreport.cfm?doi=10.5479%2Fsi.GVP.BGVN201109-221101" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: volcano.si.edu">[si.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">volcano.si.edu</span><span class="citation-popover-snippet">Open source on si.edu.</span></span></span>

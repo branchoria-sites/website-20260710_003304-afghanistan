@@ -210,12 +210,12 @@ hero_summary: Sri Lanka’s strange-history record is unusually rich because it 
 layout: default
 permalink: /what-makes-sri-lankas-strange-stories/
 nav_short_title: What Makes Sri Lanka's Strange Stories Endure?
-title: What Makes Sri Lanka's Strange Stories Endure?
+title: "Sri Lanka's Strangest Stories and Unsolved Claims"
 title_full: What Makes Sri Lanka's Strange Stories Endure?
 display_title_short: What Makes Sri Lanka's Strange Stories Endure?
-display_title: What Makes Sri Lanka's Strange Stories Endure?
+display_title: "Sri Lanka's Strangest Stories and Unsolved Claims"
 heading_title: What Makes Sri Lanka's Strange Stories Endure?
-page_heading_title: What Makes Sri Lanka's Strange Stories Endure?
+page_heading_title: "Sri Lanka's Strangest Stories and Unsolved Claims"
 source_count: 140
 infographic_count: 3
 page_website_name: Sri Lanka Strange

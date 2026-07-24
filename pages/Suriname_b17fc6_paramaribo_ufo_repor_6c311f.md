@@ -334,8 +334,7 @@ Possible conventional explanations include high-altitude balloons, unusual atmos
 
 <img src="{{ "/assets/images/Suriname_b17fc6_paramaribo_ufo_repor_6c311f-Illustration-3-dark.svg" | relative_url }}" alt="UFO Reports illustration 3" data-theme-src-dark="{{ "/assets/images/Suriname_b17fc6_paramaribo_ufo_repor_6c311f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Suriname_b17fc6_paramaribo_ufo_repor_6c311f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Matters
-
+## UFO Reports in folklore and cultural memory
 Within Suriname's wider catalogue of strange reports, the Paramaribo UFO flap is significant because it captures a moment when global popular culture blended with local experience. The incident is remembered not because it solved the mystery of unidentified objects in the sky, but because it showed how international UFO mythology became part of Suriname's own repertoire of unexplained stories.
 
 Unlike older legends rooted in forests, rivers or sacred places, Paramaribo's UFO narratives belong to an age of satellite television, international news agencies and online witness databases. They demonstrate how modern myths travel across borders, becoming locally meaningful without losing their global character. As a result, the city's small collection of UFO reports tells readers as much about changing culture and media as it does about whatever may—or may not—have crossed the skies above Paramaribo.

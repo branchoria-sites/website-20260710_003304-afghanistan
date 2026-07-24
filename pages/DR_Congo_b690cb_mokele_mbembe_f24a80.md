@@ -327,8 +327,7 @@ Modern sceptics also point to confirmation bias. Explorers who arrived hoping to
 
 <img src="{{ "/assets/images/DR_Congo_b690cb_mokele_mbembe_f24a80-Illustration-3-dark.svg" | relative_url }}" alt="Mokele Mbembe illustration 3" data-theme-src-dark="{{ "/assets/images/DR_Congo_b690cb_mokele_mbembe_f24a80-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/DR_Congo_b690cb_mokele_mbembe_f24a80-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the legend still matters
-
+## How Mokele Mbembe survived in retelling
 Mokele-Mbembe has become far more than a local river story. It occupies a unique place in global Fortean culture because it links several powerful ideas at once: unexplored wilderness, living fossils, colonial exploration, indigenous knowledge and the enduring appeal of dinosaurs.
 
 The legend has inspired books, television documentaries, creationist expeditions, cryptozoological research and countless online discussions. For some believers it represents an unresolved zoological mystery. For historians and folklorists it illustrates how stories evolve when they pass between cultures, languages and generations.

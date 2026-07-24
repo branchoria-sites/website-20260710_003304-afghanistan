@@ -366,8 +366,7 @@ At the same time, Brunei's religious culture shapes how such stories are interpr
 
 <img src="{{ "/assets/images/Brunei_130e4a_haunted_roads_houses_d0229d-Illustration-3-dark.svg" | relative_url }}" alt="Ghost Places illustration 3" data-theme-src-dark="{{ "/assets/images/Brunei_130e4a_haunted_roads_houses_d0229d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Brunei_130e4a_haunted_roads_houses_d0229d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the stories endure
-
+## How Ghost Places survived in retelling
 Evidence for genuinely haunted roads or houses in Brunei remains anecdotal. There are no widely accepted scientific investigations confirming paranormal activity at the country's best-known locations, and many stories exist in multiple versions that change over time.
 
 Yet the traditions continue because they perform several cultural functions at once. They preserve local identity by attaching memorable stories to familiar places. They encourage caution on isolated roads and around abandoned properties. They provide a language for discussing unsettling experiences that many people feel are difficult to explain. And they connect modern housing estates and highways with much older Malay ideas about landscape, unseen beings and the boundaries between the ordinary and the mysterious.

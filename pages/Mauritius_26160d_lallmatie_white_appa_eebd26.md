@@ -302,8 +302,7 @@ That lack of documentation neither proves nor disproves individual experiences. 
 
 <img src="{{ "/assets/images/Mauritius_26160d_lallmatie_white_appa_eebd26-Illustration-3-dark.svg" | relative_url }}" alt="White Apparitions illustration 3" data-theme-src-dark="{{ "/assets/images/Mauritius_26160d_lallmatie_white_appa_eebd26-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mauritius_26160d_lallmatie_white_appa_eebd26-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Legend Endures
-
+## How White Apparitions survived in retelling
 Lallmatie's white apparitions remain memorable because they represent more than a simple ghost story. They explain how a place acquires an identity that influences later generations, with each new rumour reinforcing the village's reputation as somewhere unusual things happen after dark.
 
 For readers interested in Mauritius's Fortean history, the importance of the legend lies less in whether two ghostly women actually travelled the roads than in how the story became part of the island's collective memory. The haunted reputation created by the white apparitions formed the backdrop against which later supernatural scares were believed, questioned, mocked and ultimately remembered. That makes the legend an important chapter in the evolution of Mauritian folklore, even if the strongest evidence points to an enduring local tradition rather than a demonstrable paranormal event.

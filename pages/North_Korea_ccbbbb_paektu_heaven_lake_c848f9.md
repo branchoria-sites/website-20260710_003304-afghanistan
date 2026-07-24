@@ -325,8 +325,7 @@ The result is an unusual overlap between ancient myth and modern political narra
 
 <img src="{{ "/assets/images/North_Korea_ccbbbb_paektu_heaven_lake_c848f9-Illustration-3-dark.svg" | relative_url }}" alt="Paektu Lake illustration 3" data-theme-src-dark="{{ "/assets/images/North_Korea_ccbbbb_paektu_heaven_lake_c848f9-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/North_Korea_ccbbbb_paektu_heaven_lake_c848f9-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Legend Endures
-
+## The cultural afterlife of Paektu Lake
 The Heaven Lake monster survives because it sits at the intersection of several enduring themes.
 
 It benefits from a spectacular natural setting that genuinely feels otherworldly, a sacred mountain already rich in mythology, limited access to parts of the border region, and recurring media attention whenever a blurry photograph or video appears. Each generation inherits the earlier stories while adding new sightings shaped by contemporary technology and expectations.

@@ -1274,8 +1274,7 @@ This also clarifies the difference between Monaco’s sea uncanny and inland fol
 
 <img src="{{ "/assets/images/Monaco_35ab1c-Illustration-3-dark.svg" | relative_url }}" alt="Where Monaco Turns Strange by the Sea illustration 3" data-theme-src-dark="{{ "/assets/images/Monaco_35ab1c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Monaco_35ab1c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## What sceptics and believers are really arguing about
-
+## Competing readings of Monaco's strange stories
 The Monaco material is less a battle between “real” and “fake” than a set of different evidence types. Each story asks to be handled on its own terms.
 
 **Zaca** has strong documentation as a historic yacht and weak-to-anecdotal evidence as a haunted object. Its ghost story is plausible as folklore because the vessel’s celebrity history is so vivid, but that is not the same as proof of an apparition.

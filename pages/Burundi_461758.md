@@ -210,12 +210,12 @@ hero_summary: Burundi is not one of the world’s loudest Fortean countries. The
 layout: default
 permalink: /what-makes-burundis-strange-history-so/
 nav_short_title: What Makes Burundi's Strange History So Unsettling?
-title: What Makes Burundi's Strange History So Unsettling?
+title: "Which Strange Claims From Burundi Hold Up?"
 title_full: What Makes Burundi's Strange History So Unsettling?
 display_title_short: What Makes Burundi's Strange History So Unsettling?
-display_title: What Makes Burundi's Strange History So Unsettling?
+display_title: "Which Strange Claims From Burundi Hold Up?"
 heading_title: What Makes Burundi's Strange History So Unsettling?
-page_heading_title: What Makes Burundi's Strange History So Unsettling?
+page_heading_title: "Which Strange Claims From Burundi Hold Up?"
 source_count: 148
 infographic_count: 3
 page_website_name: Burundi

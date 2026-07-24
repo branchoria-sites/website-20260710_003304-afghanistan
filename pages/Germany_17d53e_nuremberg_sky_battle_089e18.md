@@ -320,8 +320,7 @@ Supporters of an ancient UFO interpretation argue that multiple witnesses report
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tifpLEFjz3U" title="Nuremberg Sky Battle of 1561 from a Catholic Perspective" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tifpLEFjz3U" target="_blank" rel="noopener noreferrer">Nuremberg Sky Battle of 1561 from a Catholic Perspective</a></p><p class="youtube-embed-meta">Channel: Heroic Lives</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tifpLEFjz3U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tifpLEFjz3U">Open on YouTube</a></p></div></div></div>
 
-## Why the story still matters
-
+## How Nuremberg Sky survived in retelling
 The Nuremberg sky battle has endured because it can be read in several different ways without any of them completely eliminating the others.
 
 For historians, it is an unusually well-preserved example of how early modern Europeans understood extraordinary natural events. For meteorologists, it illustrates how complex atmospheric optics can inspire vivid eyewitness accounts. For students of folklore and Forteana, it demonstrates how a single printed report can evolve over centuries, acquiring entirely new meanings as later generations reinterpret old evidence through modern beliefs.

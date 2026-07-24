@@ -324,8 +324,7 @@ The city's pirate reputation has also been exaggerated over time. Popular books,
 
 <img src="{{ "/assets/images/Jamaica_5eedd6_port_royal_earthquak_a9d896-Illustration-3-dark.svg" | relative_url }}" alt="Port Royal illustration 3" data-theme-src-dark="{{ "/assets/images/Jamaica_5eedd6_port_royal_earthquak_a9d896-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Jamaica_5eedd6_port_royal_earthquak_a9d896-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the story still matters
-
+## The cultural afterlife of Port Royal
 Port Royal occupies an unusual place in Jamaica's strange-history tradition because its mystery lies not in whether the event happened, but in how it has been remembered.
 
 Unlike many ghost stories or local legends, the central claim—that much of the city disappeared beneath the sea—is demonstrably true. The enduring debate concerns meaning rather than occurrence. Was the disaster merely an inevitable consequence of building on unstable ground in an earthquake-prone region, or did generations of storytellers correctly sense a symbolic connection between extraordinary wealth, violence, slavery, piracy and sudden destruction?

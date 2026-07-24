@@ -330,8 +330,7 @@ This places the dang alongside other famous political relics found throughout wo
 
 <img src="{{ "/assets/images/South_Sudan_80ac9c_ngundeng_prophetic_s_fb71b7-Illustration-3-dark.svg" | relative_url }}" alt="Prophetic Stick illustration 3" data-theme-src-dark="{{ "/assets/images/South_Sudan_80ac9c_ngundeng_prophetic_s_fb71b7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Sudan_80ac9c_ngundeng_prophetic_s_fb71b7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the story endures
-
+## The cultural afterlife of Prophetic Stick
 Ngundeng's prophetic stick continues to attract attention because it combines several powerful themes: prophecy, colonial history, repatriated heritage, ethnic identity and national politics.
 
 For believers, it remains part of a living spiritual tradition whose prophecies still speak to South Sudan's future. For historians, it offers insight into how religious authority survives enormous political upheaval. For students of folklore and Forteana, it demonstrates how a seemingly ordinary object can accumulate layers of miraculous reputation without those stories ever becoming historically verifiable.

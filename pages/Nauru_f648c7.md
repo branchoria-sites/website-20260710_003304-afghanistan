@@ -210,12 +210,12 @@ hero_summary: Nauru is not famous for a crowded catalogue of UFO waves, lake mon
 layout: default
 permalink: /what-makes-naurus-weird-history-so/
 nav_short_title: What Makes Nauru's Weird History So Unsettling?
-title: What Makes Nauru's Weird History So Unsettling?
+title: "Nauru: Strange Stories Without the Hype"
 title_full: What Makes Nauru's Weird History So Unsettling?
 display_title_short: What Makes Nauru's Weird History So Unsettling?
-display_title: What Makes Nauru's Weird History So Unsettling?
+display_title: "Nauru: Strange Stories Without the Hype"
 heading_title: What Makes Nauru's Weird History So Unsettling?
-page_heading_title: What Makes Nauru's Weird History So Unsettling?
+page_heading_title: "Nauru: Strange Stories Without the Hype"
 source_count: 151
 infographic_count: 3
 page_website_name: Nauru

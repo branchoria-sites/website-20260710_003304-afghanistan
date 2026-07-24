@@ -306,8 +306,7 @@ Today, the site is promoted as one of Antigua's major natural attractions, but v
 
 <img src="{{ "/assets/images/Antigua_and_Barbuda_0f8518_haunted_places_fd268d-Illustration-3-dark.svg" | relative_url }}" alt="Haunted Places illustration 3" data-theme-src-dark="{{ "/assets/images/Antigua_and_Barbuda_0f8518_haunted_places_fd268d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Antigua_and_Barbuda_0f8518_haunted_places_fd268d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why these legends endure
-
+## Haunted Places in folklore and cultural memory
 Antigua's haunted places persist because they perform several functions at once.
 
 

@@ -210,12 +210,12 @@ hero_summary: Burkina Faso’s strange-history record is not dominated by famous
 layout: default
 permalink: /what-makes-burkina-fasos-weird-history/
 nav_short_title: What Makes Burkina Faso's Weird History So Earthbound?
-title: What Makes Burkina Faso's Weird History So Earthbound?
+title: "Burkina Faso: Strange Stories Without the Hype"
 title_full: What Makes Burkina Faso's Weird History So Earthbound?
 display_title_short: What Makes Burkina Faso's Weird History So Earthbound?
-display_title: What Makes Burkina Faso's Weird History So Earthbound?
+display_title: "Burkina Faso: Strange Stories Without the Hype"
 heading_title: What Makes Burkina Faso's Weird History So Earthbound?
-page_heading_title: What Makes Burkina Faso's Weird History So Earthbound?
+page_heading_title: "Burkina Faso: Strange Stories Without the Hype"
 source_count: 172
 infographic_count: 3
 page_website_name: Burkina Faso Forteana

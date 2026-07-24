@@ -331,8 +331,7 @@ The Dome of the Rock videos became one of the earliest global examples of this p
 
 <img src="{{ "/assets/images/Israel_4c197d_israel_sky_scares_7c9d2c-Illustration-3-dark.svg" | relative_url }}" alt="Sky Scares illustration 3" data-theme-src-dark="{{ "/assets/images/Israel_4c197d_israel_sky_scares_7c9d2c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Israel_4c197d_israel_sky_scares_7c9d2c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Still Matters
-
+## The cultural afterlife of Sky Scares
 The Jerusalem UFO videos are no longer regarded by most investigators as credible evidence of extraterrestrial visitation. Their significance instead lies in how convincingly they demonstrated the interaction between digital media, sacred symbolism and public imagination.
 
 For students of Forteana, the episode serves as a reminder that the most influential mystery stories are not always the strongest cases. Sometimes the stories that endure are those that appear in exactly the right place at exactly the right cultural moment. A glowing light above one of the world's most symbolically charged monuments proved memorable not because it solved the UFO question, but because it revealed how easily extraordinary narratives can emerge when striking images meet powerful expectations.

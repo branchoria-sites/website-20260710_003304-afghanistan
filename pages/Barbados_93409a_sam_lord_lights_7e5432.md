@@ -311,8 +311,7 @@ There is no reliable evidence supporting supernatural claims connected with the 
 
 <img src="{{ "/assets/images/Barbados_93409a_sam_lord_lights_7e5432-Illustration-3-dark.svg" | relative_url }}" alt="Sam Lord illustration 3" data-theme-src-dark="{{ "/assets/images/Barbados_93409a_sam_lord_lights_7e5432-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Barbados_93409a_sam_lord_lights_7e5432-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the story endures
-
+## Sam Lord in folklore and cultural memory
 The appeal of Sam Lord's lights lies less in whether the deception actually happened than in how neatly the legend explains several striking features of the landscape. Barbados possesses genuine shipwreck reefs, an imposing coastal mansion, documented maritime trade and centuries of interaction with the Atlantic. The folklore binds these elements into a simple moral tale about greed, ingenuity and the sea.
 
 Unlike many ghost stories, the legend also remains open to interpretation. Believers point to Lord's extraordinary wealth, the dangerous coastline and the persistence of local tradition as signs that there may be a historical core. Sceptics counter that there is no convincing contemporary evidence for systematic wrecking, that similar stories circulated throughout the Atlantic world, and that navigators were unlikely to be fooled so easily.

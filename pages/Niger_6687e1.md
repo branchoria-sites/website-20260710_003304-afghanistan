@@ -210,12 +210,12 @@ hero_summary: 'Niger’s strange-history record is not a neat parade of famous U
 layout: default
 permalink: /what-makes-nigers-weird-history-so/
 nav_short_title: What Makes Niger's Weird History So Unusual?
-title: What Makes Niger's Weird History So Unusual?
+title: "Where Folklore Meets the Unexplained in Niger"
 title_full: What Makes Niger's Weird History So Unusual?
 display_title_short: What Makes Niger's Weird History So Unusual?
-display_title: What Makes Niger's Weird History So Unusual?
+display_title: "Where Folklore Meets the Unexplained in Niger"
 heading_title: What Makes Niger's Weird History So Unusual?
-page_heading_title: What Makes Niger's Weird History So Unusual?
+page_heading_title: "Where Folklore Meets the Unexplained in Niger"
 source_count: 216
 infographic_count: 3
 page_website_name: Niger Weird

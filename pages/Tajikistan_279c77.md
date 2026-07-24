@@ -210,12 +210,12 @@ hero_summary: 'Tajikistan’s strange-history record is not a neat cabinet of fa
 layout: default
 permalink: /what-makes-tajikistans-weird-history-so/
 nav_short_title: What Makes Tajikistan's Weird History So Mountainous?
-title: What Makes Tajikistan's Weird History So Mountainous?
+title: "Tracing Tajikistan's Uncanny History"
 title_full: What Makes Tajikistan's Weird History So Mountainous?
 display_title_short: What Makes Tajikistan's Weird History So Mountainous?
-display_title: What Makes Tajikistan's Weird History So Mountainous?
+display_title: "Tracing Tajikistan's Uncanny History"
 heading_title: What Makes Tajikistan's Weird History So Mountainous?
-page_heading_title: What Makes Tajikistan's Weird History So Mountainous?
+page_heading_title: "Tracing Tajikistan's Uncanny History"
 source_count: 135
 infographic_count: 3
 page_website_name: Tajikistan Weird

@@ -300,8 +300,7 @@ The Grand Etang legend fits comfortably into this broader tradition. The lake's 
 
 <img src="{{ "/assets/images/Grenada_dbf2a2_grand_etang_mermaid_6e1e2d-Illustration-3-dark.svg" | relative_url }}" alt="Grand Etang illustration 3" data-theme-src-dark="{{ "/assets/images/Grenada_dbf2a2_grand_etang_mermaid_6e1e2d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Grenada_dbf2a2_grand_etang_mermaid_6e1e2d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the legend still matters
-
+## The cultural afterlife of Grand Etang
 The Grand Etang mermaid has become part of Grenada's cultural identity because it combines an extraordinary landscape with an easily remembered story. Visitors encounter both at once: a beautiful volcanic lake whose scientific history is fascinating, and a local legend that gives the place emotional character.
 
 For readers interested in Forteana, the significance lies less in the existence of a mythical creature than in how legends emerge from real environments. Grand Etang demonstrates that folklore can persist alongside modern science without direct conflict. The volcanic origin of the lake is well understood, its dimensions have been measured and its ecology is documented, yet the mermaid remains part of how many people imagine the place.

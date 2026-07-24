@@ -312,8 +312,7 @@ Finally, the Pamirs genuinely support elusive large mammals. Snow leopards, brow
 
 <img src="{{ "/assets/images/Tajikistan_279c77_pamir_snowman_claims_526890-Illustration-3-dark.svg" | relative_url }}" alt="Pamir Snowman illustration 3" data-theme-src-dark="{{ "/assets/images/Tajikistan_279c77_pamir_snowman_claims_526890-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tajikistan_279c77_pamir_snowman_claims_526890-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the legend endures
-
+## Pamir Snowman in folklore and cultural memory
 The Pamir snowman survives because it occupies a fascinating middle ground between folklore and science.
 
 Unlike purely mythical creatures, it attracted organised expeditions, newspaper coverage and genuine debate among researchers. Unlike recognised wildlife, however, it never produced verifiable physical evidence despite decades of searching.

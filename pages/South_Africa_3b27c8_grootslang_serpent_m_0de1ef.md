@@ -318,8 +318,7 @@ The Grootslang legend can be understood without stripping away its mystery. Seve
 
 <img src="{{ "/assets/images/South_Africa_3b27c8_grootslang_serpent_m_0de1ef-Illustration-3-dark.svg" | relative_url }}" alt="Grootslang illustration 3" data-theme-src-dark="{{ "/assets/images/South_Africa_3b27c8_grootslang_serpent_m_0de1ef-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Africa_3b27c8_grootslang_serpent_m_0de1ef-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the Story Endures
-
+## The cultural afterlife of Grootslang
 Modern audiences often encounter the Grootslang through fantasy novels, games or internet mythology, where it is sometimes reimagined as a hybrid elephant-serpent created at the dawn of the world. Those colourful origin stories are largely modern inventions and should not be confused with the older South African traditions centred on the Richtersveld.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Grootslang" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 The enduring appeal of the Grootslang lies elsewhere. It captures an important truth about South African landscapes: some places inspire awe because they combine beauty with genuine danger. The Richtersveld's remote mountains, the Orange River's diamond-bearing gravels and the thunder of Augrabies Falls already feel extraordinary. The Grootslang transforms those realities into a memorable narrative in which the greatest threats are not simply monsters but isolation, hazardous terrain and the human desire to gamble everything for hidden riches.

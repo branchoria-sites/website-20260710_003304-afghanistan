@@ -1272,8 +1272,7 @@ Lightning is another source of uncanny reports. Nepal’s varied terrain shapes 
 
 <img src="{{ "/assets/images/Nepal_0e1d58-Illustration-3-dark.svg" | relative_url }}" alt="What Makes Nepal&#x27;s Strange History So... illustration 3" data-theme-src-dark="{{ "/assets/images/Nepal_0e1d58-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Nepal_0e1d58-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## What Sceptics and Believers Are Really Arguing About
-
+## The evidence dispute around Nepal's strange stories
 Nepal’s strange record is not one debate. It is several debates wearing the same cloak.
 
 For the Yeti, the argument is evidential: do footprints, relics and testimony point to an unknown animal, or to bears, distorted tracks, ritual objects and expedition romance? Modern DNA strongly favours the bear explanation, but the Yeti’s cultural life survives because legends do not need to pass a zoology exam to remain meaningful.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://royalsociety.org/blog/2017/11/mysteries-of-the-yeti/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: royalsociety.org">[Royal Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">royalsociety.org</span><span class="citation-popover-title">Royal Society Mysteries of the yeti &#124; Royal Society</span><span class="citation-popover-snippet">Royal Society Mysteries of the yeti &#124; Royal Society</span></span></span>

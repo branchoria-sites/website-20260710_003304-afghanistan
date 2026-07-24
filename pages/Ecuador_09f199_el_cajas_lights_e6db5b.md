@@ -319,8 +319,7 @@ What makes the stories interesting is not their evidential strength but their pe
 
 <img src="{{ "/assets/images/Ecuador_09f199_el_cajas_lights_e6db5b-Illustration-3-dark.svg" | relative_url }}" alt="El Cajas illustration 3" data-theme-src-dark="{{ "/assets/images/Ecuador_09f199_el_cajas_lights_e6db5b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Ecuador_09f199_el_cajas_lights_e6db5b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the stories endure
-
+## How El Cajas survived in retelling
 El Cajas succeeds as a centre of Ecuadorian Fortean tradition because it combines several ingredients rarely found together.
 
 The physical environment already encourages uncertainty through cloud, altitude and shifting light. The Marian apparition tradition gives the landscape spiritual significance. UFO enthusiasts reinterpret unusual skies through a different framework, while monster stories supply an older folklore of hidden creatures in lonely mountains.

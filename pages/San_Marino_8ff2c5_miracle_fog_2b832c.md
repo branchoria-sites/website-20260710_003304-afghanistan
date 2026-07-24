@@ -296,8 +296,7 @@ The important point for a Fortean reading is that the “mystery” is not simpl
 
 <img src="{{ "/assets/images/San_Marino_8ff2c5_miracle_fog_2b832c-Illustration-2-dark.svg" | relative_url }}" alt="Miracle Fog illustration 2" data-theme-src-dark="{{ "/assets/images/San_Marino_8ff2c5_miracle_fog_2b832c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/San_Marino_8ff2c5_miracle_fog_2b832c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the story still matters
-
+## How Miracle Fog survived in retelling
 The fog story remains powerful because it captures the themes that surround San Marino’s identity: survival, independence and the ability of a small state to outlast larger neighbours. The republic’s history contains many moments where geography and circumstance played a role, but the 1543 episode is especially memorable because the decisive force was not an army or treaty — it was the landscape itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cosmundus.com/en/history-of-san-marino/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cosmundus.com">[Cosmundus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cosmundus.com</span><span class="citation-popover-title">The history of San Marino, the oldest country in the world</span><span class="citation-popover-snippet">The history of San Marino, the oldest country in the world - Cosmundus...</span></span></span>
 
 The story also shows how historical memory works. A modern reader can separate several layers:

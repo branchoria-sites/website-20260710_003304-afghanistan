@@ -312,8 +312,7 @@ For readers interested in strange history, it demonstrates how genuine natural e
 
 <img src="{{ "/assets/images/Tonga_e8a123_hunga_tonga_vanished_b0f498-Illustration-3-dark.svg" | relative_url }}" alt="Vanished Island illustration 3" data-theme-src-dark="{{ "/assets/images/Tonga_e8a123_hunga_tonga_vanished_b0f498-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Tonga_e8a123_hunga_tonga_vanished_b0f498-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the story endures
-
+## How Vanished Island survived in retelling
 Among Tonga's modern strange-history episodes, the vanished island occupies a distinctive place because every stage was witnessed in real time.
 
 The island's appearance challenged scientific expectations by surviving longer than anticipated. Its destruction exceeded almost everyone's expectations by occurring during an eruption of extraordinary global significance. Between those two moments, it became a living laboratory watched from orbit, visited by researchers and followed by millions through satellite imagery.

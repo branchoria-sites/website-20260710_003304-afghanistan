@@ -315,8 +315,7 @@ The internet accelerated this process. Discussion forums, social media, video ch
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JZpZaoJgO54" title="The 1100lb Kandahar Giant Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JZpZaoJgO54" target="_blank" rel="noopener noreferrer">The 1100lb Kandahar Giant Story</a></p><p class="youtube-embed-meta">Channel: The Deep End Clips</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JZpZaoJgO54" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JZpZaoJgO54">Open on YouTube</a></p></div></div></div>
 
-## Why the legend still matters
-
+## How Kandahar Giant survived in retelling
 From a Fortean perspective, the Kandahar Giant remains interesting not because it demonstrates the existence of giants, but because it shows how modern myths develop.
 
 It illustrates several recurring patterns found in contemporary strange claims:

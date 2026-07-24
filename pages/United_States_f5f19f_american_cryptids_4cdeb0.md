@@ -364,8 +364,7 @@ Point Pleasant's Mothman Festival illustrates this transformation particularly w
 
 <img src="{{ "/assets/images/United_States_f5f19f_american_cryptids_4cdeb0-Illustration-3-dark.svg" | relative_url }}" alt="Cryptids illustration 3" data-theme-src-dark="{{ "/assets/images/United_States_f5f19f_american_cryptids_4cdeb0-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/United_States_f5f19f_american_cryptids_4cdeb0-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why these legends endure
-
+## The cultural afterlife of Cryptids
 American cryptids survive because they satisfy several different audiences at once.
 
 Believers continue searching for evidence of unknown animals. Folklorists study how stories develop and spread. Historians trace the interaction between newspapers, local politics and oral tradition. Tourists enjoy colourful attractions regardless of their beliefs. Local residents often embrace the creatures as symbols of regional distinctiveness rather than literal biological discoveries.

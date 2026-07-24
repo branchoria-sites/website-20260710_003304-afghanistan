@@ -320,8 +320,7 @@ The legend also reflects a wider tradition of haunted ships. Maritime folklore h
 
 <img src="{{ "/assets/images/Monaco_35ab1c_zaca_yacht_haunting_5a8e02-Illustration-3-dark.svg" | relative_url }}" alt="Zaca Haunting illustration 3" data-theme-src-dark="{{ "/assets/images/Monaco_35ab1c_zaca_yacht_haunting_5a8e02-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Monaco_35ab1c_zaca_yacht_haunting_5a8e02-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the story endures
-
+## How Zaca Haunting survived in retelling
 The endurance of the *Zaca* legend says as much about memory as about ghosts. Every element reinforces the next: a beautiful wooden schooner, an adventurous Hollywood icon, years of abandonment, rumours of mysterious sounds, an alleged exorcism, and finally a triumphant restoration in Monaco's glamorous harbour.
 
 For Monaco's catalogue of strange history, the story occupies an unusual middle ground. The yacht's construction, ownership and restoration are matters of historical record. The haunting remains unverified folklore supported mainly by repeated testimony and later retellings rather than hard evidence. That combination makes *Zaca* less a convincing paranormal case than a vivid example of how celebrity, maritime tradition and place can combine to create a remarkably persistent modern ghost legend.

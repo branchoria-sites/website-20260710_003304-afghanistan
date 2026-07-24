@@ -210,12 +210,12 @@ hero_summary: Mongolia’s strange-history record is dominated by one celebrity 
 layout: default
 permalink: /what-makes-mongolias-strange-stories/
 nav_short_title: What Makes Mongolia's Strange Stories Endure?
-title: What Makes Mongolia's Strange Stories Endure?
+title: "Tracing Mongolia's Uncanny History"
 title_full: What Makes Mongolia's Strange Stories Endure?
 display_title_short: What Makes Mongolia's Strange Stories Endure?
-display_title: What Makes Mongolia's Strange Stories Endure?
+display_title: "Tracing Mongolia's Uncanny History"
 heading_title: What Makes Mongolia's Strange Stories Endure?
-page_heading_title: What Makes Mongolia's Strange Stories Endure?
+page_heading_title: "Tracing Mongolia's Uncanny History"
 source_count: 152
 infographic_count: 3
 page_website_name: Mongolia Weird

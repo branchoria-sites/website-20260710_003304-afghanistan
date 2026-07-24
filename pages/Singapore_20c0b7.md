@@ -210,12 +210,12 @@ hero_summary: 'Singapore’s strange-history record is not a wilderness of grand
 layout: default
 permalink: /what-makes-singapores-strange-history-so/
 nav_short_title: What Makes Singapore's Strange History So Persistent?
-title: What Makes Singapore's Strange History So Persistent?
+title: "Where Folklore Meets the Unexplained in Singapore"
 title_full: What Makes Singapore's Strange History So Persistent?
 display_title_short: What Makes Singapore's Strange History So Persistent?
-display_title: What Makes Singapore's Strange History So Persistent?
+display_title: "Where Folklore Meets the Unexplained in Singapore"
 heading_title: What Makes Singapore's Strange History So Persistent?
-page_heading_title: What Makes Singapore's Strange History So Persistent?
+page_heading_title: "Where Folklore Meets the Unexplained in Singapore"
 source_count: 237
 infographic_count: 3
 page_website_name: Strange Singapore

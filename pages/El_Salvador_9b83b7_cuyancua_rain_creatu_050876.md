@@ -375,8 +375,7 @@ Although precise origins remain uncertain, folklorists have suggested that the l
 
 <img src="{{ "/assets/images/El_Salvador_9b83b7_cuyancua_rain_creatu_050876-Illustration-3-dark.svg" | relative_url }}" alt="Cuyancua illustration 3" data-theme-src-dark="{{ "/assets/images/El_Salvador_9b83b7_cuyancua_rain_creatu_050876-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/El_Salvador_9b83b7_cuyancua_rain_creatu_050876-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the legend still endures
-
+## The cultural afterlife of Cuyancua
 The Cuyancua survives because it explains more than a mysterious creature.
 
 It offers a memorable way of understanding western El Salvador's seasonal environment. The sudden arrival of rain, the roar of swollen rivers, strange evening sounds and the appearance of new springs become parts of a single narrative rather than disconnected natural events.

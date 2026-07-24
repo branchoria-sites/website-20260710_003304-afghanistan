@@ -357,8 +357,7 @@ Modern Hamelin openly embraces the Pied Piper as its defining symbol. Museums, p
 
 This coexistence of tourism and uncertainty is one reason the legend remains compelling. Hamelin neither claims to have solved the mystery nor abandons it as mere fiction.
 
-## Why the legend still matters
-
+## Hamelin in folklore and cultural memory
 Among Germany's many strange traditions, the Pied Piper stands apart because it combines unusually early documentary references with centuries of evolving folklore.
 
 The oldest evidence points towards a remembered disappearance rather than a magical rat-catcher. Later generations reshaped that memory into one of Europe's most influential fairy tales, adding moral lessons, colourful imagery and supernatural elements without entirely erasing the earlier mystery. As a result, the legend can be read on several levels at once: as folklore, as cultural memory, as an unresolved historical puzzle and as an example of how communities transform traumatic events into stories that survive long after the original facts have faded.

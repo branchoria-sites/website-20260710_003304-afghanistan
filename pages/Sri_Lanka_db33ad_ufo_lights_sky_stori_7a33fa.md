@@ -332,8 +332,7 @@ The result is not a replacement of one belief by another but an overlap of inter
 
 <img src="{{ "/assets/images/Sri_Lanka_db33ad_ufo_lights_sky_stori_7a33fa-Illustration-3-dark.svg" | relative_url }}" alt="Sky Lights illustration 3" data-theme-src-dark="{{ "/assets/images/Sri_Lanka_db33ad_ufo_lights_sky_stori_7a33fa-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sri_Lanka_db33ad_ufo_lights_sky_stori_7a33fa-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why these stories endure
-
+## Sky Lights in folklore and cultural memory
 Sri Lanka's sky-light reports remain culturally significant because they occupy the borderland between observation and interpretation.
 
 Believers often emphasise multiple witnesses, recurring regional reports and the absence of complete explanations for every case. Sceptics point out that eyewitness perception of distant lights is notoriously unreliable, especially at night, and that astronomy, atmospheric optics and human psychology account for many famous UFO reports around the world. Contemporary physicists in Sri Lanka have likewise noted that scientific institutions regularly receive purported UFO videos, most of which prove difficult to verify and frequently have conventional explanations once investigated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dailymirror.lk/print/breaking-news/Frequent-influx-of-purported-UFO-footage-Professor-Jayaratne/108-331360" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailymirror.lk">[Daily Mirror]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailymirror.lk</span><span class="citation-popover-snippet">Daily MirrorDaily Mirror - Sri Lanka Latest Breaking News and Headlines - Print Edition Frequent influx of purported UFO footage: Profess...</span></span></span>

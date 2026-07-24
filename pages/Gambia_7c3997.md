@@ -210,12 +210,12 @@ hero_summary: The Gambia’s strongest strange-history material is not a neat ca
 layout: default
 permalink: /what-makes-the-gambia-so-strangely/
 nav_short_title: What Makes The Gambia So Strangely Memorable?
-title: What Makes The Gambia So Strangely Memorable?
+title: "Inside the Weird History of the Gambia"
 title_full: What Makes The Gambia So Strangely Memorable?
 display_title_short: What Makes The Gambia So Strangely Memorable?
-display_title: What Makes The Gambia So Strangely Memorable?
+display_title: "Inside the Weird History of the Gambia"
 heading_title: What Makes The Gambia So Strangely Memorable?
-page_heading_title: What Makes The Gambia So Strangely Memorable?
+page_heading_title: "Inside the Weird History of the Gambia"
 source_count: 161
 infographic_count: 3
 page_website_name: Strange Gambia
@@ -1268,8 +1268,7 @@ For readers drawn to ancient mysteries, the key point is that the real evidence 
 
 <img src="{{ "/assets/images/Gambia_7c3997-Illustration-3-dark.svg" | relative_url }}" alt="What Makes The Gambia So Strangely... illustration 3" data-theme-src-dark="{{ "/assets/images/Gambia_7c3997-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Gambia_7c3997-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## What sceptics and believers are really arguing about
-
+## Competing readings of Gambia's strange stories
 The strongest Gambian cases rarely divide cleanly into “true” and “false”. They ask different kinds of questions.
 
 For the Ninki Nanka, believers may point to repeated testimony, the persistence of the fatal-gaze motif, and the possibility that a large or rare animal was glimpsed in difficult terrain. Sceptics point to the absence of reliable physical evidence, the changing descriptions, and plausible sources of misidentification such as crocodiles, hippos, snakes, monitor lizards and fear-amplified river encounters. The 2006 expedition is useful precisely because it produced colour, testimony and a failed physical lead rather than a captured monster.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.independent.co.uk/news/science/the-monster-detectives-on-the-trail-of-the-ninkinanka-6095664.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: independent.co.uk">[The Independent]</a><span class="citation-popover" role="note"><span class="citation-popover-source">independent.co.uk</span><span class="citation-popover-snippet">Open source on independent.co.uk.</span></span></span>

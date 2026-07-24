@@ -331,8 +331,7 @@ Former apparition sites may become places of annual pilgrimage, local festivals 
 
 This helps explain why vision stories continue to occupy a distinctive place within Spanish Forteana. The enduring mystery is often not simply whether anyone truly saw a supernatural figure, but why communities repeatedly organised themselves around those claims.
 
-## Why these stories endure
-
+## Visions in folklore and cultural memory
 Spanish visionary episodes reveal a recurring pattern rather than a single mystery. A private experience becomes public testimony. Testimony attracts crowds. Crowds attract media attention and institutional scrutiny. Investigations rarely satisfy everyone, allowing competing interpretations to coexist for decades.
 
 Believers often see sincere witnesses, spiritual renewal and lives transformed through prayer. Historians may emphasise political tensions, collective expectation, religious culture and mass psychology. Sceptics point to suggestion, misperception, social reinforcement or, in some instances, deliberate invention. Because the physical evidence is usually limited while the documentary evidence is abundant, the social history often proves easier to establish than the supernatural claim itself.

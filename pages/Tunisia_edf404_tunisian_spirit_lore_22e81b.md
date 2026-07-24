@@ -306,8 +306,7 @@ From a Fortean standpoint, this is an example of narrative shaping perception ra
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sfG8iZOSnMo" title="Bousaadia بوسعدية - Dendri Stambeli Movement (official)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sfG8iZOSnMo" target="_blank" rel="noopener noreferrer">Bousaadia بوسعدية - Dendri Stambeli Movement (official)</a></p><p class="youtube-embed-meta">Channel: Dendri Stambeli Movement</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sfG8iZOSnMo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sfG8iZOSnMo">Open on YouTube</a></p></div></div></div>
 
-## Why these stories endure
-
+## Spirit Lore in folklore and cultural memory
 Tunisian spirit traditions survive because they address experiences that purely factual explanations often leave emotionally unresolved. Illness, grief, unexplained coincidence, anxiety and historical trauma all find expression through stories about unseen beings.
 
 Stambeli demonstrates how ritual can preserve collective memory of slavery while offering communal healing. Jinn stories provide moral lessons, encourage caution and help people discuss misfortune in culturally meaningful ways. Haunted hammam legends transform ordinary city spaces into landscapes rich with shared imagination.

@@ -210,12 +210,12 @@ hero_summary: South Sudan’s strange-history record is not a tidy catalogue of 
 layout: default
 permalink: /what-makes-south-sudans-weird-history-so/
 nav_short_title: What Makes South Sudan's Weird History So Different?
-title: What Makes South Sudan's Weird History So Different?
+title: "South Sudan's Strangest Stories and Unsolved Claims"
 title_full: What Makes South Sudan's Weird History So Different?
 display_title_short: What Makes South Sudan's Weird History So Different?
-display_title: What Makes South Sudan's Weird History So Different?
+display_title: "South Sudan's Strangest Stories and Unsolved Claims"
 heading_title: What Makes South Sudan's Weird History So Different?
-page_heading_title: What Makes South Sudan's Weird History So Different?
+page_heading_title: "South Sudan's Strangest Stories and Unsolved Claims"
 source_count: 178
 infographic_count: 3
 page_website_name: South Sudan Strange

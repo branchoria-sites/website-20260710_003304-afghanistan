@@ -313,8 +313,7 @@ This pattern has become a textbook example of how misinformation can develop aro
 
 <img src="{{ "/assets/images/Guatemala_11760e_maya_doomsday_panic_336b11-Illustration-3-dark.svg" | relative_url }}" alt="Doomsday Panic illustration 3" data-theme-src-dark="{{ "/assets/images/Guatemala_11760e_maya_doomsday_panic_336b11-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Guatemala_11760e_maya_doomsday_panic_336b11-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the story still matters
-
+## How Doomsday Panic survived in retelling
 The world did not end on 21 December 2012, but the episode remains culturally significant because it demonstrates how modern societies create myths from fragments of the past.
 
 For Guatemala, the scare is part of the country's strange-history landscape not because it validates ancient prophecy, but because it shows how Maya civilisation became entangled with a worldwide belief that its own experts overwhelmingly rejected. It also serves as a reminder that archaeological discoveries often become more mysterious in popular retellings than they ever were in the original evidence.

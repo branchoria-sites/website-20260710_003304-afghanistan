@@ -328,8 +328,7 @@ Researchers who study belief in jinn generally argue that these traditions shoul
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/CVPe9VrwcCw" title="Jinn Explained: Types, Races And Powers" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=CVPe9VrwcCw" target="_blank" rel="noopener noreferrer">Jinn Explained: Types, Races And Powers</a></p><p class="youtube-embed-meta">Channel: Mythos Sage</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=CVPe9VrwcCw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=CVPe9VrwcCw">Open on YouTube</a></p></div></div></div>
 
-## Why the stories endure
-
+## Jinn Houses in folklore and cultural memory
 The enduring appeal of Aleppo's and Damascus's haunted houses lies in their ambiguity. Unlike fictional haunted castles, these are recognisable family homes embedded within living cities. They invite competing interpretations without allowing any single explanation to dominate.
 
 Believers may see reminders that the unseen world exists alongside ordinary life. Sceptics point to abandoned buildings, rumour, suggestion and architectural atmosphere. Historians recognise that many stories preserve fragments of forgotten family histories, property disputes or neighbourhood change.

@@ -301,8 +301,7 @@ Growing tourism has created its own tensions. Conservationists have expressed co
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MlryXx4lNlc" title="Welcome to The Bermuda Triangle of Mexico | Zone of Silence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MlryXx4lNlc" target="_blank" rel="noopener noreferrer">Welcome to The Bermuda Triangle of Mexico | Zone of Silence</a></p><p class="youtube-embed-meta">Channel: Red Web</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MlryXx4lNlc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MlryXx4lNlc">Open on YouTube</a></p></div></div></div>
 
-## Why the legend still matters
-
+## The cultural afterlife of Zone Silence
 The Zone of Silence illustrates how modern Fortean legends often emerge from the interaction of genuine historical events and imaginative storytelling. Unlike many ancient legends, this one can be traced through newspaper reports, government activity, local entrepreneurship and changing media coverage over just a few decades.
 
 Its ingredients are remarkably effective: a dramatic rocket accident, an isolated desert, genuine meteorite falls, unusual wildlife, sparse communications infrastructure and a landscape that already feels alien to outsiders. Each element is real. What remains disputed is whether they add up to anything paranormal.

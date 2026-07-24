@@ -1290,8 +1290,7 @@ This is not a paranormal story, and it should not be used to feed conspiracy the
 
 <img src="{{ "/assets/images/Mauritius_26160d-Illustration-3-dark.svg" | relative_url }}" alt="Why Mauritius Makes Its Own Weird Weather illustration 3" data-theme-src-dark="{{ "/assets/images/Mauritius_26160d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Mauritius_26160d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## What Sceptics and Believers Are Really Arguing About
-
+## Competing readings of Mauritius' strange stories
 Mauritian strange reports usually turn on interpretation rather than simple factual disagreement. Most people can agree that Cyclone Hollanda happened, that Lallmatie had a reputation for strange stories, that people spoke of Touni Minwi, that Le Morne is historically important, that Pieter Both looks like it has a head, and that the underwater waterfall illusion is visually astonishing. The argument begins when people ask what those facts mean.
 
 A believer’s reading may emphasise inherited knowledge, spiritual danger, taboo places, curses, ghostly survival, or the idea that some experiences exceed ordinary explanation. A sceptical reading points to rumour contagion, darkness, stress after disasters, pareidolia, optical illusion, colonial exaggeration, misidentification and the social uses of fear. Both readings can miss something if they become too rigid. Pure debunking can flatten stories that carry real memory and identity; pure belief can turn trauma, weather and folklore into false certainty.

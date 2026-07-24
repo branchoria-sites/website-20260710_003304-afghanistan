@@ -312,8 +312,7 @@ Importantly, the Brazilian Air Force's acknowledgement that objects remained uni
 
 <img src="{{ "/assets/images/Brazil_37497a_1986_ufo_night_7cbdbf-Illustration-3-dark.svg" | relative_url }}" alt="UFO Night illustration 3" data-theme-src-dark="{{ "/assets/images/Brazil_37497a_1986_ufo_night_7cbdbf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Brazil_37497a_1986_ufo_night_7cbdbf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Why the story endures
-
+## The cultural afterlife of UFO Night
 The 1986 UFO Night occupies a distinctive place within Brazil's wider catalogue of strange history because it sits at the boundary between official documentation and enduring mystery.
 
 Unlike purely folkloric tales, it generated military paperwork, public statements and archived records. Unlike many aviation incidents, however, no single explanation has achieved broad agreement among investigators, aviation specialists or UFO researchers. That combination has kept the event alive in documentaries, books and debates about unidentified aerial phenomena.

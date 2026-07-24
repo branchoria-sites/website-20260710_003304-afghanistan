@@ -306,8 +306,7 @@ Its enduring popularity owes much to symbolism. The palace remains an active cer
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/F8Dbe-nnCEA" title="Ghost Story &amp; Makeup: The Blue Lady of Verdala Palace Malta | Haunting Look + True Tale" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=F8Dbe-nnCEA" target="_blank" rel="noopener noreferrer">Ghost Story &amp; Makeup: The Blue Lady of Verdala Palace Malta | Haunting Look + True Tale</a></p><p class="youtube-embed-meta">Channel: Mua.Shereelee</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=F8Dbe-nnCEA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=F8Dbe-nnCEA">Open on YouTube</a></p></div></div></div>
 
-## Why these stories endure
-
+## How Ghosts survived in retelling
 Taken together, the Black Knight, Grey Lady and Blue Lady follow a remarkably consistent pattern.
 
 * **Historic buildings become moral landscapes.** Ghosts appear where burials were disturbed, murders concealed or individuals treated unjustly.
