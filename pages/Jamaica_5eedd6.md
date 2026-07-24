@@ -209,12 +209,12 @@ description: Jamaica’s strange-history record is strongest where folklore, sla
 hero_summary: Jamaica’s strange-history record is strongest where folklore, slavery-era memory, religious vision, natural disaster and tourism collide.
 layout: default
 permalink: /what-makes-jamaicas-strange-history-so/
-nav_short_title: What Makes Jamaica's Strange History So Powerful?
+nav_short_title: "Where Folklore Meets the Unexplained in Jamaica"
 title: "Where Folklore Meets the Unexplained in Jamaica"
-title_full: What Makes Jamaica's Strange History So Powerful?
-display_title_short: What Makes Jamaica's Strange History So Powerful?
+title_full: "Where Folklore Meets the Unexplained in Jamaica"
+display_title_short: "Where Folklore Meets the Unexplained in Jamaica"
 display_title: "Where Folklore Meets the Unexplained in Jamaica"
-heading_title: What Makes Jamaica's Strange History So Powerful?
+heading_title: "Where Folklore Meets the Unexplained in Jamaica"
 page_heading_title: "Where Folklore Meets the Unexplained in Jamaica"
 source_count: 223
 infographic_count: 3

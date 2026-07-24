@@ -209,12 +209,12 @@ description: Tajikistan’s strange-history record is not a neat cabinet of famo
 hero_summary: 'Tajikistan’s strange-history record is not a neat cabinet of famous ghosts and headline-grabbing monsters. It is more interesting than that: a mountain country where folklore, disaster memory, Soviet-era expedition culture, sacred landscape, meteor science and tourism legend overlap.'
 layout: default
 permalink: /what-makes-tajikistans-weird-history-so/
-nav_short_title: What Makes Tajikistan's Weird History So Mountainous?
+nav_short_title: "Tracing Tajikistan's Uncanny History"
 title: "Tracing Tajikistan's Uncanny History"
-title_full: What Makes Tajikistan's Weird History So Mountainous?
-display_title_short: What Makes Tajikistan's Weird History So Mountainous?
+title_full: "Tracing Tajikistan's Uncanny History"
+display_title_short: "Tracing Tajikistan's Uncanny History"
 display_title: "Tracing Tajikistan's Uncanny History"
-heading_title: What Makes Tajikistan's Weird History So Mountainous?
+heading_title: "Tracing Tajikistan's Uncanny History"
 page_heading_title: "Tracing Tajikistan's Uncanny History"
 source_count: 135
 infographic_count: 3

@@ -209,12 +209,12 @@ description: Sri Lanka’s strange-history record is unusually rich because it s
 hero_summary: Sri Lanka’s strange-history record is unusually rich because it sits where rainforest ecology, Buddhist and Hindu spirit traditions, colonial-era natural history, lively local journalism and modern internet rumour all overlap.
 layout: default
 permalink: /what-makes-sri-lankas-strange-stories/
-nav_short_title: What Makes Sri Lanka's Strange Stories Endure?
+nav_short_title: "Sri Lanka's Strangest Stories and Unsolved Claims"
 title: "Sri Lanka's Strangest Stories and Unsolved Claims"
-title_full: What Makes Sri Lanka's Strange Stories Endure?
-display_title_short: What Makes Sri Lanka's Strange Stories Endure?
+title_full: "Sri Lanka's Strangest Stories and Unsolved Claims"
+display_title_short: "Sri Lanka's Strangest Stories and Unsolved Claims"
 display_title: "Sri Lanka's Strangest Stories and Unsolved Claims"
-heading_title: What Makes Sri Lanka's Strange Stories Endure?
+heading_title: "Sri Lanka's Strangest Stories and Unsolved Claims"
 page_heading_title: "Sri Lanka's Strangest Stories and Unsolved Claims"
 source_count: 140
 infographic_count: 3

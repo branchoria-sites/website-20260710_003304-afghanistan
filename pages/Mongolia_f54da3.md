@@ -209,12 +209,12 @@ description: Mongolia’s strange-history record is dominated by one celebrity m
 hero_summary: Mongolia’s strange-history record is dominated by one celebrity monster, the deadly worm said to haunt the Gobi Desert, but that is only the loudest part of a broader pattern. The country’s Fortean material sits where vast landscapes, oral tradition, shamanic practice, Soviet-era suppression, frontier science and modern media meet.
 layout: default
 permalink: /what-makes-mongolias-strange-stories/
-nav_short_title: What Makes Mongolia's Strange Stories Endure?
+nav_short_title: "Tracing Mongolia's Uncanny History"
 title: "Tracing Mongolia's Uncanny History"
-title_full: What Makes Mongolia's Strange Stories Endure?
-display_title_short: What Makes Mongolia's Strange Stories Endure?
+title_full: "Tracing Mongolia's Uncanny History"
+display_title_short: "Tracing Mongolia's Uncanny History"
 display_title: "Tracing Mongolia's Uncanny History"
-heading_title: What Makes Mongolia's Strange Stories Endure?
+heading_title: "Tracing Mongolia's Uncanny History"
 page_heading_title: "Tracing Mongolia's Uncanny History"
 source_count: 152
 infographic_count: 3

@@ -209,12 +209,12 @@ description: Burkina Faso’s strange-history record is not dominated by famous 
 hero_summary: Burkina Faso’s strange-history record is not dominated by famous flying saucers or lake monsters.
 layout: default
 permalink: /what-makes-burkina-fasos-weird-history/
-nav_short_title: What Makes Burkina Faso's Weird History So Earthbound?
+nav_short_title: "Burkina Faso: Strange Stories Without the Hype"
 title: "Burkina Faso: Strange Stories Without the Hype"
-title_full: What Makes Burkina Faso's Weird History So Earthbound?
-display_title_short: What Makes Burkina Faso's Weird History So Earthbound?
+title_full: "Burkina Faso: Strange Stories Without the Hype"
+display_title_short: "Burkina Faso: Strange Stories Without the Hype"
 display_title: "Burkina Faso: Strange Stories Without the Hype"
-heading_title: What Makes Burkina Faso's Weird History So Earthbound?
+heading_title: "Burkina Faso: Strange Stories Without the Hype"
 page_heading_title: "Burkina Faso: Strange Stories Without the Hype"
 source_count: 172
 infographic_count: 3

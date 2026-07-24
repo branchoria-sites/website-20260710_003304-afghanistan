@@ -209,12 +209,12 @@ description: Burundi is not one of the world’s loudest Fortean countries.
 hero_summary: Burundi is not one of the world’s loudest Fortean countries. There is no internationally famous Burundian UFO flap, no well-established meteorite fall with a recovered stone, and no tidy canon of ghost stories that can be safely repeated as “the” national haunting. Its strange-history record is thinner, more local, and more revealing than that.
 layout: default
 permalink: /what-makes-burundis-strange-history-so/
-nav_short_title: What Makes Burundi's Strange History So Unsettling?
+nav_short_title: "Which Strange Claims From Burundi Hold Up?"
 title: "Which Strange Claims From Burundi Hold Up?"
-title_full: What Makes Burundi's Strange History So Unsettling?
-display_title_short: What Makes Burundi's Strange History So Unsettling?
+title_full: "Which Strange Claims From Burundi Hold Up?"
+display_title_short: "Which Strange Claims From Burundi Hold Up?"
 display_title: "Which Strange Claims From Burundi Hold Up?"
-heading_title: What Makes Burundi's Strange History So Unsettling?
+heading_title: "Which Strange Claims From Burundi Hold Up?"
 page_heading_title: "Which Strange Claims From Burundi Hold Up?"
 source_count: 148
 infographic_count: 3

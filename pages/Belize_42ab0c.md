@@ -209,12 +209,12 @@ description: Belize’s strange-history record is less a catalogue of tidy “ca
 hero_summary: Belize’s strange-history record is less a catalogue of tidy “cases” than a living mixture of forest warnings, river ghosts, cave ritual, jaguar rumours, tourist retellings and the occasional newspaper report of odd lights in the sky.
 layout: default
 permalink: /what-makes-belizes-weird-stories-endure/
-nav_short_title: What Makes Belize's Weird Stories Endure?
+nav_short_title: "Belize: Strange Stories Without the Hype"
 title: "Belize: Strange Stories Without the Hype"
-title_full: What Makes Belize's Weird Stories Endure?
-display_title_short: What Makes Belize's Weird Stories Endure?
+title_full: "Belize: Strange Stories Without the Hype"
+display_title_short: "Belize: Strange Stories Without the Hype"
 display_title: "Belize: Strange Stories Without the Hype"
-heading_title: What Makes Belize's Weird Stories Endure?
+heading_title: "Belize: Strange Stories Without the Hype"
 page_heading_title: "Belize: Strange Stories Without the Hype"
 source_count: 168
 infographic_count: 3

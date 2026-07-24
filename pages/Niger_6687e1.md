@@ -209,12 +209,12 @@ description: Niger’s strange-history record is not a neat parade of famous UFO
 hero_summary: 'Niger’s strange-history record is not a neat parade of famous UFO cases or lake monsters. It is stranger, and more revealing, than that: a country where desert, river, fossil beds, spirit traditions, colonial memory and meteorite commerce keep producing stories that sit on the edge between evidence and wonder.'
 layout: default
 permalink: /what-makes-nigers-weird-history-so/
-nav_short_title: What Makes Niger's Weird History So Unusual?
+nav_short_title: "Where Folklore Meets the Unexplained in Niger"
 title: "Where Folklore Meets the Unexplained in Niger"
-title_full: What Makes Niger's Weird History So Unusual?
-display_title_short: What Makes Niger's Weird History So Unusual?
+title_full: "Where Folklore Meets the Unexplained in Niger"
+display_title_short: "Where Folklore Meets the Unexplained in Niger"
 display_title: "Where Folklore Meets the Unexplained in Niger"
-heading_title: What Makes Niger's Weird History So Unusual?
+heading_title: "Where Folklore Meets the Unexplained in Niger"
 page_heading_title: "Where Folklore Meets the Unexplained in Niger"
 source_count: 216
 infographic_count: 3

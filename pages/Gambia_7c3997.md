@@ -209,12 +209,12 @@ description: The Gambia’s strongest strange-history material is not a neat cat
 hero_summary: The Gambia’s strongest strange-history material is not a neat catalogue of UFO files or laboratory puzzles.
 layout: default
 permalink: /what-makes-the-gambia-so-strangely/
-nav_short_title: What Makes The Gambia So Strangely Memorable?
+nav_short_title: "Inside the Weird History of the Gambia"
 title: "Inside the Weird History of the Gambia"
-title_full: What Makes The Gambia So Strangely Memorable?
-display_title_short: What Makes The Gambia So Strangely Memorable?
+title_full: "Inside the Weird History of the Gambia"
+display_title_short: "Inside the Weird History of the Gambia"
 display_title: "Inside the Weird History of the Gambia"
-heading_title: What Makes The Gambia So Strangely Memorable?
+heading_title: "Inside the Weird History of the Gambia"
 page_heading_title: "Inside the Weird History of the Gambia"
 source_count: 161
 infographic_count: 3

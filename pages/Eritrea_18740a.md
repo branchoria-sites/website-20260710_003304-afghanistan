@@ -209,12 +209,12 @@ description: Eritrea is not a country with a large, well-documented public catal
 hero_summary: Eritrea is not a country with a large, well-documented public catalogue of UFO flaps, lake monsters or famous haunted houses. Its Fortean record is quieter, more scattered and more interesting for that reason.
 layout: default
 permalink: /what-makes-eritreas-strange-history-so/
-nav_short_title: What Makes Eritrea's Strange History So Elusive?
+nav_short_title: "Where Folklore Meets the Unexplained in Eritrea"
 title: "Where Folklore Meets the Unexplained in Eritrea"
-title_full: What Makes Eritrea's Strange History So Elusive?
-display_title_short: What Makes Eritrea's Strange History So Elusive?
+title_full: "Where Folklore Meets the Unexplained in Eritrea"
+display_title_short: "Where Folklore Meets the Unexplained in Eritrea"
 display_title: "Where Folklore Meets the Unexplained in Eritrea"
-heading_title: What Makes Eritrea's Strange History So Elusive?
+heading_title: "Where Folklore Meets the Unexplained in Eritrea"
 page_heading_title: "Where Folklore Meets the Unexplained in Eritrea"
 source_count: 136
 infographic_count: 3

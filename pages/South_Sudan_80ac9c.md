@@ -209,12 +209,12 @@ description: South Sudan’s strange-history record is not a tidy catalogue of f
 hero_summary: South Sudan’s strange-history record is not a tidy catalogue of famous UFOs, monster scares and newspaper-ready ghost stories. It is stranger than that, and more serious.
 layout: default
 permalink: /what-makes-south-sudans-weird-history-so/
-nav_short_title: What Makes South Sudan's Weird History So Different?
+nav_short_title: "South Sudan's Strangest Stories and Unsolved Claims"
 title: "South Sudan's Strangest Stories and Unsolved Claims"
-title_full: What Makes South Sudan's Weird History So Different?
-display_title_short: What Makes South Sudan's Weird History So Different?
+title_full: "South Sudan's Strangest Stories and Unsolved Claims"
+display_title_short: "South Sudan's Strangest Stories and Unsolved Claims"
 display_title: "South Sudan's Strangest Stories and Unsolved Claims"
-heading_title: What Makes South Sudan's Weird History So Different?
+heading_title: "South Sudan's Strangest Stories and Unsolved Claims"
 page_heading_title: "South Sudan's Strangest Stories and Unsolved Claims"
 source_count: 178
 infographic_count: 3

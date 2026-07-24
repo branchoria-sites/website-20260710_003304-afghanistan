@@ -209,12 +209,12 @@ description: Singapore’s strange-history record is not a wilderness of grand u
 hero_summary: 'Singapore’s strange-history record is not a wilderness of grand unsolved monsters or famous UFO dossiers. It is something more compact and, in some ways, more revealing: a city-state where old island legends, colonial newspaper oddities, war-haunted buildings, tropical weather, cinema ghosts and misidentified wildlife sit unusually close together.'
 layout: default
 permalink: /what-makes-singapores-strange-history-so/
-nav_short_title: What Makes Singapore's Strange History So Persistent?
+nav_short_title: "Where Folklore Meets the Unexplained in Singapore"
 title: "Where Folklore Meets the Unexplained in Singapore"
-title_full: What Makes Singapore's Strange History So Persistent?
-display_title_short: What Makes Singapore's Strange History So Persistent?
+title_full: "Where Folklore Meets the Unexplained in Singapore"
+display_title_short: "Where Folklore Meets the Unexplained in Singapore"
 display_title: "Where Folklore Meets the Unexplained in Singapore"
-heading_title: What Makes Singapore's Strange History So Persistent?
+heading_title: "Where Folklore Meets the Unexplained in Singapore"
 page_heading_title: "Where Folklore Meets the Unexplained in Singapore"
 source_count: 237
 infographic_count: 3

@@ -209,12 +209,12 @@ description: Sudan’s strange-history record is not a neat cabinet of “monste
 hero_summary: Sudan’s strange-history record is not a neat cabinet of “monsters and ghosts” so much as a meeting place of desert skies, Nile marshes, spirit traditions, colonial reports, religious prophecy and modern media.
 layout: default
 permalink: /what-makes-sudans-strange-history-so/
-nav_short_title: What Makes Sudan's Strange History So Unusual?
+nav_short_title: "Inside the Weird History of Sudan"
 title: "Inside the Weird History of Sudan"
-title_full: What Makes Sudan's Strange History So Unusual?
-display_title_short: What Makes Sudan's Strange History So Unusual?
+title_full: "Inside the Weird History of Sudan"
+display_title_short: "Inside the Weird History of Sudan"
 display_title: "Inside the Weird History of Sudan"
-heading_title: What Makes Sudan's Strange History So Unusual?
+heading_title: "Inside the Weird History of Sudan"
 page_heading_title: "Inside the Weird History of Sudan"
 source_count: 230
 infographic_count: 3
