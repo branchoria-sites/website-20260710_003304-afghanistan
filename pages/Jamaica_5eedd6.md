@@ -209,13 +209,13 @@ description: Jamaica’s strange-history record is strongest where folklore, sla
 hero_summary: Jamaica’s strange-history record is strongest where folklore, slavery-era memory, religious vision, natural disaster and tourism collide.
 layout: default
 permalink: /what-makes-jamaicas-strange-history-so/
-nav_short_title: "Where Folklore Meets the Unexplained in Jamaica"
-title: "Where Folklore Meets the Unexplained in Jamaica"
-title_full: "Where Folklore Meets the Unexplained in Jamaica"
-display_title_short: "Where Folklore Meets the Unexplained in Jamaica"
-display_title: "Where Folklore Meets the Unexplained in Jamaica"
-heading_title: "Where Folklore Meets the Unexplained in Jamaica"
-page_heading_title: "Where Folklore Meets the Unexplained in Jamaica"
+nav_short_title: What Makes Jamaica's Strange History So Powerful?
+title: What Makes Jamaica's Strange History So Powerful?
+title_full: What Makes Jamaica's Strange History So Powerful?
+display_title_short: What Makes Jamaica's Strange History So Powerful?
+display_title: What Makes Jamaica's Strange History So Powerful?
+heading_title: What Makes Jamaica's Strange History So Powerful?
+page_heading_title: What Makes Jamaica's Strange History So Powerful?
 source_count: 223
 infographic_count: 3
 page_website_name: Jamaica Weird
@@ -1301,89 +1301,89 @@ Jamaica’s weird-history record endures because it is not just about fright. It
 The most responsible reading keeps two ideas in balance. Jamaica’s folklore should not be flattened into “mere superstition”, because that misses its intelligence, humour and historical memory. But it should not be repackaged as proof of ghosts, witches, monsters or miracles either. Its power lies in the middle ground: claims, legends, testimonies, performances and documented events that show how people make meaning when ordinary explanation feels too small for what happened.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Makes Jamaica&#x27;s Strange History So Powerful?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Makes Jamaica&#x27;s Strange History So Powerful?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Jamaican+folk+tales+and+oral+histories+Laura+Tanna&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jamaican folk tales and oral histories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1703020-M.jpg" alt="Cover for Jamaican folk tales and oral histories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Jamaican+folk+tales+and+oral+histories+Laura+Tanna&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jamaican folk tales and oral histories">Jamaican folk tales and oral histories</a>
-        </h4>
-        <p class="fr-book-author">By Laura Tanna</p>
-
-        <p class="fr-book-desc">Introduces Jamaica&#x27;s major legends and folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Jamaican+folk+tales+and+oral+histories+Laura+Tanna&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Jamaican+folk+tales+and+oral+histories+Laura+Tanna&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Jamaican folk tales and oral histories on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1703020-M.jpg" alt="Cover for Jamaican folk tales and oral histories" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Jamaican+folk+tales+and+oral+histories+Laura+Tanna&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Jamaican folk tales and oral histories">Jamaican folk tales and oral histories</a>
+</h4>
+<p class="fr-book-author">By Laura Tanna</p>
+        
+<p class="fr-book-desc">Introduces Jamaica&#x27;s major legends and folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Jamaican+folk+tales+and+oral+histories+Laura+Tanna&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Encyclopedia+of+Jamaican+heritage+Olive+Senior&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encyclopedia of Jamaican heritage on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10241314-M.jpg" alt="Cover for Encyclopedia of Jamaican heritage" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Encyclopedia+of+Jamaican+heritage+Olive+Senior&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encyclopedia of Jamaican heritage">Encyclopedia of Jamaican heritage</a>
-        </h4>
-        <p class="fr-book-author">By Olive Senior</p>
-
-        <p class="fr-book-desc">Explains folklore, history and traditions behind strange stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Encyclopedia+of+Jamaican+heritage+Olive+Senior&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Encyclopedia+of+Jamaican+heritage+Olive+Senior&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Encyclopedia of Jamaican heritage on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10241314-M.jpg" alt="Cover for Encyclopedia of Jamaican heritage" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Encyclopedia+of+Jamaican+heritage+Olive+Senior&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Encyclopedia of Jamaican heritage">Encyclopedia of Jamaican heritage</a>
+</h4>
+<p class="fr-book-author">By Olive Senior</p>
+        
+<p class="fr-book-desc">Explains folklore, history and traditions behind strange stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Encyclopedia+of+Jamaican+heritage+Olive+Senior&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Atlas of Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8804520-M.jpg" alt="Cover for The Atlas of Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Atlas of Monsters">The Atlas of Monsters</a>
-        </h4>
-        <p class="fr-book-author">By Sandra Lawrence</p>
-
-        <p class="fr-book-desc">Complements articles about legendary creatures and hauntings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Atlas of Monsters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8804520-M.jpg" alt="Cover for The Atlas of Monsters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Atlas of Monsters">The Atlas of Monsters</a>
+</h4>
+<p class="fr-book-author">By Sandra Lawrence</p>
+        
+<p class="fr-book-desc">Complements articles about legendary creatures and hauntings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rough+Guide+to+Jamaica+3+ROUGH+GUIDES&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rough Guide to Jamaica 3 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/892491-M.jpg" alt="Cover for The Rough Guide to Jamaica 3" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Jamaica+3+ROUGH+GUIDES&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Jamaica 3">The Rough Guide to Jamaica 3</a>
-        </h4>
-        <p class="fr-book-author">By ROUGH GUIDES</p>
-
-        <p class="fr-book-desc">First published 2003.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Jamaica+3+ROUGH+GUIDES&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Rough+Guide+to+Jamaica+3+ROUGH+GUIDES&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Rough Guide to Jamaica 3 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/892491-M.jpg" alt="Cover for The Rough Guide to Jamaica 3" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Jamaica+3+ROUGH+GUIDES&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Rough Guide to Jamaica 3">The Rough Guide to Jamaica 3</a>
+</h4>
+<p class="fr-book-author">By ROUGH GUIDES</p>
+        
+<p class="fr-book-desc">First published 2003.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Rough+Guide+to+Jamaica+3+ROUGH+GUIDES&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Jamaican+folk+tales+and+oral+histories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Jamaican folk tales and oral histories</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Encyclopedia+of+Jamaican+heritage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encyclopedia of Jamaican heritage</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Atlas+of+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Atlas of Monsters</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Jamaican+folk+tales+and+oral+histories&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Jamaican folk tales and oral histories</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Encyclopedia+of+Jamaican+heritage&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Encyclopedia of Jamaican heritage</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Atlas+of+Monsters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Atlas of Monsters</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -345,7 +345,7 @@ The enduring fascination of the seventh-night guard lies less in whether witches
 <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Bough">The Golden Bough</a>
 </h4>
 <p class="fr-book-author">By James George Frazer</p>
-
+        
 <p class="fr-book-desc">First published 1890. Subjects: Mythology, Magic, Superstition, Religion, Primitive Religion.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -362,7 +362,7 @@ The enduring fascination of the seventh-night guard lies less in whether witches
 <a href="https://www.amazon.com/s?k=The+Power+of+Myth+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Power of Myth">The Power of Myth</a>
 </h4>
 <p class="fr-book-author">By Joseph Campbell</p>
-
+        
 <p class="fr-book-desc">First published 1988. Subjects: Long Now Manual for Civilization, Campbell, Joseph, -- 1904- -- Interviews, Religion historians, Intervie...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Power+of+Myth+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ The enduring fascination of the seventh-night guard lies less in whether witches
 <a href="https://www.amazon.com/s?k=The+Anthropology+of+Religion+Fiona+Bowie&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Anthropology of Religion">The Anthropology of Religion</a>
 </h4>
 <p class="fr-book-author">By Fiona Bowie</p>
-
+        
 <p class="fr-book-desc">First published 2000. Subjects: Ethnology, Religious aspects of Ethnology, Religious aspects, Religion, Ethnology, religious aspects.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Anthropology+of+Religion+Fiona+Bowie&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ The enduring fascination of the seventh-night guard lies less in whether witches
 <a href="https://www.amazon.com/s?k=Witches+and+Neighbors+Robin+Briggs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Witches and Neighbors">Witches and Neighbors</a>
 </h4>
 <p class="fr-book-author">By Robin Briggs</p>
-
+        
 <p class="fr-book-desc">First published 1996. Subjects: History, Persecution, Witchcraft, Witchcraft, europe.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Witches+and+Neighbors+Robin+Briggs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

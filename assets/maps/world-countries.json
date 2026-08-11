@@ -6,7 +6,9 @@
   "dataAsset": "world-countries.json",
   "mapLabel": "Interactive country map",
   "fallbackSummary": "Open this country file from the map.",
-  "panelCopy": "Use the map to jump into a country file, or browse the full country list below.",
+  "panelTitle": "Explore UFO reports worldwide",
+  "panelCopy": "Use the map to explore a country file, or browse the full country list.",
+  "browseLabel": "Browse all countries",
   "items": [
     {
       "id": "BA",
@@ -786,6 +788,22 @@
       "image": "assets/images/Thailand_a2b7c1-overview-social.jpg",
       "pageCount": 4,
       "region": "Asia"
+    },
+    {
+      "id": "CF",
+      "iso": "CF",
+      "basename": "Central_African_Repu_358788",
+      "country": "Central African Republic",
+      "label": "Central African Republic",
+      "mapAliases": [
+        "central african republic"
+      ],
+      "title": "The Central African Republic's Strangest Mysteries",
+      "summary": "The Central African Republic is not usually known internationally as a centre of Fortean mysteries, yet its landscapes, oral traditions and scientific...",
+      "url": "the-central-african-republics-strangest/",
+      "image": "assets/images/Central_African_Repu_358788-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Africa"
     },
     {
       "id": "PH",
@@ -4035,6 +4053,22 @@
       "region": "Asia"
     },
     {
+      "id": "CF",
+      "iso": "CF",
+      "basename": "Central_African_Repu_358788",
+      "country": "Central African Republic",
+      "label": "Central African Republic",
+      "mapAliases": [
+        "central african republic"
+      ],
+      "title": "The Central African Republic's Strangest Mysteries",
+      "summary": "The Central African Republic is not usually known internationally as a centre of Fortean mysteries, yet its landscapes, oral traditions and scientific...",
+      "url": "the-central-african-republics-strangest/",
+      "image": "assets/images/Central_African_Repu_358788-overview-social.jpg",
+      "pageCount": 4,
+      "region": "Africa"
+    },
+    {
       "id": "PH",
       "iso": "PH",
       "basename": "Philippines_806736",
@@ -6501,7 +6535,7 @@
       "region": "Africa"
     }
   ],
-  "matchedCount": 191,
+  "matchedCount": 192,
   "totalTopTopics": 193,
   "source": "Generated from Stage 3 country collection pages; base SVG from SimpleMaps world.svg."
 }

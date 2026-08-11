@@ -1289,7 +1289,7 @@ That is Grenada’s distinctive Fortean character: not a country where every odd
 <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
 </h4>
 <p class="fr-book-author">By Wade Davis</p>
-
+        
 <p class="fr-book-desc">First published 1985. Subjects: Social life and customs, Description and travel, Zombiism, Bizango (Cult), Religious life and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1306,7 +1306,7 @@ That is Grenada’s distinctive Fortean character: not a country where every odd
 <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of the Caribbean">A Brief History of the Caribbean</a>
 </h4>
 <p class="fr-book-author">By Jan Rogozinski</p>
-
+        
 <p class="fr-book-desc">First published 1999.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1323,7 +1323,7 @@ That is Grenada’s distinctive Fortean character: not a country where every odd
 <a href="https://www.amazon.com/s?k=Caribbean+Folk+Tales+Virginia+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caribbean Folk Tales">Caribbean Folk Tales</a>
 </h4>
 <p class="fr-book-author">By Virginia Hamilton</p>
-
+        
 <p class="fr-book-desc">Introduces Caribbean storytelling traditions relevant to Grenada.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Caribbean+Folk+Tales+Virginia+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1340,7 +1340,7 @@ That is Grenada’s distinctive Fortean character: not a country where every odd
 <a href="https://www.amazon.com/s?k=Caribbean+Mythology+Gerald+Hausman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caribbean Mythology">Caribbean Mythology</a>
 </h4>
 <p class="fr-book-author">By Gerald Hausman</p>
-
+        
 <p class="fr-book-desc">Surveys myths and legends from across the Caribbean.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Caribbean+Mythology+Gerald+Hausman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

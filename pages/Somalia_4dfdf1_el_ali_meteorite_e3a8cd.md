@@ -372,7 +372,7 @@ That reversal gives the meteorite an unusual place in Somalia's strange-history 
 <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Rocks from Space">Rocks from Space</a>
 </h4>
 <p class="fr-book-author">By O. Richard Norton</p>
-
+        
 <p class="fr-book-desc">Explains how meteorites are identified and studied.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Rocks+from+Space+by+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ That reversal gives the meteorite an unusual place in Somalia's strange-history 
 <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Bough">The Golden Bough</a>
 </h4>
 <p class="fr-book-author">By James George Frazer</p>
-
+        
 <p class="fr-book-desc">First published 1890. Subjects: Mythology, Magic, Superstition, Religion, Primitive Religion.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ That reversal gives the meteorite an unusual place in Somalia's strange-history 
 <a href="https://www.amazon.com/s?k=Myths+and+symbols+in+pagan+Europe+Hilda+Roderick+Ellis+Davidson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and symbols in pagan Europe">Myths and symbols in pagan Europe</a>
 </h4>
 <p class="fr-book-author">By Hilda Roderick Ellis Davidson</p>
-
+        
 <p class="fr-book-desc">First published 1988. Subjects: Norse Mythology, Celtic Mythology, Religion, Celts, Mythology, Norse.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Myths+and+symbols+in+pagan+Europe+Hilda+Roderick+Ellis+Davidson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -423,7 +423,7 @@ That reversal gives the meteorite an unusual place in Somalia's strange-history 
 <a href="https://www.amazon.com/s?k=Meteorites%3A+A+Journey+Through+Space+and+Time+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Meteorites: A Journey Through Space and Time">Meteorites: A Journey Through Space and Time</a>
 </h4>
 <p class="fr-book-author">By O. Richard Norton</p>
-
+        
 <p class="fr-book-desc">Provides accessible scientific context for remarkable meteorite discoveries.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Meteorites%3A+A+Journey+Through+Space+and+Time+O.+Richard+Norton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

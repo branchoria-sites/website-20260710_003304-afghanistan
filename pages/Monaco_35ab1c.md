@@ -1274,7 +1274,8 @@ This also clarifies the difference between Monaco’s sea uncanny and inland fol
 
 <img src="{{ "/assets/images/Monaco_35ab1c-Illustration-3-dark.svg" | relative_url }}" alt="Where Monaco Turns Strange by the Sea illustration 3" data-theme-src-dark="{{ "/assets/images/Monaco_35ab1c-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Monaco_35ab1c-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Competing readings of Monaco's strange stories
+## What sceptics and believers are really arguing about
+
 The Monaco material is less a battle between “real” and “fake” than a set of different evidence types. Each story asks to be handled on its own terms.
 
 **Zaca** has strong documentation as a historic yacht and weak-to-anecdotal evidence as a haunted object. Its ghost story is plausible as folklore because the vessel’s celebrity history is so vivid, but that is not the same as proof of an apparition.
@@ -1322,7 +1323,7 @@ The result is not a land of proven paranormal wonders. It is something more inte
 <a href="https://www.amazon.com/s?k=The+Riviera+set+Mary+S.+Lovell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Riviera set">The Riviera set</a>
 </h4>
 <p class="fr-book-author">By Mary S. Lovell</p>
-
+        
 <p class="fr-book-desc">First published 2016. Subjects: Rich people, Chateau de l&#x27;Horizon, History, Upper class, France, social life and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Riviera+set+Mary+S.+Lovell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1339,7 +1340,7 @@ The result is not a land of proven paranormal wonders. It is something more inte
 <a href="https://www.amazon.com/s?k=Blue+Latitudes+Tony+Horwitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Blue Latitudes">Blue Latitudes</a>
 </h4>
 <p class="fr-book-author">By Tony Horwitz</p>
-
+        
 <p class="fr-book-desc">First published 2002. Subjects: Ontdekkingsreizigers, Wereldreizen, Endeavour II (Ship), Voyages around the world, Travel.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Blue+Latitudes+Tony+Horwitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1356,7 +1357,7 @@ The result is not a land of proven paranormal wonders. It is something more inte
 <a href="https://www.amazon.com/s?k=The+Sea+Wolves+Lars+Brownworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sea Wolves">The Sea Wolves</a>
 </h4>
 <p class="fr-book-author">By Lars Brownworth, Joe Barrett</p>
-
+        
 <p class="fr-book-desc">First published 2014.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Sea+Wolves+Lars+Brownworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1373,7 +1374,7 @@ The result is not a land of proven paranormal wonders. It is something more inte
 <a href="https://www.amazon.com/s?k=Monaco+Quentin+Parker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monaco">Monaco</a>
 </h4>
 <p class="fr-book-author">By Quentin Parker</p>
-
+        
 <p class="fr-book-desc">General background on Monaco.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Monaco+Quentin+Parker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

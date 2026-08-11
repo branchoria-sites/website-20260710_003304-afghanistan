@@ -325,7 +325,8 @@ Modern researchers stress that these beliefs should not be dismissed simply as s
 
 <img src="{{ "/assets/images/Bangladesh_fa6c37_bonbibi_sundarbans_db40b4-Illustration-3-dark.svg" | relative_url }}" alt="Bonbibi illustration 3" data-theme-src-dark="{{ "/assets/images/Bangladesh_fa6c37_bonbibi_sundarbans_db40b4-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bangladesh_fa6c37_bonbibi_sundarbans_db40b4-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## How Bonbibi survived in retelling
+## Why the legend still matters
+
 Bonbibi remains one of the most distinctive examples of Bangladesh's Fortean heritage because the tradition cannot be separated from the landscape that produced it. Unlike many ghost stories, it does not revolve around haunted ruins or unexplained apparitions. Instead, it gives moral and spiritual meaning to an environment where the dangers are undeniably real.
 
 For believers, Bonbibi is a living protector whose intervention still shapes daily life. For sceptics, the stories encode practical environmental ethics, helping communities navigate one of the world's most hazardous ecosystems. Scholars increasingly argue that both readings can be true in different senses: the supernatural claims remain matters of faith, while the folklore itself preserves generations of local knowledge about restraint, survival and coexistence with a formidable predator.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.environmentandsociety.org/arcadia/bonbibi-religion-forest-sundarbans" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: environmentandsociety.org">[environmentandsociety.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">environmentandsociety.org</span><span class="citation-popover-snippet">Bonbibi: A Religion of the Forest in the SundarbansThe imagination of Bonbibi as a forest goddess and the “religion of the forest” this h...</span></span></span>
@@ -353,7 +354,7 @@ For believers, Bonbibi is a living protector whose intervention still shapes dai
 <a href="https://www.amazon.com/s?k=The+Hungry+Tide+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hungry Tide">The Hungry Tide</a>
 </h4>
 <p class="fr-book-author">By Amitav Ghosh, Yaʻel Akhmon</p>
-
+        
 <p class="fr-book-desc">First published 2004. Subjects: Ecological disturbances, Tides, Fiction, Rural poor, Americans.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Hungry+Tide+Amitav+Ghosh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +371,7 @@ For believers, Bonbibi is a living protector whose intervention still shapes dai
 <a href="https://www.amazon.com/s?k=Folktales+from+India+A.+K.+Ramanujan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Folktales from India">Folktales from India</a>
 </h4>
 <p class="fr-book-author">By A. K. Ramanujan</p>
-
+        
 <p class="fr-book-desc">First published 1991. Subjects: Tales, Oral tradition, Contes, Tradition orale, Mündliche Erzählung.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Folktales+from+India+A.+K.+Ramanujan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -387,7 +388,7 @@ For believers, Bonbibi is a living protector whose intervention still shapes dai
 <a href="https://www.amazon.com/s?k=Land+of+two+rivers+Nitish+K.+Sengupta&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Land of two rivers">Land of two rivers</a>
 </h4>
 <p class="fr-book-author">By Nitish K. Sengupta</p>
-
+        
 <p class="fr-book-desc">First published 2011. Subjects: History, Asia, history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Land+of+two+rivers+Nitish+K.+Sengupta&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +405,7 @@ For believers, Bonbibi is a living protector whose intervention still shapes dai
 <a href="https://www.amazon.com/s?k=Bonbibi%3A+Bridging+Worlds+Annu+Jalais&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bonbibi: Bridging Worlds">Bonbibi: Bridging Worlds</a>
 </h4>
 <p class="fr-book-author">By Annu Jalais</p>
-
+        
 <p class="fr-book-desc">Directly explores the guardian deity and local beliefs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bonbibi%3A+Bridging+Worlds+Annu+Jalais&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

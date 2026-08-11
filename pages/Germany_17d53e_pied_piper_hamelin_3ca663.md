@@ -357,7 +357,8 @@ Modern Hamelin openly embraces the Pied Piper as its defining symbol. Museums, p
 
 This coexistence of tourism and uncertainty is one reason the legend remains compelling. Hamelin neither claims to have solved the mystery nor abandons it as mere fiction.
 
-## Hamelin in folklore and cultural memory
+## Why the legend still matters
+
 Among Germany's many strange traditions, the Pied Piper stands apart because it combines unusually early documentary references with centuries of evolving folklore.
 
 The oldest evidence points towards a remembered disappearance rather than a magical rat-catcher. Later generations reshaped that memory into one of Europe's most influential fairy tales, adding moral lessons, colourful imagery and supernatural elements without entirely erasing the earlier mystery. As a result, the legend can be read on several levels at once: as folklore, as cultural memory, as an unresolved historical puzzle and as an example of how communities transform traumatic events into stories that survive long after the original facts have faded.
@@ -387,7 +388,7 @@ That balance between documented remembrance and imaginative retelling explains w
 <a href="https://www.amazon.com/s?k=The+Pied+Piper+of+Hamelin+Robert+Browning&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pied Piper of Hamelin">The Pied Piper of Hamelin</a>
 </h4>
 <p class="fr-book-author">By Robert Browning, Ladybird Books Staff et al.</p>
-
+        
 <p class="fr-book-desc">First published 1888. Subjects: Legends, Folklore, Pied Piper of Hamelin (Legendary character), Fairy tales, Children&#x27;s fiction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Pied+Piper+of+Hamelin+Robert+Browning&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +405,7 @@ That balance between documented remembrance and imaginative retelling explains w
 <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
 </h4>
 <p class="fr-book-author">By Jan Harold Brunvand</p>
-
+        
 <p class="fr-book-desc">First published 1981. Subjects: History and criticism, Legends, Urban folklore, Légendes, Folklore urbain.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +422,7 @@ That balance between documented remembrance and imaginative retelling explains w
 <a href="https://www.amazon.com/s?k=Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries">Mysteries</a>
 </h4>
 <p class="fr-book-author">By Colin Wilson</p>
-
+        
 <p class="fr-book-desc">First published 1978. Subjects: Occultism, Parapsychology, Supernatural, Curiosities and wonders.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mysteries+Colin+Wilson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -438,7 +439,7 @@ That balance between documented remembrance and imaginative retelling explains w
 <a href="https://www.amazon.com/s?k=Fairy+tales+Gebr%C3%BCder+Grimm+%5BBrothers+Grimm%5D&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fairy tales">Fairy tales</a>
 </h4>
 <p class="fr-book-author">By Gebrüder Grimm [Brothers Grimm], Wilhelm Grimm</p>
-
+        
 <p class="fr-book-desc">First published 1800. Subjects: Allemagne, Tales, Fairy tales, Folklore, Contes.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Fairy+tales+Gebr%C3%BCder+Grimm+%5BBrothers+Grimm%5D&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -322,89 +322,89 @@ The Hierapolis traditions also preserve an unusually early example of a witness 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Were Hierapolis&#x27; Sacred Fish Syria&#x27;s First Forteana?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Were Hierapolis&#x27; Sacred Fish Syria&#x27;s First Forteana?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Syrian+Goddess+Lucian+of+Samosata&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Syrian Goddess on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5628126-M.jpg" alt="Cover for The Syrian Goddess" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Syrian+Goddess+Lucian+of+Samosata&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Syrian Goddess">The Syrian Goddess</a>
-        </h4>
-        <p class="fr-book-author">By Lucian of Samosata</p>
-
-        <p class="fr-book-desc">Primary account of Hierapolis, Atargatis and the sacred fish.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Syrian+Goddess+Lucian+of+Samosata&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Syrian+Goddess+Lucian+of+Samosata&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Syrian Goddess on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5628126-M.jpg" alt="Cover for The Syrian Goddess" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Syrian+Goddess+Lucian+of+Samosata&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Syrian Goddess">The Syrian Goddess</a>
+</h4>
+<p class="fr-book-author">By Lucian of Samosata</p>
+        
+<p class="fr-book-desc">Primary account of Hierapolis, Atargatis and the sacred fish.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Syrian+Goddess+Lucian+of+Samosata&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+the+Ancient+Near+East+Marc+Van+De+Mieroop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of the Ancient Near East on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/755103-M.jpg" alt="Cover for A History of the Ancient Near East" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+History+of+the+Ancient+Near+East+Marc+Van+De+Mieroop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of the Ancient Near East">A History of the Ancient Near East</a>
-        </h4>
-        <p class="fr-book-author">By Marc Van De Mieroop</p>
-
-        <p class="fr-book-desc">Supplies historical background for Hierapolis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+History+of+the+Ancient+Near+East+Marc+Van+De+Mieroop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+History+of+the+Ancient+Near+East+Marc+Van+De+Mieroop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A History of the Ancient Near East on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/755103-M.jpg" alt="Cover for A History of the Ancient Near East" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+History+of+the+Ancient+Near+East+Marc+Van+De+Mieroop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A History of the Ancient Near East">A History of the Ancient Near East</a>
+</h4>
+<p class="fr-book-author">By Marc Van De Mieroop</p>
+        
+<p class="fr-book-desc">Supplies historical background for Hierapolis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+History+of+the+Ancient+Near+East+Marc+Van+De+Mieroop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Religions+of+the+Ancient+Near+East+Daniel+C.+Snell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Religions of the Ancient Near East on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8462395-M.jpg" alt="Cover for Religions of the Ancient Near East" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Religions+of+the+Ancient+Near+East+Daniel+C.+Snell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Religions of the Ancient Near East">Religions of the Ancient Near East</a>
-        </h4>
-        <p class="fr-book-author">By Daniel C. Snell</p>
-
-        <p class="fr-book-desc">Explains regional religious traditions including sacred animals.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Religions+of+the+Ancient+Near+East+Daniel+C.+Snell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Religions+of+the+Ancient+Near+East+Daniel+C.+Snell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Religions of the Ancient Near East on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8462395-M.jpg" alt="Cover for Religions of the Ancient Near East" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Religions+of+the+Ancient+Near+East+Daniel+C.+Snell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Religions of the Ancient Near East">Religions of the Ancient Near East</a>
+</h4>
+<p class="fr-book-author">By Daniel C. Snell</p>
+        
+<p class="fr-book-desc">Explains regional religious traditions including sacred animals.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Religions+of+the+Ancient+Near+East+Daniel+C.+Snell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+histories+of+Herodotus+Herodotus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The histories of Herodotus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6909537-M.jpg" alt="Cover for The histories of Herodotus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+histories+of+Herodotus+Herodotus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The histories of Herodotus">The histories of Herodotus</a>
-        </h4>
-        <p class="fr-book-author">By Herodotus</p>
-
-        <p class="fr-book-desc">First published 1899. Subjects: Ancient History, History, Histoire ancienne, open_syllabus_project.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+histories+of+Herodotus+Herodotus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+histories+of+Herodotus+Herodotus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The histories of Herodotus on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6909537-M.jpg" alt="Cover for The histories of Herodotus" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+histories+of+Herodotus+Herodotus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The histories of Herodotus">The histories of Herodotus</a>
+</h4>
+<p class="fr-book-author">By Herodotus</p>
+        
+<p class="fr-book-desc">First published 1899. Subjects: Ancient History, History, Histoire ancienne, open_syllabus_project.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+histories+of+Herodotus+Herodotus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Syrian+Goddess&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Syrian Goddess</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+the+Ancient+Near+East&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of the Ancient Near East</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Religions+of+the+Ancient+Near+East&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Religions of the Ancient Near East</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Syrian+Goddess&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Syrian Goddess</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+History+of+the+Ancient+Near+East&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A History of the Ancient Near East</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Religions+of+the+Ancient+Near+East&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Religions of the Ancient Near East</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

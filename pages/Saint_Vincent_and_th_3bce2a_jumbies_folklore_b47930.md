@@ -365,7 +365,7 @@ For modern audiences, the fascination lies in that middle ground. A jumbie story
 <a href="https://www.amazon.com/s?k=The+power+of+myth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The power of myth">The power of myth</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-
+        
 <p class="fr-book-desc">Explains why societies create enduring supernatural figures.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+power+of+myth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +382,7 @@ For modern audiences, the fascination lies in that middle ground. A jumbie story
 <a href="https://www.amazon.com/s?k=Anansi+Boys+Neil+Gaiman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Anansi Boys">Anansi Boys</a>
 </h4>
 <p class="fr-book-author">By Neil Gaiman</p>
-
+        
 <p class="fr-book-desc">First published 2005. Subjects: Action and adventure fiction, Adventure fiction, Adventure stories, brothers, embezzlement.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Anansi+Boys+Neil+Gaiman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +399,7 @@ For modern audiences, the fascination lies in that middle ground. A jumbie story
 <a href="https://www.amazon.com/s?k=The+Oxford+book+of+Caribbean+short+stories+Stewart+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford book of Caribbean short stories">The Oxford book of Caribbean short stories</a>
 </h4>
 <p class="fr-book-author">By Stewart Brown, John Wickham</p>
-
+        
 <p class="fr-book-desc">First published 1999. Subjects: Kurzgeschichte, Mœurs et coutumes, Short stories, West Indian (English), Littérature antillaise de langue...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Oxford+book+of+Caribbean+short+stories+Stewart+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -416,7 +416,7 @@ For modern audiences, the fascination lies in that middle ground. A jumbie story
 <a href="https://www.amazon.com/s?k=The+Black+Atlantic+Paul+Gilroy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Black Atlantic">The Black Atlantic</a>
 </h4>
 <p class="fr-book-author">By Paul Gilroy</p>
-
+        
 <p class="fr-book-desc">First published 1993. Subjects: African Americans, Afrocentrism, Blacks, Intellectual life, Blacks, social conditions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Black+Atlantic+Paul+Gilroy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

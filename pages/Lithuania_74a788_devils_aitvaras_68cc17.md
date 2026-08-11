@@ -358,7 +358,7 @@ Together they reveal a distinctive feature of Lithuanian strange history: its mo
 <a href="https://www.amazon.com/s?k=The+Balts+Marija+Alseikait%C4%97+Gimbutas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Balts">The Balts</a>
 </h4>
 <p class="fr-book-author">By Marija Alseikaitė Gimbutas</p>
-
+        
 <p class="fr-book-desc">First published 1963. Subjects: Antiquities, Baltic region, Balts (Indo-European people).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Balts+Marija+Alseikait%C4%97+Gimbutas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -375,7 +375,7 @@ Together they reveal a distinctive feature of Lithuanian strange history: its mo
 <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
 </h4>
 <p class="fr-book-author">By Scott G. Bruce</p>
-
+        
 <p class="fr-book-desc">First published 2021. Subjects: Folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ Together they reveal a distinctive feature of Lithuanian strange history: its mo
 <a href="https://www.amazon.com/s?k=Baltic+Mythology+Norbertas+V%C4%97lius&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Baltic Mythology">Baltic Mythology</a>
 </h4>
 <p class="fr-book-author">By Norbertas Vėlius</p>
-
+        
 <p class="fr-book-desc">Includes Lithuanian devils, spirits and mythic beings including household folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Baltic+Mythology+Norbertas+V%C4%97lius&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ Together they reveal a distinctive feature of Lithuanian strange history: its mo
 <a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Imaginary Beings">The Book of Imaginary Beings</a>
 </h4>
 <p class="fr-book-author">By Jorge Luis Borges</p>
-
+        
 <p class="fr-book-desc">Useful companion for comparing legendary creatures.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -1585,37 +1585,37 @@ The most honest reading is neither credulous nor dismissive. Many Lithuanian str
    Link:<a href="https://www.researchgate.net/publication/339503878_Witchcraft_Court_Cases_in_the_Grand_Duchy_of_Lithuania_in_the_Sixteenth_to_Eighteenth_Centuries" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/339503878_Witchcraft_Court_Cases_in_the_Grand_Duchy_of_Lithuania_in_the_Sixteenth_to_Eighteenth_Centuries</a>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Lithuania&#x27;s Weird Stories Take Root. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Lithuania&#x27;s Weird Stories Take Root. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Balts+Marija+Alseikait%C4%97+Gimbutas&amp;i=stripbooks" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Balts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5728900-M.jpg" alt="Cover for The Balts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Balts+Marija+Alseikait%C4%97+Gimbutas&amp;i=stripbooks" target="_blank" rel="sponsored noopener noreferrer" title="The Balts">The Balts</a>
-        </h4>
-        <p class="fr-book-author">By Marija Alseikaitė Gimbutas</p>
-
-        <p class="fr-book-desc">Provides essential background for Lithuania&#x27;s folklore, sacred places and mythic traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Balts+Marija+Alseikait%C4%97+Gimbutas&amp;i=stripbooks" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Balts+Marija+Alseikait%C4%97+Gimbutas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Balts on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5728900-M.jpg" alt="Cover for The Balts" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Balts+Marija+Alseikait%C4%97+Gimbutas&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Balts">The Balts</a>
+</h4>
+<p class="fr-book-author">By Marija Alseikaitė Gimbutas</p>
+        
+<p class="fr-book-desc">Provides essential background for Lithuania&#x27;s folklore, sacred places and mythic traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Balts+Marija+Alseikait%C4%97+Gimbutas&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Balts&amp;i=stripbooks" target="_blank" rel="sponsored noopener noreferrer">Browse more on Amazon</a>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Balts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Browse more on Amazon</a>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 

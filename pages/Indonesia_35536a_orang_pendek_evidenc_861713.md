@@ -383,7 +383,7 @@ For Indonesia's strange-history record, that balance is precisely what gives Ora
 <a href="https://www.amazon.com/s?k=The+field+guide+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The field guide to Bigfoot, Yeti, and other mystery primates worldwide">The field guide to Bigfoot, Yeti, and other mystery primates...</a>
 </h4>
 <p class="fr-book-author">By Loren Coleman, Patrick Huyghe et al.</p>
-
+        
 <p class="fr-book-desc">First published 1999. Subjects: Primates, Monsters, Folklore, Sasquatch, Yeti.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+field+guide+to+Bigfoot%2C+Yeti%2C+and+other+mystery+primates+worldwide+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ For Indonesia's strange-history record, that balance is precisely what gives Ora
 <a href="https://www.amazon.com/s?k=Still+in+Search+of+Prehistoric+Survivors+Karl+P.N.+Shuker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Still in Search of Prehistoric Survivors">Still in Search of Prehistoric Survivors</a>
 </h4>
 <p class="fr-book-author">By Karl P.N. Shuker, Roy P. Mackal et al.</p>
-
+        
 <p class="fr-book-desc">First published 2016.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Still+in+Search+of+Prehistoric+Survivors+Karl+P.N.+Shuker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ For Indonesia's strange-history record, that balance is precisely what gives Ora
 <a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unexplained!">Unexplained!</a>
 </h4>
 <p class="fr-book-author">By Jerome Clark</p>
-
+        
 <p class="fr-book-desc">First published 1993. Subjects: Science, Curiosities and wonders, Miscellanea, Nonfiction, Psychiatry &amp; Psychology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Unexplained%21+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -434,7 +434,7 @@ For Indonesia's strange-history record, that balance is precisely what gives Ora
 <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
 </h4>
 <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
-
+        
 <p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -340,7 +340,7 @@ For the broader strange history of the Federated States of Micronesia, Menka ill
 <a href="https://www.amazon.com/s?k=Collapse+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Collapse">Collapse</a>
 </h4>
 <p class="fr-book-author">By Jared Diamond</p>
-
+        
 <p class="fr-book-desc">First published 2004. Subjects: Sociology, Culturen, Environnement, Changement social, Verval (geschiedenis).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Collapse+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -357,7 +357,7 @@ For the broader strange history of the Federated States of Micronesia, Menka ill
 <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the gods">Fingerprints of the gods</a>
 </h4>
 <p class="fr-book-author">By Graham Hancock</p>
-
+        
 <p class="fr-book-desc">First published 1995. Subjects: Lost continents, World maps, Ancient Civilization, Discovery and exploration, Early works to 1800.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -374,7 +374,7 @@ For the broader strange history of the Federated States of Micronesia, Menka ill
 <a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The anthropology of religion, magic, and witchcraft">The anthropology of religion, magic, and witchcraft</a>
 </h4>
 <p class="fr-book-author">By Philip L. Stein, Rebecca Stein</p>
-
+        
 <p class="fr-book-desc">First published 2007. Subjects: Anthropology of religion, Religion, Religion and culture, Anthropology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+anthropology+of+religion%2C+magic%2C+and+witchcraft+Philip+L.+Stein&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ For the broader strange history of the Federated States of Micronesia, Menka ill
 <a href="https://www.amazon.com/s?k=The+Archaeology+of+the+Pacific+Islands+Patrick+Vinton+Kirch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Archaeology of the Pacific Islands">The Archaeology of the Pacific Islands</a>
 </h4>
 <p class="fr-book-author">By Patrick Vinton Kirch</p>
-
+        
 <p class="fr-book-desc">Best overall background for sacred Pacific archaeological sites.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Archaeology+of+the+Pacific+Islands+Patrick+Vinton+Kirch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

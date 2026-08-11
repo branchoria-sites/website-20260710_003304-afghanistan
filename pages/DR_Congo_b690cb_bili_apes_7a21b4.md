@@ -340,7 +340,7 @@ In that sense, the Bili apes occupy an unusual place in modern Forteana. They de
 <a href="https://www.amazon.com/s?k=The+Sixth+Extinction+Elizabeth+Kolbert&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sixth Extinction">The Sixth Extinction</a>
 </h4>
 <p class="fr-book-author">By Elizabeth Kolbert, Marcel Blanc</p>
-
+        
 <p class="fr-book-desc">First published 2014. Subjects: Extinction (Biology), Mass extinctions, Environmental disasters, SCIENCE / Environmental Science, SCIENCE...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Sixth+Extinction+Elizabeth+Kolbert&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -357,7 +357,7 @@ In that sense, the Bili apes occupy an unusual place in modern Forteana. They de
 <a href="https://www.amazon.com/s?k=Among+the+great+apes+Paul+Raffaele&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Among the great apes">Among the great apes</a>
 </h4>
 <p class="fr-book-author">By Paul Raffaele</p>
-
+        
 <p class="fr-book-desc">First published 2010. Subjects: Nonfiction, Science, Apes, Behavior, Conservation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Among+the+great+apes+Paul+Raffaele&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -374,7 +374,7 @@ In that sense, the Bili apes occupy an unusual place in modern Forteana. They de
 <a href="https://www.amazon.com/s?k=The+tangled+tree+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The tangled tree">The tangled tree</a>
 </h4>
 <p class="fr-book-author">By David Quammen</p>
-
+        
 <p class="fr-book-desc">First published 2018. Subjects: Molecular aspects, Phylogeny, nyt:combined-print-and-e-book-nonfiction=2018-09-02, New York Times bestsel...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+tangled+tree+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ In that sense, the Bili apes occupy an unusual place in modern Forteana. They de
 <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
 </h4>
 <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
-
+        
 <p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

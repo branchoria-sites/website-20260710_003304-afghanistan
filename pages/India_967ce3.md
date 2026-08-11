@@ -1308,7 +1308,8 @@ At the same time, visionary experiences remain culturally important for many com
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/RcePxHyJeJI" title="India’s Real Desert Light Mystery Explained | Rann of Kutch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=RcePxHyJeJI" target="_blank" rel="noopener noreferrer">India’s Real Desert Light Mystery Explained | Rann of Kutch</a></p><p class="youtube-embed-meta">Channel: Harsh Vikas</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=RcePxHyJeJI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=RcePxHyJeJI">Open on YouTube</a></p></div></div></div>
 
-## India's strange stories in folklore and cultural memory
+## Why these stories endure
+
 India's strange traditions survive because they satisfy different needs for different audiences.
 
 Some preserve local history. Others reinforce cultural identity, entertain visitors or express respect for dangerous landscapes. Modern social media has accelerated the spread of rumours, but the underlying mechanisms remain remarkably similar to those found in centuries-old folklore.
@@ -1326,89 +1327,89 @@ India's Fortean landscape is unusually broad rather than unusually conclusive. I
 That combination of deep historical tradition, immense geographic diversity and modern media ensures that India remains one of the world's richest sources of strange stories—not because it offers proof of the paranormal, but because it reveals how people interpret extraordinary experiences across changing centuries.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Does India Have So Many Strange Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Does India Have So Many Strange Stories?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Myths+and+legends+of+India+Veronica+Ions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Myths and legends of India on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10422593-M.jpg" alt="Cover for Myths and legends of India" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Myths+and+legends+of+India+Veronica+Ions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and legends of India">Myths and legends of India</a>
-        </h4>
-        <p class="fr-book-author">By Veronica Ions</p>
-
-        <p class="fr-book-desc">Explains the cultural background behind many unusual stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Myths+and+legends+of+India+Veronica+Ions&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Myths+and+legends+of+India+Veronica+Ions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Myths and legends of India on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10422593-M.jpg" alt="Cover for Myths and legends of India" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Myths+and+legends+of+India+Veronica+Ions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and legends of India">Myths and legends of India</a>
+</h4>
+<p class="fr-book-author">By Veronica Ions</p>
+        
+<p class="fr-book-desc">Explains the cultural background behind many unusual stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Myths+and+legends+of+India+Veronica+Ions&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Element+Encyclopedia+of+Ghosts+and+Hauntings+Theresa+Cheung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Element Encyclopedia of Ghosts and Hauntings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12987671-M.jpg" alt="Cover for Element Encyclopedia of Ghosts and Hauntings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Element+Encyclopedia+of+Ghosts+and+Hauntings+Theresa+Cheung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Element Encyclopedia of Ghosts and Hauntings">Element Encyclopedia of Ghosts and Hauntings</a>
-        </h4>
-        <p class="fr-book-author">By Theresa Cheung</p>
-
-        <p class="fr-book-desc">Places Indian ghost traditions within global folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Element+Encyclopedia+of+Ghosts+and+Hauntings+Theresa+Cheung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Element+Encyclopedia+of+Ghosts+and+Hauntings+Theresa+Cheung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Element Encyclopedia of Ghosts and Hauntings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12987671-M.jpg" alt="Cover for Element Encyclopedia of Ghosts and Hauntings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Element+Encyclopedia+of+Ghosts+and+Hauntings+Theresa+Cheung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Element Encyclopedia of Ghosts and Hauntings">Element Encyclopedia of Ghosts and Hauntings</a>
+</h4>
+<p class="fr-book-author">By Theresa Cheung</p>
+        
+<p class="fr-book-desc">Places Indian ghost traditions within global folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Element+Encyclopedia+of+Ghosts+and+Hauntings+Theresa+Cheung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mythology Book on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology Book">The Mythology Book</a>
-        </h4>
-        <p class="fr-book-author">By DK</p>
-
-        <p class="fr-book-desc">Covers myth-making across cultures including South Asia.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mythology Book on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology Book">The Mythology Book</a>
+</h4>
+<p class="fr-book-author">By DK</p>
+        
+<p class="fr-book-desc">Covers myth-making across cultures including South Asia.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Illustrated+Signs+and+Symbols+Sourcebook+Adele+Nozedar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Illustrated Signs and Symbols Sourcebook on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Illustrated+Signs+and+Symbols+Sourcebook+Adele+Nozedar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Illustrated Signs and Symbols Sourcebook">The Illustrated Signs and Symbols Sourcebook</a>
-        </h4>
-        <p class="fr-book-author">By Adele Nozedar</p>
-
-        <p class="fr-book-desc">Provides broad context for myths, legends and strange traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Illustrated+Signs+and+Symbols+Sourcebook+Adele+Nozedar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Illustrated+Signs+and+Symbols+Sourcebook+Adele+Nozedar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Illustrated Signs and Symbols Sourcebook on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Illustrated+Signs+and+Symbols+Sourcebook+Adele+Nozedar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Illustrated Signs and Symbols Sourcebook">The Illustrated Signs and Symbols Sourcebook</a>
+</h4>
+<p class="fr-book-author">By Adele Nozedar</p>
+        
+<p class="fr-book-desc">Provides broad context for myths, legends and strange traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Illustrated+Signs+and+Symbols+Sourcebook+Adele+Nozedar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Myths+and+legends+of+India&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Myths and legends of India</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Element+Encyclopedia+of+Ghosts+and+Hauntings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Element Encyclopedia of Ghosts and Hauntings</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mythology+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mythology Book</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Myths+and+legends+of+India&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Myths and legends of India</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Element+Encyclopedia+of+Ghosts+and+Hauntings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Element Encyclopedia of Ghosts and Hauntings</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mythology+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mythology Book</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

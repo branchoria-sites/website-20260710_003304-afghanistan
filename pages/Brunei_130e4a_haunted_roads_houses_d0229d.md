@@ -366,7 +366,8 @@ At the same time, Brunei's religious culture shapes how such stories are interpr
 
 <img src="{{ "/assets/images/Brunei_130e4a_haunted_roads_houses_d0229d-Illustration-3-dark.svg" | relative_url }}" alt="Ghost Places illustration 3" data-theme-src-dark="{{ "/assets/images/Brunei_130e4a_haunted_roads_houses_d0229d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Brunei_130e4a_haunted_roads_houses_d0229d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## How Ghost Places survived in retelling
+## Why the stories endure
+
 Evidence for genuinely haunted roads or houses in Brunei remains anecdotal. There are no widely accepted scientific investigations confirming paranormal activity at the country's best-known locations, and many stories exist in multiple versions that change over time.
 
 Yet the traditions continue because they perform several cultural functions at once. They preserve local identity by attaching memorable stories to familiar places. They encourage caution on isolated roads and around abandoned properties. They provide a language for discussing unsettling experiences that many people feel are difficult to explain. And they connect modern housing estates and highways with much older Malay ideas about landscape, unseen beings and the boundaries between the ordinary and the mysterious.
@@ -374,89 +375,89 @@ Yet the traditions continue because they perform several cultural functions at o
 For readers interested in Brunei's Fortean landscape, these ghost places are therefore significant less as evidence of the supernatural than as evidence of how folklore adapts. New roads, new suburbs and new houses quickly acquire legends of their own, ensuring that even a rapidly modernising country continues to generate intensely local stories about what might still be waiting just beyond the headlights.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Are Brunei&#x27;s Ghosts So Local?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Are Brunei&#x27;s Ghosts So Local?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Element+Encyclopedia+of+Ghosts+and+Hauntings+Theresa+Cheung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Element Encyclopedia of Ghosts and Hauntings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12987671-M.jpg" alt="Cover for Element Encyclopedia of Ghosts and Hauntings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Element+Encyclopedia+of+Ghosts+and+Hauntings+Theresa+Cheung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Element Encyclopedia of Ghosts and Hauntings">Element Encyclopedia of Ghosts and Hauntings</a>
-        </h4>
-        <p class="fr-book-author">By Theresa Cheung</p>
-
-        <p class="fr-book-desc">Covers recurring ghost traditions found worldwide.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Element+Encyclopedia+of+Ghosts+and+Hauntings+Theresa+Cheung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Element+Encyclopedia+of+Ghosts+and+Hauntings+Theresa+Cheung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Element Encyclopedia of Ghosts and Hauntings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12987671-M.jpg" alt="Cover for Element Encyclopedia of Ghosts and Hauntings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Element+Encyclopedia+of+Ghosts+and+Hauntings+Theresa+Cheung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Element Encyclopedia of Ghosts and Hauntings">Element Encyclopedia of Ghosts and Hauntings</a>
+</h4>
+<p class="fr-book-author">By Theresa Cheung</p>
+        
+<p class="fr-book-desc">Covers recurring ghost traditions found worldwide.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Element+Encyclopedia+of+Ghosts+and+Hauntings+Theresa+Cheung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+of+Lore%3A+Wicked+Mortals+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World of Lore: Wicked Mortals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14362649-M.jpg" alt="Cover for The World of Lore: Wicked Mortals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+World+of+Lore%3A+Wicked+Mortals+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World of Lore: Wicked Mortals">The World of Lore: Wicked Mortals</a>
-        </h4>
-        <p class="fr-book-author">By Aaron Mahnke</p>
-
-        <p class="fr-book-desc">Explores supernatural beliefs tied to human behaviour and place.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+World+of+Lore%3A+Wicked+Mortals+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+World+of+Lore%3A+Wicked+Mortals+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The World of Lore: Wicked Mortals on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14362649-M.jpg" alt="Cover for The World of Lore: Wicked Mortals" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+World+of+Lore%3A+Wicked+Mortals+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The World of Lore: Wicked Mortals">The World of Lore: Wicked Mortals</a>
+</h4>
+<p class="fr-book-author">By Aaron Mahnke</p>
+        
+<p class="fr-book-desc">Explores supernatural beliefs tied to human behaviour and place.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+World+of+Lore%3A+Wicked+Mortals+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghostland%3A+An+American+History+in+Haunted+Places+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghostland: An American History in Haunted Places on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13074544-M.jpg" alt="Cover for Ghostland: An American History in Haunted Places" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghostland%3A+An+American+History+in+Haunted+Places+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland: An American History in Haunted Places">Ghostland: An American History in Haunted Places</a>
-        </h4>
-        <p class="fr-book-author">By Colin Dickey</p>
-
-        <p class="fr-book-desc">Explains how ordinary locations become famous for ghost stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghostland%3A+An+American+History+in+Haunted+Places+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghostland%3A+An+American+History+in+Haunted+Places+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghostland: An American History in Haunted Places on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13074544-M.jpg" alt="Cover for Ghostland: An American History in Haunted Places" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghostland%3A+An+American+History+in+Haunted+Places+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland: An American History in Haunted Places">Ghostland: An American History in Haunted Places</a>
+</h4>
+<p class="fr-book-author">By Colin Dickey</p>
+        
+<p class="fr-book-desc">Explains how ordinary locations become famous for ghost stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghostland%3A+An+American+History+in+Haunted+Places+Colin+Dickey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghostland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10456761-M.jpg" alt="Cover for Ghostland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland">Ghostland</a>
-        </h4>
-        <p class="fr-book-author">By Edward Parnell</p>
-
-        <p class="fr-book-desc">First published 2019. Subjects: Psychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghostland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10456761-M.jpg" alt="Cover for Ghostland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland">Ghostland</a>
+</h4>
+<p class="fr-book-author">By Edward Parnell</p>
+        
+<p class="fr-book-desc">First published 2019. Subjects: Psychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Element+Encyclopedia+of+Ghosts+and+Hauntings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Element Encyclopedia of Ghosts and Hauntings</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World+of+Lore%3A+Wicked+Mortals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World of Lore: Wicked Mortals</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghostland%3A+An+American+History+in+Haunted+Places&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghostland: An American History in Haunted Places</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Element+Encyclopedia+of+Ghosts+and+Hauntings&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Element Encyclopedia of Ghosts and Hauntings</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+World+of+Lore%3A+Wicked+Mortals&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The World of Lore: Wicked Mortals</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghostland%3A+An+American+History+in+Haunted+Places&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghostland: An American History in Haunted Places</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

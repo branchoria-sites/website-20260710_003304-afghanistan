@@ -318,7 +318,8 @@ The Grootslang legend can be understood without stripping away its mystery. Seve
 
 <img src="{{ "/assets/images/South_Africa_3b27c8_grootslang_serpent_m_0de1ef-Illustration-3-dark.svg" | relative_url }}" alt="Grootslang illustration 3" data-theme-src-dark="{{ "/assets/images/South_Africa_3b27c8_grootslang_serpent_m_0de1ef-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/South_Africa_3b27c8_grootslang_serpent_m_0de1ef-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The cultural afterlife of Grootslang
+## Why the Story Endures
+
 Modern audiences often encounter the Grootslang through fantasy novels, games or internet mythology, where it is sometimes reimagined as a hybrid elephant-serpent created at the dawn of the world. Those colourful origin stories are largely modern inventions and should not be confused with the older South African traditions centred on the Richtersveld.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Grootslang" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
 The enduring appeal of the Grootslang lies elsewhere. It captures an important truth about South African landscapes: some places inspire awe because they combine beauty with genuine danger. The Richtersveld's remote mountains, the Orange River's diamond-bearing gravels and the thunder of Augrabies Falls already feel extraordinary. The Grootslang transforms those realities into a memorable narrative in which the greatest threats are not simply monsters but isolation, hazardous terrain and the human desire to gamble everything for hidden riches.
@@ -348,7 +349,7 @@ Within South Africa's wider body of strange folklore, the Grootslang therefore f
 <a href="https://www.amazon.com/s?k=Myths+and+legends+of+Southern+Africa+Penny+Miller&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and legends of Southern Africa">Myths and legends of Southern Africa</a>
 </h4>
 <p class="fr-book-author">By Penny Miller</p>
-
+        
 <p class="fr-book-desc">First published 1979. Subjects: Legends, Folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Myths+and+legends+of+Southern+Africa+Penny+Miller&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -365,7 +366,7 @@ Within South Africa's wider body of strange folklore, the Grootslang therefore f
 <a href="https://www.amazon.com/s?k=African+myths+of+origin+Stephen+Paterson+Belcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African myths of origin">African myths of origin</a>
 </h4>
 <p class="fr-book-author">By Stephen Paterson Belcher</p>
-
+        
 <p class="fr-book-desc">First published 2005. Subjects: Tales, Mythology, Folklore, africa, African Mythology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=African+myths+of+origin+Stephen+Paterson+Belcher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +383,7 @@ Within South Africa's wider body of strange folklore, the Grootslang therefore f
 <a href="https://www.amazon.com/s?k=The+field+guide+to+lake+monsters%2C+sea+serpents+and+other+mystery+denizens+of+the+deep+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The field guide to lake monsters, sea serpents and other mystery denizens of the deep">The field guide to lake monsters, sea serpents and other myst...</a>
 </h4>
 <p class="fr-book-author">By Loren Coleman, Patrick Huyghe et al.</p>
-
+        
 <p class="fr-book-desc">First published 2003. Subjects: Marine animals, Sea monsters, Folklore, Animals, folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+field+guide+to+lake+monsters%2C+sea+serpents+and+other+mystery+denizens+of+the+deep+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +400,7 @@ Within South Africa's wider body of strange folklore, the Grootslang therefore f
 <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
 </h4>
 <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
-
+        
 <p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

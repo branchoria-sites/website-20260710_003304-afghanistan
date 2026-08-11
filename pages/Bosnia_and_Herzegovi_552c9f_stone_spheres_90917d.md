@@ -367,7 +367,7 @@ For Fortean readers, they are an excellent reminder that mystery does not disapp
 <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the gods">Fingerprints of the gods</a>
 </h4>
 <p class="fr-book-author">By Graham Hancock</p>
-
+        
 <p class="fr-book-desc">First published 1995. Subjects: Lost continents, World maps, Ancient Civilization, Discovery and exploration, Early works to 1800.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ For Fortean readers, they are an excellent reminder that mystery does not disapp
 <a href="https://www.amazon.com/s?k=The+Geology+Book+Study+Guide+%28Wonders+of+Creation%29+John+D.+Morris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Geology Book Study Guide (Wonders of Creation)">The Geology Book Study Guide (Wonders of Creation)</a>
 </h4>
 <p class="fr-book-author">By John D. Morris</p>
-
+        
 <p class="fr-book-desc">First published 2006.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Geology+Book+Study+Guide+%28Wonders+of+Creation%29+John+D.+Morris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ For Fortean readers, they are an excellent reminder that mystery does not disapp
 <a href="https://www.amazon.com/s?k=Bosnia+%26+Herzegovina+Tim+Clancy&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bosnia &amp; Herzegovina">Bosnia &amp; Herzegovina</a>
 </h4>
 <p class="fr-book-author">By Tim Clancy</p>
-
+        
 <p class="fr-book-desc">First published 2011. Subjects: Guidebooks, Balkan peninsula, history, Bosnia and hercegovina, description and travel.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bosnia+%26+Herzegovina+Tim+Clancy&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ For Fortean readers, they are an excellent reminder that mystery does not disapp
 <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Chariots of the gods?">Chariots of the gods?</a>
 </h4>
 <p class="fr-book-author">By Erich von Däniken</p>
-
+        
 <p class="fr-book-desc">First published 1971. Subjects: Interplanetary voyages, Life on other planets.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Chariots+of+the+gods%3F+Erich+von+D%C3%A4niken&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

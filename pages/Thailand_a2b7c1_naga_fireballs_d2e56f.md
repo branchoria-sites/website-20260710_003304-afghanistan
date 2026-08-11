@@ -384,7 +384,7 @@ That combination of recurring spectacle, uncertain evidence and powerful cultura
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-
+        
 <p class="fr-book-desc">Frames investigation of extraordinary claims such as mysterious lights.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ That combination of recurring spectacle, uncertain evidence and powerful cultura
 <a href="https://www.amazon.com/s?k=Very+Thai+Philip+Cornwel-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Very Thai">Very Thai</a>
 </h4>
 <p class="fr-book-author">By Philip Cornwel-Smith</p>
-
+        
 <p class="fr-book-desc">First published 2005. Subjects: Popular culture, Social life and customs, Thailand, social life and customs, Asia, pictorial works, Civil...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Very+Thai+Philip+Cornwel-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ That combination of recurring spectacle, uncertain evidence and powerful cultura
 <a href="https://www.amazon.com/s?k=Dragon+in+China+and+Japan+M.+W.+De+Visser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dragon in China and Japan">Dragon in China and Japan</a>
 </h4>
 <p class="fr-book-author">By M. W. De Visser</p>
-
+        
 <p class="fr-book-desc">First published 2003.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Dragon+in+China+and+Japan+M.+W.+De+Visser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +435,7 @@ That combination of recurring spectacle, uncertain evidence and powerful cultura
 <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
 </h4>
 <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
-
+        
 <p class="fr-book-desc">First published 1985.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

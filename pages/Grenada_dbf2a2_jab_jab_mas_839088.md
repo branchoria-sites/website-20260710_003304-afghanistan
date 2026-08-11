@@ -327,7 +327,7 @@ Unlike ghost legends or supernatural folklore, Jab Jab's mystery lies in interpr
 <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
 </h4>
 <p class="fr-book-author">By Wade Davis</p>
-
+        
 <p class="fr-book-desc">First published 1985. Subjects: Social life and customs, Description and travel, Zombiism, Bizango (Cult), Religious life and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -344,7 +344,7 @@ Unlike ghost legends or supernatural folklore, Jab Jab's mystery lies in interpr
 <a href="https://www.amazon.com/s?k=Into+the+Bermuda+Triangle+Gian+J.+Quasar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Into the Bermuda Triangle">Into the Bermuda Triangle</a>
 </h4>
 <p class="fr-book-author">By Gian J. Quasar</p>
-
+        
 <p class="fr-book-desc">First published 2004. Subjects: Nonfiction, Sports &amp; Recreations, Bermuda triangle.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Into+the+Bermuda+Triangle+Gian+J.+Quasar&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -361,7 +361,7 @@ Unlike ghost legends or supernatural folklore, Jab Jab's mystery lies in interpr
 <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of the Caribbean">A Brief History of the Caribbean</a>
 </h4>
 <p class="fr-book-author">By Jan Rogozinski</p>
-
+        
 <p class="fr-book-desc">First published 1999.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ Unlike ghost legends or supernatural folklore, Jab Jab's mystery lies in interpr
 <a href="https://www.amazon.com/s?k=Erik+Larson+Bestselling+4+Books+Set.+the+Devil+in+the+White+City%2C+the+Splendid+and+the+Vile%2C+in+the+Garden+of+Beasts%2C+Dead+Wake+by+Erik+Larson+Erik+Larson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Erik Larson Bestselling 4 Books Set. the Devil in the White City, the Splendid and the Vile, in the Garden of Beasts, Dead Wake by Erik Larson">Erik Larson Bestselling 4 Books Set. the Devil in the White C...</a>
 </h4>
 <p class="fr-book-author">By Erik Larson</p>
-
+        
 <p class="fr-book-desc">First published 2022. Subjects: Biography.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Erik+Larson+Bestselling+4+Books+Set.+the+Devil+in+the+White+City%2C+the+Splendid+and+the+Vile%2C+in+the+Garden+of+Beasts%2C+Dead+Wake+by+Erik+Larson+Erik+Larson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

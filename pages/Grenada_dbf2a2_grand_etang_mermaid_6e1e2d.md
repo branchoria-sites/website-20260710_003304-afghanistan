@@ -300,7 +300,8 @@ The Grand Etang legend fits comfortably into this broader tradition. The lake's 
 
 <img src="{{ "/assets/images/Grenada_dbf2a2_grand_etang_mermaid_6e1e2d-Illustration-3-dark.svg" | relative_url }}" alt="Grand Etang illustration 3" data-theme-src-dark="{{ "/assets/images/Grenada_dbf2a2_grand_etang_mermaid_6e1e2d-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Grenada_dbf2a2_grand_etang_mermaid_6e1e2d-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The cultural afterlife of Grand Etang
+## Why the legend still matters
+
 The Grand Etang mermaid has become part of Grenada's cultural identity because it combines an extraordinary landscape with an easily remembered story. Visitors encounter both at once: a beautiful volcanic lake whose scientific history is fascinating, and a local legend that gives the place emotional character.
 
 For readers interested in Forteana, the significance lies less in the existence of a mythical creature than in how legends emerge from real environments. Grand Etang demonstrates that folklore can persist alongside modern science without direct conflict. The volcanic origin of the lake is well understood, its dimensions have been measured and its ecology is documented, yet the mermaid remains part of how many people imagine the place.
@@ -330,7 +331,7 @@ That balance—between measured reality and imaginative tradition—is precisely
 <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
 </h4>
 <p class="fr-book-author">By Wade Davis</p>
-
+        
 <p class="fr-book-desc">First published 1985. Subjects: Social life and customs, Description and travel, Zombiism, Bizango (Cult), Religious life and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -347,7 +348,7 @@ That balance—between measured reality and imaginative tradition—is precisely
 <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Brief History of the Caribbean">A Brief History of the Caribbean</a>
 </h4>
 <p class="fr-book-author">By Jan Rogozinski</p>
-
+        
 <p class="fr-book-desc">First published 1999.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+Brief+History+of+the+Caribbean+Jan+Rogozinski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -364,7 +365,7 @@ That balance—between measured reality and imaginative tradition—is precisely
 <a href="https://www.amazon.com/s?k=Caribbean+Folk+Tales+Virginia+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caribbean Folk Tales">Caribbean Folk Tales</a>
 </h4>
 <p class="fr-book-author">By Virginia Hamilton</p>
-
+        
 <p class="fr-book-desc">Provides broader Caribbean oral tradition context.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Caribbean+Folk+Tales+Virginia+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -381,7 +382,7 @@ That balance—between measured reality and imaginative tradition—is precisely
 <a href="https://www.amazon.com/s?k=Caribbean+Mythology+Gerald+Hausman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Caribbean Mythology">Caribbean Mythology</a>
 </h4>
 <p class="fr-book-author">By Gerald Hausman</p>
-
+        
 <p class="fr-book-desc">Includes Caribbean water-spirit traditions related to mermaid legends.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Caribbean+Mythology+Gerald+Hausman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

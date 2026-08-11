@@ -1285,7 +1285,7 @@ For a Fortean view of Laos, the most revealing question is not simply “Are the
 <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Bough">The Golden Bough</a>
 </h4>
 <p class="fr-book-author">By James George Frazer</p>
-
+        
 <p class="fr-book-desc">First published 1890. Subjects: Mythology, Magic, Superstition, Religion, Primitive Religion.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1302,7 +1302,7 @@ For a Fortean view of Laos, the most revealing question is not simply “Are the
 <a href="https://www.amazon.com/s?k=Atlas+Obscura+Joshua+Foer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atlas Obscura">Atlas Obscura</a>
 </h4>
 <p class="fr-book-author">By Joshua Foer, Dylan Thuras et al.</p>
-
+        
 <p class="fr-book-desc">First published 2016. Subjects: History, World Wonders, Voyages and travels, Curiosities and wonders, Guidebooks.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Atlas+Obscura+Joshua+Foer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1319,7 +1319,7 @@ For a Fortean view of Laos, the most revealing question is not simply “Are the
 <a href="https://www.amazon.com/s?k=The+serpent%27s+tale+Ariana+Franklin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The serpent&#x27;s tale">The serpent&#x27;s tale</a>
 </h4>
 <p class="fr-book-author">By Ariana Franklin</p>
-
+        
 <p class="fr-book-desc">First published 2008. Subjects: Mistresses, Fiction, Women forensic pathologists, Adelia Aguilar (Fictitious character), Large type books.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+serpent%27s+tale+Ariana+Franklin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1336,7 +1336,7 @@ For a Fortean view of Laos, the most revealing question is not simply “Are the
 <a href="https://www.amazon.com/s?k=Southeast+Asia+Keat+Gin+Ooi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Southeast Asia">Southeast Asia</a>
 </h4>
 <p class="fr-book-author">By Keat Gin Ooi</p>
-
+        
 <p class="fr-book-desc">First published 2004. Subjects: Encyclopedias, History, Southeast asia, history, Encyclopédies, Histoire.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Southeast+Asia+Keat+Gin+Ooi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

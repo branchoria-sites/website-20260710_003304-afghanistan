@@ -321,89 +321,89 @@ Socotra's dragon's-blood trees occupy a distinctive place in Yemen's strange cul
 Unlike many Fortean subjects, the central mystery is not whether the trees exist—they plainly do—but why something so unusual evolved at all, and how people have repeatedly interpreted that rarity through legends of dragons, spirits and enchanted islands. The science makes the trees no less astonishing. If anything, understanding that such an extraordinary landscape arose through evolution and isolation makes Socotra's genuine story every bit as memorable as the myths it inspired.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Does Socotra Look Like a Legend?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Does Socotra Look Like a Legend?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+botany+of+desire+Michael+Pollan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The botany of desire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3232846-M.jpg" alt="Cover for The botany of desire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+botany+of+desire+Michael+Pollan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The botany of desire">The botany of desire</a>
-        </h4>
-        <p class="fr-book-author">By Michael Pollan, Michael Pollan et al.</p>
-
-        <p class="fr-book-desc">Appeals to readers fascinated by remarkable plants.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+botany+of+desire+Michael+Pollan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+botany+of+desire+Michael+Pollan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The botany of desire on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3232846-M.jpg" alt="Cover for The botany of desire" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+botany+of+desire+Michael+Pollan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The botany of desire">The botany of desire</a>
+</h4>
+<p class="fr-book-author">By Michael Pollan, Michael Pollan et al.</p>
+        
+<p class="fr-book-desc">Appeals to readers fascinated by remarkable plants.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+botany+of+desire+Michael+Pollan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Song+of+the+Dodo+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Song of the Dodo on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1019514-M.jpg" alt="Cover for The Song of the Dodo" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Song+of+the+Dodo+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Song of the Dodo">The Song of the Dodo</a>
-        </h4>
-        <p class="fr-book-author">By David Quammen</p>
-
-        <p class="fr-book-desc">Explains why isolated islands evolve extraordinary species like Socotra&#x27;s flora.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Song+of+the+Dodo+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Song+of+the+Dodo+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Song of the Dodo on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1019514-M.jpg" alt="Cover for The Song of the Dodo" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Song+of+the+Dodo+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Song of the Dodo">The Song of the Dodo</a>
+</h4>
+<p class="fr-book-author">By David Quammen</p>
+        
+<p class="fr-book-desc">Explains why isolated islands evolve extraordinary species like Socotra&#x27;s flora.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Song+of+the+Dodo+David+Quammen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Yemen%3A+Travels+in+Dictionary+Land+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Yemen: Travels in Dictionary Land on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/457529-M.jpg" alt="Cover for Yemen: Travels in Dictionary Land" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Yemen%3A+Travels+in+Dictionary+Land+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Yemen: Travels in Dictionary Land">Yemen: Travels in Dictionary Land</a>
-        </h4>
-        <p class="fr-book-author">By Tim MacKintosh-Smith, Tim MacIntosh-Smith</p>
-
-        <p class="fr-book-desc">Provides cultural context for Socotra within Yemen.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Yemen%3A+Travels+in+Dictionary+Land+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Yemen%3A+Travels+in+Dictionary+Land+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Yemen: Travels in Dictionary Land on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/457529-M.jpg" alt="Cover for Yemen: Travels in Dictionary Land" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Yemen%3A+Travels+in+Dictionary+Land+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Yemen: Travels in Dictionary Land">Yemen: Travels in Dictionary Land</a>
+</h4>
+<p class="fr-book-author">By Tim MacKintosh-Smith, Tim MacIntosh-Smith</p>
+        
+<p class="fr-book-desc">Provides cultural context for Socotra within Yemen.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Yemen%3A+Travels+in+Dictionary+Land+Tim+MacKintosh-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Arabia+Felix%2C+the+Danish+expedition+of+1761-1767+Thorkild+Hansen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Arabia Felix, the Danish expedition of 1761-1767 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Arabia+Felix%2C+the+Danish+expedition+of+1761-1767+Thorkild+Hansen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabia Felix, the Danish expedition of 1761-1767">Arabia Felix, the Danish expedition of 1761-1767</a>
-        </h4>
-        <p class="fr-book-author">By Thorkild Hansen</p>
-
-        <p class="fr-book-desc">First published 1964. Subjects: Description and travel.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Arabia+Felix%2C+the+Danish+expedition+of+1761-1767+Thorkild+Hansen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Arabia+Felix%2C+the+Danish+expedition+of+1761-1767+Thorkild+Hansen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Arabia Felix, the Danish expedition of 1761-1767 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Arabia+Felix%2C+the+Danish+expedition+of+1761-1767+Thorkild+Hansen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Arabia Felix, the Danish expedition of">Arabia Felix, the Danish expedition of</a>
+</h4>
+<p class="fr-book-author">By Thorkild Hansen</p>
+        
+<p class="fr-book-desc">First published 1964. Subjects: Description and travel.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Arabia+Felix%2C+the+Danish+expedition+of+1761-1767+Thorkild+Hansen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+botany+of+desire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The botany of desire</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Song+of+the+Dodo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Song of the Dodo</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Yemen%3A+Travels+in+Dictionary+Land&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Yemen: Travels in Dictionary Land</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+botany+of+desire&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The botany of desire</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Song+of+the+Dodo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Song of the Dodo</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Yemen%3A+Travels+in+Dictionary+Land&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Yemen: Travels in Dictionary Land</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

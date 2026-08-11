@@ -1315,7 +1315,7 @@ The strongest conclusion is not that Iceland is more supernatural than other cou
 <a href="https://www.amazon.com/s?k=Icelandic+folktales+and+legends+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Icelandic folktales and legends">Icelandic folktales and legends</a>
 </h4>
 <p class="fr-book-author">By Jacqueline Simpson</p>
-
+        
 <p class="fr-book-desc">First published 1972. Subjects: Tales, Tales, iceland.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Icelandic+folktales+and+legends+Jacqueline+Simpson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1332,7 +1332,7 @@ The strongest conclusion is not that Iceland is more supernatural than other cou
 <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
 </h4>
 <p class="fr-book-author">By Scott G. Bruce</p>
-
+        
 <p class="fr-book-desc">First published 2021. Subjects: Folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1349,7 +1349,7 @@ The strongest conclusion is not that Iceland is more supernatural than other cou
 <a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Atlas of Monsters">The Atlas of Monsters</a>
 </h4>
 <p class="fr-book-author">By Sandra Lawrence</p>
-
+        
 <p class="fr-book-desc">First published 2018.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1366,7 +1366,7 @@ The strongest conclusion is not that Iceland is more supernatural than other cou
 <a href="https://www.amazon.com/s?k=The+prose+Edda+of+Snorri+Sturluson+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The prose Edda of Snorri Sturluson">The prose Edda of Snorri Sturluson</a>
 </h4>
 <p class="fr-book-author">By Snorri Sturluson</p>
-
+        
 <p class="fr-book-desc">First published 1954. Subjects: Norse Mythology, Scalds and scaldic poetry.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+prose+Edda+of+Snorri+Sturluson+Snorri+Sturluson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

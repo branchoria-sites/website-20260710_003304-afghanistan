@@ -1298,7 +1298,8 @@ Large fish create similar folklore pressure. Reports of very large catfish from 
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZojBkNuJjE8" title="Houska Castle | The Gateway to Hell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZojBkNuJjE8" target="_blank" rel="noopener noreferrer">Houska Castle | The Gateway to Hell</a></p><p class="youtube-embed-meta">Channel: A Moment in History</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZojBkNuJjE8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZojBkNuJjE8">Open on YouTube</a></p></div></div></div>
 
-## Competing readings of Czechia's strange stories
+## What sceptics and believers are really arguing about
+
 The Czech material shows that “believer versus sceptic” is often too blunt. Different cases require different standards.
 
 For Houska Castle, the dispute is mostly about interpretation. Everyone can agree the castle exists and has legends; the question is whether unusual architecture preserves a memory of something uncanny or simply invited later storytelling. For the Golem, the dispute is historical: the legend is powerful, but the best-known Prague form appears to be much later than the life of Rabbi Loew. For UFO sightings, the dispute is evidential: witness testimony may be sincere, but identification requires records, timings, directions, instrument data and elimination of ordinary causes. For sprites, meteorites and cloud vortices, the “mystery” can be real while the explanation remains natural.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.visitczechia.com/en-us/things-to-do/places/landmarks/castles-and-ruins/c-houska-castle" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: visitczechia.com">[visitczechia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">visitczechia.com</span><span class="citation-popover-snippet">Open source on visitczechia.com.</span></span></span>
@@ -1329,89 +1330,89 @@ The Czech Republic’s strange record endures because it is unusually good at ma
 The best Czech Forteana is therefore not a pile of “proof” for the paranormal. It is a map of how people explain the unsettling: with demons under castles, clay guardians in ghettos, knights inside mountains, dragons in town halls, lights in the sky, and later, meteor cameras, satellite data and sceptical investigators. Its lasting charm lies in that tension. Czech weird history keeps one foot on cobblestones and the other in the dark.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Does Czechia Feel So Haunted?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Does Czechia Feel So Haunted?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Golem+and+the+Wondrous+Deeds+of+the+Maharal+of+Prague+Yudl+Rosenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Golem and the Wondrous Deeds of the Maharal of Prague on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/162922-M.jpg" alt="Cover for The Golem and the Wondrous Deeds of the Maharal of Prague" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Golem+and+the+Wondrous+Deeds+of+the+Maharal+of+Prague+Yudl+Rosenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golem and the Wondrous Deeds of the Maharal of Prague">The Golem and the Wondrous Deeds of the Maharal of Prague</a>
-        </h4>
-        <p class="fr-book-author">By Yudl Rosenberg</p>
-
-        <p class="fr-book-desc">Covers one of Czechia&#x27;s defining supernatural stories.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Golem+and+the+Wondrous+Deeds+of+the+Maharal+of+Prague+Yudl+Rosenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Golem+and+the+Wondrous+Deeds+of+the+Maharal+of+Prague+Yudl+Rosenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Golem and the Wondrous Deeds of the Maharal of Prague on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/162922-M.jpg" alt="Cover for The Golem and the Wondrous Deeds of the Maharal of Prague" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Golem+and+the+Wondrous+Deeds+of+the+Maharal+of+Prague+Yudl+Rosenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golem and the Wondrous Deeds of the Maharal of Prague">The Golem and the Wondrous Deeds of the Maharal of Prague</a>
+</h4>
+<p class="fr-book-author">By Yudl Rosenberg</p>
+        
+<p class="fr-book-desc">Covers one of Czechia&#x27;s defining supernatural stories.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Golem+and+the+Wondrous+Deeds+of+the+Maharal+of+Prague+Yudl+Rosenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghostland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10456761-M.jpg" alt="Cover for Ghostland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland">Ghostland</a>
-        </h4>
-        <p class="fr-book-author">By Edward Parnell</p>
-
-        <p class="fr-book-desc">Provides context for why haunted legends endure.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghostland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10456761-M.jpg" alt="Cover for Ghostland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghostland">Ghostland</a>
+</h4>
+<p class="fr-book-author">By Edward Parnell</p>
+        
+<p class="fr-book-desc">Provides context for why haunted legends endure.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghostland+Edward+Parnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Prague%3A+Alchemy%2C+Mystery%2C+and+History+Peter+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Prague: Alchemy, Mystery, and History on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Prague%3A+Alchemy%2C+Mystery%2C+and+History+Peter+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Prague: Alchemy, Mystery, and History">Prague: Alchemy, Mystery, and History</a>
-        </h4>
-        <p class="fr-book-author">By Peter Marshall</p>
-
-        <p class="fr-book-desc">Matches the broad Czech mysteries theme extremely well.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Prague%3A+Alchemy%2C+Mystery%2C+and+History+Peter+Marshall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Prague%3A+Alchemy%2C+Mystery%2C+and+History+Peter+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Prague: Alchemy, Mystery, and History on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Prague%3A+Alchemy%2C+Mystery%2C+and+History+Peter+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Prague: Alchemy, Mystery, and History">Prague: Alchemy, Mystery, and History</a>
+</h4>
+<p class="fr-book-author">By Peter Marshall</p>
+        
+<p class="fr-book-desc">Matches the broad Czech mysteries theme extremely well.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Prague%3A+Alchemy%2C+Mystery%2C+and+History+Peter+Marshall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Imaginary Beings on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Imaginary Beings">The Book of Imaginary Beings</a>
-        </h4>
-        <p class="fr-book-author">By Jorge Luis Borges</p>
-
-        <p class="fr-book-desc">Supports readers exploring legendary creatures and folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Imaginary Beings on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Imaginary Beings">The Book of Imaginary Beings</a>
+</h4>
+<p class="fr-book-author">By Jorge Luis Borges</p>
+        
+<p class="fr-book-desc">Supports readers exploring legendary creatures and folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Golem+and+the+Wondrous+Deeds+of+the+Maharal+of+Prague&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Golem and the Wondrous Deeds of the Maharal of Prague</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghostland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghostland</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Prague%3A+Alchemy%2C+Mystery%2C+and+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Prague: Alchemy, Mystery, and History</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Golem+and+the+Wondrous+Deeds+of+the+Maharal+of+Prague&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Golem and the Wondrous Deeds of the Maharal of Prague</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghostland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghostland</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Prague%3A+Alchemy%2C+Mystery%2C+and+History&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Prague: Alchemy, Mystery, and History</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

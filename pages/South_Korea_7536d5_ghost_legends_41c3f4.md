@@ -322,89 +322,89 @@ In this sense, Korean ghost legends belong to a wider record of South Korea’s 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Korean Ghost Stories Endure. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Korean Ghost Stories Endure. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Stories+of+an+Antiquary+Montague+Rhodes+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Stories of an Antiquary on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/309008-M.jpg" alt="Cover for Ghost Stories of an Antiquary" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ghost+Stories+of+an+Antiquary+Montague+Rhodes+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Stories of an Antiquary">Ghost Stories of an Antiquary</a>
-        </h4>
-        <p class="fr-book-author">By Montague Rhodes James</p>
-
-        <p class="fr-book-desc">Classic haunted-place reading companion.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ghost+Stories+of+an+Antiquary+Montague+Rhodes+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ghost+Stories+of+an+Antiquary+Montague+Rhodes+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ghost Stories of an Antiquary on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/309008-M.jpg" alt="Cover for Ghost Stories of an Antiquary" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ghost+Stories+of+an+Antiquary+Montague+Rhodes+James&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Stories of an Antiquary">Ghost Stories of an Antiquary</a>
+</h4>
+<p class="fr-book-author">By Montague Rhodes James</p>
+        
+<p class="fr-book-desc">Classic haunted-place reading companion.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ghost+Stories+of+an+Antiquary+Montague+Rhodes+James&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Korean+folk+tales%3A+imps%2C+ghosts+and+fairies+Pang+Im&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Korean folk tales: imps, ghosts and fairies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5718999-M.jpg" alt="Cover for Korean folk tales: imps, ghosts and fairies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Korean+folk+tales%3A+imps%2C+ghosts+and+fairies+Pang+Im&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Korean folk tales: imps, ghosts and fairies">Korean folk tales: imps, ghosts and fairies</a>
-        </h4>
-        <p class="fr-book-author">By Pang Im, James Scarth Gale et al.</p>
-
-        <p class="fr-book-desc">Directly covers Korean spirits and traditional legends.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Korean+folk+tales%3A+imps%2C+ghosts+and+fairies+Pang+Im&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Korean+folk+tales%3A+imps%2C+ghosts+and+fairies+Pang+Im&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Korean folk tales: imps, ghosts and fairies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5718999-M.jpg" alt="Cover for Korean folk tales: imps, ghosts and fairies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Korean+folk+tales%3A+imps%2C+ghosts+and+fairies+Pang+Im&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Korean folk tales: imps, ghosts and fairies">Korean folk tales: imps, ghosts and fairies</a>
+</h4>
+<p class="fr-book-author">By Pang Im, James Scarth Gale et al.</p>
+        
+<p class="fr-book-desc">Directly covers Korean spirits and traditional legends.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Korean+folk+tales%3A+imps%2C+ghosts+and+fairies+Pang+Im&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+companion+to+world+mythology+David+Adams+Leeming&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford companion to world mythology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/126034-M.jpg" alt="Cover for The Oxford companion to world mythology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Oxford+companion+to+world+mythology+David+Adams+Leeming&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford companion to world mythology">The Oxford companion to world mythology</a>
-        </h4>
-        <p class="fr-book-author">By David Adams Leeming</p>
-
-        <p class="fr-book-desc">Adds global folklore context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Oxford+companion+to+world+mythology+David+Adams+Leeming&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Oxford+companion+to+world+mythology+David+Adams+Leeming&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Oxford companion to world mythology on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/126034-M.jpg" alt="Cover for The Oxford companion to world mythology" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Oxford+companion+to+world+mythology+David+Adams+Leeming&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Oxford companion to world mythology">The Oxford companion to world mythology</a>
+</h4>
+<p class="fr-book-author">By David Adams Leeming</p>
+        
+<p class="fr-book-desc">Adds global folklore context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Oxford+companion+to+world+mythology+David+Adams+Leeming&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ghosts+of+the+Golden+Age%3A+Korean+Classic+Ghost+Stories+Kim+Young-ha&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ghosts of the Golden Age: Korean Classic Ghost Stories on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Ghosts+of+the+Golden+Age%3A+Korean+Classic+Ghost+Stories+Kim+Young-ha&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ghosts of the Golden Age: Korean Classic Ghost Stories">The Ghosts of the Golden Age: Korean Classic Ghost Stories</a>
-        </h4>
-        <p class="fr-book-author">By Kim Young-ha</p>
-
-        <p class="fr-book-desc">Matches Korean ghost-story readers.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Ghosts+of+the+Golden+Age%3A+Korean+Classic+Ghost+Stories+Kim+Young-ha&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Ghosts+of+the+Golden+Age%3A+Korean+Classic+Ghost+Stories+Kim+Young-ha&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Ghosts of the Golden Age: Korean Classic Ghost Stories on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Ghosts+of+the+Golden+Age%3A+Korean+Classic+Ghost+Stories+Kim+Young-ha&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ghosts of the Golden Age: Korean Classic Ghost Stories">The Ghosts of the Golden Age: Korean Classic Ghost Stories</a>
+</h4>
+<p class="fr-book-author">By Kim Young-ha</p>
+        
+<p class="fr-book-desc">Matches Korean ghost-story readers.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Ghosts+of+the+Golden+Age%3A+Korean+Classic+Ghost+Stories+Kim+Young-ha&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+Stories+of+an+Antiquary&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost Stories of an Antiquary</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Korean+folk+tales%3A+imps%2C+ghosts+and+fairies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Korean folk tales: imps, ghosts and fairies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+companion+to+world+mythology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford companion to world mythology</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ghost+Stories+of+an+Antiquary&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ghost Stories of an Antiquary</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Korean+folk+tales%3A+imps%2C+ghosts+and+fairies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Korean folk tales: imps, ghosts and fairies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Oxford+companion+to+world+mythology&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Oxford companion to world mythology</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

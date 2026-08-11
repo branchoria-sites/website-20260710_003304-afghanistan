@@ -1312,7 +1312,7 @@ Seychelles’ Forteana is most revealing when it is allowed to be mixed: part fo
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Unexplained Phenomena">The Mammoth Book of Unexplained Phenomena</a>
 </h4>
 <p class="fr-book-author">By Roy Bainton</p>
-
+        
 <p class="fr-book-desc">Covers folklore, legends and unexplained events.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1329,7 +1329,7 @@ Seychelles’ Forteana is most revealing when it is allowed to be mixed: part fo
 <a href="https://www.amazon.com/s?k=The+book+of+buried+treasure+Ralph+Delahaye+Paine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The book of buried treasure">The book of buried treasure</a>
 </h4>
 <p class="fr-book-author">By Ralph Delahaye Paine</p>
-
+        
 <p class="fr-book-desc">First published 1911. Subjects: Treasure troves, Treasure-trove.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+book+of+buried+treasure+Ralph+Delahaye+Paine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1346,7 +1346,7 @@ Seychelles’ Forteana is most revealing when it is allowed to be mixed: part fo
 <a href="https://www.amazon.com/s?k=Treasure+islands+Nicholas+Shaxson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Treasure islands">Treasure islands</a>
 </h4>
 <p class="fr-book-author">By Nicholas Shaxson</p>
-
+        
 <p class="fr-book-desc">First published 2011. Subjects: Tax evasion, Tax havens, Foreign Banks and banking, Social aspects, Taxation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Treasure+islands+Nicholas+Shaxson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1363,7 +1363,7 @@ Seychelles’ Forteana is most revealing when it is allowed to be mixed: part fo
 <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
 </h4>
 <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
-
+        
 <p class="fr-book-desc">First published 1985.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

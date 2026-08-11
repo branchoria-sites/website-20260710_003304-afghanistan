@@ -377,7 +377,7 @@ For readers interested in Uganda's Fortean heritage, the Lukwata is therefore le
 <a href="https://www.amazon.com/s?k=Dark+star+safari+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dark star safari">Dark star safari</a>
 </h4>
 <p class="fr-book-author">By Paul Theroux</p>
-
+        
 <p class="fr-book-desc">First published 2002. Subjects: Journeys, Description and travel, Africa, description and travel, New York Times reviewed, Travel.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Dark+star+safari+Paul+Theroux&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ For readers interested in Uganda's Fortean heritage, the Lukwata is therefore le
 <a href="https://www.amazon.com/s?k=African+myths+of+origin+Stephen+Paterson+Belcher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="African myths of origin">African myths of origin</a>
 </h4>
 <p class="fr-book-author">By Stephen Paterson Belcher</p>
-
+        
 <p class="fr-book-desc">First published 2005. Subjects: Tales, Mythology, Folklore, africa, African Mythology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=African+myths+of+origin+Stephen+Paterson+Belcher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -411,7 +411,7 @@ For readers interested in Uganda's Fortean heritage, the Lukwata is therefore le
 <a href="https://www.amazon.com/s?k=The+field+guide+to+lake+monsters%2C+sea+serpents+and+other+mystery+denizens+of+the+deep+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The field guide to lake monsters, sea serpents and other mystery denizens of the deep">The field guide to lake monsters, sea serpents and other myst...</a>
 </h4>
 <p class="fr-book-author">By Loren Coleman, Patrick Huyghe et al.</p>
-
+        
 <p class="fr-book-desc">First published 2003. Subjects: Marine animals, Sea monsters, Folklore, Animals, folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+field+guide+to+lake+monsters%2C+sea+serpents+and+other+mystery+denizens+of+the+deep+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -428,7 +428,7 @@ For readers interested in Uganda's Fortean heritage, the Lukwata is therefore le
 <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
 </h4>
 <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
-
+        
 <p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

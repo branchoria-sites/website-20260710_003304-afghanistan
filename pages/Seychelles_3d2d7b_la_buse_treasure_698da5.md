@@ -345,7 +345,7 @@ For Fortean readers, this makes La Buse's treasure especially revealing. It is n
 <a href="https://www.amazon.com/s?k=Under+the+black+flag+David+Cordingly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Under the black flag">Under the black flag</a>
 </h4>
 <p class="fr-book-author">By David Cordingly</p>
-
+        
 <p class="fr-book-desc">First published 1996. Subjects: Pirates, History: World, Privateering, Pirates &amp; piracy.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Under+the+black+flag+David+Cordingly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -362,7 +362,7 @@ For Fortean readers, this makes La Buse's treasure especially revealing. It is n
 <a href="https://www.amazon.com/s?k=The+book+of+buried+treasure+Ralph+Delahaye+Paine&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The book of buried treasure">The book of buried treasure</a>
 </h4>
 <p class="fr-book-author">By Ralph Delahaye Paine</p>
-
+        
 <p class="fr-book-desc">First published 1911. Subjects: Treasure troves, Treasure-trove.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+book+of+buried+treasure+Ralph+Delahaye+Paine&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ For Fortean readers, this makes La Buse's treasure especially revealing. It is n
 <a href="https://www.amazon.com/s?k=Pirate+Hunters+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pirate Hunters">Pirate Hunters</a>
 </h4>
 <p class="fr-book-author">By Robert Kurson</p>
-
+        
 <p class="fr-book-desc">First published 2015. Subjects: Pirates, Deep diving, Treasure troves, Golden Fleece (Ship), Shipwrecks.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Pirate+Hunters+Robert+Kurson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ For Fortean readers, this makes La Buse's treasure especially revealing. It is n
 <a href="https://www.amazon.com/s?k=Treasure+islands+Nicholas+Shaxson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Treasure islands">Treasure islands</a>
 </h4>
 <p class="fr-book-author">By Nicholas Shaxson</p>
-
+        
 <p class="fr-book-desc">First published 2011. Subjects: Tax evasion, Tax havens, Foreign Banks and banking, Social aspects, Taxation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Treasure+islands+Nicholas+Shaxson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

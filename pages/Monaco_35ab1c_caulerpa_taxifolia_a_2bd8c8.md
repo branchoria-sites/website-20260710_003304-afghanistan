@@ -318,95 +318,95 @@ It is therefore an unusually modern form of Forteana: a case where the "monster"
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Monaco&#x27;s Real Monster Was an Aquarium Alga. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Monaco&#x27;s Real Monster Was an Aquarium Alga. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+world+is+blue+Sylvia+A.+Earle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The world is blue on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6409256-M.jpg" alt="Cover for The world is blue" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+world+is+blue+Sylvia+A.+Earle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world is blue">The world is blue</a>
-        </h4>
-        <p class="fr-book-author">By Sylvia A. Earle</p>
-
-        <p class="fr-book-desc">Provides context for Mediterranean marine ecology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+world+is+blue+Sylvia+A.+Earle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+world+is+blue+Sylvia+A.+Earle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The world is blue on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6409256-M.jpg" alt="Cover for The world is blue" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+world+is+blue+Sylvia+A.+Earle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world is blue">The world is blue</a>
+</h4>
+<p class="fr-book-author">By Sylvia A. Earle</p>
+        
+<p class="fr-book-desc">Provides context for Mediterranean marine ecology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+world+is+blue+Sylvia+A.+Earle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+new+wild+Fred+Pearce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The new wild on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12658044-M.jpg" alt="Cover for The new wild" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+new+wild+Fred+Pearce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The new wild">The new wild</a>
-        </h4>
-        <p class="fr-book-author">By Fred Pearce</p>
-
-        <p class="fr-book-desc">Discusses changing ecosystems and introduced species.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+new+wild+Fred+Pearce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+new+wild+Fred+Pearce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The new wild on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12658044-M.jpg" alt="Cover for The new wild" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+new+wild+Fred+Pearce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The new wild">The new wild</a>
+</h4>
+<p class="fr-book-author">By Fred Pearce</p>
+        
+<p class="fr-book-desc">Discusses changing ecosystems and introduced species.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+new+wild+Fred+Pearce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Riviera+set+Mary+S.+Lovell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Riviera set on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9134053-M.jpg" alt="Cover for The Riviera set" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Riviera+set+Mary+S.+Lovell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Riviera set">The Riviera set</a>
-        </h4>
-        <p class="fr-book-author">By Mary S. Lovell</p>
-
-        <p class="fr-book-desc">Adds wider Riviera context.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Riviera+set+Mary+S.+Lovell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Riviera+set+Mary+S.+Lovell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Riviera set on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9134053-M.jpg" alt="Cover for The Riviera set" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Riviera+set+Mary+S.+Lovell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Riviera set">The Riviera set</a>
+</h4>
+<p class="fr-book-author">By Mary S. Lovell</p>
+        
+<p class="fr-book-desc">Adds wider Riviera context.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Riviera+set+Mary+S.+Lovell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Invasive+Species+What+Everyone+Needs+to+Know+Daniel+Simberloff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Invasive Species
-
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Invasive+Species+What+Everyone+Needs+to+Know+Daniel+Simberloff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Invasive Species
+            
                 What Everyone Needs to Know on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7850160-M.jpg" alt="Cover for Invasive Species
-
+            
                 What Everyone Needs to Know" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Invasive+Species+What+Everyone+Needs+to+Know+Daniel+Simberloff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Invasive Species
-
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Invasive+Species+What+Everyone+Needs+to+Know+Daniel+Simberloff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Invasive Species
+            
                 What Everyone Needs to Know">Invasive Species What Everyone Needs to Know</a>
-        </h4>
-        <p class="fr-book-author">By Daniel Simberloff</p>
-
-        <p class="fr-book-desc">First published 2013. Subjects: Plants, Conservation biology, Evolution, Introduced organisms, Evolution (Biology).</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Invasive+Species+What+Everyone+Needs+to+Know+Daniel+Simberloff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+</h4>
+<p class="fr-book-author">By Daniel Simberloff</p>
+        
+<p class="fr-book-desc">First published 2013. Subjects: Plants, Conservation biology, Evolution, Introduced organisms, Evolution (Biology).</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Invasive+Species+What+Everyone+Needs+to+Know+Daniel+Simberloff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+world+is+blue&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The world is blue</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+new+wild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The new wild</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Riviera+set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Riviera set</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+world+is+blue&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The world is blue</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+new+wild&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The new wild</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Riviera+set&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Riviera set</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

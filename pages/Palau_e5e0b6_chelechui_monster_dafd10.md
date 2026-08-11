@@ -319,7 +319,7 @@ From a Fortean perspective, Chelechui sits in the interesting space between myst
 <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The hero with a thousand faces">The hero with a thousand faces</a>
 </h4>
 <p class="fr-book-author">By Joseph Campbell</p>
-
+        
 <p class="fr-book-desc">First published 1949. Subjects: Mythology, Psychoanalysis, Mythologie, Helden (personen), Psychanalyse.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -336,7 +336,7 @@ From a Fortean perspective, Chelechui sits in the interesting space between myst
 <a href="https://www.amazon.com/s?k=The+Book+of+Mythical+Beasts+and+Magical+Creatures+Stephen+Krensky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Mythical Beasts and Magical Creatures">The Book of Mythical Beasts and Magical Creatures</a>
 </h4>
 <p class="fr-book-author">By Stephen Krensky</p>
-
+        
 <p class="fr-book-desc">First published 2020. Subjects: Bilderbuch, Nachschlagewerk, Lexikon, Fabelwesen, Fantasy.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Book+of+Mythical+Beasts+and+Magical+Creatures+Stephen+Krensky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -353,7 +353,7 @@ From a Fortean perspective, Chelechui sits in the interesting space between myst
 <a href="https://www.amazon.com/s?k=The+Penguin+book+of+modern+fantasy+by+women+A.+Susan+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin book of modern fantasy by women">The Penguin book of modern fantasy by women</a>
 </h4>
 <p class="fr-book-author">By A. Susan Williams, Richard Glyn Jones</p>
-
+        
 <p class="fr-book-desc">First published 1995. Subjects: Fantasy fiction, Women authors, Literature, Fiction, women authors, Short stories, english.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+book+of+modern+fantasy+by+women+A.+Susan+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -370,7 +370,7 @@ From a Fortean perspective, Chelechui sits in the interesting space between myst
 <a href="https://www.amazon.com/s?k=The+encyclopedia+of+monsters+Jeff+Rovin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The encyclopedia of monsters">The encyclopedia of monsters</a>
 </h4>
 <p class="fr-book-author">By Jeff Rovin</p>
-
+        
 <p class="fr-book-desc">First published 1989. Subjects: Dictionaries, Monsters in mass media, Popular culture, Monsters in motion pictures, Monsters in mass medi...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+encyclopedia+of+monsters+Jeff+Rovin&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

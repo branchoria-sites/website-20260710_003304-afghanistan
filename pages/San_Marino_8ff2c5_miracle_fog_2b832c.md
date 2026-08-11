@@ -296,7 +296,8 @@ The important point for a Fortean reading is that the “mystery” is not simpl
 
 <img src="{{ "/assets/images/San_Marino_8ff2c5_miracle_fog_2b832c-Illustration-2-dark.svg" | relative_url }}" alt="Miracle Fog illustration 2" data-theme-src-dark="{{ "/assets/images/San_Marino_8ff2c5_miracle_fog_2b832c-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/San_Marino_8ff2c5_miracle_fog_2b832c-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## How Miracle Fog survived in retelling
+## Why the story still matters
+
 The fog story remains powerful because it captures the themes that surround San Marino’s identity: survival, independence and the ability of a small state to outlast larger neighbours. The republic’s history contains many moments where geography and circumstance played a role, but the 1543 episode is especially memorable because the decisive force was not an army or treaty — it was the landscape itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cosmundus.com/en/history-of-san-marino/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cosmundus.com">[Cosmundus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cosmundus.com</span><span class="citation-popover-title">The history of San Marino, the oldest country in the world</span><span class="citation-popover-snippet">The history of San Marino, the oldest country in the world - Cosmundus...</span></span></span>
 
 The story also shows how historical memory works. A modern reader can separate several layers:
@@ -320,89 +321,89 @@ The 1543 fog therefore occupies a distinctive place in San Marino’s strange-hi
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Fog That Saved San Marino. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Fog That Saved San Marino. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=MIRACLES+%3A+A+PRELIMINARY+STUDY+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open MIRACLES : A PRELIMINARY STUDY on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9184514-M.jpg" alt="Cover for MIRACLES : A PRELIMINARY STUDY" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=MIRACLES+%3A+A+PRELIMINARY+STUDY+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="MIRACLES : A PRELIMINARY STUDY">MIRACLES : A PRELIMINARY STUDY</a>
-        </h4>
-        <p class="fr-book-author">By C. S. Lewis</p>
-
-        <p class="fr-book-desc">Connects with the interpretation of weather events as divine intervention.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=MIRACLES+%3A+A+PRELIMINARY+STUDY+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=MIRACLES+%3A+A+PRELIMINARY+STUDY+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open MIRACLES : A PRELIMINARY STUDY on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9184514-M.jpg" alt="Cover for MIRACLES : A PRELIMINARY STUDY" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=MIRACLES+%3A+A+PRELIMINARY+STUDY+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="MIRACLES : A PRELIMINARY STUDY">MIRACLES : A PRELIMINARY STUDY</a>
+</h4>
+<p class="fr-book-author">By C. S. Lewis</p>
+        
+<p class="fr-book-desc">Connects with the interpretation of weather events as divine intervention.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=MIRACLES+%3A+A+PRELIMINARY+STUDY+C.+S.+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+book+of+general+ignorance+John+Mitchinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The book of general ignorance on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1165344-M.jpg" alt="Cover for The book of general ignorance" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+book+of+general+ignorance+John+Mitchinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The book of general ignorance">The book of general ignorance</a>
-        </h4>
-        <p class="fr-book-author">By John Mitchinson, John Lloyd</p>
-
-        <p class="fr-book-desc">Explains how surprising historical stories become accepted knowledge.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+book+of+general+ignorance+John+Mitchinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+book+of+general+ignorance+John+Mitchinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The book of general ignorance on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1165344-M.jpg" alt="Cover for The book of general ignorance" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+book+of+general+ignorance+John+Mitchinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The book of general ignorance">The book of general ignorance</a>
+</h4>
+<p class="fr-book-author">By John Mitchinson, John Lloyd</p>
+        
+<p class="fr-book-desc">Explains how surprising historical stories become accepted knowledge.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+book+of+general+ignorance+John+Mitchinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Distant+Mirror%3A+The+Calamitous+14th+Century+Barbara+Tuchman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Distant Mirror: The Calamitous 14th Century on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5071195-M.jpg" alt="Cover for A Distant Mirror: The Calamitous 14th Century" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=A+Distant+Mirror%3A+The+Calamitous+14th+Century+Barbara+Tuchman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Distant Mirror: The Calamitous 14th Century">A Distant Mirror: The Calamitous 14th Century</a>
-        </h4>
-        <p class="fr-book-author">By Barbara Tuchman</p>
-
-        <p class="fr-book-desc">Useful for readers interested in European historical crises and legends.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=A+Distant+Mirror%3A+The+Calamitous+14th+Century+Barbara+Tuchman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Distant+Mirror%3A+The+Calamitous+14th+Century+Barbara+Tuchman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Distant Mirror: The Calamitous 14th Century on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5071195-M.jpg" alt="Cover for A Distant Mirror: The Calamitous 14th Century" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Distant+Mirror%3A+The+Calamitous+14th+Century+Barbara+Tuchman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Distant Mirror: The Calamitous 14th Century">A Distant Mirror: The Calamitous 14th Century</a>
+</h4>
+<p class="fr-book-author">By Barbara Tuchman</p>
+        
+<p class="fr-book-desc">Useful for readers interested in European historical crises and legends.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Distant+Mirror%3A+The+Calamitous+14th+Century+Barbara+Tuchman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Europe+%3A+a+history+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Europe : a history on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/127151-M.jpg" alt="Cover for Europe : a history" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Europe+%3A+a+history+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Europe : a history">Europe : a history</a>
-        </h4>
-        <p class="fr-book-author">By Norman Davies</p>
-
-        <p class="fr-book-desc">First published 1996. Subjects: History, Europe, history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Europe+%3A+a+history+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Europe+%3A+a+history+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Europe : a history on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/127151-M.jpg" alt="Cover for Europe : a history" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Europe+%3A+a+history+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Europe : a history">Europe : a history</a>
+</h4>
+<p class="fr-book-author">By Norman Davies</p>
+        
+<p class="fr-book-desc">First published 1996. Subjects: History, Europe, history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Europe+%3A+a+history+Norman+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=MIRACLES+%3A+A+PRELIMINARY+STUDY&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">MIRACLES : A PRELIMINARY STUDY</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+book+of+general+ignorance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The book of general ignorance</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Distant+Mirror%3A+The+Calamitous+14th+Century&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Distant Mirror: The Calamitous 14th Century</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=MIRACLES+%3A+A+PRELIMINARY+STUDY&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">MIRACLES : A PRELIMINARY STUDY</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+book+of+general+ignorance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The book of general ignorance</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=A+Distant+Mirror%3A+The+Calamitous+14th+Century&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">A Distant Mirror: The Calamitous 14th Century</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

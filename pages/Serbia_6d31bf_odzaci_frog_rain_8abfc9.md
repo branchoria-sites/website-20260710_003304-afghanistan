@@ -355,7 +355,7 @@ That makes the Odžaci frog rain an excellent example of why Fortean stories rem
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mammoth Book of Unexplained Phenomena">The Mammoth Book of Unexplained Phenomena</a>
 </h4>
 <p class="fr-book-author">By Roy Bainton</p>
-
+        
 <p class="fr-book-desc">Includes discussion of unusual natural mysteries.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Mammoth+Book+of+Unexplained+Phenomena+by+Roy+Bainton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ That makes the Odžaci frog rain an excellent example of why Fortean stories rem
 <a href="https://www.amazon.com/s?k=The+Weather+Machine+by+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weather Machine">The Weather Machine</a>
 </h4>
 <p class="fr-book-author">By Andrew Blum</p>
-
+        
 <p class="fr-book-desc">Provides background on meteorology relevant to rare weather events.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Weather+Machine+by+Andrew+Blum&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ That makes the Odžaci frog rain an excellent example of why Fortean stories rem
 <a href="https://www.amazon.com/s?k=Storm+in+a+Teacup+Helen+Czerski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Storm in a Teacup">Storm in a Teacup</a>
 </h4>
 <p class="fr-book-author">By Helen Czerski</p>
-
+        
 <p class="fr-book-desc">First published 2016. Subjects: Physics, popular works.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Storm+in+a+Teacup+Helen+Czerski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ That makes the Odžaci frog rain an excellent example of why Fortean stories rem
 <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysteries of the Unexplained">Mysteries of the Unexplained</a>
 </h4>
 <p class="fr-book-author">By Reader&#x27;s Digest Association</p>
-
+        
 <p class="fr-book-desc">First published 1985.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mysteries+of+the+Unexplained+Reader%27s+Digest+Association&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

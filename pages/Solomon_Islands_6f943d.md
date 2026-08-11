@@ -1325,7 +1325,7 @@ Solomon Islands’ weird-history record endures because the setting gives the st
 <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Golden Bough">The Golden Bough</a>
 </h4>
 <p class="fr-book-author">By James George Frazer</p>
-
+        
 <p class="fr-book-desc">First published 1890. Subjects: Mythology, Magic, Superstition, Religion, Primitive Religion.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Golden+Bough+James+George+Frazer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1342,7 +1342,7 @@ Solomon Islands’ weird-history record endures because the setting gives the st
 <a href="https://www.amazon.com/s?k=Myths+and+symbols+in+pagan+Europe+Hilda+Roderick+Ellis+Davidson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and symbols in pagan Europe">Myths and symbols in pagan Europe</a>
 </h4>
 <p class="fr-book-author">By Hilda Roderick Ellis Davidson</p>
-
+        
 <p class="fr-book-desc">First published 1988. Subjects: Norse Mythology, Celtic Mythology, Religion, Celts, Mythology, Norse.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Myths+and+symbols+in+pagan+Europe+Hilda+Roderick+Ellis+Davidson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1359,7 +1359,7 @@ Solomon Islands’ weird-history record endures because the setting gives the st
 <a href="https://www.amazon.com/s?k=The+Weird+Ann+VanderMeer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Weird">The Weird</a>
 </h4>
 <p class="fr-book-author">By Ann VanderMeer, Jeff VanderMeer</p>
-
+        
 <p class="fr-book-desc">First published 2011. Subjects: Magic Realism, Fantasy, Literature, Fantasy fiction, Science fiction.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Weird+Ann+VanderMeer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1376,7 +1376,7 @@ Solomon Islands’ weird-history record endures because the setting gives the st
 <a href="https://www.amazon.com/s?k=The+Solomon+Islands%3A+A+Historical+Encyclopedia+Lawrence+Foana%27ota%2C+Robert+Fleck+and+others&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Solomon Islands: A Historical Encyclopedia">The Solomon Islands: A Historical Encyclopedia</a>
 </h4>
 <p class="fr-book-author">By Lawrence Foana&#x27;ota, Robert Fleck and others</p>
-
+        
 <p class="fr-book-desc">Covers many of the folklore and historical themes discussed.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Solomon+Islands%3A+A+Historical+Encyclopedia+Lawrence+Foana%27ota%2C+Robert+Fleck+and+others&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

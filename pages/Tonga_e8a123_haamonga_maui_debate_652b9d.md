@@ -348,89 +348,89 @@ The "Pacific Stonehenge" debate therefore serves as a reminder that remarkable a
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was Tonga&#x27;s Stonehenge Really an Observatory?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was Tonga&#x27;s Stonehenge Really an Observatory?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The hero with a thousand faces on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/443668-M.jpg" alt="Cover for The hero with a thousand faces" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The hero with a thousand faces">The hero with a thousand faces</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Campbell</p>
-
-        <p class="fr-book-desc">Provides context for Maui myths and heroic traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The hero with a thousand faces on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/443668-M.jpg" alt="Cover for The hero with a thousand faces" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The hero with a thousand faces">The hero with a thousand faces</a>
+</h4>
+<p class="fr-book-author">By Joseph Campbell</p>
+        
+<p class="fr-book-desc">Provides context for Maui myths and heroic traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fingerprints of the gods on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/322542-M.jpg" alt="Cover for Fingerprints of the gods" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the gods">Fingerprints of the gods</a>
-        </h4>
-        <p class="fr-book-author">By Graham Hancock</p>
-
-        <p class="fr-book-desc">Represents popular speculative interpretations readers often compare against archaeology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Fingerprints of the gods on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/322542-M.jpg" alt="Cover for Fingerprints of the gods" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Fingerprints of the gods">Fingerprints of the gods</a>
+</h4>
+<p class="fr-book-author">By Graham Hancock</p>
+        
+<p class="fr-book-desc">Represents popular speculative interpretations readers often compare against archaeology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Fingerprints+of+the+gods+Graham+Hancock&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Vikings+of+the+sunrise%2C+by+Peter+H.+Buck+%28Te+Rangi+Hiroa%29+...with+fifty-eight+illustrations+from+photographs+Peter+Henry+Buck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vikings of the sunrise, by Peter H. Buck (Te Rangi Hiroa) ...with fifty-eight illustrations from photographs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13523102-M.jpg" alt="Cover for Vikings of the sunrise, by Peter H. Buck (Te Rangi Hiroa) ...with fifty-eight illustrations from photographs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Vikings+of+the+sunrise%2C+by+Peter+H.+Buck+%28Te+Rangi+Hiroa%29+...with+fifty-eight+illustrations+from+photographs+Peter+Henry+Buck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vikings of the sunrise, by Peter H. Buck (Te Rangi Hiroa) ...with fifty-eight illustrations from photographs">Vikings of the sunrise, by Peter H. Buck (Te Rangi Hiroa) ......</a>
-        </h4>
-        <p class="fr-book-author">By Peter Henry Buck, Paora Tapihana</p>
-
-        <p class="fr-book-desc">First published 1938. Subjects: Ethnology, Polynesians, World history, Australia, history.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Vikings+of+the+sunrise%2C+by+Peter+H.+Buck+%28Te+Rangi+Hiroa%29+...with+fifty-eight+illustrations+from+photographs+Peter+Henry+Buck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Vikings+of+the+sunrise%2C+by+Peter+H.+Buck+%28Te+Rangi+Hiroa%29+...with+fifty-eight+illustrations+from+photographs+Peter+Henry+Buck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vikings of the sunrise, by Peter H. Buck (Te Rangi Hiroa) ...with fifty-eight illustrations from photographs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13523102-M.jpg" alt="Cover for Vikings of the sunrise, by Peter H. Buck (Te Rangi Hiroa) ...with fifty-eight illustrations from photographs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Vikings+of+the+sunrise%2C+by+Peter+H.+Buck+%28Te+Rangi+Hiroa%29+...with+fifty-eight+illustrations+from+photographs+Peter+Henry+Buck&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vikings of the sunrise, by Peter H. Buck (Te Rangi Hiroa) ...with fifty-eight illustrations from photographs">Vikings of the sunrise, by Peter H. Buck (Te Rangi Hiroa) ......</a>
+</h4>
+<p class="fr-book-author">By Peter Henry Buck, Paora Tapihana</p>
+        
+<p class="fr-book-desc">First published 1938. Subjects: Ethnology, Polynesians, World history, Australia, history.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Vikings+of+the+sunrise%2C+by+Peter+H.+Buck+%28Te+Rangi+Hiroa%29+...with+fifty-eight+illustrations+from+photographs+Peter+Henry+Buck&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Kon-Tiki+Kon+Tiki+Across+the+Pacific+by+Raft+by+Thor+Heyerdahl+1950+Thor+Heyerdahl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Kon-Tiki Kon Tiki Across the Pacific by Raft by Thor Heyerdahl 1950 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14997144-M.jpg" alt="Cover for Kon-Tiki Kon Tiki Across the Pacific by Raft by Thor Heyerdahl 1950" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Kon-Tiki+Kon+Tiki+Across+the+Pacific+by+Raft+by+Thor+Heyerdahl+1950+Thor+Heyerdahl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kon-Tiki Kon Tiki Across the Pacific by Raft by Thor Heyerdahl 1950">Kon-Tiki Kon Tiki Across the Pacific by Raft by Thor Heyerdah...</a>
-        </h4>
-        <p class="fr-book-author">By Thor Heyerdahl</p>
-
-        <p class="fr-book-desc">First published 1950.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Kon-Tiki+Kon+Tiki+Across+the+Pacific+by+Raft+by+Thor+Heyerdahl+1950+Thor+Heyerdahl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Kon-Tiki+Kon+Tiki+Across+the+Pacific+by+Raft+by+Thor+Heyerdahl+1950+Thor+Heyerdahl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Kon-Tiki Kon Tiki Across the Pacific by Raft by Thor Heyerdahl 1950 on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/14997144-M.jpg" alt="Cover for Kon-Tiki Kon Tiki Across the Pacific by Raft by Thor Heyerdahl 1950" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Kon-Tiki+Kon+Tiki+Across+the+Pacific+by+Raft+by+Thor+Heyerdahl+1950+Thor+Heyerdahl&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Kon-Tiki Kon Tiki Across the Pacific by Raft by Thor Heyerdahl 1950">Kon-Tiki Kon Tiki Across the Pacific by Raft by Thor Heyerdah...</a>
+</h4>
+<p class="fr-book-author">By Thor Heyerdahl</p>
+        
+<p class="fr-book-desc">First published 1950.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Kon-Tiki+Kon+Tiki+Across+the+Pacific+by+Raft+by+Thor+Heyerdahl+1950+Thor+Heyerdahl&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The hero with a thousand faces</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Fingerprints+of+the+gods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fingerprints of the gods</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Vikings+of+the+sunrise%2C+by+Peter+H.+Buck+%28Te+Rangi+Hiroa%29+...with+fifty+eight+illustrations+from+photographs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vikings of the sunrise, by Peter H. Buck (Te Rangi Hiroa) ...with fifty eight illustrations from photographs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The hero with a thousand faces</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Fingerprints+of+the+gods&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fingerprints of the gods</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Vikings+of+the+sunrise%2C+by+Peter+H.+Buck+%28Te+Rangi+Hiroa%29+...with+fifty+eight+illustrations+from+photographs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vikings of the sunrise, by Peter H. Buck (Te Rangi Hiroa) ...with fifty eight illustrations from photographs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

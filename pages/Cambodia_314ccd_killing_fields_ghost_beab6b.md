@@ -332,89 +332,89 @@ Modern memorials increasingly present these places as sites of education, peace 
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Cambodia&#x27;s Killing Fields Became Haunted Ground. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Cambodia&#x27;s Killing Fields Became Haunted Ground. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=First+They+Killed+My+Father+Loung+Ung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open First They Killed My Father on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/38440-M.jpg" alt="Cover for First They Killed My Father" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=First+They+Killed+My+Father+Loung+Ung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="First They Killed My Father">First They Killed My Father</a>
-        </h4>
-        <p class="fr-book-author">By Loung Ung</p>
-
-        <p class="fr-book-desc">Provides survivor memory and personal context for understanding trauma, loss, mourning and the legacy of the Khmer Rouge.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=First+They+Killed+My+Father+Loung+Ung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=First+They+Killed+My+Father+Loung+Ung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open First They Killed My Father on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/38440-M.jpg" alt="Cover for First They Killed My Father" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=First+They+Killed+My+Father+Loung+Ung&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="First They Killed My Father">First They Killed My Father</a>
+</h4>
+<p class="fr-book-author">By Loung Ung</p>
+        
+<p class="fr-book-desc">Provides survivor memory and personal context for understanding trauma, loss, mourning and the legacy of the Khmer Rouge.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=First+They+Killed+My+Father+Loung+Ung&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=When+the+war+was+over+Elizabeth+Becker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When the war was over on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6793110-M.jpg" alt="Cover for When the war was over" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=When+the+war+was+over+Elizabeth+Becker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When the war was over">When the war was over</a>
-        </h4>
-        <p class="fr-book-author">By Elizabeth Becker</p>
-
-        <p class="fr-book-desc">Explains the Khmer Rouge era and its continuing impact on Cambodian society.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=When+the+war+was+over+Elizabeth+Becker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=When+the+war+was+over+Elizabeth+Becker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open When the war was over on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6793110-M.jpg" alt="Cover for When the war was over" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=When+the+war+was+over+Elizabeth+Becker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="When the war was over">When the war was over</a>
+</h4>
+<p class="fr-book-author">By Elizabeth Becker</p>
+        
+<p class="fr-book-desc">Explains the Khmer Rouge era and its continuing impact on Cambodian society.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=When+the+war+was+over+Elizabeth+Becker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+lost+executioner+Nic+Dunlop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The lost executioner on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6821104-M.jpg" alt="Cover for The lost executioner" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+lost+executioner+Nic+Dunlop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lost executioner">The lost executioner</a>
-        </h4>
-        <p class="fr-book-author">By Nic Dunlop</p>
-
-        <p class="fr-book-desc">Investigates Khmer Rouge crimes and the human stories behind Cambodia&#x27;s killing sites.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+lost+executioner+Nic+Dunlop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+lost+executioner+Nic+Dunlop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The lost executioner on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/6821104-M.jpg" alt="Cover for The lost executioner" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+lost+executioner+Nic+Dunlop&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The lost executioner">The lost executioner</a>
+</h4>
+<p class="fr-book-author">By Nic Dunlop</p>
+        
+<p class="fr-book-desc">Investigates Khmer Rouge crimes and the human stories behind Cambodia&#x27;s killing sites.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+lost+executioner+Nic+Dunlop&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+killing+fields+Christopher+Hudson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The killing fields on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5011009-M.jpg" alt="Cover for The killing fields" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+killing+fields+Christopher+Hudson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The killing fields">The killing fields</a>
-        </h4>
-        <p class="fr-book-author">By Christopher Hudson</p>
-
-        <p class="fr-book-desc">Explores the violence and aftermath behind the landscapes that became associated with spirits and remembrance.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+killing+fields+Christopher+Hudson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+killing+fields+Christopher+Hudson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The killing fields on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5011009-M.jpg" alt="Cover for The killing fields" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+killing+fields+Christopher+Hudson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The killing fields">The killing fields</a>
+</h4>
+<p class="fr-book-author">By Christopher Hudson</p>
+        
+<p class="fr-book-desc">Explores the violence and aftermath behind the landscapes that became associated with spirits and remembrance.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+killing+fields+Christopher+Hudson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=First+They+Killed+My+Father&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">First They Killed My Father</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=When+the+war+was+over&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When the war was over</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+lost+executioner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The lost executioner</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=First+They+Killed+My+Father&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">First They Killed My Father</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=When+the+war+was+over&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">When the war was over</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+lost+executioner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The lost executioner</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

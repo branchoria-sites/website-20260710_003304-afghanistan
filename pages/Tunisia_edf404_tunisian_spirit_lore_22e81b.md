@@ -306,7 +306,8 @@ From a Fortean standpoint, this is an example of narrative shaping perception ra
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sfG8iZOSnMo" title="Bousaadia بوسعدية - Dendri Stambeli Movement (official)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sfG8iZOSnMo" target="_blank" rel="noopener noreferrer">Bousaadia بوسعدية - Dendri Stambeli Movement (official)</a></p><p class="youtube-embed-meta">Channel: Dendri Stambeli Movement</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sfG8iZOSnMo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sfG8iZOSnMo">Open on YouTube</a></p></div></div></div>
 
-## Spirit Lore in folklore and cultural memory
+## Why these stories endure
+
 Tunisian spirit traditions survive because they address experiences that purely factual explanations often leave emotionally unresolved. Illness, grief, unexplained coincidence, anxiety and historical trauma all find expression through stories about unseen beings.
 
 Stambeli demonstrates how ritual can preserve collective memory of slavery while offering communal healing. Jinn stories provide moral lessons, encourage caution and help people discuss misfortune in culturally meaningful ways. Haunted hammam legends transform ordinary city spaces into landscapes rich with shared imagination.
@@ -331,89 +332,89 @@ Rather than asking whether these traditions "prove" the supernatural, the more r
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Spirits Live in Tunisian Stories. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Spirits Live in Tunisian Stories. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Legends+of+the+fire+spirits+Robert+W.+Lebling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Legends of the fire spirits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11667749-M.jpg" alt="Cover for Legends of the fire spirits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Legends+of+the+fire+spirits+Robert+W.+Lebling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Legends of the fire spirits">Legends of the fire spirits</a>
-        </h4>
-        <p class="fr-book-author">By Robert W. Lebling</p>
-
-        <p class="fr-book-desc">Directly explores jinn traditions across the Islamic world, including North Africa.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Legends+of+the+fire+spirits+Robert+W.+Lebling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Legends+of+the+fire+spirits+Robert+W.+Lebling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Legends of the fire spirits on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/11667749-M.jpg" alt="Cover for Legends of the fire spirits" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Legends+of+the+fire+spirits+Robert+W.+Lebling&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Legends of the fire spirits">Legends of the fire spirits</a>
+</h4>
+<p class="fr-book-author">By Robert W. Lebling</p>
+        
+<p class="fr-book-desc">Directly explores jinn traditions across the Islamic world, including North Africa.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Legends+of+the+fire+spirits+Robert+W.+Lebling&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Magic+and+Divination+in+Early+Islam+%28The+Formation+of+the+Classical+Islamic+World%29+Emilie+Savage-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Magic and Divination in Early Islam (The Formation of the Classical Islamic World) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5152639-M.jpg" alt="Cover for Magic and Divination in Early Islam (The Formation of the Classical Islamic World)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Magic+and+Divination+in+Early+Islam+%28The+Formation+of+the+Classical+Islamic+World%29+Emilie+Savage-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Magic and Divination in Early Islam (The Formation of the Classical Islamic World)">Magic and Divination in Early Islam (The Formation of the Cla...</a>
-        </h4>
-        <p class="fr-book-author">By Emilie Savage-Smith</p>
-
-        <p class="fr-book-desc">First published 2004. Subjects: Magic, Occultism, Divination, Islamic empire, history, Islam.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Magic+and+Divination+in+Early+Islam+%28The+Formation+of+the+Classical+Islamic+World%29+Emilie+Savage-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Magic+and+Divination+in+Early+Islam+%28The+Formation+of+the+Classical+Islamic+World%29+Emilie+Savage-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Magic and Divination in Early Islam (The Formation of the Classical Islamic World) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/5152639-M.jpg" alt="Cover for Magic and Divination in Early Islam (The Formation of the Classical Islamic World)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Magic+and+Divination+in+Early+Islam+%28The+Formation+of+the+Classical+Islamic+World%29+Emilie+Savage-Smith&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Magic and Divination in Early Islam (The Formation of the Classical Islamic World)">Magic and Divination in Early Islam (The Formation of the Cla...</a>
+</h4>
+<p class="fr-book-author">By Emilie Savage-Smith</p>
+        
+<p class="fr-book-desc">First published 2004. Subjects: Magic, Occultism, Divination, Islamic empire, history, Islam.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Magic+and+Divination+in+Early+Islam+%28The+Formation+of+the+Classical+Islamic+World%29+Emilie+Savage-Smith&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Carthage+must+be+destroyed+Richard+Miles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Carthage must be destroyed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7273668-M.jpg" alt="Cover for Carthage must be destroyed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Carthage+must+be+destroyed+Richard+Miles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Carthage must be destroyed">Carthage must be destroyed</a>
-        </h4>
-        <p class="fr-book-author">By Richard Miles</p>
-
-        <p class="fr-book-desc">First published 2010. Subjects: History, Hannibal, 247 b.c-182 b.c., Carthage (extinct city), Rome, history, Rome, history, republic, 510...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Carthage+must+be+destroyed+Richard+Miles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Carthage+must+be+destroyed+Richard+Miles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Carthage must be destroyed on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7273668-M.jpg" alt="Cover for Carthage must be destroyed" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Carthage+must+be+destroyed+Richard+Miles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Carthage must be destroyed">Carthage must be destroyed</a>
+</h4>
+<p class="fr-book-author">By Richard Miles</p>
+        
+<p class="fr-book-desc">First published 2010. Subjects: History, Hannibal, 247 b.c-182 b.c., Carthage (extinct city), Rome, history, Rome, history, republic, 510...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Carthage+must+be+destroyed+Richard+Miles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mythology Book on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology Book">The Mythology Book</a>
-        </h4>
-        <p class="fr-book-author">By DK</p>
-
-        <p class="fr-book-desc">Places spirit traditions within a global mythology framework.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mythology Book on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mythology Book">The Mythology Book</a>
+</h4>
+<p class="fr-book-author">By DK</p>
+        
+<p class="fr-book-desc">Places spirit traditions within a global mythology framework.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mythology+Book+DK&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Legends+of+the+fire+spirits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Legends of the fire spirits</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Magic+and+Divination+in+Early+Islam+%28The+Formation+of+the+Classical+Islamic+World%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Magic and Divination in Early Islam (The Formation of the Classical Islamic World)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Carthage+must+be+destroyed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Carthage must be destroyed</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Legends+of+the+fire+spirits&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Legends of the fire spirits</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Magic+and+Divination+in+Early+Islam+%28The+Formation+of+the+Classical+Islamic+World%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Magic and Divination in Early Islam (The Formation of the Classical Islamic World)</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Carthage+must+be+destroyed&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Carthage must be destroyed</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

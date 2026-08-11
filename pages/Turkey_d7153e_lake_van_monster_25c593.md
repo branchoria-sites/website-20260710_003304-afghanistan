@@ -366,7 +366,7 @@ From an evidential standpoint, the case falls well short of demonstrating the ex
 <a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Atlas of Monsters">The Atlas of Monsters</a>
 </h4>
 <p class="fr-book-author">By Sandra Lawrence</p>
-
+        
 <p class="fr-book-desc">First published 2018.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Atlas+of+Monsters+Sandra+Lawrence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ From an evidential standpoint, the case falls well short of demonstrating the ex
 <a href="https://www.amazon.com/s?k=Mysterious+America+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious America">Mysterious America</a>
 </h4>
 <p class="fr-book-author">By Loren Coleman</p>
-
+        
 <p class="fr-book-desc">First published 1983. Subjects: Miscellanea, Curiosities and wonders.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mysterious+America+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ From an evidential standpoint, the case falls well short of demonstrating the ex
 <a href="https://www.amazon.com/s?k=The+field+guide+to+lake+monsters%2C+sea+serpents+and+other+mystery+denizens+of+the+deep+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The field guide to lake monsters, sea serpents and other mystery denizens of the deep">The field guide to lake monsters, sea serpents and other myst...</a>
 </h4>
 <p class="fr-book-author">By Loren Coleman, Patrick Huyghe et al.</p>
-
+        
 <p class="fr-book-desc">First published 2003. Subjects: Marine animals, Sea monsters, Folklore, Animals, folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+field+guide+to+lake+monsters%2C+sea+serpents+and+other+mystery+denizens+of+the+deep+Loren+Coleman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ From an evidential standpoint, the case falls well short of demonstrating the ex
 <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Abominable Science">Abominable Science</a>
 </h4>
 <p class="fr-book-author">By Donald R. Prothero, Daniel Loxton</p>
-
+        
 <p class="fr-book-desc">First published 2012. Subjects: Animals, mythical.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Abominable+Science+Donald+R.+Prothero&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

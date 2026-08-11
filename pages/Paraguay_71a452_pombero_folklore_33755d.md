@@ -282,7 +282,8 @@ A sceptical explanation does not necessarily make the stories meaningless. Many 
 
 <img src="{{ "/assets/images/Paraguay_71a452_pombero_folklore_33755d-Illustration-2-dark.svg" | relative_url }}" alt="Pombero illustration 2" data-theme-src-dark="{{ "/assets/images/Paraguay_71a452_pombero_folklore_33755d-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Paraguay_71a452_pombero_folklore_33755d-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## Pombero in folklore and cultural memory
+## Why the legend still matters
+
 The Pombero has survived because it does more than describe a strange being. It carries ideas about respect, fear, humour, morality and the relationship between people and the natural world. Paraguay’s tourism and cultural institutions continue to present figures such as the Pombero alongside other Guaraní mythological beings as part of the country’s cultural identity, showing that these stories remain active rather than frozen in the past.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://paraguay-turismo.com.py/en/aprender-y-comprender-la-cultura-de-los-paraguayos/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: paraguay-turismo.com.py">[paraguay-turismo.com.py]</a><span class="citation-popover" role="note"><span class="citation-popover-source">paraguay-turismo.com.py</span><span class="citation-popover-snippet">7. Mysticism, legends and mythology. Figures such as Pombero, Mboi Tu&#x27;i, Kurupí or Luisón form part of the...</span></span></span>
 
 The legend also reveals how folklore changes. Earlier traditions may have focused on a spirit connected with the forest and animals, while later retellings have added new fears, social concerns and dramatic elements. Different communities may remember the Pombero as a protector, a prankster, a warning figure or a frightening presence. There is no single fixed version, and that flexibility helps explain its endurance.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pombero" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">February 16, 2026 — It is a mythical humanoid creature of small stature in Guarani mythology. The legend, along with those of other mytho...</span><span class="citation-popover-meta">Published: February 16, 2026</span></span></span>
@@ -312,7 +313,7 @@ For Paraguay’s wider strange-history landscape, the Pombero is significant bec
 <a href="https://www.amazon.com/s?k=Latin+American+Folktales+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Latin American Folktales">Latin American Folktales</a>
 </h4>
 <p class="fr-book-author">By John Bierhorst</p>
-
+        
 <p class="fr-book-desc">First published 2001. Subjects: Hispanic Americans, Folklore, Latin Americans, Indians, Tales.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Latin+American+Folktales+John+Bierhorst&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -329,7 +330,7 @@ For Paraguay’s wider strange-history landscape, the Pombero is significant bec
 <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The world of Lore">The world of Lore</a>
 </h4>
 <p class="fr-book-author">By Aaron Mahnke</p>
-
+        
 <p class="fr-book-desc">First published 2017. Subjects: Ghosts, Haunted places.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+world+of+Lore+Aaron+Mahnke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -346,7 +347,7 @@ For Paraguay’s wider strange-history landscape, the Pombero is significant bec
 <a href="https://www.amazon.com/s?k=Mythology+Edith+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mythology">Mythology</a>
 </h4>
 <p class="fr-book-author">By Edith Hamilton</p>
-
+        
 <p class="fr-book-desc">First published 1940. Subjects: Manuel, Mythologie, Mythologie classique, creation myths, Golden Fleece.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mythology+Edith+Hamilton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -363,7 +364,7 @@ For Paraguay’s wider strange-history landscape, the Pombero is significant bec
 <a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Imaginary Beings">The Book of Imaginary Beings</a>
 </h4>
 <p class="fr-book-author">By Jorge Luis Borges</p>
-
+        
 <p class="fr-book-desc">Explores mythical beings from many traditions, including Latin America.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Book+of+Imaginary+Beings+Jorge+Luis+Borges&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

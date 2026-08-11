@@ -362,7 +362,7 @@ That combination of physical substance, enduring testimony and cross-cultural pi
 <a href="https://www.amazon.com/s?k=The+cult+of+the+saints+Peter+Robert+Lamont+Brown&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The cult of the saints">The cult of the saints</a>
 </h4>
 <p class="fr-book-author">By Peter Robert Lamont Brown</p>
-
+        
 <p class="fr-book-desc">First published 1981. Subjects: Cult, Christian saints, History, Addresses, essays, lectures, Saints chrétiens.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+cult+of+the+saints+Peter+Robert+Lamont+Brown&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ That combination of physical substance, enduring testimony and cross-cultural pi
 <a href="https://www.amazon.com/s?k=The+Syrian+Goddess+Lucian+of+Samosata&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Syrian Goddess">The Syrian Goddess</a>
 </h4>
 <p class="fr-book-author">By Lucian of Samosata</p>
-
+        
 <p class="fr-book-desc">First published 1913. Subjects: Religion, Cults, Cultes, Traductions anglaises (vieil anglais), Littérature grecque.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Syrian+Goddess+Lucian+of+Samosata&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ That combination of physical substance, enduring testimony and cross-cultural pi
 <a href="https://www.amazon.com/s?k=The+Orthodox+Church+%28A+Pelican+book%29+Kallistos+Ware&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Orthodox Church (A Pelican book)">The Orthodox Church (A Pelican book)</a>
 </h4>
 <p class="fr-book-author">By Kallistos Ware</p>
-
+        
 <p class="fr-book-desc">First published 1964.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Orthodox+Church+%28A+Pelican+book%29+Kallistos+Ware&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ That combination of physical substance, enduring testimony and cross-cultural pi
 <a href="https://www.amazon.com/s?k=Pilgrimage+Jonathan+Sumption&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pilgrimage">Pilgrimage</a>
 </h4>
 <p class="fr-book-author">By Jonathan Sumption</p>
-
+        
 <p class="fr-book-desc">First published 1975. Subjects: Christian pilgrims and pilgrimages, Church history, History, Medieval Travel, Wallfahrt.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Pilgrimage+Jonathan+Sumption&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

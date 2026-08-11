@@ -1273,7 +1273,7 @@ The countrys strongest strange-history material is therefore not a collection of
 <a href="https://www.amazon.com/s?k=The+Book+of+Mythical+Beasts+and+Magical+Creatures+Stephen+Krensky&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Mythical Beasts and Magical Creatures">The Book of Mythical Beasts and Magical Creatures</a>
 </h4>
 <p class="fr-book-author">By Stephen Krensky</p>
-
+        
 <p class="fr-book-desc">First published 2020. Subjects: Bilderbuch, Nachschlagewerk, Lexikon, Fabelwesen, Fantasy.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Book+of+Mythical+Beasts+and+Magical+Creatures+Stephen+Krensky&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1290,7 +1290,7 @@ The countrys strongest strange-history material is therefore not a collection of
 <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Encyclopedia of Ghosts and Spirits">The Encyclopedia of Ghosts and Spirits</a>
 </h4>
 <p class="fr-book-author">By Rosemary Ellen Guiley</p>
-
+        
 <p class="fr-book-desc">First published 1999.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Ghosts+and+Spirits+Rosemary+Ellen+Guiley&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1307,7 +1307,7 @@ The countrys strongest strange-history material is therefore not a collection of
 <a href="https://www.amazon.com/s?k=The+vampire+Alan+Dundes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vampire">The vampire</a>
 </h4>
 <p class="fr-book-author">By Alan Dundes</p>
-
+        
 <p class="fr-book-desc">First published 1998. Subjects: Volkscultuur, Vampir, Vampires, Pathologie, Vampiers.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+vampire+Alan+Dundes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1324,7 +1324,7 @@ The countrys strongest strange-history material is therefore not a collection of
 <a href="https://www.amazon.com/s?k=The+Occult+Roots+of+Modernism%3A+The+Theosophical+Society+and+Artistic+Modernism+Mark+Bevir&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Occult Roots of Modernism: The Theosophical Society and Artistic Modernism">The Occult Roots of Modernism: The Theosophical Society and A...</a>
 </h4>
 <p class="fr-book-author">By Mark Bevir</p>
-
+        
 <p class="fr-book-desc">Supports the wider strange-history theme by exploring how occult ideas, beliefs, and cultural movements shape interpretations of mystery.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Occult+Roots+of+Modernism%3A+The+Theosophical+Society+and+Artistic+Modernism+Mark+Bevir&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

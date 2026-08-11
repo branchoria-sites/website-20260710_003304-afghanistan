@@ -320,7 +320,8 @@ The legend also reflects a wider tradition of haunted ships. Maritime folklore h
 
 <img src="{{ "/assets/images/Monaco_35ab1c_zaca_yacht_haunting_5a8e02-Illustration-3-dark.svg" | relative_url }}" alt="Zaca Haunting illustration 3" data-theme-src-dark="{{ "/assets/images/Monaco_35ab1c_zaca_yacht_haunting_5a8e02-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Monaco_35ab1c_zaca_yacht_haunting_5a8e02-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## How Zaca Haunting survived in retelling
+## Why the story endures
+
 The endurance of the *Zaca* legend says as much about memory as about ghosts. Every element reinforces the next: a beautiful wooden schooner, an adventurous Hollywood icon, years of abandonment, rumours of mysterious sounds, an alleged exorcism, and finally a triumphant restoration in Monaco's glamorous harbour.
 
 For Monaco's catalogue of strange history, the story occupies an unusual middle ground. The yacht's construction, ownership and restoration are matters of historical record. The haunting remains unverified folklore supported mainly by repeated testimony and later retellings rather than hard evidence. That combination makes *Zaca* less a convincing paranormal case than a vivid example of how celebrity, maritime tradition and place can combine to create a remarkably persistent modern ghost legend.
@@ -348,7 +349,7 @@ For Monaco's catalogue of strange history, the story occupies an unusual middle 
 <a href="https://www.amazon.com/s?k=My+wicked%2C+wicked+ways+Errol+Flynn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="My wicked, wicked ways">My wicked, wicked ways</a>
 </h4>
 <p class="fr-book-author">By Errol Flynn, E. Flynn et al.</p>
-
+        
 <p class="fr-book-desc">First published 1960. Subjects: Actors, Biography, Correspondence, reminiscences, Motion picture actors and actresses, Flynn, errol, 1909...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=My+wicked%2C+wicked+ways+Errol+Flynn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -365,7 +366,7 @@ For Monaco's catalogue of strange history, the story occupies an unusual middle 
 <a href="https://www.amazon.com/s?k=The+Riviera+set+Mary+S.+Lovell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Riviera set">The Riviera set</a>
 </h4>
 <p class="fr-book-author">By Mary S. Lovell</p>
-
+        
 <p class="fr-book-desc">First published 2016. Subjects: Rich people, Chateau de l&#x27;Horizon, History, Upper class, France, social life and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Riviera+set+Mary+S.+Lovell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -382,7 +383,7 @@ For Monaco's catalogue of strange history, the story occupies an unusual middle 
 <a href="https://www.amazon.com/s?k=The+Sea+Wolves+Lars+Brownworth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sea Wolves">The Sea Wolves</a>
 </h4>
 <p class="fr-book-author">By Lars Brownworth, Joe Barrett</p>
-
+        
 <p class="fr-book-desc">First published 2014.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Sea+Wolves+Lars+Brownworth&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -399,7 +400,7 @@ For Monaco's catalogue of strange history, the story occupies an unusual middle 
 <a href="https://www.amazon.com/s?k=Errol+Flynn%2C+the+untold+story+Charles+Higham&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Errol Flynn, the untold story">Errol Flynn, the untold story</a>
 </h4>
 <p class="fr-book-author">By Charles Higham</p>
-
+        
 <p class="fr-book-desc">First published 1980. Subjects: Moving-picture actors and actresses, Biography.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Errol+Flynn%2C+the+untold+story+Charles+Higham&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

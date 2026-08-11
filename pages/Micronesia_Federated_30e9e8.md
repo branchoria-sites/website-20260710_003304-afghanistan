@@ -1315,7 +1315,7 @@ Taken together, these cases make the FSM one of the more subtle Fortean countrie
 <a href="https://www.amazon.com/s?k=Collapse+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Collapse">Collapse</a>
 </h4>
 <p class="fr-book-author">By Jared Diamond</p>
-
+        
 <p class="fr-book-desc">First published 2004. Subjects: Sociology, Culturen, Environnement, Changement social, Verval (geschiedenis).</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Collapse+Jared+Diamond&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1332,7 +1332,7 @@ Taken together, these cases make the FSM one of the more subtle Fortean countrie
 <a href="https://www.amazon.com/s?k=Vanished+Kingdoms+Norman+Jordan+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vanished Kingdoms">Vanished Kingdoms</a>
 </h4>
 <p class="fr-book-author">By Norman Jordan Davies</p>
-
+        
 <p class="fr-book-desc">First published 2011. Subjects: History, Politics and government, Europe - History, Europe - Politics and government, Gesellschaft.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Vanished+Kingdoms+Norman+Jordan+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1349,7 +1349,7 @@ Taken together, these cases make the FSM one of the more subtle Fortean countrie
 <a href="https://www.amazon.com/s?k=The+Archaeology+of+the+Pacific+Islands+Patrick+Vinton+Kirch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Archaeology of the Pacific Islands">The Archaeology of the Pacific Islands</a>
 </h4>
 <p class="fr-book-author">By Patrick Vinton Kirch</p>
-
+        
 <p class="fr-book-desc">Places Micronesian archaeology and settlement into wider Pacific history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Archaeology+of+the+Pacific+Islands+Patrick+Vinton+Kirch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1366,7 +1366,7 @@ Taken together, these cases make the FSM one of the more subtle Fortean countrie
 <a href="https://www.amazon.com/s?k=Pathways+of+the+Ocean%3A+Traditional+Navigation+in+Micronesia+David+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Pathways of the Ocean: Traditional Navigation in Micronesia">Pathways of the Ocean: Traditional Navigation in Micronesia</a>
 </h4>
 <p class="fr-book-author">By David Lewis</p>
-
+        
 <p class="fr-book-desc">Explains the remarkable maritime knowledge central to Micronesian history.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Pathways+of+the+Ocean%3A+Traditional+Navigation+in+Micronesia+David+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

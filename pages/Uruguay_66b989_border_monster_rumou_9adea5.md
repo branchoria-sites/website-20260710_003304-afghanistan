@@ -351,7 +351,7 @@ Seen this way, Uruguay's monster rumours are less about hidden beasts than about
 <a href="https://www.amazon.com/s?k=Tracking+the+Chupacabra+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Tracking the Chupacabra">Tracking the Chupacabra</a>
 </h4>
 <p class="fr-book-author">By Benjamin Radford</p>
-
+        
 <p class="fr-book-desc">Directly covers the monster most associated with cross-border folklore in the River Plate region.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Tracking+the+Chupacabra+by+Benjamin+Radford&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -368,7 +368,7 @@ Seen this way, Uruguay's monster rumours are less about hidden beasts than about
 <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The vanishing hitchhiker">The vanishing hitchhiker</a>
 </h4>
 <p class="fr-book-author">By Jan Harold Brunvand</p>
-
+        
 <p class="fr-book-desc">First published 1981. Subjects: History and criticism, Legends, Urban folklore, Légendes, Folklore urbain.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+vanishing+hitchhiker+Jan+Harold+Brunvand&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ Seen this way, Uruguay's monster rumours are less about hidden beasts than about
 <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
 </h4>
 <p class="fr-book-author">By Scott G. Bruce</p>
-
+        
 <p class="fr-book-desc">First published 2021. Subjects: Folklore.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ Seen this way, Uruguay's monster rumours are less about hidden beasts than about
 <a href="https://www.amazon.com/s?k=American+monsters+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American monsters">American monsters</a>
 </h4>
 <p class="fr-book-author">By Linda S. Godfrey</p>
-
+        
 <p class="fr-book-desc">First published 2014. Subjects: Monsters, BODY, MIND &amp; SPIRIT / Unexplained Phenomena, BODY, MIND &amp; SPIRIT / Supernatural.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=American+monsters+Linda+S.+Godfrey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

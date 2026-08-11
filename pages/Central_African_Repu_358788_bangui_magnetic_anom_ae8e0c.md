@@ -341,7 +341,7 @@ For the Central African Republic, the Bangui magnetic anomaly is therefore a rar
 <a href="https://www.amazon.com/s?k=A+short+history+of+nearly+everything+Bill+Bryson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A short history of nearly everything">A short history of nearly everything</a>
 </h4>
 <p class="fr-book-author">By Bill Bryson</p>
-
+        
 <p class="fr-book-desc">First published 2003. Subjects: Science, Popular works, Ciencia, Obras populares, Science, popular works.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=A+short+history+of+nearly+everything+Bill+Bryson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -358,7 +358,7 @@ For the Central African Republic, the Bangui magnetic anomaly is therefore a rar
 <a href="https://www.amazon.com/s?k=The+magnetic+field+of+the+earth+Ronald+T.+Merrill&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The magnetic field of the earth">The magnetic field of the earth</a>
 </h4>
 <p class="fr-book-author">By Ronald T. Merrill</p>
-
+        
 <p class="fr-book-desc">First published 1996. Subjects: Paleomagnetism, Geomagnetism, Dynamo theory (Cosmic physics), Magnetic fields.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+magnetic+field+of+the+earth+Ronald+T.+Merrill&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -375,7 +375,7 @@ For the Central African Republic, the Bangui magnetic anomaly is therefore a rar
 <a href="https://www.amazon.com/s?k=The+Earth+Martin+Redfern&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Earth">The Earth</a>
 </h4>
 <p class="fr-book-author">By Martin Redfern</p>
-
+        
 <p class="fr-book-desc">First published 2003. Subjects: Earth sciences.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Earth+Martin+Redfern&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ For the Central African Republic, the Bangui magnetic anomaly is therefore a rar
 <a href="https://www.amazon.com/s?k=The+earth+an+intimate+history+Richard+Fortey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The earth an intimate history">The earth an intimate history</a>
 </h4>
 <p class="fr-book-author">By Richard Fortey</p>
-
+        
 <p class="fr-book-desc">First published 2011.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+earth+an+intimate+history+Richard+Fortey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

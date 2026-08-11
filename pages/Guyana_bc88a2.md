@@ -1338,7 +1338,7 @@ The best Guyanese Forteana is therefore grounded rather than flashy. It asks how
 <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The hero with a thousand faces">The hero with a thousand faces</a>
 </h4>
 <p class="fr-book-author">By Joseph Campbell</p>
-
+        
 <p class="fr-book-desc">First published 1949. Subjects: Mythology, Psychoanalysis, Mythologie, Helden (personen), Psychanalyse.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+hero+with+a+thousand+faces+Joseph+Campbell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1355,7 +1355,7 @@ The best Guyanese Forteana is therefore grounded rather than flashy. It asks how
 <a href="https://www.amazon.com/s?k=The+Lost+City+of+Z+David+Grann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Lost City of Z">The Lost City of Z</a>
 </h4>
 <p class="fr-book-author">By David Grann, James Gray</p>
-
+        
 <p class="fr-book-desc">First published 2000. Subjects: Travel, Death and burial, El Dorado, Explorers, Description and travel.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Lost+City+of+Z+David+Grann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1372,7 +1372,7 @@ The best Guyanese Forteana is therefore grounded rather than flashy. It asks how
 <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Caribbean+Mythology+Various+authors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Encyclopedia of Caribbean Mythology">The Encyclopedia of Caribbean Mythology</a>
 </h4>
 <p class="fr-book-author">By Various authors</p>
-
+        
 <p class="fr-book-desc">Covers the cultural region connected to Guyanese legends.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Encyclopedia+of+Caribbean+Mythology+Various+authors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1389,7 +1389,7 @@ The best Guyanese Forteana is therefore grounded rather than flashy. It asks how
 <a href="https://www.amazon.com/s?k=The+Sea+Is+History+Derek+Walcott&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Sea Is History">The Sea Is History</a>
 </h4>
 <p class="fr-book-author">By Derek Walcott</p>
-
+        
 <p class="fr-book-desc">Adds cultural context for Caribbean history and memory.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Sea+Is+History+Derek+Walcott&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

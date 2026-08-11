@@ -319,89 +319,89 @@ For readers interested in Forteana, the case is especially valuable because it i
 
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Caspian Island That Would Not Stay. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Caspian Island That Would Not Stay. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Prisoners+of+geography+Tim+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Prisoners of geography on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8900233-M.jpg" alt="Cover for Prisoners of geography" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Prisoners+of+geography+Tim+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Prisoners of geography">Prisoners of geography</a>
-        </h4>
-        <p class="fr-book-author">By Tim Marshall</p>
-
-        <p class="fr-book-desc">Places the Caspian region within its wider geographic setting.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Prisoners+of+geography+Tim+Marshall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Prisoners+of+geography+Tim+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Prisoners of geography on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8900233-M.jpg" alt="Cover for Prisoners of geography" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Prisoners+of+geography+Tim+Marshall&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Prisoners of geography">Prisoners of geography</a>
+</h4>
+<p class="fr-book-author">By Tim Marshall</p>
+        
+<p class="fr-book-desc">Places the Caspian region within its wider geographic setting.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Prisoners+of+geography+Tim+Marshall&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lonely+Planet+Georgia%2C+Armenia+%26+Azerbaijan+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lonely Planet Georgia, Armenia &amp; Azerbaijan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12404182-M.jpg" alt="Cover for Lonely Planet Georgia, Armenia &amp; Azerbaijan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lonely+Planet+Georgia%2C+Armenia+%26+Azerbaijan+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Georgia, Armenia &amp; Azerbaijan">Lonely Planet Georgia, Armenia &amp; Azerbaijan</a>
-        </h4>
-        <p class="fr-book-author">By Lonely Planet, Tom Masters et al.</p>
-
-        <p class="fr-book-desc">Provides context for Azerbaijan and the Caspian coast.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lonely+Planet+Georgia%2C+Armenia+%26+Azerbaijan+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lonely+Planet+Georgia%2C+Armenia+%26+Azerbaijan+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lonely Planet Georgia, Armenia &amp; Azerbaijan on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/12404182-M.jpg" alt="Cover for Lonely Planet Georgia, Armenia &amp; Azerbaijan" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lonely+Planet+Georgia%2C+Armenia+%26+Azerbaijan+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Georgia, Armenia &amp; Azerbaijan">Lonely Planet Georgia, Armenia &amp; Azerbaijan</a>
+</h4>
+<p class="fr-book-author">By Lonely Planet, Tom Masters et al.</p>
+        
+<p class="fr-book-desc">Provides context for Azerbaijan and the Caspian coast.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lonely+Planet+Georgia%2C+Armenia+%26+Azerbaijan+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Origins%3A+How+the+Earth+Made+Us+Lewis+Dartnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Origins: How the Earth Made Us on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9167488-M.jpg" alt="Cover for Origins: How the Earth Made Us" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Origins%3A+How+the+Earth+Made+Us+Lewis+Dartnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Origins: How the Earth Made Us">Origins: How the Earth Made Us</a>
-        </h4>
-        <p class="fr-book-author">By Lewis Dartnell</p>
-
-        <p class="fr-book-desc">Helps explain geological processes behind temporary islands.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Origins%3A+How+the+Earth+Made+Us+Lewis+Dartnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Origins%3A+How+the+Earth+Made+Us+Lewis+Dartnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Origins: How the Earth Made Us on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9167488-M.jpg" alt="Cover for Origins: How the Earth Made Us" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Origins%3A+How+the+Earth+Made+Us+Lewis+Dartnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Origins: How the Earth Made Us">Origins: How the Earth Made Us</a>
+</h4>
+<p class="fr-book-author">By Lewis Dartnell</p>
+        
+<p class="fr-book-desc">Helps explain geological processes behind temporary islands.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Origins%3A+How+the+Earth+Made+Us+Lewis+Dartnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Origins+Lewis+Dartnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Origins on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9167488-M.jpg" alt="Cover for Origins" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Origins+Lewis+Dartnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Origins">Origins</a>
-        </h4>
-        <p class="fr-book-author">By Lewis Dartnell</p>
-
-        <p class="fr-book-desc">First published 2019. Subjects: Human evolution, Human beings, origin, Human beings, Origin, Effect of environment on.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Origins+Lewis+Dartnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Origins+Lewis+Dartnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Origins on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9167488-M.jpg" alt="Cover for Origins" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Origins+Lewis+Dartnell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Origins">Origins</a>
+</h4>
+<p class="fr-book-author">By Lewis Dartnell</p>
+        
+<p class="fr-book-desc">First published 2019. Subjects: Human evolution, Human beings, origin, Human beings, Origin, Effect of environment on.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Origins+Lewis+Dartnell&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Prisoners+of+geography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Prisoners of geography</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lonely+Planet+Georgia%2C+Armenia+%26+Azerbaijan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lonely Planet Georgia, Armenia &amp; Azerbaijan</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Origins%3A+How+the+Earth+Made+Us&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Origins: How the Earth Made Us</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Prisoners+of+geography&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Prisoners of geography</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lonely+Planet+Georgia%2C+Armenia+%26+Azerbaijan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lonely Planet Georgia, Armenia &amp; Azerbaijan</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Origins%3A+How+the+Earth+Made+Us&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Origins: How the Earth Made Us</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -335,95 +335,96 @@ This balance makes Marshallese wave navigation especially significant within the
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/voy8Dd4bqIg" title="Wave Piloting in the Marshall Islands || Radcliffe Institute" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=voy8Dd4bqIg" target="_blank" rel="noopener noreferrer">Wave Piloting in the Marshall Islands || Radcliffe Institute</a></p><p class="youtube-embed-meta">Channel: Harvard University</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=voy8Dd4bqIg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=voy8Dd4bqIg">Open on YouTube</a></p></div></div></div>
 
-## How Wave Reading survived in retelling
+## Why the story still matters
+
 Interest in Marshallese wave navigation has grown alongside efforts to revive traditional canoe voyaging and preserve cultural knowledge. Scholars, navigators and Marshallese organisations have worked together to document techniques before they disappear, while recognising that not every aspect can be fully captured in written descriptions or mathematical models.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tos.org/oceanography/article/wave-navigation-in-the-marshall-islands-comparing-indigenous-and-western-sc" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tos.org">[The Oceanography Society]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tos.org</span><span class="citation-popover-title">wave navigation in the marshall islands comparing indigenous and western sc</span><span class="citation-popover-snippet">The Oceanography SocietyWave Navigation in The Marshall Islands2 Oct 2015 — In the Marshall Islands, navigators remotely sense land by de...</span></span></span>
 
 For readers interested in the stranger side of the Marshall Islands, the enduring fascination is not that navigators found mythical islands. It is that they learned to detect real ones long before they became visible, using patterns in the sea that most people never notice. That combination of practical success, cultural tradition and remaining scientific uncertainty continues to make wave navigation one of the most compelling and intellectually honest mysteries associated with the islands.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Could Navigators Read Invisible Islands?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Could Navigators Read Invisible Islands?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=We%2C+the+navigators+David+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open We, the navigators on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4497719-M.jpg" alt="Cover for We, the navigators" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=We%2C+the+navigators+David+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We, the navigators">We, the navigators</a>
-        </h4>
-        <p class="fr-book-author">By David Lewis, Derek Oulton</p>
-
-        <p class="fr-book-desc">Directly explains traditional navigation methods including wave reading.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=We%2C+the+navigators+David+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=We%2C+the+navigators+David+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open We, the navigators on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/4497719-M.jpg" alt="Cover for We, the navigators" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=We%2C+the+navigators+David+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="We, the navigators">We, the navigators</a>
+</h4>
+<p class="fr-book-author">By David Lewis, Derek Oulton</p>
+        
+<p class="fr-book-desc">Directly explains traditional navigation methods including wave reading.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=We%2C+the+navigators+David+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Nature+of+Boats+Dave+Gerr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Nature of Boats on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/54031-M.jpg" alt="Cover for The Nature of Boats" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Nature+of+Boats+Dave+Gerr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Nature of Boats">The Nature of Boats</a>
-        </h4>
-        <p class="fr-book-author">By Dave Gerr</p>
-
-        <p class="fr-book-desc">Appeals to readers interested in traditional seafaring.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Nature+of+Boats+Dave+Gerr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Nature+of+Boats+Dave+Gerr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Nature of Boats on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/54031-M.jpg" alt="Cover for The Nature of Boats" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Nature+of+Boats+Dave+Gerr&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Nature of Boats">The Nature of Boats</a>
+</h4>
+<p class="fr-book-author">By Dave Gerr</p>
+        
+<p class="fr-book-desc">Appeals to readers interested in traditional seafaring.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Nature+of+Boats+Dave+Gerr&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=An+ocean+in+mind+Will+Kyselka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An ocean in mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1567294-M.jpg" alt="Cover for An ocean in mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=An+ocean+in+mind+Will+Kyselka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An ocean in mind">An ocean in mind</a>
-        </h4>
-        <p class="fr-book-author">By Will Kyselka</p>
-
-        <p class="fr-book-desc">Explores traditional Polynesian navigation knowledge.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=An+ocean+in+mind+Will+Kyselka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=An+ocean+in+mind+Will+Kyselka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open An ocean in mind on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1567294-M.jpg" alt="Cover for An ocean in mind" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=An+ocean+in+mind+Will+Kyselka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An ocean in mind">An ocean in mind</a>
+</h4>
+<p class="fr-book-author">By Will Kyselka</p>
+        
+<p class="fr-book-desc">Explores traditional Polynesian navigation knowledge.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=An+ocean+in+mind+Will+Kyselka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Sea+People+Christina+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sea People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9919240-M.jpg" alt="Cover for Sea People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Sea+People+Christina+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sea People">Sea People</a>
-        </h4>
-        <p class="fr-book-author">By Christina Thompson</p>
-
-        <p class="fr-book-desc">Provides wider context for Pacific voyaging traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Sea+People+Christina+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Sea+People+Christina+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Sea People on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/9919240-M.jpg" alt="Cover for Sea People" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Sea+People+Christina+Thompson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sea People">Sea People</a>
+</h4>
+<p class="fr-book-author">By Christina Thompson</p>
+        
+<p class="fr-book-desc">Provides wider context for Pacific voyaging traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Sea+People+Christina+Thompson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=We%2C+the+navigators&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">We, the navigators</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Nature+of+Boats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Nature of Boats</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=An+ocean+in+mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An ocean in mind</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=We%2C+the+navigators&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">We, the navigators</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Nature+of+Boats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Nature of Boats</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=An+ocean+in+mind&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">An ocean in mind</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

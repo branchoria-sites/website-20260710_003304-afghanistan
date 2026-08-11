@@ -375,7 +375,8 @@ Although precise origins remain uncertain, folklorists have suggested that the l
 
 <img src="{{ "/assets/images/El_Salvador_9b83b7_cuyancua_rain_creatu_050876-Illustration-3-dark.svg" | relative_url }}" alt="Cuyancua illustration 3" data-theme-src-dark="{{ "/assets/images/El_Salvador_9b83b7_cuyancua_rain_creatu_050876-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/El_Salvador_9b83b7_cuyancua_rain_creatu_050876-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
-## The cultural afterlife of Cuyancua
+## Why the legend still endures
+
 The Cuyancua survives because it explains more than a mysterious creature.
 
 It offers a memorable way of understanding western El Salvador's seasonal environment. The sudden arrival of rain, the roar of swollen rivers, strange evening sounds and the appearance of new springs become parts of a single narrative rather than disconnected natural events.
@@ -385,89 +386,89 @@ Modern tourism has helped keep the legend visible. A stone representation of the
 For Fortean readers, the Cuyancua is most interesting not because it presents convincing evidence for an undiscovered animal, but because it sits at the boundary between natural observation and supernatural interpretation. It illustrates how communities transformed recurring environmental patterns into a vivid creature whose very body embodies rivers, storms and the return of rain.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The Pig-Serpent That Announces Rain. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The Pig-Serpent That Announces Rain. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+%26+Caitlin+Matthews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Element Encyclopedia of Magical Creatures on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13541-M.jpg" alt="Cover for The Element Encyclopedia of Magical Creatures" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+%26+Caitlin+Matthews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Element Encyclopedia of Magical Creatures">The Element Encyclopedia of Magical Creatures</a>
-        </h4>
-        <p class="fr-book-author">By John &amp; Caitlin Matthews</p>
-
-        <p class="fr-book-desc">Provides comparative creature folklore.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+%26+Caitlin+Matthews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+%26+Caitlin+Matthews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Element Encyclopedia of Magical Creatures on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13541-M.jpg" alt="Cover for The Element Encyclopedia of Magical Creatures" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+%26+Caitlin+Matthews&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Element Encyclopedia of Magical Creatures">The Element Encyclopedia of Magical Creatures</a>
+</h4>
+<p class="fr-book-author">By John &amp; Caitlin Matthews</p>
+        
+<p class="fr-book-desc">Provides comparative creature folklore.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures+John+%26+Caitlin+Matthews&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Monsters%3A+An+Investigator%27s+Guide+to+Magical+Beings+John+Michael+Greer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monsters: An Investigator&#x27;s Guide to Magical Beings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/466469-M.jpg" alt="Cover for Monsters: An Investigator&#x27;s Guide to Magical Beings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Monsters%3A+An+Investigator%27s+Guide+to+Magical+Beings+John+Michael+Greer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters: An Investigator&#x27;s Guide to Magical Beings">Monsters: An Investigator&#x27;s Guide to Magical Beings</a>
-        </h4>
-        <p class="fr-book-author">By John Michael Greer</p>
-
-        <p class="fr-book-desc">Examines legendary creatures from folklore traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Monsters%3A+An+Investigator%27s+Guide+to+Magical+Beings+John+Michael+Greer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Monsters%3A+An+Investigator%27s+Guide+to+Magical+Beings+John+Michael+Greer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Monsters: An Investigator&#x27;s Guide to Magical Beings on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/466469-M.jpg" alt="Cover for Monsters: An Investigator&#x27;s Guide to Magical Beings" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Monsters%3A+An+Investigator%27s+Guide+to+Magical+Beings+John+Michael+Greer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Monsters: An Investigator&#x27;s Guide to Magical Beings">Monsters: An Investigator&#x27;s Guide to Magical Beings</a>
+</h4>
+<p class="fr-book-author">By John Michael Greer</p>
+        
+<p class="fr-book-desc">Examines legendary creatures from folklore traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Monsters%3A+An+Investigator%27s+Guide+to+Magical+Beings+John+Michael+Greer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Culture+and+Customs+of+El+Salvador+Katherine+D.+McCann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Culture and Customs of El Salvador on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Culture+and+Customs+of+El+Salvador+Katherine+D.+McCann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Culture and Customs of El Salvador">Culture and Customs of El Salvador</a>
-        </h4>
-        <p class="fr-book-author">By Katherine D. McCann</p>
-
-        <p class="fr-book-desc">Provides context for Salvadoran oral traditions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Culture+and+Customs+of+El+Salvador+Katherine+D.+McCann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Culture+and+Customs+of+El+Salvador+Katherine+D.+McCann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Culture and Customs of El Salvador on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Culture+and+Customs+of+El+Salvador+Katherine+D.+McCann&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Culture and Customs of El Salvador">Culture and Customs of El Salvador</a>
+</h4>
+<p class="fr-book-author">By Katherine D. McCann</p>
+        
+<p class="fr-book-desc">Provides context for Salvadoran oral traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Culture+and+Customs+of+El+Salvador+Katherine+D.+McCann&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Myths+and+Legends+of+Latin+America+Lewis+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Myths and Legends of Latin America on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Myths+and+Legends+of+Latin+America+Lewis+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and Legends of Latin America">Myths and Legends of Latin America</a>
-        </h4>
-        <p class="fr-book-author">By Lewis Spence</p>
-
-        <p class="fr-book-desc">Covers recurring serpent and nature motifs across Latin America.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Myths+and+Legends+of+Latin+America+Lewis+Spence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Myths+and+Legends+of+Latin+America+Lewis+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Myths and Legends of Latin America on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Myths+and+Legends+of+Latin+America+Lewis+Spence&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and Legends of Latin America">Myths and Legends of Latin America</a>
+</h4>
+<p class="fr-book-author">By Lewis Spence</p>
+        
+<p class="fr-book-desc">Covers recurring serpent and nature motifs across Latin America.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Myths+and+Legends+of+Latin+America+Lewis+Spence&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Element Encyclopedia of Magical Creatures</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Monsters%3A+An+Investigator%27s+to+Magical+Beings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Monsters: An Investigator&#x27;s to Magical Beings books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Culture+and+Customs+of+El+Salvador&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Culture and Customs of El Salvador</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Element+Encyclopedia+of+Magical+Creatures&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Element Encyclopedia of Magical Creatures</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Monsters%3A+An+Investigator%27s+to+Magical+Beings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Monsters: An Investigator&#x27;s to Magical Beings books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Culture+and+Customs+of+El+Salvador&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Culture and Customs of El Salvador</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -349,7 +349,7 @@ For the Marshall Islands, these atolls have become enduring symbols of how histo
 <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Command and Control">Command and Control</a>
 </h4>
 <p class="fr-book-author">By Eric Schlosser</p>
-
+        
 <p class="fr-book-desc">Provides essential context for nuclear testing and its consequences.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Command+and+Control+by+Eric+Schlosser&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -366,7 +366,7 @@ For the Marshall Islands, these atolls have become enduring symbols of how histo
 <a href="https://www.amazon.com/s?k=Atomic+Accidents+%3A+A+History+of+Nuclear+Meltdowns+and+Disasters+James+Mahaffey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Accidents : A History of Nuclear Meltdowns and Disasters">Atomic Accidents : A History of Nuclear Meltdowns and Disasters</a>
 </h4>
 <p class="fr-book-author">By James Mahaffey</p>
-
+        
 <p class="fr-book-desc">First published 2014. Subjects: Disasters, Nuclear reactor accidents.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Atomic+Accidents+%3A+A+History+of+Nuclear+Meltdowns+and+Disasters+James+Mahaffey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -383,7 +383,7 @@ For the Marshall Islands, these atolls have become enduring symbols of how histo
 <a href="https://www.amazon.com/s?k=The+Pacific+Simon+Winchester&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pacific">The Pacific</a>
 </h4>
 <p class="fr-book-author">By Simon Winchester</p>
-
+        
 <p class="fr-book-desc">First published 1991. Subjects: Pacific ocean, description and travel, Social conditions, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Pacific+Simon+Winchester&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ For the Marshall Islands, these atolls have become enduring symbols of how histo
 <a href="https://www.amazon.com/s?k=Before+the+fallout+Diana+Preston&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Before the fallout">Before the fallout</a>
 </h4>
 <p class="fr-book-author">By Diana Preston</p>
-
+        
 <p class="fr-book-desc">First published 1998. Subjects: Social aspects, Science, Moral and ethical aspects, Atomic bomb, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Before+the+fallout+Diana+Preston&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

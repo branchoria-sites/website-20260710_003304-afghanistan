@@ -1337,7 +1337,7 @@ That is the best reason to take Dominican Forteana seriously without taking it l
 <a href="https://www.amazon.com/s?k=Lonely+Planet+Dominican+Republic+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lonely Planet Dominican Republic">Lonely Planet Dominican Republic</a>
 </h4>
 <p class="fr-book-author">By Lonely Planet, Ashley Harrell et al.</p>
-
+        
 <p class="fr-book-desc">First published 2017. Subjects: Dominican republic, description and travel.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Lonely+Planet+Dominican+Republic+Lonely+Planet&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1354,7 +1354,7 @@ That is the best reason to take Dominican Forteana seriously without taking it l
 <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Serpent and the Rainbow">The Serpent and the Rainbow</a>
 </h4>
 <p class="fr-book-author">By Wade Davis</p>
-
+        
 <p class="fr-book-desc">First published 1985. Subjects: Social life and customs, Description and travel, Zombiism, Bizango (Cult), Religious life and customs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Serpent+and+the+Rainbow+Wade+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1371,7 +1371,7 @@ That is the best reason to take Dominican Forteana seriously without taking it l
 <a href="https://www.amazon.com/s?k=Why+the+cocks+fight+Michele+Wucker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Why the cocks fight">Why the cocks fight</a>
 </h4>
 <p class="fr-book-author">By Michele Wucker</p>
-
+        
 <p class="fr-book-desc">First published 1999. Subjects: Haiti, Haitians, Relations, International relations, Außenpolitik.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Why+the+cocks+fight+Michele+Wucker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -1388,7 +1388,7 @@ That is the best reason to take Dominican Forteana seriously without taking it l
 <a href="https://www.amazon.com/s?k=The+Dominican+Republic+Reader+Eric+Paul+Roorda%2C+Lauren+Derby+and+Raymundo+Gonz%C3%A1lez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Dominican Republic Reader">The Dominican Republic Reader</a>
 </h4>
 <p class="fr-book-author">By Eric Paul Roorda, Lauren Derby and Raymundo González</p>
-
+        
 <p class="fr-book-desc">Provides broad context for folklore, religion and national identity.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Dominican+Republic+Reader+Eric+Paul+Roorda%2C+Lauren+Derby+and+Raymundo+Gonz%C3%A1lez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
