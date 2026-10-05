@@ -226,3 +226,86 @@ site_image_description: A rocky Afghan valley at dusk with a long split ridge, p
 <p class="home-map-panel-actions"><a class="nav-pill" href="{{ '/contents/' | relative_url }}">Browse all countries</a></p>
 </section>
 
+<section class="further-reading-section" data-page-toc-exclude aria-labelledby="homepage-reading-title">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="homepage-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books behind the reports on this site. Each report carries picks tied to its own subject.</p>
+    </div>
+    <div class="fr-books-grid">
+
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Afghanistan+A+Cultural+And+Political+History+Thomas+Barfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Afghanistan A Cultural And Political History on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7785924-M.jpg" alt="Cover for Afghanistan A Cultural And Political History" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Afghanistan+A+Cultural+And+Political+History+Thomas+Barfield&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Afghanistan A Cultural And Political History">Afghanistan A Cultural And Political History</a>
+</h4>
+<p class="fr-book-author">By Thomas Barfield</p>
+        
+<p class="fr-book-desc">Provides cultural context for folklore and regional traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Afghanistan+A+Cultural+And+Political+History+Thomas+Barfield&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Penguin Book of Dragons on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10947401-M.jpg" alt="Cover for The Penguin Book of Dragons" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Penguin Book of Dragons">The Penguin Book of Dragons</a>
+</h4>
+<p class="fr-book-author">By Scott G. Bruce</p>
+        
+<p class="fr-book-desc">Places Afghan dragon legends within wider dragon traditions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Penguin+Book+of+Dragons+Scott+G.+Bruce&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Myths+and+Legends+Philip+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Myths and Legends on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/10252483-M.jpg" alt="Cover for Myths and Legends" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Myths+and+Legends+Philip+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Myths and Legends">Myths and Legends</a>
+</h4>
+<p class="fr-book-author">By Philip Wilkinson</p>
+        
+<p class="fr-book-desc">Introduces global mythic themes useful for interpreting Afghan legends.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Myths+and+Legends+Philip+Wilkinson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=A+Short+Walk+in+the+Hindu+Kush+Eric+Newby+Eric+Newby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open A Short Walk in the Hindu Kush Eric Newby on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7653279-M.jpg" alt="Cover for A Short Walk in the Hindu Kush Eric Newby" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=A+Short+Walk+in+the+Hindu+Kush+Eric+Newby+Eric+Newby&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="A Short Walk in the Hindu Kush Eric Newby">A Short Walk in the Hindu Kush Eric Newby</a>
+</h4>
+<p class="fr-book-author">By Eric Newby</p>
+        
+        
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=A+Short+Walk+in+the+Hindu+Kush+Eric+Newby+Eric+Newby&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+</a>
+</div>
+</div>
+</article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=fortean+phenomena+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Fortean phenomena</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=anomalies+mysteries+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Anomalies & mysteries</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=paranormal+investigation+book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Paranormal investigations</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases. <a class="fr-disclosure-link" href="https://branchoria.com/disclosure/">Affiliate &amp; AI Disclosure</a></p>
+    </div>
+  </div>
+</section>
+
