@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Burkina_Faso_f61e5f_gao_guenie_meteorite_e665a9
 parent_basename: Burkina_Faso_f61e5f

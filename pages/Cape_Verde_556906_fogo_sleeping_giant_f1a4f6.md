@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Cape_Verde_556906_fogo_sleeping_giant_f1a4f6
 parent_basename: Cape_Verde_556906

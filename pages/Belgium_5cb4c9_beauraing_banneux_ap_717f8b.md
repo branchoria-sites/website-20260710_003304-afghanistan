@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Belgium_5cb4c9_beauraing_banneux_ap_717f8b
 parent_basename: Belgium_5cb4c9

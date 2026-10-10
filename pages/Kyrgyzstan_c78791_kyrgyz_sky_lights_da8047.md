@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Kyrgyzstan_c78791_kyrgyz_sky_lights_da8047
 parent_basename: Kyrgyzstan_c78791

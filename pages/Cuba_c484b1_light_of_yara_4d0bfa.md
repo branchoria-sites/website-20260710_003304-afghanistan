@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Cuba_c484b1_light_of_yara_4d0bfa
 parent_basename: Cuba_c484b1

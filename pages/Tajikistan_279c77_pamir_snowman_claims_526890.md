@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Tajikistan_279c77_pamir_snowman_claims_526890
 parent_basename: Tajikistan_279c77

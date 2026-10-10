@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-10 00:46:16'
 title: Thailand's Weird History, Belief and Doubt Sub-Topic Index
 title_full: Thailand's Weird History, Belief and Doubt Sub-Topic Index
 display_title: Sub-Topic Index

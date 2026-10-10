@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Central_African_Repu_358788_bangui_magnetic_anom_ae8e0c
 parent_basename: Central_African_Repu_358788

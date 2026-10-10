@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Romania_d6b897_strigoi_folklore_268c5e
 parent_basename: Romania_d6b897

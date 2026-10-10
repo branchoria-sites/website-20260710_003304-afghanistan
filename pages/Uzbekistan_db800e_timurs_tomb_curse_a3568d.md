@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Uzbekistan_db800e_timurs_tomb_curse_a3568d
 parent_basename: Uzbekistan_db800e

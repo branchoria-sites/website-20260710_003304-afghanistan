@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Mauritania_85fa35_chinguetti_lost_iron_9a403c
 parent_basename: Mauritania_85fa35

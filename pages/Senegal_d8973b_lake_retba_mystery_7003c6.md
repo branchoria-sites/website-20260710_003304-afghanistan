@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Senegal_d8973b_lake_retba_mystery_7003c6
 parent_basename: Senegal_d8973b

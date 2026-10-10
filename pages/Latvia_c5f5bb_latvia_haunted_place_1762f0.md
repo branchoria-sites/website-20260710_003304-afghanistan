@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Latvia_c5f5bb_latvia_haunted_place_1762f0
 parent_basename: Latvia_c5f5bb

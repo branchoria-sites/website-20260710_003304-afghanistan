@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Azerbaijan_213598_yanar_dag_fire_templ_4fcc32
 parent_basename: Azerbaijan_213598

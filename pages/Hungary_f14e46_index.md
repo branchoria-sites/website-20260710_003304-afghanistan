@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-10 00:46:16'
 title: Hungary's Strangest Stories, Legends and... Sub-Topic Index
 title_full: Hungary's Strangest Stories, Legends and... Sub-Topic Index
 display_title: Sub-Topic Index

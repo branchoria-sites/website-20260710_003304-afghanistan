@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Ivory_Coast_0c79b1_mystery_lights_ufo_c_6db4aa
 parent_basename: Ivory_Coast_0c79b1

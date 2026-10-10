@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Ivory_Coast_0c79b1_ghost_villages_memor_d6b9d6
 parent_basename: Ivory_Coast_0c79b1

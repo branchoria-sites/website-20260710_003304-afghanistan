@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Norway_988455_draugen_coastal_folk_a3f691
 parent_basename: Norway_988455

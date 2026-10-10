@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Sierra_Leone_817b0d_masked_ritual_spirit_5a94f3
 parent_basename: Sierra_Leone_817b0d

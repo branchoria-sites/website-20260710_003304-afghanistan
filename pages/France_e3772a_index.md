@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-10 00:46:16'
 title: What Makes France Such Strange Country? Sub-Topic Index
 title_full: What Makes France Such Strange Country? Sub-Topic Index
 display_title: Sub-Topic Index

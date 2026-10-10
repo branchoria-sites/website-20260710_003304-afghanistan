@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Solomon_Islands_6f943d_kakamora_cave_lore_2a7d64
 parent_basename: Solomon_Islands_6f943d

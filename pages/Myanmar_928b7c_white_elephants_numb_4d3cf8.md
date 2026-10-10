@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Myanmar_928b7c_white_elephants_numb_4d3cf8
 parent_basename: Myanmar_928b7c
