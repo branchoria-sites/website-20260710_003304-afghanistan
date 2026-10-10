@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Malta_1a591a_fort_palace_ghosts_fa368c
 parent_basename: Malta_1a591a

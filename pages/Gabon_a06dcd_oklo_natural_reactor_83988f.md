@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Gabon_a06dcd_oklo_natural_reactor_83988f
 parent_basename: Gabon_a06dcd

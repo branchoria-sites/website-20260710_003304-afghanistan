@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Japan_fcf29f_crisis_folklore_imag_be4d93
 parent_basename: Japan_fcf29f

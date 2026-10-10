@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Equatorial_Guinea_ae2c01_fang_mvet_monsters_04bef3
 parent_basename: Equatorial_Guinea_ae2c01

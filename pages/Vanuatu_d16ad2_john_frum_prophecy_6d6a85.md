@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Vanuatu_d16ad2_john_frum_prophecy_6d6a85
 parent_basename: Vanuatu_d16ad2

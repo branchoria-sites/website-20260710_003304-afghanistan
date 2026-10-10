@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Afghanistan_c69153_jinn_shrine_healing_f75375
 parent_basename: Afghanistan_c69153

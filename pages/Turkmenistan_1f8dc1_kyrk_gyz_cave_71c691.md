@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Turkmenistan_1f8dc1_kyrk_gyz_cave_71c691
 parent_basename: Turkmenistan_1f8dc1

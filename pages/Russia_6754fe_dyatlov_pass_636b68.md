@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Russia_6754fe_dyatlov_pass_636b68
 parent_basename: Russia_6754fe

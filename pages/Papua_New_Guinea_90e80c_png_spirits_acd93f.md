@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Papua_New_Guinea_90e80c_png_spirits_acd93f
 parent_basename: Papua_New_Guinea_90e80c

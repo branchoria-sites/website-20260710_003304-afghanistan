@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Norway_988455_hessdalen_lights_93214e
 parent_basename: Norway_988455

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Ecuador_09f199_cueva_tayos_library_040887
 parent_basename: Ecuador_09f199

@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Germany_17d53e_brocken_spectre_a5adca
 parent_basename: Germany_17d53e

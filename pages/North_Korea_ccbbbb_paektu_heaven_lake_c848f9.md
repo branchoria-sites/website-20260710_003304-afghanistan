@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: North_Korea_ccbbbb_paektu_heaven_lake_c848f9
 parent_basename: North_Korea_ccbbbb

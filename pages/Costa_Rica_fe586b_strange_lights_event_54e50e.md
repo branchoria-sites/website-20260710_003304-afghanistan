@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Costa_Rica_fe586b_strange_lights_event_54e50e
 parent_basename: Costa_Rica_fe586b

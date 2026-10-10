@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Madagascar_f92bcb_lost_giants_extincti_381cf3
 parent_basename: Madagascar_f92bcb

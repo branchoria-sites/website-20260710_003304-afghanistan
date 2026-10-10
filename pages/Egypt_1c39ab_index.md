@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-10 00:46:16'
 title: Why Egypt's Mysteries Refuse To Stay Buried Sub-Topic Index
 title_full: Why Egypt's Mysteries Refuse To Stay Buried Sub-Topic Index
 display_title: Sub-Topic Index

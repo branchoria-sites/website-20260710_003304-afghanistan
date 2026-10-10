@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Bhutan_bb2254_migoi_yeti_lore_f3fc80
 parent_basename: Bhutan_bb2254

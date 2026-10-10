@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Kyrgyzstan_c78791_enilchek_ghost_town_45f87d
 parent_basename: Kyrgyzstan_c78791

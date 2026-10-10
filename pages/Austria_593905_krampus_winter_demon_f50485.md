@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Austria_593905_krampus_winter_demon_f50485
 parent_basename: Austria_593905

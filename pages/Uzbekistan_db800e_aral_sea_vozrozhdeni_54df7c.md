@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Uzbekistan_db800e_aral_sea_vozrozhdeni_54df7c
 parent_basename: Uzbekistan_db800e

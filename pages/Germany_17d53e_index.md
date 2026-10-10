@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-07-10 00:46:16'
 title: Germany's Weirdest Stories Without the Hype Sub-Topic Index
 title_full: Germany's Weirdest Stories Without the Hype Sub-Topic Index
 display_title: Sub-Topic Index

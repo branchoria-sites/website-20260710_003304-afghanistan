@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Kazakhstan_2f36b6_baikonur_ufo_lights_647746
 parent_basename: Kazakhstan_2f36b6

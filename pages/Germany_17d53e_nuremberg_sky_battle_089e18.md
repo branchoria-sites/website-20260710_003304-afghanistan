@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Germany_17d53e_nuremberg_sky_battle_089e18
 parent_basename: Germany_17d53e

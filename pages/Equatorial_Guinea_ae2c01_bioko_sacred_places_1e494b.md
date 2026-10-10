@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Equatorial_Guinea_ae2c01_bioko_sacred_places_1e494b
 parent_basename: Equatorial_Guinea_ae2c01

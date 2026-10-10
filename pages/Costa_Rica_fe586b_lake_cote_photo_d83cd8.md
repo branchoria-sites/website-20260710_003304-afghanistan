@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Costa_Rica_fe586b_lake_cote_photo_d83cd8
 parent_basename: Costa_Rica_fe586b

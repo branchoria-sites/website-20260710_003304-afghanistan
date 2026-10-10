@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Israel_4c197d_dead_sea_sinkholes_52b011
 parent_basename: Israel_4c197d

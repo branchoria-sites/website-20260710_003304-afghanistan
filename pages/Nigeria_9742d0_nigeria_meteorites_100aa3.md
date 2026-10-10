@@ -1,4 +1,5 @@
 ---
+last_modified_at: '2026-08-11 17:43:15'
 level: 2
 basename: Nigeria_9742d0_nigeria_meteorites_100aa3
 parent_basename: Nigeria_9742d0
