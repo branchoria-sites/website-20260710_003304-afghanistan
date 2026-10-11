@@ -1816,7 +1816,6 @@ The result is a quieter but more durable weird-history record: less about specta
 32.<a id="endnote-32"></a>
    Source: ares.jsc.nasa.gov  
    Title: meteorite falls  
-   Link:https://ares.jsc.nasa.gov/meteorite-falls/  
 
 33.<a id="endnote-33"></a>
    Source: sciencedirect.com  

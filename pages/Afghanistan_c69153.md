@@ -1700,7 +1700,6 @@ This is why the strongest reading is neither credulous nor dismissive. Afghanist
 3.<a id="endnote-3"></a>
    Source: asianethnology.org  
    Title: Asian Ethnology  
-   Link:https://asianethnology.org/downloads/ae/pdf/a802.pdf  
 
 4.<a id="endnote-4"></a>
    Source: tribune.com.pk  
@@ -1958,7 +1957,6 @@ This is why the strongest reading is neither credulous nor dismissive. Afghanist
 62.<a id="endnote-62"></a>
    Source: ares.jsc.nasa.gov  
    Title: meteorite falls  
-   Link:https://ares.jsc.nasa.gov/meteorite-falls/  
 
 63.<a id="endnote-63"></a>
    Source: metoffice.gov.uk  

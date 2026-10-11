@@ -1824,7 +1824,6 @@ For Eritrea, the most honest conclusion is not that the country is packed with p
 26.<a id="endnote-26"></a>
    Source: ares.jsc.nasa.gov  
    Title: meteorite falls  
-   Link:https://ares.jsc.nasa.gov/meteorite-falls/  
 
 27.<a id="endnote-27"></a>
    Source: youtube.com  

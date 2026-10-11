@@ -822,7 +822,6 @@ Instead, both cases became examples of how official archives can transform uncer
 7.<a id="endnote-7"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesDEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about...</p></details>
 
 8.<a id="endnote-8"></a>
