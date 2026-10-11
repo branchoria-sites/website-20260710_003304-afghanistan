@@ -1687,7 +1687,7 @@ For a small island nation, Comoros provides a reminder that strange history is n
 4.<a id="endnote-4"></a>
    Source: ares.jsc.nasa.gov  
    Title: meteorite falls  
-   Link:<a href="https://ares.jsc.nasa.gov/meteorite-falls/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/</a>  
+   Link:https://ares.jsc.nasa.gov/meteorite-falls/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>Meteorite FallsJune 22, 2026 — METEORITE FALLS MOST RECENT EVENT COCKBURN ISLAND ONTARIO MOST RECENT EVENT COCKBURN ISLAND ONTARIO MOST...</p></details>
    Published: June 22, 2026  
 

@@ -279,7 +279,7 @@ Ironically, closing the desk increased public fascination. Thousands of files we
 
 The Rendlesham incident occurred over several nights in late December 1980 near RAF Woodbridge and RAF Bentwaters in Suffolk, then operated by the United States Air Force.
 
-Unlike many UFO reports, this one involved trained military personnel operating around sensitive bases. Servicemen reported strange lights in Rendlesham Forest after initially believing an aircraft had crashed. The most influential document to emerge was Deputy Base Commander Lieutenant Colonel Charles Halt's memorandum, written shortly afterwards, describing unusual lights observed during a follow-up investigation. That memo became the cornerstone of the case because it provided a contemporary military record rather than a recollection published years later.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalarchives.gov.uk">[The National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">defe 241948</span><span class="citation-popover-snippet">The National ArchivesDEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about...</span></span></span>
+Unlike many UFO reports, this one involved trained military personnel operating around sensitive bases. Servicemen reported strange lights in Rendlesham Forest after initially believing an aircraft had crashed. The most influential document to emerge was Deputy Base Commander Lieutenant Colonel Charles Halt's memorandum, written shortly afterwards, describing unusual lights observed during a follow-up investigation. That memo became the cornerstone of the case because it provided a contemporary military record rather than a recollection published years later.<span class="citation-link-wrap">[The National Archives]<span class="citation-popover" role="note"><span class="citation-popover-source">nationalarchives.gov.uk</span><span class="citation-popover-title">defe 241948</span><span class="citation-popover-snippet">The National ArchivesDEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about...</span></span></span>
 
 The surviving archive includes:
 
@@ -822,7 +822,7 @@ Instead, both cases became examples of how official archives can transform uncer
 7.<a id="endnote-7"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 <details class="endnote-snippet"><summary>Source snippet</summary><p>The National ArchivesDEFE 24/1948Memo from the Ministry of Defence concerning the UFO sighting at Rendlesham Forest. Find out more about...</p></details>
 
 8.<a id="endnote-8"></a>

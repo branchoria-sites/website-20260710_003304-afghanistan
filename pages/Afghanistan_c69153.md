@@ -1202,7 +1202,7 @@ Afghan spirit belief is not a single tidy system. It draws on Islamic ideas of j
 
 This is important for a Fortean page because many “haunting”, “possession” or “curse” accounts in Afghanistan are not best understood as imported ghost stories. They belong to a lived explanatory world in which illness, misfortune, fear, mental distress and uncanny places may be interpreted through spirits, saints, blessings, pollution, prayer or inherited custom. That does not make every account factually true in a paranormal sense. It means the reports have a social life and a logic of their own.
 
-Anthropological work on Afghan mysticism and healing also shows how older spirit ideas could attach to places. Homayun Sidky’s study of Afghan malangs, Sufis and mystics notes that some ancient shrines may have pre-Islamic origins, and that certain sacred stones in Afghanistan have traditionally been believed to be dwellings of div, a class of indigenous spirits; the same passage links Nuristan’s sacred-stone practices to pre-Islamic shamanistic religion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://asianethnology.org/downloads/ae/pdf/a802.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asianethnology.org">[Asian Ethnology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asianethnology.org</span><span class="citation-popover-snippet">Asian Ethnology</span></span></span> For a reader of strange history, this is one of the clearest bridges between folklore and landscape: the eerie object is not just a stone, but a point of contact with an unseen presence.
+Anthropological work on Afghan mysticism and healing also shows how older spirit ideas could attach to places. Homayun Sidky’s study of Afghan malangs, Sufis and mystics notes that some ancient shrines may have pre-Islamic origins, and that certain sacred stones in Afghanistan have traditionally been believed to be dwellings of div, a class of indigenous spirits; the same passage links Nuristan’s sacred-stone practices to pre-Islamic shamanistic religion.<span class="citation-link-wrap">[Asian Ethnology]<span class="citation-popover" role="note"><span class="citation-popover-source">asianethnology.org</span><span class="citation-popover-snippet">Asian Ethnology</span></span></span> For a reader of strange history, this is one of the clearest bridges between folklore and landscape: the eerie object is not just a stone, but a point of contact with an unseen presence.
 
 Modern reporting adds a harder edge. In 2013, AFP reported on the Mia Ali Baba shrine outside Jalalabad, where some people were chained for 40 days in the belief that the ordeal could cure mental illness or possession by jinn. The same report quoted a Kabul psychiatric hospital director rejecting the practice as scientifically baseless and human-rights observers calling for the shrine to be closed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://tribune.com.pk/story/641483/40-days-in-chains-afghan-shrine-offers-cure-for-evil-spirits" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tribune.com.pk">[The Express Tribune]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tribune.com.pk</span><span class="citation-popover-snippet">40 days in chains: Afghan shrine offers &#x27;cure&#x27; for evil spirits...</span></span></span> That case is not “fun spooky folklore”. It shows how supernatural explanations can become treatment systems, and how cultural belief, trauma, poor access to healthcare and human-rights concerns can collide.
 
@@ -1700,7 +1700,7 @@ This is why the strongest reading is neither credulous nor dismissive. Afghanist
 3.<a id="endnote-3"></a>
    Source: asianethnology.org  
    Title: Asian Ethnology  
-   Link:<a href="https://asianethnology.org/downloads/ae/pdf/a802.pdf" target="_blank" rel="noopener noreferrer nofollow">https://asianethnology.org/downloads/ae/pdf/a802.pdf</a>  
+   Link:https://asianethnology.org/downloads/ae/pdf/a802.pdf  
 
 4.<a id="endnote-4"></a>
    Source: tribune.com.pk  
@@ -1958,7 +1958,7 @@ This is why the strongest reading is neither credulous nor dismissive. Afghanist
 62.<a id="endnote-62"></a>
    Source: ares.jsc.nasa.gov  
    Title: meteorite falls  
-   Link:<a href="https://ares.jsc.nasa.gov/meteorite-falls/" target="_blank" rel="noopener noreferrer nofollow">https://ares.jsc.nasa.gov/meteorite-falls/</a>  
+   Link:https://ares.jsc.nasa.gov/meteorite-falls/  
 
 63.<a id="endnote-63"></a>
    Source: metoffice.gov.uk  

@@ -1893,7 +1893,7 @@ The most durable British strange stories are rarely pure inventions and rarely p
 41.<a id="endnote-41"></a>
    Source: nationalarchives.gov.uk  
    Title: defe 241948  
-   Link:<a href="https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/</a>  
+   Link:https://www.nationalarchives.gov.uk/state-secrets/mysteries/defe-241948/  
 
 42.<a id="endnote-42"></a>
    Source: cdn.nationalarchives.gov.uk  
@@ -2007,7 +2007,7 @@ The most durable British strange stories are rarely pure inventions and rarely p
 66.<a id="endnote-66"></a>
    Source: holybooks.com  
    Title: the book of the damned  
-   Link:<a href="https://www.holybooks.com/the-book-of-the-damned/" target="_blank" rel="noopener noreferrer nofollow">https://www.holybooks.com/the-book-of-the-damned/</a>  
+   Link:https://www.holybooks.com/the-book-of-the-damned/  
 
 67.<a id="endnote-67"></a>
    Source: douglasbence.org.uk  
