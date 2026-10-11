@@ -211,7 +211,7 @@ site_image_description: A rocky Afghan valley at dusk with a long split ridge, p
 <span class="interactive-map-status uap-world-map-status" role="status" aria-live="polite">Loading map…</span>
 </div>
 <article class="interactive-map-preview uap-world-map-preview" data-interactive-map-preview data-uap-world-map-preview>
-<img src="{{ '/assets/images/Bosnia_and_Herzegovi_552c9f-overview-social.jpg' | relative_url }}" alt="" loading="eager" decoding="async" fetchpriority="high">
+<img src="{{ '/assets/images/Bosnia_and_Herzegovi_552c9f-overview-social.jpg' | relative_url }}" alt="{{ site.title | escape }} overview image" loading="eager" decoding="async" fetchpriority="high">
 <span class="interactive-map-preview-meta uap-world-map-preview-meta">
 <span class="interactive-map-preview-chip uap-world-map-preview-chip">BA</span>
 <button type="button" class="interactive-map-preview-chip uap-world-map-preview-chip interactive-map-preview-chip-action uap-world-map-preview-chip-action" data-interactive-map-continent-focus="europe" data-uap-world-map-region-focus="europe" aria-label="Focus map on Europe">Europe</button>
